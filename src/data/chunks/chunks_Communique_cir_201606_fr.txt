@@ -1,0 +1,40 @@
+=== CHUNK 1 | PDF: Communique_cir_201606_fr.pdf | Page: -1 | Titre_Gemma: **Circulaire 2016-06 : Système de Notation Interne des Contreparties** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
+**1. Introduction et Contexte**
+Le présent communiqué porte sur la circulaire aux banques et aux établissements financiers n°2016-06 du 11 octobre 2016, relative au système de notation interne des contreparties. L'objectif principal de cette circulaire est d'établir un ensemble de principes et de règles concernant la conception, la structure, la mise à jour, l'utilisation, la gouvernance et le contrôle du système de notation au sein des banques et des établissements financiers.
+
+=== CHUNK 2 | PDF: Communique_cir_201606_fr.pdf | Page: -1 | Titre_Gemma: **Nouvelle circulaire 2016 sur la notation interne des contreparties** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
+**2. Historique et Justification**
+Il est important de rappeler que la mise en place du système de notation interne des contreparties avait été initialement prévue dès 2006, conformément à la circulaire n°2006-19 relative au système de contrôle interne.  Cette circulaire de 2006 contenait déjà des dispositions d'ordre général. La nouvelle circulaire de 2016 est introduite pour fournir aux banques et aux établissements financiers un outil de gestion proactive du risque de crédit et un support pour la prise de décision concernant l'octroi de prêts, en permettant l'ajustement des tarifs en fonction du niveau de risque.
+
+=== CHUNK 3 | PDF: Communique_cir_201606_fr.pdf | Page: -1 | Titre_Gemma: **Système de Notation des Contreparties** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
+**3. Objectifs et Avantages du Système de Notation**
+La mise en place d'un système de notation des contreparties est un pas important vers l'adoption d'une approche fondée sur les notations internes pour l'évaluation des exigences en fonds propres liées au risque de crédit, conformément aux recommandations du cadre Bâle 2.  En outre, ce système offre des avantages significatifs, notamment l'amélioration de la gestion du risque de crédit, l'optimisation de la tarification des crédits et une meilleure intégration du risque dans les processus de décision.
+
+=== CHUNK 4 | PDF: Communique_cir_201606_fr.pdf | Page: -1 | Titre_Gemma: **Exigences minimales du système de notation.** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
+**4. Exigences Minimales et Principes Directeurs**
+Les principes énoncés dans cette circulaire constituent des exigences minimales visant à garantir l'efficacité du système de notation interne, la fiabilité des données qu'il génère et son intégration dans la gestion du risque de crédit. Ces principes s'appliquent à tous les aspects du système, notamment les paramètres de notation, sa structure, sa procédure de notation, sa documentation, sa gouvernance et son contrôle.
+

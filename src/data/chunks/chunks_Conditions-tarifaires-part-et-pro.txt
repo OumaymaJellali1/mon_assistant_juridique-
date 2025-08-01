@@ -1,0 +1,169 @@
+=== CHUNK 1 | PDF: Conditions-tarifaires-part-et-pro.pdf | Page: -1 | Titre_Gemma: **Conditions Générales de Vente - BTK Bank** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
+## Conditions Générales Tarifaires - BTK Bank - Clientèle Particuliers et Professionnels
+Voici le texte juridique découpé en plusieurs sections de taille raisonnable, respectant les paragraphes et utilisant le séparateur indiqué.
+
+=== CHUNK 2 | PDF: Conditions-tarifaires-part-et-pro.pdf | Page: -1 | Titre_Gemma: **Frais et Packages Bancaires** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
+### 1. Ouverture, Transfert et Clôture de Comptes
+*   **Ouverture de compte:** Gratuit
+*   **Transfert de compte entre agences de la BTK:** Gratuit
+*   **Tenue de compte:** Gratuit
+*   **Relevé d’identité bancaire:** Gratuit
+*   **Changement d’adresse:** Gratuit
+### 2. Frais de Tenue de Compte
+Les frais de tenue de compte varient en fonction du type de compte et du solde.
+*   **Compte spécial d’épargne:** 18 Part / 34Pro / Tri
+*   **Compte à plan:** 18 Part / 34 Pro / Tri
+*   **Compte en dinars convertibles TTE:** 18 Part / 34 Pro / Tri
+*   **Compte Intérieur Non Résident:** 18 Part / 34 Pro / Tri
+*   **Compte en dinars convertibles:** 18 Part / 34 Pro / Tri
+*   **Compte chèque:** 18 Part / 34 Pro / Tri
+### 3. Packages
+Des packages sont proposés avec des frais mensuels variables.
+*   **Pack KYASSI GOLD:** 14 / Mois *   **Pack KYASSI SILVER:** 12 / Mois *   **Pack KYASSI BRONZE:** 10 / Mois
+*   **Pack STRIKE (Professionnels):** 19 / Mois
+*   **Pack DOUBLE STRIKE (Professionnels):** 24 / Mois
+
+=== CHUNK 3 | PDF: Conditions-tarifaires-part-et-pro.pdf | Page: -1 | Titre_Gemma: **Services en Agence - Tarifs** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
+### 4. Services en Agence
+Les services en agence sont offerts gratuitement.
+*   **Remise de chèque et d’espèce:** Gratuit
+*   **Location coffre fort:** 300 / an (selon disponibilité des agences)
+*   Si solde < 500 DT: Franco
+*   Si 500 DT < solde < 1500 DT: 100 DT / Dossier
+*   Si solde > 1500 DT: 100 DT par héritier
+*   **Commission sur règlement de succession:** (par héritier) résident/non résident/capable /non capable (min 30 max 60) + 0,5/F
+*   **Recherche de documents archivés:** 75
+*   **Demandes de renseignements commerciaux:** 50 à 100
+*   **Fourniture attestations diverses:** 15
+*   **Mise à disposition:** 2
+*   **Retrait espèce déplacé:** 70 / Passage
+
+=== CHUNK 4 | PDF: Conditions-tarifaires-part-et-pro.pdf | Page: -1 | Titre_Gemma: **Frais et Cotisations Bancaires** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
+### 5. Banque à Distance
+*   **BTK net:** 4 / Mois
+*   **BTK@direct Particuliers:** 7 / Mois
+*   **BTK@direct Professionnels:** 2 / Mois
+### 6. Moyens et Opérations de Paiement
+*   **Cartes:** *   **Cotisation:** 40
+*   **Mastercard classique nationale:** 90
+*   **Mastercard gold nationale:** 120
+*   **Mastercard gold internationale:** 30
+*   **Visa Classique nationale:**
+*   **Retraits espèces sur GAB:** Gratuit
+*   GAB sur réseau BTK: 1+3‰ du montant de la transaction
+*   GAB sur autres réseaux tunisiens que BTK: 6 USD / retrait
+*   GAB à l’étranger: *   **Divers:**
+*   Mise en opposition Carte locale et internationale: 15
+*   Recalcul du code confidentiel: 50% du prix de la cotisation
+*   Commission de remplacement carte: 0% (4%)
+*   Retrait et versement espèces en devises: 2
+
+=== CHUNK 5 | PDF: Conditions-tarifaires-part-et-pro.pdf | Page: -1 | Titre_Gemma: **Frais de Virement** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
+### 7. Virement
+*   **Virement* unitaire ou règlement quittance domiciliée ou prélèvement:** 2,5 avec Max100
+*   **Virements émis par listes sur support papier:** 1,7
+*   **Virement reçu autre banque:** 1/0.5
+*   **Virement inter-agence émis/reçu:** 2,5 avec Max100
+*   **Virements émis sur support magnétique:** 2‰ (Min 50 Max 200) + RFJ(20DT)
+*   **Virement reçu (OPR) devise:** 3 DT
+*   **Virement reçu mandat:** 2.5‰ (Min 50 Max 300) + RFJ(20DT)
+*   **Virement émis en devise:** 10
+*   **Virement émis / reçu Gros montant:** 3,5
+*   **Mise en place virement permanent:** 3
+
+=== CHUNK 6 | PDF: Conditions-tarifaires-part-et-pro.pdf | Page: -1 | Titre_Gemma: **Frais de prélèvement** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
+### 8. Prélèvement
+*   **Prélèvement émis même banque (organisme remettant):** 1,5
+*   **Prélèvement émis interbancaire (organisme remettant):** 2.5 / 2
+*   **Prélèvement reçu interbancaire / même banque:** 5
+*   **Commission sur rejet de prélèvement:** 4
+
+=== CHUNK 7 | PDF: Conditions-tarifaires-part-et-pro.pdf | Page: -1 | Titre_Gemma: **Frais liés aux chèques** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
+### 9. Chèque
+*   **Versements et Retraits chèques:** 0,9
+*   **Encaissement chèques autre banque:** 3
+*   **Commissions retour chèques impayés:** 10
+*   **Chèques certiﬁés**
+*   Présentation à l’acceptation: 6 / opération
+*   **Irrégularités et incidents:**
+*   Incidents liés aux opérations de paiement: 7
+*   Les frais d’intervention pour les particuliers: 16
+*   Les frais d’intervention pour les professionnels: 85
+*   Préavis de rejet de chèque pour les particuliers: 110
+*   Préavis de rejet de chèque pour les professionnels: 85
+*   Frais d’établissement du CNP pour les particuliers: 85
+*   Frais d’établissement du CNP pour les professionnels: 30 / chèque Max 250
+*   Mise en opposition chèque: règlement chèque: 20
+*   Au premier délais: 20 *   Au deuxième délais: 5
+*   Avis de sort chèque par lettre ordinaire: 5
+*   Avis de sort chèque par téléphone: 20
+
+=== CHUNK 8 | PDF: Conditions-tarifaires-part-et-pro.pdf | Page: -1 | Titre_Gemma: **Frais et commissions liés aux opérations de crédit et recouvrement** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
+### 10. Incidents et Autres Services
+*   **Incidents liés aux opérations de recouvrement escompte:** Commission d’avis de sort (perçue en cas d’une demande par écrit du client) par téléphone ou télégramme, Commission d’avis de sort (par lettre ordinaire)
+*   **Délivrance Bon à payer** *   **Découvert et crédit:**
+*   **Crédit à court terme:** TMM + 5,5%
+*   **Crédit à la consommation:** 0,5% Min 20
+*   **Avance sur Bon de Caisse, DAT et Titres:** TMM + 4.5%
+*   **Escompte papier financier:** TMM + 4.5%
+*   **Crédit à moyen terme:** TMM + 5,5%
+*   **Crédit Confort+:** TMM + 5% *   **Crédit Voiture:** TMM + 5,5%
+*   **Autres crédits à moyen terme:** 3,5
+*   **Commission de règelement d’échéance:** 1,3%
+*   **Commission de mise en place (Commission de Gestion):** 1,5%
+*   **Commission d’engagement:** 10 part / 30 Pro
+*   **Commission sur échéance crédit en impayé:** 6% Part / 5% Pro
+*   **Commission de règlement par anticipation:**
+*   **Epargne et placement financier:** *   **Epargne bancaire:** *   Comptes spéciaux d’Epargne *   TRE* *   Intérêt créditeur: 0,50% *   Prime de fidélité 1 an: 1% *   Prime de fidélité 2 ans: 2% *   **Dépôt à terme:** *   Dépôt à terme et Bon de caisse *   TMM + 3 Max
+*   Dépôts à terme en Dinars: Nous consulter
+*   Comptes en dinars convertibles (TTE) et Comptes spéciaux en Dinars convertibles: Nous consulter
+*   Dépôts à
+

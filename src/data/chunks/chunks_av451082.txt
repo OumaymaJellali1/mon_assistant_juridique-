@@ -1,0 +1,60 @@
+=== CHUNK 1 | PDF: av451082.pdf | Page: -1 | Titre_Gemma: **Avis de Change Tunisie-Étranger (1982)** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
+## Avis de Change N° 4 du Ministre du Plan et des Finances
+Relatif à l'exécution de paiements entre la Tunisie et l'étranger (Publié au J.O.R.T. du 5 octobre 1982)
+###
+
+=== CHUNK 2 | PDF: av451082.pdf | Page: -1 | Titre_Gemma: **Règlement des paiements en devises convertibles : Procédure et exceptions.** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
+**I. REGLEMENTS AU MOYEN DE DEVISES**
+Cette section traite des modalités de règlement des paiements entre la Tunisie et l'étranger en utilisant des devises convertibles. Elle distingue les règlements à destination de l'étranger et ceux en provenance de l'étranger.
+*   **I.1 Règlements à destination de l'étranger:** Tout règlement à destination de l'étranger régulièrement autorisé peut être réalisé en achetant des devises convertibles auprès de la Banque Centrale de Tunisie (BCT). Cette acquisition doit se faire au moment du règlement effectif de l'opération, sauf pour les cas où une couverture de change à terme est autorisée (paragraphe II).
+*   **I.2 Règlements en provenance de l'étranger:** Tout règlement effectué en devises convertibles en provenance de l'étranger au profit d'un résident doit entraîner la cession de l'intégralité des devises à la BCT.
+*   **I.3 Couverture de change à terme:** (Cette partie n'est pas développée dans le texte fourni mais est mentionnée comme une exception au paragraphe I.1).
+*   **I.4 Modalités d'exécution des opérations:** Les opérations de règlement, d'acquisition et de cession des devises doivent se faire uniquement par l'intermédiaire des intermédiaires agréés, selon les conditions fixées par la BCT.
+###
+
+=== CHUNK 3 | PDF: av451082.pdf | Page: -1 | Titre_Gemma: **Règlement des paiements en dinars tunisiens** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
+**II. REGLEMENTS EN DINARS**
+Cette section détaille les modalités de règlement des paiements en dinars tunisiens, en distinguant les règlements effectués au moyen de comptes étrangers en dinars convertibles et les autres catégories de comptes de non-résidents.
+*   **II.1 Régime des comptes étrangers en dinars:** Les comptes étrangers en dinars, ouverts aux non-résidents sur les livres des intermédiaires agréés, sont tenus en dinars convertibles et fonctionnent selon les conditions fixées par un avis de change approprié.
+*   **II.2 Exécution des transferts:**
+*   Les transferts à destination de l'étranger, régulièrement autorisés, peuvent être réalisés par crédit d'un compte étranger en dinars convertibles.
+*   Les transferts en provenance de l'étranger peuvent être effectués librement par débit d'un compte étranger en dinars convertibles.
+*   **II.3 Autres règlements en dinars:** Des règlements en dinars peuvent également être effectués par inscription au crédit ou au débit de certaines catégories de comptes de non-résidents, selon les modalités définies par la réglementation des changes.
+###
+
+=== CHUNK 4 | PDF: av451082.pdf | Page: -1 | Titre_Gemma: **Règlement des créances et opérations interdites en Tunisie** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
+**III. DISPOSITIONS GENERALES**
+Cette section contient des dispositions générales concernant l'exécution des règlements, les opérations interdites, l'annulation des règlements et les exceptions spécifiques.
+*   **III.1 Lieu du règlement:** Les règlements au profit de résidents de créances nées en Tunisie, ainsi que les règlements relatifs à des biens et marchandises livrés en Tunisie ou à des services rendus par un résident à un non-résident, doivent être effectués en Tunisie. Le résident doit se conformer aux textes en vigueur concernant le rapatriement du produit des exportations et des prestations de services.
+*   **III.2 Opérations prohibées:** Toute opération de règlement en devises ou en dinars autre que celles visées aux titres I et II est soumise à l'autorisation de la BCT. Cela inclut les règlements par voie de compensation, notamment :
+*   Les remises de fonds, en billets de banque tunisiens ou autrement, faites par un résident ou un tiers agissant sur son ordre ou pour son compte, soit à un bénéficiaire non-résident lors de ses séjours en Tunisie, soit à un tiers désigné par le bénéficiaire.
+*   Les remises de fonds, en billets de banque tunisiens ou autrement, faites par un non-résident ou un tiers agissant sur son ordre ou pour son compte, soit à un bénéficiaire résident lors de séjours en Tunisie du donneur d'ordre, soit à un tiers désigné par le bénéficiaire.
+*   Exception : Les touristes non-résidents qui ont régulièrement acquis des billets de banque tunisiens en Tunisie peuvent les utiliser dans la limite de leurs besoins personnels pour le règlement de leurs frais de séjour.
+*   **III.3 Annulation des règlements correspondant à des opérations annulées:** Si une opération entraînant un règlement à destination de l'étranger est annulée, le règlement correspondant doit être annulé à concurrence du montant de l'opération, généralement dans un délai d'un mois à compter de l'annulation. L'annulation d'un règlement en provenance de l'étranger est possible uniquement sur autorisation spéciale ou par délégation. L'annulation doit se faire par cession ou acquisition de devises convertibles ou par débit/crédit de comptes étrangers en dinars convertibles, ou par débit/crédit des comptes de non-résidents utilisés.
+---
+**(1) Voir Circulaire BCT aux I.A. n° 97-07 du 9 mai 1997**
+

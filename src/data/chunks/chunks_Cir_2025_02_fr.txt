@@ -1,0 +1,53 @@
+=== CHUNK 1 | PDF: Cir_2025_02_fr.pdf | Page: -1 | Titre_Gemma: **Je n'ai pas de texte juridique à résumer.** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
+Voici le texte juridique découpé en sections, respectant les paragraphes et utilisant le séparateur demandé :
+
+=== CHUNK 2 | PDF: Cir_2025_02_fr.pdf | Page: -1 | Titre_Gemma: **Circulaire N°2025-02 : Distribution des dividendes - Exercice 2024** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
+**1. Introduction et Contexte**
+Tunis, le 29 janvier 2025
+CIRCULAIRE AUX BANQUES ET AUX ETABLISSEMENTS FINANCIERS N °2025-02
+Objet : Distribution des dividendes au titre de l’exercice 2024.
+Le Gouverneur de la Banque Centrale de Tunisie,
+Vu la loi n° 2016-35 du 25 avril 2016, portant fixation du statut de la Banque Centrale de Tunisie et notamment ses articles 7, 8 et 18,
+Vu la loi n° 2016-48 du 11 juillet 2016, relative aux banques et aux établissements financiers et notamment ses articles 63 et 66,
+Vu la circulaire aux banques et aux établissements financiers n° 2018-06 du 5 juin 2018, relative aux normes d’adéquation des fonds propres,
+Vu la circulaire aux banques et aux établissements financiers n°2021-05 du 19 août 2021, relative au cadre de gouvernance des banques et des établissements financiers,
+Vu l’avis du Comité de contrôle de la conformité n°2025-02 du 28 janvier 2025, tel que prévu par l’article 42 de la loi n°2016-35 du 25 avril 2016, portant fixation du statut de la Banque Centrale de Tunisie et notamment son alinéa deuxième relatif aux circulaires revêtant un caractère urgent,
+Considérant que les banques et les établissements financiers doivent poursuivre des politiques de distribution de dividendes prudentes afin de conserver et consolider des coussins de fonds propres au-dessus des niveaux minimums réglementaires,
+Considérant la persistance de la conjoncture économique difficile et ses répercussions sur les entreprises et les particuliers,
+Considérant les impératifs du processus de convergence vers les standards bâlois et les normes IFRS.
+
+=== CHUNK 3 | PDF: Cir_2025_02_fr.pdf | Page: -1 | Titre_Gemma: **Libération de Réserves pour les Banques et Établissements Financiers** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Article 2- Sans préjudice des conditions prévues à l’article premier de la présente circulaire, l’accord préalable de la Banque Centrale de Tunisie est requis pour toute distribution de dividendes par les banques et les établissements financiers :
+**2. Décision**
+- Dans la limite de 35% du bénéfice de l’exercice 2024 pour les banques et les établissements financiers présentant des ratios de solvabilité et Tier 1 arrêtés à fin 2024, après déduction des dividendes à verser, qui dépassent les niveaux minimums réglementaires de 2,5% au moins ;
+- Sans limite et après accord préalable de la Banque Centrale de Tunisie, pour les banques et les établissements financiers présentant des ratios de solvabilité et Tier 1 arrêtés à fin 2024, après déduction des dividendes à verser, qui dépassent les niveaux minimums réglementaires respectivement de 2,5% et 3,5% au moins.
+- Ne respectant pas, à fin 2024, les normes prudentielles d’adéquation des fonds propres prévues par les articles 50, 51 et 52 de la circulaire n°2018-06 susvisée
+- Dont l’opinion des commissaires aux comptes relative à leurs états financiers de l’exercice clos le 31 décembre 2024 comporte des réserves et/ou des paragraphes d’observation.
+
+=== CHUNK 4 | PDF: Cir_2025_02_fr.pdf | Page: -1 | Titre_Gemma: **Dispositions Finales** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Article 4- La présente circulaire entre en vigueur à compter de la date de sa publication.
+**3. Dispositions Finales**
+LE GOUVERNEUR, Fethi Zouhaier NOURI
+

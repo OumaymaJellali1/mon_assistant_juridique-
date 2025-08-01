@@ -1,0 +1,30 @@
+=== CHUNK 1 | PDF: loi9442.pdf | Page: -1 | Titre_Gemma: Veuillez me fournir le texte juridique. Je ne peux pas créer un titre sans le texte lui-même. Une fois que vous me l'aurez donné, je vous fournirai un titre clair, court et précis qui résume le contenu. ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
+Voici le texte juridique découpé en sections de taille raisonnable, respectant les paragraphes et utilisant le séparateur demandé.
+
+=== CHUNK 2 | PDF: loi9442.pdf | Page: -1 | Titre_Gemma: **Loi sur le commerce international (1994)** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Art. 11. - Sont abrogées toutes dispositions contraires à la présente loi et notamment la loi n°88-110 du 18 août 1988 fixant le régime applicable aux sociétés de commerce international.
+**Loi n° 94-42 du 7 mars 1994, fixant le régime applicable à l'exercice des activités des sociétés de commerce international.**
+
+=== CHUNK 3 | PDF: loi9442.pdf | Page: -1 | Titre_Gemma: **Loi autorisant la conversion d'échéances de la SNCFT** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Art. 11. - Sont abrogées toutes dispositions contraires à la présente loi et notamment la loi n°88-110 du 18 août 1988 fixant le régime applicable aux sociétés de commerce international.
+**Loi n° 94-43 du 7 mars 1994, relative à la situation financière de la société Nationale des chemins de fer-tunisiens (1).**
+Article unique. - Le Ministre des finances agissant pour le compte de l'Etat est autorisé à convertir en fonds de dotation de la Société Nationale des Chemins de Fer Tunisiens les échéances dues et impayées par cette Société jusqu'au 31 décembre 1992 au titre des prêts rétrocédés et des prêts de titre II du budget de l'Etat et ce, à concurrence de cent treize millions trois cent mille (134.300.000) dinars sur un total de cent treize millions huit cent trente-neuf mille huit cent huit dinars, trois cent vingt-quatre millimes (138.839.808,324 dinars).
+La présente loi sera publiée au Journal Officiel de la République Tunisienne et exécutée comme loi de l'Etat.
+=== Fin de la loi n° 94-43 ===
+

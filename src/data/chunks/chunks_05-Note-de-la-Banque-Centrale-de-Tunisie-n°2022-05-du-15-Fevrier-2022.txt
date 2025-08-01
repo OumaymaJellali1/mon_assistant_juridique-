@@ -1,0 +1,1582 @@
+=== CHUNK 1 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 6 | Titre_Gemma: **Définition des termes clés du RTGS Elyssa** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE PREMIER : DEFINITIONS
+Au sens des présentes conditions, on entend par :
+Système de Règlement Brut en Temps Réel (Real Time Gross
+Settlement System ou RTGS ) : Infrastructure de marché
+financier d’importance systémique dédiée au règlement des
+opérations et des soldes de compensation et gérée par la BCT
+; ce système dénommé Elyssa-RTGS est désigné dans les
+présentes par les termes Elyssa-RTGS.
+Système exogène : Tout système de paiement avec lequel Elyssa-
+RTGS peut interagir ;
+Système de paiement : Ensemble d'instruments, de procédures, de
+règles, d'institutions, de plates-formes, de réseaux et de
+toutes autres entités permettant le transfert, la
+compensation et le règlement du transfert de fonds entre les
+participants
+Infrastructure : Plateforme technique de gestion de Elyssa-RTGS et
+les canaux d’échange (réseau SWIFT ou Réseau privé) reliant
+les participants avec le système.
+Participant : Entité qui émet via Elyssa-RTGS des instructions de
+paiement pour règlement et reçoit en contrepartie des
+réponses de confirmation ou de rejet selon le cas.
+Participant direct : Un participant à Elyssa-RTGS obéissant aux
+critères et règles prévus à l’article 3 des présentes ;
+Participant indirect : Un participant à Elyssa-RTGS obéissant aux
+critères et règles prévus à l’article 3 des présentes ;
+Sous-Participant : Un participant à Elyssa-RTGS obéissant aux
+critères et règles prévus à l’article 4 des présentes ;
+Participant technique : Un participant à Elyssa-RTGS obéissant aux
+critères et règles prévus à l’article 5 des présentes ;
+Irrévocabilité d’ordre de paiement ou de règlement :
+L’impossibilité d’annuler un paiement par son donneur
+d’ordre dès son règlement via Elyssa-RTGS.
+Tout ou rien : Règle d’imputation comptable des soldes de
+compensation au niveau de Elyssa-RTGS qui signifie qu’en
+Le participant direct doit informer au préalable la BCT sur les
+participants indirects et les sous-participants qu’il représente à
+Elyssa-RTGS pour traiter leurs opérations.
+3.2. Participant indirect : Il détient un compte de règlement ouvert
+à Elyssa-RTGS, mais ne dispose pas de lien de télécommunication
+avec le système central de la BCT. Il doit utiliser les plateformes
+disponibles à la Salle de secours informatique de la BCT ou la
+plateforme d’un Participant direct désigné.
+Les paiements sont préparés hors ligne par le Participant
+indirect sur son site propre.
+Un participant indirect ne peut être représenté que par un seul
+participant direct.
+Le participant indirect doit informer au préalable la BCT sur le
+participant direct qui le représente.
+3.3. Le participant direct et le participant indirect sont tenus de
+conclure une convention de représentation fixant les droits et
+obligations des deux parties pour assurer le déroulement de
+l’adhésion indirecte et dont les termes ne doivent pas déroger
+aux dispositions des présentes conditions. Une copie de cette
+convention doit être adressée par les parties concernées à la BCT
+pour approbation et ce, un mois avant sa date de prise d’effet.
+
+=== CHUNK 2 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 8 | Titre_Gemma: **Transmissions et Représentation des Opérations** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE 4 : SOUS-PARTICIPANT
+4.1. Il ne dispose d’aucun compte au niveau de Elyssa-RTGS. Il n’a pas
+non plus de connexion avec le système. Il doit transmettre
+l’ensemble de ses opérations vers un participant direct qui est
+responsable de leur règlement sur ses propres comptes.
+4.2. Un sous-participant ne peut être représenté que par un seul
+participant direct.
+
+=== CHUNK 3 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 8 | Titre_Gemma: **Lien technique sans compte à Elyssa-RTGS** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE 5 : PARTICIPANT TECHNIQUE
+5.1. Un système de paiement qui établit un lien technique avec Elyssa-
+RTGS, sans disposer d’un compte de règlement, dans l’objectif de
+fournir un service à leurs participants communs dont
+notamment le règlement des soldes nets de compensation dits
+aussi soldes des systèmes exogènes.
+5.2. Un participant technique peut, le cas échéant, posséder un
+compte pivot à Elyssa-RTGS, dont la position doit être soldée à
+chaque fois que l’opération de règlement des soldes qui le
+concerne est effectuée.
+
+=== CHUNK 4 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 9 | Titre_Gemma: **Changement du régime de participation - Accord de la BCT** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE II : CONDITIONS DE LA PARTICIPATION A ELYSSA- RTGS
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE 6 : CHANGEMENT DU REGIME DE PARTICIPATION
+6.1. Le changement du régime de participation nécessite l’accord de
+la BCT. Ce changement est porté à la connaissance des
+participants à Elyssa-RTGS conformément à la procédure décrite
+dans le manuel utilisateur objet de l’annexe IV
+
+=== CHUNK 5 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 9 | Titre_Gemma: **Adhésion à Elyssa-RTGS** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE II : CONDITIONS DE LA PARTICIPATION A ELYSSA- RTGS
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE 7 : QUALITE DU REQUERANT ET CONDITIONS REQUISES
+7.1. Toute institution agréée en qualité de banque et membre des
+systèmes de compensation doit adhérer à Elyssa-RTGS sous
+réserve des dispositions de l’article 9 et l’alinéa 5 du présent
+article.
+7.2. Peut participer à Elyssa-RTGS2, toute institution agréée en qualité
+de banque et non membre des systèmes de compensation.
+7.3. La BCT se réserve le droit d’accepter l’adhésion à Elyssa-RTGS à
+tout autre établissement ou organisme dont la participation est
+jugée utile pour la sécurité et l’efficacité des systèmes de
+paiement.
+7.4. L'adhésion à Elyssa-RTGS est subordonnée à la signature des
+présentes conditions et à l'envoi par l'institution concernée à la
+BCT d'une lettre d'adhésion confirmant son adhésion à Elyssa-
+RTGS suivant le modèle figurant à l'annexe I.
+7.5. Pour accéder à Elyssa-RTGS, le participant direct ou indirect doit
+disposer des capacités technico-fonctionnelles nécessaires. Le
+participant doit notamment avoir réussi les tests requis, mis en
+fonctionnement, surveillé et assuré la sécurité de l’infrastructure
+informatique nécessaire conformément aux spécifications
+techniques pour se connecter au système ou au réseau de la BCT.
+
+=== CHUNK 6 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 10 | Titre_Gemma: **Statuts des participants à Elyssa-RTGS** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE II : CONDITIONS DE LA PARTICIPATION A ELYSSA- RTGS
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE 8 : STATUTS DES PARTICIPANTS
+8.1. Les Participants peuvent avoir à Elyssa-RTGS, les statuts suivants :
+o Actif ; o Suspendu ; o En défaut ; o Supprimé.
+8.2. Le statut « actif » permet au participant concerné de transmettre
+et recevoir tous les messages autorisés par Elyssa-RTGS durant la
+journée d’activité et au système de procéder aux traitements des
+opérations y afférentes.
+8.3. Le statut « suspendu » a pour effet d’interrompre tous les
+traitements qui seront mis en attente à l’exception de ceux ayant
+trait aux soldes exogènes. Les opérations mises en attente sont
+rejetées lors des procédures de clôture de la journée si le
+participant n’est pas « réactivé » par la BCT en tant
+qu’administrateur de Elyssa-RTGS.
+La BCT a la possibilité de « réactiver » le Participant suspendu en
+rapport avec la levée des motifs de suspension
+8.4. Le statut « en défaut » a pour effet de rejeter automatiquement
+tout paiement reçu par le système au crédit ou débit du compte
+dudit Participant. La BCT a la possibilité de « réactiver » les
+Participants en défaut en rapport avec la levée des motifs de mise
+en défaut.
+8.5. Le Participant « supprimé » est équivalent à un statut Participant
+en défaut de façon permanente. Le Participant « supprimé » ne
+peut pas être réactivé.
+8.6. Chaque changement intervenant dans le statut des Participants est
+rapporté aux autres Participants par un message en fonction de la
+configuration de leurs profils de notification
+
+=== CHUNK 7 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 10 | Titre_Gemma: **Refus d'adhésion et conditions de participation à Elyssa-RTGS** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE II : CONDITIONS DE LA PARTICIPATION A ELYSSA- RTGS
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE 9 : POUVOIR D’APPRECIATION DE LA BCT
+9.1. La BCT se réserve le droit de refuser l’adhésion d’un requérant, de
+suspendre ou de mettre en défaut ou de supprimer l’adhésion d’un
+participant, en cas de non-respect des présentes conditions ou
+dont la participation est jugée préjudiciable à la sécurité et
+l’efficacité des systèmes de paiement et surtout à la stabilité de la
+place.
+9.2. La décision de la BCT à l’égard d’un requérant d’adhésion à Elyssa-
+RTGS ou d’un participant tient compte entre autres :
+- de la non-justification ou de la perte des capacités financières et
+des garanties requises pour honorer ses engagements vis à vis
+des autres participants du système, de nature à leur porter
+préjudice et impacter le bon fonctionnement du système et la
+stabilité ;
+- de la non-justification ou de la perte des capacités techniques et
+des mesures de sécurité requises de nature à menacer la
+sécurité du système et des infrastructures des autres
+participants et impacter la stabilité ;
+- des mesures restrictives prises par la BCT ou par la commission
+de résolution prévue par les dispositions de l’article 113 de la
+loi n°2016-48 relative aux banques et aux établissements
+financiers et dont la mise en œuvre est incompatible avec le bon
+fonctionnement de Elyssa-RTGS ;
+- du fait qu’il est en situation compromise ou en cessation de
+paiement ou objet de procédures de dissolution et de
+liquidation telles que prévues par les dispositions de la loi n°
+2016-48 relative aux banques et aux établissement financiers.
+
+=== CHUNK 8 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 11 | Titre_Gemma: **Comptes de Règlement dans Elyssa-RTGS** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE PREMIER : SERVICES FOURNIS PAR ELYSSA-RTGS
+Titre : TITRE II : FONCTIONNEMENT DE ELYSSA-RTGS
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE 10 : COMPTES
+10.1. Chaque participant, direct ou indirect, à Elyssa-RTGS a droit à
+l'ouverture d'un compte principal de règlement en dinar Tunisien
+et un compte par devise en son nom sur les livres de la BCT pour
+émettre et recevoir des ordres de règlement dans ledit système
+10.2. Les sous-participants et participants techniques n’ont pas de
+comptes de règlement au système Elyssa-RTGS ;
+10.3. Les soldes créditeurs des comptes de règlement ne produisent
+pas d'intérêts.
+10.4. L’identifiant d’un compte de règlement est unique et correspond
+à la nomenclature comptable de la BCT ;
+10.5. En plus des comptes de règlement, plusieurs autres types de
+comptes peuvent être ouverts dans le système Elyssa-RTGS tels
+que :
+o Les comptes de liaison (comptes de la BCT) : il y a autant de
+comptes que de Participants. Ils sont utilisés chaque fois
+qu’une opération implique à la fois la BCT et un participant ;
+o Le compte « avances/pensions intra journalières » (compte
+de la BCT) : il enregistre les opérations d’octroi, de
+remboursement et/ou de récupération des avances et des
+pensions livrées intrajournalières ;
+10.6. Des montants peuvent à l’initiative du participant être réservés
+sur un compte de règlement à certaines fins, telles que le
+règlement des soldes de compensation et les opérations
+fiduciaires.
+10.7. Les participants peuvent, sous réserve d’approbation de la BCT,
+définir des limites ou des restrictions d’utilisation des liquidités à
+des fins spécifiques, sans mise en réserve de liquidité.
+10.8. La BCT peut, en fonction du statut du participant et du degré de
+respect des présentes conditions, procéder au blocage de son
+compte de règlement ou à sa clôture.
+10.9. En adhérant aux présentes conditions, le participant direct ou
+indirect donne mandat à la BCT d'imputer sur son compte de
+règlement toutes les opérations admises dans Elyssa-RTGS qui le
+concernent.
+10.10. La BCT notifie au préalable au participant concerné le
+changement du statut de son compte de règlement en indiquant
+les motifs dudit changement.
+10.11. La clôture d’un compte de règlement n’est possible que si le
+solde du compte est nul.
+
+=== CHUNK 9 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 13 | Titre_Gemma: **Elyssa-RTGS : Règles de fonctionnement et transactions.** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE PREMIER : SERVICES FOURNIS PAR ELYSSA-RTGS
+Titre : TITRE II : FONCTIONNEMENT DE ELYSSA-RTGS
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE 11 : OPERATIONS
+11.1. Chaque participant à Elyssa-RTGS accepte que les opérations de
+politique monétaire et du marché des changes ainsi que les
+virements et les prélèvements initiés par la BCT, soient dénoués
+au niveau du système, sous forme de débits ou de crédits sur le(s)
+compte(s) de règlement du participant, à l'initiative de la BCT.
+11.2. Les participants directs et indirects peuvent émettre des
+virements conformément aux spécifications techniques du système et
+ce, pour le règlement notamment :
+o des opérations de trésorerie interbancaire ;
+o des opérations du cash management ;
+o des virements des particuliers dont le montant minimum
+est fixé par la B.C.T. adressée aux participants à Elyssa-
+RTGS.
+11.3. Le participant peut émettre des paiements avec une date de
+règlement future ne dépassant pas une limite fixée par la BCT.
+11.4. Les opérations transmises à Elyssa-RTGS peuvent être annulées
+par le participant initiateur du moment où elles ne sont pas
+exécutées c’est à dire placées dans la file d’attente.
+11.5. Lorsqu’un ordre de paiement figure dans un algorithme en
+fonctionnement, il ne peut être ni modifié (changement de la
+position dans une file d’attente) ni révoqué. Les demandes de
+modification ou de révocation sont placées en file d’attente
+jusqu’à la fin de l’algorithme. Si l’ordre de paiement concerné est
+réglé pendant que l’algorithme est en fonctionnement, toute
+demande de modification ou de révocation est rejetée. Si l’ordre
+de paiement n’est pas réglé, les demandes du Participant sont
+prises en compte.
+11.6. Conformément au principe d’irrévocabilité défini par les
+présentes conditions, les opérations transmises à Elyssa-RTGS et
+imputées sur les comptes des participants ne peuvent plus être
+annulées ou contestées par l'émetteur ou le destinataire.
+11.7. L'émetteur d’une opération peut réclamer la restitution des
+fonds au participant destinataire qui émettra un ordre de
+restitution via Elyssa-RTGS.
+11.8. Les participants à Elyssa-RTGS donnent mandat à la BCT
+d'imputer sur leurs comptes de règlement tous les soldes des
+systèmes exogènes dont ils sont membres.
+11.9. Les soldes débiteurs des systèmes exogènes sont soumis, avant
+imputation, au contrôle de provision. 11.10.
+En application de la règle « tout ou rien » prévue par les
+présentes conditions et en cas d'impossibilité d'imputation de la
+totalité des soldes débiteurs, le système les place dans la file
+d’attente jusqu’à reconstitution de la provision nécessaire.
+11.11.
+Un même système exogène peut envoyer pour une journée
+donnée, plusieurs fois des fichiers ou messages de
+compensation. Le nombre des fichiers est fixé au préalable avec
+la BCT.
+11.12. A chaque solde de compensation dans Elyssa-RTGS correspond
+une nature et un code spécifique permettant de garantir la
+différenciation des différents soldes de compensation et un
+automatisme de traitement.
+11.13. Chaque participant à Elyssa-RTGS accepte que les soldes d’un
+autre participant au système exogène soient imputés sur son
+compte de règlement
+11.14.
+Les participants peuvent émettre des operations de cash
+management sur une plateforme mise à leur disposition par la
+BCT.
+Le participant doit conformément aux délais fixés par la BCT,
+commander via ladite plateforme tout retrait en espèces en
+dinars ou en devises, en spécifiant notamment le montant, les
+coupures, la date de valeur et l’identité de la personne qui
+s’adressera au siège de la BCT ou l’une de ses succursales.
+La BCT se réserve le droit d’approuver la commande sur la base
+de la disponibilité des coupures disponibles et de la provision.
+Les commandes approuvées doivent faire l’objet de réservation.
+Le retrait au niveau de la Succursale concernée est subordonné
+à la présentation du chèque dûment signé et du document de
+réservation édité à partir de la plateforme.
+Le participant doit effectuer une annonce pour tous les
+versements en espèces dinars et devises et se présenter au siège
+de la BCT ou dans l’une de ses succursales dans les délais
+raisonnables permettant à ses services d’effectuer leurs travaux
+avant la clôture du système Elyssa-RTGS.
+Les opérations de retraits et de versements présentés aux delà
+des horaires définis ne seront pas acceptées par la BCT.
+11.15.
+La BCT peut créer de nouvelles catégories d'opérations
+admises dans Elyssa-RTGS et définir leurs niveaux de priorité.
+Par la signature des présentes conditions, le participant à Elyssa-
+RTGS accepte la création de ces nouvelles opérations ainsi que
+leurs niveaux de priorité et leur imputation sur son compte de
+règlement.
+
+=== CHUNK 10 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 15 | Titre_Gemma: **Suivi des Opérations et Informations en Temps Réel sur Elyssa-RTGS** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE II : REGLES DE GESTION DE ELYSSA-RTGS
+Titre : TITRE II : FONCTIONNEMENT DE ELYSSA-RTGS
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE 12 : ACCES A L’INFORMATION
+12.1. La BCT met à la disposition des participants directs et indirects
+une « plateforme participant » pour consulter en temps réel les
+mouvements et les positions de leurs comptes, leurs files d’attente
+par devise ainsi que les messages échangés avec le système.
+12.2. Pour chaque message adressé à Elyssa-RTGS, les participants
+émetteurs reçoivent des informations en temps réel sur son sort :
+rejeté, placé dans la file d’attente ou imputé sur le compte de
+règlement.
+12.3. Les participants recevront des messages d’information sur tous
+les événements surgis au niveau de Elyssa-RTGS depuis
+l’ouverture de la journée des échanges jusqu’à la clôture.
+12.4. A la clôture de la journée, les participants directs et indirects
+reçoivent des extraits de comptes provisoires et définitifs
+retraçant l’ensemble des opérations imputées tout au long de la
+journée.
+12.5. Les participants directs et indirects peuvent envoyer à Elyssa-
+RTGS des demandes d’extraits de compte en cours de journée et
+recevoir la réponse en temps réel.
+
+=== CHUNK 11 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 16 | Titre_Gemma: **Horaires d'échange Elyssa-RTGS** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE II : REGLES DE GESTION DE ELYSSA-RTGS
+Titre : TITRE II : FONCTIONNEMENT DE ELYSSA-RTGS
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE 13 : PLAGES D’ECHANGE
+13.1. Une journée d'échange Elyssa-RTGS, au cours de laquelle le
+système est ouvert et peut exécuter les opérations, est composée
+de plages horaires ou périodes qui peuvent être ajustées à
+l’initiative de la BCT à l’aide de paramètres.
+13.2. Plusieurs plages d’échanges peuvent être définies dans l’horaire
+de la journée. La plage principale est dédiée aux échanges entre
+les participants. Les autres plages sont dédiées aux flux de
+messages spéciaux liés à des types particuliers d’opérations tels
+que les soldes des systèmes exogènes.
+13.3. Les participants sont informés de tout changement dans l'horaire
+de la journée d'échange y compris des heures d'ouverture et de
+clôture de la journée.
+13.4. Le système contient un calendrier dans lequel sont identifiés les
+jours ouvrés et non ouvrés. La BCT peut adapter ce calendrier à
+tout moment. Les participants sont informés des changements du
+calendrier.
+
+=== CHUNK 12 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 16 | Titre_Gemma: **Gestion des paiements dans Elyssa-RTGS** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE III : LIQUIDITES INTRAJOURALIERES FOURNIES DANS LE CADRE DE ELYSSA-RTGS
+Titre : TITRE II : FONCTIONNEMENT DE ELYSSA-RTGS
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE 14 : REGLES DE DENOUEMENT
+14.1. Elyssa-RTGS gère une file d’attente par compte de règlement et
+par devise, où les paiements non réglés sont stockés et traités
+selon leur date valeur, niveau de priorité et inscription dans le
+temps (FIFO).
+14.2. Le moment d’acceptation d’un paiement correspond au moment
+où le paiement est reçu par le nœud central de Elyssa-RTGS.
+14.3. Elyssa-RTGS comprend un plan de gestion flexible des priorités
+qui peuvent aller jusqu’à 100 niveaux.
+14.4. Les niveaux de priorités pouvant être utilisés par les participants
+dans leurs opérations sont fixés par la BCT.
+14.5. Les participants peuvent modifier la priorité d’un paiement placé
+dans la file d’attente ou l’annuler tant qu’il n’est pas dérogé aux
+dispositions de l’article 11.
+14.6. À la fin de la journée et après une dernière tentative
+d’imputation, Elyssa-RTGS lance une clôture de la session
+d'échanges, qui inclut le rejet des paiements non réglés avec la
+date de valeur du jour tout en informant les participants
+concernés du rejet.
+14.7. La BCT se réserve le droit de limiter ou d’interdire au participant
+le recours à la réservation si elle constate un usage non optimisé
+ou non rationnel de la réservation.
+14.8. La BCT se réserve, dans le cadre de gestion des risques de crédit
+et de liquidité au niveau de Elyssa-RTGS, le droit de fixer des
+limites et/ou d’interdire le traitement d’une ou plusieurs
+catégories d’opérations ou opérations sur le système si :
+-
+elle constate et/ou juge que le participant n’adopte et/ou ne
+dispose pas des règles et de dispositif de bonne gouvernance de
+liquidité et notamment de sa trésorerie journalière au niveau de
+Elyssa-RTGS, tels que requis au niveau des présentes conditions,
+de manière à affecter la liquidité du système ;
+-
+elle juge la limitation ou l’interdiction utile pour le bon
+fonctionnement de Elyssa-RTGS notamment assurer son
+efficacité et sa sécurité et préserver la stabilité de la place.
+
+=== CHUNK 13 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 17 | Titre_Gemma: **Gestion de la liquidité intrajournalière à Elyssa-RTGS** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE III : LIQUIDITES INTRAJOURALIERES FOURNIES DANS LE CADRE DE ELYSSA-RTGS
+Titre : TITRE II : FONCTIONNEMENT DE ELYSSA-RTGS
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE 15 : MECANISMES DE GESTION DES LIQUIDITES
+INTRAJOURNALIERES
+15.1. La BCT met, dans le cadre de la gestion du risque de liquidité au
+niveau de Elyssa-RTGS, à la disposition des participants, les deux
+mécanismes suivants pour la gestion de leurs liquidités
+intrajournalières et le dénouement de leurs paiements dans ledit
+système :
+• Avances intrajournalières garanties par le pool de
+collatéraux éligibles (titres, créances bancaires, cash en
+devises, ou autres),
+• Opérations de pensions livrées intrajournalières (titres).
+15.2. La BCT informe, à l’avance, les participants de Elyssa-RTGS du
+mode de la liquidité intrajournalière à adopter ainsi que tout
+changement de ce mode.
+
+=== CHUNK 14 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 18 | Titre_Gemma: **Représentation pour Accès aux Avances Intrajournalières** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE III : LIQUIDITES INTRAJOURALIERES FOURNIES DANS LE CADRE DE ELYSSA-RTGS
+Titre : TITRE II : FONCTIONNEMENT DE ELYSSA-RTGS
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE 16 : RECOURS A L’AVANCE INTRAJOURNALIERE
+16.1. Le dénouement des opérations mises dans la file d'attente peut
+être assuré par des avances intrajournalières qui sont accordées
+exclusivement aux participants opérant sur le marché monétaire
+et ce, conformément à la réglementation en vigueur en la matière.
+16.2.  Le participant à Elyssa-RTGS, n'ayant pas droit au refinancement
+de la BCT ou ne disposant pas de garanties éligibles à l'avance
+intrajournalière peut conclure une convention de représentation
+avec un ou plusieurs participants répondant aux conditions
+d'obtention des avances intrajournalières.
+16.3. Le participant éligible aux avances intrajournalières et celui
+représenté sont tenus de conclure un accord de représentation. Le
+projet d’accord doit être transmis, un mois avant sa conclusion,
+pour approbation à la BCT qui se réserve le droit d’ajuster les
+termes de cet accord compte tenu des règles de gestion des
+risques de crédit et de liquidité au niveau de Elyssa-RTGS.
+16.5. L’accord de représentation ainsi signé entre les parties, doit être
+communiqué à la Banque Centrale un mois avant sa date
+d’application.
+16.6.  Toute résiliation de l’accord de représentation doit être notifiée
+à la BCT pour information un mois avant sa mise en application.
+
+=== CHUNK 15 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 18 | Titre_Gemma: **Pools de Collatéraux pour Opérations de Politique Monétaire** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE III : LIQUIDITES INTRAJOURALIERES FOURNIES DANS LE CADRE DE ELYSSA-RTGS
+Titre : TITRE II : FONCTIONNEMENT DE ELYSSA-RTGS
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE 17 : POOL DES COLLATERAUX ELIGIBLES
+17.1. Chaque participant, éligible à
+l’avance intrajournalière, constitue au niveau de Elyssa-RTGS un
+pool de collatéraux pour les opérations de politique monétaire de
+la BCT et des opérations de fourniture de liquidités intrajournalières sous forme d’avances intrajournalières.
+17.2. Les collatéraux éligibles peuvent être mobilisés par les
+participants soit dans le système de Tunisie Clearing (les titres
+négociables), soit dans le système d’informations de la BCT (les
+créances, les devises et autres), soit dans les deux systèmes en
+même temps.
+17.3. Les opérations de politique monétaire et les avances
+intrajournalières sont couvertes en globalité par le pool de
+garanties sans qu’elles soient liées, en termes de couverture, à
+un type de collatéral particulier réservé dans un des systèmes externes (BCT, TC, …).
+17.4. Elyssa-RTGS calcule l’utilisation des pools en ligne et assure que
+tous les engagements d’un participant sont couverts par les
+collatéraux.
+17.5. Les systèmes externes (BCT, TC, …) garantissent que les
+instruments mobilisés (titres, créances, …) à leurs niveaux
+comme collatéraux pour Elyssa-RTGS ne sont pas disponibles à
+d'autres fins avant leur démobilisation explicite.
+17.6. Les systèmes externes (BCT, TC, …) communiquent à Elyssa-
+RTGS la valeur monétaire des collatéraux d’un participant dans les
+cas de :
+o Mobilisation de nouveaux collatéraux par le participant ;
+o Démobilisation des collatéraux ;
+o Revalorisation quotidienne des collatéraux (titres,
+créances, devises, …).
+
+=== CHUNK 16 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 19 | Titre_Gemma: **Refinancement des avances intrajournalières non remboursées** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE III : LIQUIDITES INTRAJOURALIERES FOURNIES DANS LE CADRE DE ELYSSA-RTGS
+Titre : TITRE II : FONCTIONNEMENT DE ELYSSA-RTGS
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE 18 : REMBOURSEMENT DES AVANCES INTRAJOURNALIERES
+18.1. La BCT peut, en cas de non-remboursement des avances
+intrajournalières, accorder au participant, en fin de journée, la
+possibilité de demander un refinancement sous forme de facilité
+de prêt marginal ou autre forme d’intervention sur le marché
+monétaire lui permettant de rembourser l’ensemble des avances
+non encore remboursées et ce, conformément à la réglementation
+en vigueur en la matière.
+18.2. Si la situation du marché monétaire ne permet pas la mise en
+place d’une intervention de la BCT en fin de journée sur ce marché,
+les avances intrajournalières non remboursées sont soient
+considérées comme avances en compte courant, soient
+remboursées par le rachat à titre définitif par la BCT des titres mis
+en pension et ce, conformément à la réglementation en vigueur en
+la matière.
+
+=== CHUNK 17 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 20 | Titre_Gemma: **Refinancement d'urgence par pensions intrajournalières** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE III : LIQUIDITES INTRAJOURALIERES FOURNIES DANS LE CADRE DE ELYSSA-RTGS
+Titre : TITRE II : FONCTIONNEMENT DE ELYSSA-RTGS
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE 19 : OCTROI DE PENSIONS LIVREES INTRAJOURNALIERES
+19.1. Le dénouement des opérations mises en file d'attente faute de
+liquidité disponible au niveau du compte de règlement peut être
+assuré par des pensions livrées intrajournalières qui seront
+accordées exclusivement aux participants opérant sur le marché
+monétaire conformément à la réglementation en vigueur en la
+matière.
+19.2. Chaque participant éligible concerné doit, pour bénéficier du
+mécanisme de pension livrée intrajournalière, conclure avec la
+BCT une convention en la matière dont modèle est joint en annexe
+III, qui fixe notamment les conditions et les modalités d'octroi des
+pensions livrées intrajournalières, la nature des titres mis en
+pension livrée et les conditions et modalités de dénouement de la
+pension livrée.
+19.3. Le participant, non éligible au refinancement de la BCT ou ne
+disposant pas de titres éligibles aux pensions livrées
+intrajournalières peut conclure une convention de représentation
+avec un ou plusieurs participants répondant aux conditions
+d'obtention des pensions livrées intrajournalières.
+La banque représentante est tenue de constituer des garanties
+appropriées au profit de la BCT pour le compte du ou des
+participants qu’il représente.
+19.4. Le participant éligible aux pensions livrées intrajournalières et
+celui représenté sont tenus de conclure un accord de
+représentation. Le projet d’accord doit être transmis, un mois
+avant sa conclusion, pour approbation à la BCT qui se réserve le
+droit d’ajuster les termes de cet accord compte tenu des règles de
+gestion des risques de crédit et de liquidité au niveau de Elyssa-
+RTGS.
+19.5. L’accord de représentation ainsi signé entre les parties, doit être
+communiqué à la Banque Centrale un mois avant sa date
+d’application
+19.6.  Toute résiliation de l’accord de représentation doit être notifiée
+à la BCT pour information un mois avant sa mise en application.
+
+=== CHUNK 18 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 21 | Titre_Gemma: **Refinancement des Pensions Non Remboursées** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE III : LIQUIDITES INTRAJOURALIERES FOURNIES DANS LE CADRE DE ELYSSA-RTGS
+Titre : TITRE II : FONCTIONNEMENT DE ELYSSA-RTGS
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE 20 : REMBOURSEMENT DES PENSIONS LIVREES INTRAJOURNALIERES
+20.1. La BCT peut, en cas de non-remboursement des pensions livrées
+intrajournalières, accorder au participant, en fin de journée, la
+possibilité de demander un refinancement sous forme de facilité
+de prêt marginal ou autre forme d’intervention sur le marché
+monétaire lui permettant de rembourser l’ensemble des pensions
+livrées non encore remboursées et ce, conformément à la
+réglementation en vigueur en la matière.
+20.2. Si la situation du marché monétaire ne permet pas la mise en
+place d’une intervention de la BCT en fin de journée sur ce marché,
+les pensions livrées intrajournalières non remboursées sont
+soient considérées comme avances en compte courant, soient
+remboursées par le rachat à titre définitif par la BCT des titres mis
+en pension et ce, conformément à la réglementation en vigueur en
+la matière.
+
+=== CHUNK 19 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 21 | Titre_Gemma: **Livraison contre paiement (LcP) et services d'Elyssa-RTGS** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE IV : OBLIGATIONS DES PARTICIPANTS A ELYSSA-RTGS
+Titre : TITRE II : FONCTIONNEMENT DE ELYSSA-RTGS
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE 21 : PRINCIPE DE LIVRAISON CONTRE PAIEMENT (LCP)
+21.1. Elyssa-RTGS prend en charge le principe de livraison contre
+paiement (LcP).
+21.2. Le LcP est une méthode de règlement d’opération de vente de
+titres dans laquelle le paiement de l'acheteur pour les titres est fait
+au moment de la livraison et seulement en cas de livraison. La
+livraison de titres et l’exécution du paiement sont
+simultanées. Cela signifie que le règlement de titres et de fonds est
+fait selon le principe de tout ou rien.
+21.3. Elyssa-RTGS prend en charge 3 modèles de « LcP » :
+o Le modèle I : Paiement brut et simultané d'espèces pour chaque
+livraison élémentaire de titres ;
+o Le modèle II : Paiement net d'espèces et autant de livraisons
+élémentaires de titres qu'il y a d'instructions émises ;
+o Le modèle III : Paiement net d'espèces, et une livraison nette de
+titres simultanée.
+21.4. Elyssa-RTGS accepte des instructions de règlement LcP I, II, et III
+avec la date de valeur courante ou future et communique
+aux participants leurs positions prévisionnelles.
+21.5. Les opérations de politique monétaire (BCT) dites
+Open market basées sur les titres négociables (achat/vente
+ferme de titres) et les opérations REPO (pensions livrées sur 7
+jours ou plus) sont traitées et réglées en mode LcP.
+
+=== CHUNK 20 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 22 | Titre_Gemma: **Conformité aux Règles et Spécifications d'Elyssa-RTGS** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE IV : OBLIGATIONS DES PARTICIPANTS A ELYSSA-RTGS
+Titre : TITRE II : FONCTIONNEMENT DE ELYSSA-RTGS
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE 22 : RESPECT DES EXIGENCES DE ELYSSA-RTGS
+22.1. Le participant doit respecter toutes les exigences règlementaires
+en vigueur régissant les opérations traitées à Elyssa-RTGS. La BCT
+peut diligenter des missions d’inspection auprès du participant à
+l’effet de s’assurer de sa conformité aux obligations de
+participation à Elyssa-RTGS et prendre les mesures nécessaires.
+22.2. Le participant notifie sans délai à la BCT tout changement
+substantiel de son statut juridique pouvant impacter ses capacités
+à respecter ces exigences ainsi que celles découlant de
+l’application des présentes conditions.
+22.3. Le participant doit respecter toutes les exigences technico-
+fonctionnelles décrites dans les spécifications techniques de
+Elyssa-RTGS en annexe des présentes conditions.
+22.4. Le participant doit respecter toutes les exigences de sécurité de
+Elyssa-RTGS pour assurer le règlement définitif des opérations.
+22.5. Le participant doit indiquer dans les virements de
+prêts interbancaires les taux d’intérêt convenus avec les autres
+participants.
+22.6. Le participant destinataire d’un virement faveur un client
+particulier doit créditer le compte de ce dernier le jour même du
+crédit de son compte de règlement à Elyssa-RTGS.
+22.7. la BCT peut dans des circonstances exceptionnelles intervenir
+pour la prise en charge d’opérations d’un participant pour éviter
+les cas de blocage et par conséquent le risque systémique.
+
+=== CHUNK 21 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 22 | Titre_Gemma: **Responsabilité et gestion de la liquidité.** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE IV : OBLIGATIONS DES PARTICIPANTS A ELYSSA-RTGS
+Titre : TITRE II : FONCTIONNEMENT DE ELYSSA-RTGS
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE 23 : GESTION OPTIMALE DE LA TRESORERIE
+23.1 Le participant est responsable de l’exécution de ses ordres de
+paiement. Le participant doit gérer activement ses positions de
+liquidité intrajournalière et ses risques afin de respecter ses
+obligations de paiement et de règlement en temps opportun, dans
+des conditions normales et difficiles, et contribuer ainsi au bon
+fonctionnement des systèmes de paiement et de règlement. Il doit
+notamment à cet effet :
+- avoir la capacité de mesurer les entrées et sorties de
+liquidités brutes quotidiennes attendues, d'anticiper le
+calendrier intra-journalier de ces flux dans la mesure du
+possible et prévoir des déficits de financement nets
+potentiels qui pourraient survenir à différents moments de la
+journée ;
+- avoir la capacité de gérer et de mobiliser les garanties
+nécessaires pour obtenir des fonds intra-journaliers et de
+faire face le cas échéant aux perturbations inattendues de ses
+flux de liquidité intra-journaliers.
+- surveiller les positions de liquidité intrajournalière par
+rapport aux activités attendues et aux ressources disponibles
+(soldes, capacité de crédit intrajournalière restante,
+collatéraux disponibles...).
+23 .2. Le participant doit virer sans délai la liquidité intrajournalière
+reçue de la BCT au profit de celui non éligible à ladite liquidité et
+qui le représente.
+23.3. Le participant doit réserver dès qu’il prenne connaissance de ses
+situations nettes, la liquidité nécessaire pour régler les soldes
+débiteurs des systèmes exogènes dont il est membre.
+23.4. Le participant doit éviter de garder des paiements placés dans la
+file d’attente jusqu’à la fin de la journée.
+23.5. Le participant doit rembourser avant la fin de la journée toutes
+les liquidités intrajournalières accordées par la BCT soit par des
+pensions livrées intrajournalières ou par des avances intrajournalières.
+
+=== CHUNK 22 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 23 | Titre_Gemma: **Confidentialité des Informations** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE IV : OBLIGATIONS DES PARTICIPANTS A ELYSSA-RTGS
+Titre : TITRE II : FONCTIONNEMENT DE ELYSSA-RTGS
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE 24 : OBLIGATION DE CONFIDENTIALITE
+Le participant s’engage à considérer comme confidentiels les
+informations, documents, méthodes, procédés et savoir-faire dont
+il aurait eu connaissance et qui lui auraient été communiqués.
+
+=== CHUNK 23 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 23 | Titre_Gemma: **Obligations de Reporting et Information des Participants** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE V : GESTION DES DEFAUTS
+Titre : TITRE II : FONCTIONNEMENT DE ELYSSA-RTGS
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE 25 : OBLIGATION DE REPORTING A LA BCT
+25.1. Le participant doit communiquer mensuellement un état sur les
+rejets des paiements avec l’explication des motifs de rejets.
+25.2. Le participant doit informer sans délai la BCT sur toute tentative
+de fraude sur les paiements traités à Elyssa-RTGS.
+25.3. Le participant doit informer sans délai la BCT de tout incident de
+rupture grave de continuité des services en précisant la nature de
+l’incident, son ampleur en termes de durée, des mesures prises et
+à prendre pour remédier à cet incident et le cas échéant de
+dommages occasionnés.
+25.4. Le participant doit communiquer à la BCT un état mensuel
+résumant les paiements effectués avec les participants indirects et
+les sous-participants qu’il représente à Elyssa-RTGS.
+25.5. La BCT peut demander des participants d’autres types de
+reporting pour s’assurer du respect des présentes conditions et
+exigences et notamment les mesures prises pour la gestion des
+risques opérationnels, de liquidité intrajournalières et de crédit.
+
+=== CHUNK 24 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 24 | Titre_Gemma: **Défaut Opérationnel et Préparation aux Risques Opérationnels** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE V : GESTION DES DEFAUTS
+Titre : TITRE II : FONCTIONNEMENT DE ELYSSA-RTGS
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE 26 : DEFAUTS OPERATIONNELS
+26.1. Il y a défaut opérationnel lorsqu’un participant n’est pas à même
+de remplir ses obligations en raison d’un problème opérationnel,
+comme une défaillance des systèmes d’informations, des canaux
+de transmission des messages à la BCT, de processus internes ou
+non adéquation des ressources humaines.
+26.2. Le participant doit se doter des ressources humaines nécessaires
+pour la maîtrise des fonctionnalités de Elyssa-RTGS et la gestion
+optimale de sa trésorerie.
+26.3. Le participant doit se doter des outils nécessaires pour respecter
+les exigences de Elyssa-RTGS et éviter les rejets des messages
+envoyés.
+26.4 Le participant doit se doter d’un PCA formalisé et régulièrement
+testé pour assurer la continuité des paiements.
+26.5. Le participant doit formaliser et revoir régulièrement les
+procédures internes d’initiation, de réception et de traitement des
+paiements issus de Elyssa-RTGS et ce, en cas de survenance d’un
+risque opérationnel.
+26.6.A défaut de connexion au réseau SWIFT, le participant peut
+utiliser la plateforme participant pour échanger les messages et
+les paiements avec Elyssa-RTGS.
+26.7. Au cas où les connexions au réseau SWIFT et au réseau privé qui
+le relie à la BCT font défaut, le participant concerné peut se
+présenter à la salle de secours informatique de Elyssa-RTGS dans
+les locaux de la BCT pour traiter ses paiements.
+26.8. Au cas où le système d’informations du participant est
+indisponible pour préparer les paiements à initier et prendre en
+charge ceux à recevoir des autres participants, le PCA doit être mis
+en œuvre dans les meilleurs délais.
+26.9. La BCT peut en cas de défaut d’un participant entreprendre les
+règles et procédures lui permettant de préserver le bon
+fonctionnement du système, notamment le changement de
+priorité des ordres, l’activation des mécanismes limitant l’impact
+de défaut et la communication et coordination lorsque plusieurs
+participants et systèmes exogènes sont impliqués.
+26.10 La BCT peut adopter des mesures de continuité des opérations
+en cas de survenance d’un évènement extérieur exceptionnel
+et/ou en cas de défaillance de la plateforme technique ou du
+réseau perturbant le fonctionnement normal de Elyssa-RTGS.
+Les mesures de continuité des opérations auxquelles peut
+recourir la BCT sont notamment :
+- transfert du fonctionnement de la plateforme sur un site
+secondaire ;
+- modification des heures de fonctionnement du système ; et
+-  traitement d’urgence des paiements jugés critiques pour la
+stabilité.
+26.11. La BCT informe les participants en temps opportun par les voies
+qu’elle juge utiles et sécurisées de la défaillance de la plateforme
+et/ou un évènement extérieur exceptionnel ainsi que des
+traitements nécessaires à l’effet.
+
+=== CHUNK 25 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 25 | Titre_Gemma: **Surveillance et gestion des files d'attente et liquidités** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE VI : TARIFICATION DANS LE CADRE DE ELYSSA-RTGS
+Titre : TITRE II : FONCTIONNEMENT DE ELYSSA-RTGS
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : art 8).
+27.1. La BCT surveille en permanence le comportement des
+participants dans la gestion de leurs files d’attente et liquidités.
+27.2. Des alertes sont adressées automatiquement par Elyssa-RTGS
+aux participants ayant des ordres placés dans les files d’attente
+chaque fois que des indicateurs de blocages atteignent des seuils
+critiques.
+27.3. En cas de blocage récurrent de la file d’attente, la BCT invite le(s)
+participant(s) concerné(s) pour prendre les mesures nécessaires
+et éviter ce comportement. Elle peut modifier le cas échéant le
+statut du participant concerné et de son compte de règlement (cf.
+27.5. En cas de difficultés de liquidités ou de défaillance d’un
+participant, la BCT peut prendre les mesures appropriées selon le
+cas et en coordination le cas échéant avec le comité de résolution
+prévue par la loi n° 2016-48 relative aux banques et
+établissements financiers et compte tenu des dispositions de cette
+loi.
+
+=== CHUNK 26 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 26 | Titre_Gemma: **Facturation des services Elyssa-RTGS** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE VI : TARIFICATION DANS LE CADRE DE ELYSSA-RTGS
+Titre : TITRE II : FONCTIONNEMENT DE ELYSSA-RTGS
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE 28 : COMPOSANTES DE LA TARIFICATION
+28.1. Le participant autorise la BCT à prélever sur son compte de
+règlement libellé en monnaie de Banque Centrale les frais relatifs
+à la facturation des services de Elyssa-RTGS.
+28.2. La tarification, au titre des services de Elyssa-RTGS est composée
+de :
+o Une Cotisation des messages échangés ;
+o Une Cotisation d’utilisation de l’infrastructure ;
+o La Récupération des frais de messages SWIFT ;
+28.2. La BCT peut modifier les composantes de la tarification et le cas
+échéant exiger une cotisation d’adhésion. Elle en informe les
+participants ;
+28.3. Les montants à facturer tiennent compte des taux de la TVA et
+droits de timbre conformément à la règlementation en vigueur.
+
+=== CHUNK 27 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 26 | Titre_Gemma: **Frais de messages à Elyssa-RTGS** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE VI : TARIFICATION DANS LE CADRE DE ELYSSA-RTGS
+Titre : TITRE II : FONCTIONNEMENT DE ELYSSA-RTGS
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE 29 : COTISATION DES MESSAGES ECHANGES
+29.1. Le participant autorise la BCT à débiter son compte de règlement
+mensuellement à concurrence des frais des messages qu’il a
+envoyés à Elyssa-RTGS durant le mois écoulé.
+29.2. Le calcul des frais est effectué par la BCT selon un barème des
+coûts unitaires et des flux des messages reçus des participants
+mensuellement.
+29.3. Le participant indirect paye mensuellement à la BCT la cotisation
+des messages envoyés à Elyssa-RTGS en son nom par le
+participant direct qui le représente.
+
+=== CHUNK 28 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 27 | Titre_Gemma: **Répartition des frais d'infrastructure** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE VI : TARIFICATION DANS LE CADRE DE ELYSSA-RTGS
+Titre : TITRE II : FONCTIONNEMENT DE ELYSSA-RTGS
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE 30 : COTISATION D’UTILISATION DE
+L’INFRASTRUCTURE
+30.1. Le participant autorise la BCT à débiter son compte de règlement
+annuellement à concurrence du montant des frais d’utilisation de
+l’infrastructure compte tenu d’une clé de répartition et ce, en fin
+de période.
+30.2. La clé de répartition entre les participants des frais d’utilisation
+de l’infrastructure est calculée sur la base du coût de
+l’infrastructure et du flux des messages envoyés au système par
+chaque participant.
+
+=== CHUNK 29 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 27 | Titre_Gemma: **Frais de messages Elyssa-RTGS** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE VI : TARIFICATION DANS LE CADRE DE ELYSSA-RTGS
+Titre : TITRE II : FONCTIONNEMENT DE ELYSSA-RTGS
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE 31 : RECUPERATION DES FRAIS DE MESSAGES SWIFT
+31.1. La BCT paye mensuellement à la société SWIFT les coûts des
+messages qu’elle a adressés aux participants de Elyssa-RTGS via
+le réseau SWIFT.
+31.2. Le participant autorise la BCT à débiter son compte de règlement
+mensuellement à concurrence des frais des messages payés à sa
+place à la société SWIFT.
+
+=== CHUNK 30 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 27 | Titre_Gemma: **Modifications et Non-Cession des Conditions d'Utilisation** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE VI : TARIFICATION DANS LE CADRE DE ELYSSA-RTGS
+Titre : TITRE III : DISPOSITIONS DIVERSES
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE 32 : MODIFICATION DES CONDITIONS
+32.1. La BCT se réserve le droit d'apporter aux présentes conditions,
+toute modification qu'elle juge nécessaire dictée notamment par
+des contraintes techniques ou opérationnelles ou par l’obligation
+de mettre à jour les règles de fonctionnement du système suite à
+la modification de la législation et de la réglementation en vigueur
+régissant la matière.
+Les modifications prennent effet au terme d'un délai fixé par la
+BCT et portées à la connaissance de tous les participants.
+32.3. Les droits et obligations résultant des présentes conditions ne
+sont pas cessibles aux tiers sauf autorisation préalable de la BCT.
+
+=== CHUNK 31 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 28 | Titre_Gemma: **Conditions d'Adhésion à Elyssa-RTGS** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE VI : TARIFICATION DANS LE CADRE DE ELYSSA-RTGS
+Titre : TITRE III : DISPOSITIONS DIVERSES
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE 33 : ENGAGEMENT ET PRISE D’EFFET
+Le participant déclare accepté sans réserve les clauses stipulées
+dans les présentes conditions d’adhésion.
+L’adhésion à Elyssa-RTGS prend effet à compter de la date fixée
+dans l’attestation notifiée par la BCT au participant signifiant la
+réception par la BCT des présentes conditions et leurs annexes
+dûment signées et attestant l’adhésion effective audit système.
+Lu et Approuvé,
+Tunis, le ……………...
+Banque centrale de Tunisie
+CONDITIONS D’ADhéSION des systèmes exogènes a ELYSSA-RTGS
+Février 2022
+Considérant que la Banque Centrale de Tunisie est habilitée en vertu
+des dispositions de l’article 17 de la loi n°2016-35 portant fixation de
+son statut à mettre en place,  organiser et gérer des systèmes de
+paiement et de règlement et ce, dans l’objectif de faciliter le
+dénouement des opérations financières des banques, des institutions
+financières et de leur clientèle ainsi que d’assurer des conditions
+d’efficacité et de sécurité de ces systèmes à même de préserver la
+stabilité.
+Considérant que la Banque Centrale de Tunisie peut en vertu des
+dispositions du même article fixer les critères et les conditions
+d’adhésion des participants aux systèmes de paiement et de règlement
+qu’elle gère et ce, selon les principes d’équité et de transparence.
+Considérant que dans le cadre de sa stratégie du développement de
+l’écosystème des paiements et notamment la modernisation des
+infrastructures de marchés, la Banque Centrale de Tunisie, met à la
+disposition des intervenants de l’écosystème, une nouvelle plateforme
+pour le règlement brut en temps réel des opérations en ligne avec les
+standards internationaux.
+Les conditions ci-après sont adoptées pour constituer le cadre
+régissant l’adhésion des systèmes exogènes au Système de Règlement
+Brut en Temps Réel et leurs obligations pour le règlement efficace et
+sécurisé des soldes de compensation et ce, dans le respect de la
+réglementation en vigueur.
+
+=== CHUNK 32 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 32 | Titre_Gemma: **Définitions des termes clés dans les conditions d'utilisation d'Elyssa-RTGS** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE VI : TARIFICATION DANS LE CADRE DE ELYSSA-RTGS
+Titre : TITRE III : DISPOSITIONS DIVERSES
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE PREMIER : DEFINITIONS
+Au sens des présentes conditions, on entend par :
+- Système de Règlement Brut en Temps Réel (Real Time Gross
+Settlement System ou RTGS) : Infrastructure de marché
+financier d’importance systémique dédiée au règlement des
+opérations et des soldes de compensation et gérée par la BCT ; ce
+système dénommé Elyssa est désigné dans les présentes par les
+termes Elyssa-RTGS.
+- Système exogène : Tout système de paiement ou de règlement
+des titres avec lequel Elyssa-RTGS peut interagir ;
+- Système de paiement : Ensemble d'instruments, de procédures,
+de règles, d'institutions, de plates-formes, de réseaux et de
+toutes autres entités permettant le transfert, la compensation et
+le règlement du transfert de fonds entre les participants.
+- Infrastructure : Plateforme technique de gestion de Elyssa-
+RTGS et les canaux d’échange (réseau SWIFT ou Réseau privée)
+reliant les participants avec le système.
+- Participant : Entité qui émet via Elyssa-RTGS des instructions
+de paiement pour règlement et reçoit en contrepartie des
+réponses de confirmation ou de rejet selon le cas.
+- Participant direct : Il détient un compte de règlement à Elyssa-
+RTGS et dispose d’un lien de télécommunication avec le système
+central de la BCT (SWIFT ou réseau privé).
+- Participant indirect : Il détient un compte de règlement ouvert
+à Elyssa-RTGS, mais ne dispose pas de lien de télécommunication
+avec le système central de la BCT. Il doit utiliser les plateformes
+disponibles  à
+la Salle de secours informatique  de la BCT ou la
+plateforme d’un Participant direct désigné.
+- Sous-Participant : Il ne dispose d’aucun compte au niveau de
+Elyssa-RTGS. Il n’a pas non plus de connexion avec le système. Il
+doit transmettre l’ensemble de ses opérations vers un
+participant direct qui est responsable de leur règlement sur ses
+propres comptes.
+
+=== CHUNK 33 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 34 | Titre_Gemma: **Rôles des participants à Elyssa-RTGS** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE VI : TARIFICATION DANS LE CADRE DE ELYSSA-RTGS
+Titre : TITRE III : DISPOSITIONS DIVERSES
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE 3 : REGIME DE PARTICIPATION DU SYSTEME EXOGENE
+3.1. La participation à Elyssa-RTGS peut être sous quatre régimes :
+participant direct, participant indirect, sous-participant et
+participant technique.
+3.2. Le Système exogène participe à Elyssa-RTGS sous le régime de
+participant technique tel que défini par l’article premier des
+présentes conditions.
+
+=== CHUNK 34 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 34 | Titre_Gemma: **Adhésion à Elyssa-RTGS : Conditions d'accès et exigences techniques** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE II : SERVICES FOURNIS PAR ELYSSA-RTGS
+Titre : TITRE III : DISPOSITIONS DIVERSES
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE 4 : CONDITIONS DE PARTICIPATION DU SYSTEME
+EXOGENE
+4.1. L'adhésion du système exogène à Elyssa-RTGS est subordonnée à
+la signature des présentes conditions et à l'envoi à la BCT d'une
+lettre d'adhésion suivant le modèle figurant à l'annexe I.
+4.2. Pour accéder à Elyssa-RTGS, le système exogène doit disposer des
+capacités technico-fonctionnelles nécessaires. Le système
+exogène doit notamment avoir réussi les tests requis, mis en
+fonctionnement, surveillé et assuré la sécurité de l’infrastructure
+informatique nécessaire conformément aux spécifications
+techniques pour se connecter au système ou au réseau de la BCT.
+
+=== CHUNK 35 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 34 | Titre_Gemma: **Elyssa-RTGS : Gestion des soldes et comptes** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE II : SERVICES FOURNIS PAR ELYSSA-RTGS
+Titre : TITRE III : DISPOSITIONS DIVERSES
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE 5 : COMPTES
+5.1. Les soldes du système exogène sont imputés sur les comptes de
+règlement des participants directs ou indirects ouverts suite à
+leur adhésion à Elyssa-RTGS.
+Cette adhésion ouvre le droit seulement à chaque participant
+direct ou indirect à un seul compte de règlement en dinar Tunisien
+et un compte par devise en son nom sur les livres de la BCT pour
+émettre et recevoir des ordres de règlement dans ledit système
+qui doit toujours avoir une position créditrice.
+5.3. Le système exogène peut disposer, le cas échéant, à l’initiative de
+la BCT d’un compte pivot à Elyssa-RTGS, dont la position doit être
+soldée à chaque fois que l’opération de déversement des soldes qui
+le concerne est effectuée.
+
+=== CHUNK 36 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 34 | Titre_Gemma: **Règles d'imputation des soldes de compensation** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE II : SERVICES FOURNIS PAR ELYSSA-RTGS
+Titre : TITRE III : DISPOSITIONS DIVERSES
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE 6 : OPERATIONS
+6.1. L’adhésion à Elyssa-RTGS offre à chaque participant direct ou
+indirect un ensemble d’opérations qui doivent être exécutées
+conformément aux règles définies dans les conditions d’adhésion
+dudit participant au système, publiées par la BCT.
+6.2. Un système exogène peut, pour une même journée, envoyer
+plusieurs fichiers de soldes de compensation. Le nombre des
+fichiers est fixé au préalable avec la BCT.
+6.3. Les soldes débiteurs des systèmes exogènes sont soumis, avant
+imputation, au contrôle de provision.
+6.4. Le règlement des soldes de compensation obéit à la règle de tout
+ou rien.
+6.5. En application de la règle « tout ou rien » prévue par les
+présentes conditions et en cas d'impossibilité d'imputation de la
+totalité des soldes débiteurs, Elyssa-RTGS les place dans la file
+d’attente jusqu’à reconstitution de la provision nécessaire.
+6.6. Conformément au principe d’irrévocabilité défini par les
+présentes conditions, les soldes des systèmes exogènes transmis
+à Elyssa-RTGS et imputés sur les comptes des participants ne
+peuvent plus être annulés ou contestés par l'émetteur ou le
+destinataire.
+6.7. La BCT peut créer de nouvelles catégories d'opérations admises
+dans Elyssa-RTGS et définir leurs niveaux de priorité. Par la
+signature des présentes conditions, le participant à Elyssa-RTGS
+accepte la création de ces nouvelles opérations ainsi que leurs
+niveaux de priorité et leur imputation sur son compte de
+règlement.
+
+=== CHUNK 37 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 35 | Titre_Gemma: **Plateforme Technique d'Échange de Données** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE III : REGLES DE GESTION DE ELYSSA-RTGS
+Titre : TITRE III : DISPOSITIONS DIVERSES
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE 7 : PLATEFORME TECHNIQUE
+7.1. La BCT met à la disposition des systèmes exogènes une
+« plateforme technique » à même d’échanger des messages avec le
+système central de la BCT et faire des consultations. Les règles de
+fonctionnement de cette plateforme sont décrites dans les
+manuels cités en annexe III et IV.
+
+=== CHUNK 38 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 36 | Titre_Gemma: **Gestion des soldes exogènes dans ELYSSA-RTGS** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE III : REGLES DE GESTION DE ELYSSA-RTGS
+Titre : TITRE III : DISPOSITIONS DIVERSES
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE 8 : REGLES DE DENOUEMENT
+8.1. ELYSSA-RTGS obéit aux règles de dénouement définies dans les
+conditions d’adhésion des participants audit système telles que
+publiées par la BCT. Les règles de dénouement des soldes des
+systèmes exogènes sont décrites ci-après.
+8.2. ELYSSA-RTGS gère une file d’attente où les soldes exogènes non
+réglés sont stockés et traités selon leurs niveaux de priorité et
+inscription dans le temps (FIFO).
+8.3. Le moment d’acceptation d’un paiement correspond au moment
+de sa réception par le nœud central de ELYSSA-RTGS.
+8.4. ELYSSA-RTGS comprend un plan de gestion flexible des priorités
+qui peuvent aller jusqu’à 100 niveaux.
+
+=== CHUNK 39 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 36 | Titre_Gemma: **Horaires et Opérations de la Journée d'Échange ELYSSA-RTGS** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE IV : LIQUIDITES INTRAJOURALIERES FOURNIES DANS LE CADRE DE ELYSSA-RTGS
+Titre : TITRE III : DISPOSITIONS DIVERSES
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE 9 : PLAGES D’ECHANGE
+9.1. Une journée d'échange ELYSSA-RTGS, au cours de laquelle le
+système est ouvert et peut exécuter les opérations, est composée
+de plages horaires ou périodes qui peuvent être ajustées à l’aide
+de paramètres.
+9.2. Plusieurs plages d’échanges peuvent être définies dans l’horaire
+de journée. La plage principale est dédiée aux échanges entre
+les participants. Les autres plages sont dédiées aux flux de
+messages spéciaux liés à des types de opérations particuliers tels
+que les soldes des systèmes exogènes.
+9.3. Les systèmes exogènes restent informés des changements dans
+l'horaire de la journée d'échange y compris des heures
+d'ouverture et de clôture de la journée.
+9.4. Le système contient un calendrier dans lequel sont identifiés les
+jours ouvrés et non ouvrés. La BCT peut adapter ce calendrier à
+tout moment. Les systèmes exogènes restent informés des
+changements du calendrier.
+
+=== CHUNK 40 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 37 | Titre_Gemma: **Liquidités Intraday et Systèmes Exogènes** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE IV : LIQUIDITES INTRAJOURALIERES FOURNIES DANS LE CADRE DE ELYSSA-RTGS
+Titre : TITRE III : DISPOSITIONS DIVERSES
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE 10 : APPLICABILITE DES REGLES REGISSANT LES
+LIQUIDITES INTRAJOURNALIERES AUX SYSTEMES EXOGENES
+10.1. Les conditions d’adhésion des participants à ELYSSA-RTGS telles
+que publiées par la BCT, prévoient un ensemble de règles
+applicables aux liquidités intrajournalières fournies dans le cadre
+de ce système. Ces règles concernent exclusivement les systèmes
+exogènes gestionnaires des compensations des opérations sur
+titres et en rapport avec les opérations de politique monétaire et
+particulièrement TC. Elles sont citées dans les articles ci-après.
+
+=== CHUNK 41 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 37 | Titre_Gemma: **Gestion de la liquidité intrajournalière à Elyssa-RTGS** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE IV : LIQUIDITES INTRAJOURALIERES FOURNIES DANS LE CADRE DE ELYSSA-RTGS
+Titre : TITRE III : DISPOSITIONS DIVERSES
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE 11 : MECANISMES DE GESTION DES LIQUIDITES
+INTRAJOURNALIERES
+11.1. La BCT met, dans le cadre de la gestion du risque de liquidité au
+niveau de Elyssa-RTGS, à la disposition des participants, les deux
+mécanismes suivants pour la gestion de leurs liquidités
+intrajournalières et le dénouement de leurs paiements dans ledit
+système :
+• Avances intrajournalières garanties par le pool de
+collatéraux éligibles (titres, créances bancaires, cash en
+devises, ou autres),
+• Opérations de pension livrée intrajournalières (titres).
+11.2. La BCT informe, à l’avance, les participants de Elyssa-RTGS du
+mode de la liquidité intrajournalière à adopter ainsi que tout
+changement de ce mode.
+
+=== CHUNK 42 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 37 | Titre_Gemma: **Accords de représentation pour avances intrajournalières dans Elyssa-RTGS** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE IV : LIQUIDITES INTRAJOURALIERES FOURNIES DANS LE CADRE DE ELYSSA-RTGS
+Titre : TITRE III : DISPOSITIONS DIVERSES
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE 12 : RECOURS A L’AVANCE INTRAJOURNALIERE
+12.1. Le dénouement des opérations mises dans la file d'attente peut
+être assuré par des avances intrajournalières qui seront accordées
+exclusivement aux participants opérant sur le marché monétaire
+et ce, conformément à la réglementation en vigueur en la matière.
+12.2.  Le participant à Elyssa-RTGS, n'ayant pas droit au refinancement
+de la BCT ou ne disposant pas de garanties éligibles à l'avance
+intrajournalière peut conclure une convention de représentation
+avec un ou plusieurs participants répondant aux conditions
+d'obtention des avances intrajournalières.
+12.3. Le participant éligible aux avances intrajournalières et celui
+représenté sont tenus de conclure un accord de représentation. Le
+projet d’accord doit être transmis, un mois avant sa conclusion,
+pour approbation à la BCT qui se réserve le droit d’ajuster les
+termes de cet accord compte tenu des règles de gestion des
+risques de crédit et de liquidité au niveau de Elyssa-RTGS.
+12.4. L’accord de représentation ainsi signé entre les parties, doit être
+communiqué à la Banque Centrale un mois avant sa date
+d’application
+12.5.  Toute résiliation de l’accord de représentation doit être notifiée
+à la BCT pour information un mois avant sa mise en application.
+
+=== CHUNK 43 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 38 | Titre_Gemma: **Pools de Collatéraux pour Opérations de Politique Monétaire** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE IV : LIQUIDITES INTRAJOURALIERES FOURNIES DANS LE CADRE DE ELYSSA-RTGS
+Titre : TITRE III : DISPOSITIONS DIVERSES
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE 13 : POOL DES COLLATERAUX ELIGIBLES
+13.1. Chaque participant, éligible à
+l’avance intrajournalière, constitue au niveau de Elyssa-RTGS un
+pool de collatéraux pour les opérations de politique monétaire de
+la BCT et des opérations de fourniture de liquidités intrajournalières sous forme d’avances intrajournalières.
+13.2. Les collatéraux éligibles peuvent être mobilisés par les
+participants soit dans le système de Tunisie Clearing (les titres
+négociables), soit dans le système d’informations de la BCT (les
+créances, les devises et autres), soit dans les deux systèmes en
+même temps.
+13.3. Les opérations de politique monétaire et les avances
+intrajournalières sont couvertes en globalité par le pool de
+garanties sans qu’elles soient liées, en termes de couverture, à
+un type de collatéral particulier réservé dans un des systèmes externes (BCT, TC, …).
+13.4. Elyssa-RTGS calcule l’utilisation des pools en ligne et assure que
+tous les engagements d’un participant sont couverts par les
+collatéraux.
+13.5. Les systèmes externes (BCT, TC, …) garantissent que les
+instruments mobilisés (titres, créances, …) à leur niveau comme
+collatéraux pour Elyssa-RTGS ne sont pas disponibles à d'autres
+fins avant leur démobilisation explicite.
+13.6. Les systèmes externes (BCT, TC, …) communiquent à Elyssa-
+RTGS la valeur monétaire des collatéraux d’un participant dans les
+cas de :
+o Mobilisation de nouveaux collatéraux par le participant ;
+o Démobilisation des collatéraux ;
+o Revalorisation quotidienne des collatéraux (titres,
+créances, devises, …).
+
+=== CHUNK 44 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 39 | Titre_Gemma: **Refinancement des avances intrajournalières non remboursées** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE IV : LIQUIDITES INTRAJOURALIERES FOURNIES DANS LE CADRE DE ELYSSA-RTGS
+Titre : TITRE III : DISPOSITIONS DIVERSES
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE 14 : REMBOURSEMENT DES AVANCES INTRAJOURNALIERES
+14.1. La BCT peut, en cas de non-remboursement des avances
+intrajournalières, accorder au participant, en fin de journée, la
+possibilité de demander un refinancement sous forme de facilité
+de prêt marginal ou autre forme d’intervention sur le marché
+monétaire lui permettant de rembourser l’ensemble des avances
+non encore remboursées et ce, conformément à la réglementation
+en vigueur en la matière.
+14.2. Si la situation du marché monétaire ne permet pas la mise en
+place d’une intervention de la BCT en fin de journée sur ce marché,
+les avances intrajournalières non remboursées sont soient
+considérées comme avances en compte courant, soient
+remboursées par le rachat à titre définitif par la BCT des titres mis
+en pension et ce, conformément à la réglementation en vigueur en
+la matière.
+
+=== CHUNK 45 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 39 | Titre_Gemma: **Pensions livrées intrajournalières en cas de manque de liquidité** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE IV : LIQUIDITES INTRAJOURALIERES FOURNIES DANS LE CADRE DE ELYSSA-RTGS
+Titre : TITRE III : DISPOSITIONS DIVERSES
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE 15 : OCTROI DE PENSIONS LIVREES INTRAJOURNALIERES
+15.1. Le dénouement des opérations mises en file d'attente faute de
+liquidité disponible au niveau du compte de règlement peut être
+assuré par des pensions livrées intrajournalières qui seront
+accordées exclusivement aux participants opérant sur le marché
+monétaire conformément à la réglementation en vigueur en la
+matière.
+15.2. Chaque participant éligible concerné doit, pour bénéficier du
+mécanisme de pension livrée intrajournalière, conclure avec la
+BCT une convention en la matière dont modèle est joint en annexe
+III, qui fixe notamment les conditions et les modalités d'octroi des
+pensions livrées intrajournalières, la nature des titres mis en
+pension livrée et les conditions et modalités de dénouement de la
+pension livrée.
+15.3. Le participant, non éligible au refinancement de la BCT ou ne
+disposant pas de titres éligibles aux pensions livrées
+intrajournalières peut conclure une convention de représentation
+avec un ou plusieurs participants à Elyssa-RTGS éligibles aux
+liquidités intrajournalières, à l’effet d’assurer le règlement
+immédiat de ses opérations admises dans Elyssa-RTGS en cas
+d'insuffisance ou d'absence de provision au niveau de son compte
+de règlement.
+La banque représentante est tenue de constituer des garanties
+appropriées au profit de la BCT pour le compte du ou des
+participants qu’il représente.
+15.4. Le participant éligible aux avances intrajournalières et celui
+représenté sont tenus de conclure un accord de représentation. Le
+projet d’accord doit être transmis, un mois avant sa conclusion,
+pour approbation à la BCT qui se réserve le droit d’ajuster les
+termes de cet accord compte tenu des règles de gestion des
+risques de crédit et de liquidité au niveau de Elyssa-RTGS.
+15.5. L’accord de représentation ainsi signé entre les parties, doit être
+communiqué à la Banque Centrale un mois avant sa date
+d’application
+15.6.  Toute résiliation de l’accord de représentation doit être notifiée
+à la BCT pour information un mois avant sa mise en application.
+
+=== CHUNK 46 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 40 | Titre_Gemma: **Refinancement des pensions intrajournalières non remboursées** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE IV : LIQUIDITES INTRAJOURALIERES FOURNIES DANS LE CADRE DE ELYSSA-RTGS
+Titre : TITRE III : DISPOSITIONS DIVERSES
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE 16 : REMBOURSEMENT DES PENSIONS LIVREES INTRAJOURNALIERES
+16.1. La BCT peut, en cas de non-remboursement des pensions livrées
+intrajournalières, accorder au participant, en fin de journée, la
+possibilité de demander un refinancement sous forme de facilité
+de prêt marginal ou autre forme d’intervention sur le marché
+monétaire lui permettant de rembourser l’ensemble des pensions
+livrées non encore remboursées et ce, conformément à la
+réglementation en vigueur en la matière.
+16.2. Si la situation du marché monétaire ne permet pas la mise en
+place d’une intervention de la BCT en fin de journée sur ce marché,
+les pensions livrées intrajournalières non remboursées sont
+soient considérées comme avances en compte courant, soient
+remboursées par le rachat à titre définitif par la BCT des titres mis
+en pension et ce, conformément à la réglementation en vigueur en
+la matière.
+
+=== CHUNK 47 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 41 | Titre_Gemma: **Livraison contre Paiement (LcP) par Elyssa-RTGS** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE V : OBLIGATIONS DES SYSTEMES EXOGENES
+Titre : TITRE III : DISPOSITIONS DIVERSES
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE 17: PRINCIPE DE LIVRAISON CONTRE PAIEMENT (LCP)
+17.1. Elyssa-RTGS prend en charge le principe de livraison contre
+paiement (LcP).
+17.2. Le LcP est une méthode de règlement d’opération de vente de
+titres dans laquelle le paiement de l'acheteur pour les titres est fait
+au moment de la livraison et seulement en cas de livraison. La
+livraison de titres et l’exécution du paiement sont
+simultanées. Cela signifie que le règlement de titres et de fonds est
+fait selon le principe de tout ou rien.
+17.3. Elyssa-RTGS prend en charge 3 modèles de « LcP » :
+o Le modèle I : Paiement brut et simultané d'espèces pour chaque
+livraison élémentaire de titres ;
+o Le modèle II : Paiement net d'espèces et autant de livraisons
+élémentaires de titres qu'il y a d'instructions émises ;
+o Le modèle III : Paiement net d'espèces, et une livraison nette de
+titres simultanée.
+17.4. Elyssa-RTGS accepte des instructions de règlement LcP I, II, et III
+avec la date de valeur courante ou future et communique
+aux participants leurs positions prévisionnelles.
+17.5. Les opérations de politique monétaire (BCT) dites
+Open market basées sur les titres négociables (achat/vente
+ferme de titres) et les opérations REPO (pensions livrées sur 7
+jours ou plus) sont traitées et réglées en mode LcP.
+17.5. Les titres, sous-jacents aux pensions livrées intra-journalières, ne sont
+restitués au Bénéficiaire par TUNISIE CLEARING que sur instruction
+de la BCT (Elyssa-RTGS) et après remboursement des pensions
+livrées en question.
+
+=== CHUNK 48 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 42 | Titre_Gemma: **Conformité du Système Exogène à Elyssa-RTGS** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE V : OBLIGATIONS DES SYSTEMES EXOGENES
+Titre : TITRE III : DISPOSITIONS DIVERSES
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE 18 : RESPECT DES EXIGENCES DE ELYSSA-RTGS
+18.1. Le système exogène doit respecter toutes les exigences
+règlementaires en vigueur régissant les opérations traitées à
+Elyssa-RTGS. La BCT peut diligenter des missions d’inspection
+auprès du système exogène à l’effet de s’assurer de sa conformité
+aux obligations de participation à Elyssa-RTGS et prendre les
+mesures nécessaires.
+18.2. Le système exogène doit respecter toutes les exigences technico-
+fonctionnelles décrites dans le guide utilisateur de Elyssa-RTGS de
+l’annexe III des présentes conditions.
+18.3. Le système exogène doit respecter toutes les exigences de
+sécurité de Elyssa-RTGS.
+
+=== CHUNK 49 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 42 | Titre_Gemma: **Exigences pour les Systèmes Exogènes** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE V : OBLIGATIONS DES SYSTEMES EXOGENES
+Titre : TITRE III : DISPOSITIONS DIVERSES
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE 19 : DISPOSITIF DE GESTION DES RISQUES
+19.1. Le système exogène doit se doter des ressources humaines et
+outils nécessaires pour respecter les exigences de ELYSSA-RTGS
+et éviter les rejets des messages envoyés.
+19.2. Le système exogène doit se doter d’un PCA formalisé et
+régulièrement testé pour assurer la continuité des paiements.
+
+=== CHUNK 50 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 42 | Titre_Gemma: **Confidentialité des informations** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE V : OBLIGATIONS DES SYSTEMES EXOGENES
+Titre : TITRE III : DISPOSITIONS DIVERSES
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE 20 : OBLIGATION DE CONFIDENTIALITE
+Le système exogène s’engage à considérer comme confidentiels
+les informations, documents, méthodes, procédés et savoir-faire
+dont il aurait eu connaissance et qui lui auraient été
+communiqués.
+
+=== CHUNK 51 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 42 | Titre_Gemma: **Obligations de Reporting pour les Systèmes Exogènes** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE VI : GESTION DES DEFAUTS
+Titre : TITRE III : DISPOSITIONS DIVERSES
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE 21 : OBLIGATION DE REPORTING A LA BCT
+21.1. Le système exogène doit informer sans délai la BCT sur toute
+tentative de fraude sur les paiements traités à Elyssa-RTGS.
+21.2. Le système exogène doit informer sans délai la BCT de tout
+incident de rupture grave de continuité des services en précisant
+la nature de l’incident, son ampleur en termes de durée, des
+mesures prises et à prendre pour remédier à cet incident et le cas
+échéant de dommages occasionnés.
+21.3. La BCT peut demander des systèmes exogènes d’autres types de
+reporting pour s’assurer du respect des présentes conditions et
+exigences et notamment les mesures prises pour la gestion des
+risques opérationnels, de liquidité intrajournalières et de crédit.
+
+=== CHUNK 52 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 43 | Titre_Gemma: **Défaut opérationnel et exigences de Elyssa-RTGS** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE VII : DISPOSITIONS DIVERSES
+Titre : TITRE III : DISPOSITIONS DIVERSES
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE 22 : DEFAUTS OPERATIONNELS
+22.1. Il y a défaut opérationnel lorsqu’un système exogène n’est pas à
+même de remplir ses obligations en raison d’un problème
+opérationnel, comme une défaillance des systèmes d’information,
+des canaux de transmission des messages à la BCT, de processus
+internes ou non adéquation des ressources humaines.
+22.3. Le système exogène doit se doter des outils nécessaires pour
+respecter les exigences de Elyssa-RTGS et éviter les rejets des
+messages envoyés.
+22.4. Le système exogène doit formaliser et revoir régulièrement les
+procédures internes d’initiation, de réception et de traitement des
+messages issus de Elyssa-RTGS et ce, en cas de survenance d’un
+risque opérationnel.
+22.5. Au cas où la connexion au réseau privé qui relie le système
+exogène à la BCT fait défaut, le système exogène peut se présenter
+au  Salle de secours informatique  de Elyssa-RTGS dans les locaux
+de la BCT pour traiter ses paiements.
+22.6. Au cas où le système d’information du système exogène est
+indisponible pour préparer les soldes de compensation, le PCA
+doit être mis en œuvre dans les meilleurs délais.
+22.7. La BCT peut en cas de défaut d’un système exogène entreprendre
+les règles et procédure lui permettant de préserver le bon
+fonctionnement du système, notamment le changement de
+priorité des paiements, l’activation des mécanismes limitant
+l’impact de défaut et la communication et coordination lorsque
+plusieurs participants et systèmes exogènes sont impliqués.
+22.8. La BCT peut adopter des mesures de continuité des opérations
+en cas de survenance d’un évènement extérieur exceptionnel
+et/ou en cas de défaillance de la plateforme technique ou du
+réseau perturbant le fonctionnement normal de Elyssa-RTGS
+Les mesures de continuité des opérations auxquelles peut
+recourir la BCT sont notamment :
+- transfert du fonctionnement de la plateforme sur un site
+secondaire ;
+- modification des heures de fonctionnement du système ; et
+-  traitement d’urgence des paiements jugés critiques pour la
+stabilité.
+22.9. La BCT informe les systèmes exogènes en temps opportun par les
+voies qu’elle juge utiles et sécurisées de la défaillance de la
+plateforme et/ou un évènement extérieur exceptionnel ainsi que
+des traitements nécessaires à l’effet.
+
+=== CHUNK 53 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 45 | Titre_Gemma: **Modifications des conditions générales** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE VII : DISPOSITIONS DIVERSES
+Titre : TITRE III : DISPOSITIONS DIVERSES
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE 23 : MODIFICATION DES CONDITIONS
+23.1. La BCT se réserve le droit d'apporter aux présentes conditions,
+toute modification qu'elle juge nécessaire dictée notamment par
+des contraintes techniques ou opérationnelles ou par l’obligation
+de mettre à jour les règles de fonctionnement du système suite à
+la modification de la législation et de la réglementation en vigueur
+régissant la matière.
+23.2. Les modifications prennent effet au terme d'un délai fixé par la
+BCT et portées à la connaissance de tous les participants.
+
+=== CHUNK 54 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 45 | Titre_Gemma: **Non-cessibilité des droits** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE VII : DISPOSITIONS DIVERSES
+Titre : TITRE III : DISPOSITIONS DIVERSES
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE 24 : INCESSIBILITE DES DROITS ET OBLIGATIONS
+Les droits et obligations résultant des présentes conditions ne
+sont pas cessibles aux tiers sauf autorisation préalable de la BCT.
+
+=== CHUNK 55 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 45 | Titre_Gemma: **Conditions d'Adhésion à Elyssa-RTGS** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE VII : DISPOSITIONS DIVERSES
+Titre : TITRE III : DISPOSITIONS DIVERSES
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : ARTICLE 25 : ENGAGEMENT ET PRISE D’EFFET
+Le système exogène déclare accepté sans réserve les clauses
+stipulées dans les présentes conditions d’adhésion.
+L’adhésion à Elyssa-RTGS prend effet à compter de la date d’une
+attestation notifiée par la BCT au système exogène signifiant la
+réception par la BCT des présentes conditions et leurs annexes
+dûment signées et attestant l’adhésion effective audit système.
+Lu et Approuvé
+Tunis le ……………...
+
+=== CHUNK 56 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 7 | Titre_Gemma: **Conditions de Règlement Partiel** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
+aucun cas le règlement partiel desdits soldes n’est autorisé.
+Cette imputation est conditionnée par la disponibilité de la
+liquidité suffisante au crédit des comptes de règlement de
+tous les participants concernés.
+Compte pivot : Compte technique rattaché à un participant technique
+et utilisé pour créditer et débiter d’autres participants.
+Tunisie Clearing : Le dépositaire central des titres, désigné dans les
+présentes conditions par (TC).
+Plateforme-participant : Frontal-web ou TMS/X, plateforme de
+communication avec le système central de Elyssa-RTGS
+Salle de secours informatique : Plateforme de secours permettant la
+saisie des ordres de paiement et le monitoring de la situation
+du compte et de la file d’attente mise à la disposition des
+participants aux locaux de la BCT. ARTICLE 2 : ANNEXES
+Les annexes aux présentes conditions, ci-après, y font partie intégrante
+et ont la même valeur juridique : Annexe I :  Lettre d’adhésion,
+Annexe II :  Spécifications techniques de la plateforme
+participant,
+Annexe III : Convention de pension livrée intrajournalière, et
+Annexe IV : Guide utilisateur de la plateforme participant
+(TMS/X).
+TITRE PREMIER : PARTICIPATION A ELYSSA-RTGS
+CHAPITRE PREMIER : REGIMES DE LA PARTICIPATION A ELYSSA-
+RTGS
+ARTICLE 3 : PARTICIPANT DIRECT ET PARTICIPANT INDIRECT
+3.1. Participant direct : Il détient un compte de règlement à Elyssa-
+RTGS et dispose d’un lien de télécommunication avec le système
+central de la BCT (SWIFT ou réseau privé).
+En cas d’indisponibilité de la plateforme du Participant, ce
+dernier peut utiliser la plateforme disponible au niveau de la
+Salle de secours informatique de Elyssa-RTGS.
+
+=== CHUNK 57 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 33 | Titre_Gemma: **Règles de fonctionnement et conditions de paiement sur Elyssa-RTGS** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
+- Participant technique : Un système de paiement qui établit un
+lien technique avec Elyssa-RTGS, sans disposer d’un compte de
+règlement, dans l’objectif de régler les soldes nets de
+compensation des participants communs dits aussi soldes des
+systèmes exogènes. Le participant technique peut initier des
+règlements en mode brut et ce, pour le cas de Tunisie Clearing.
+- Irrévocabilité d’ordre de paiement ou de règlement :
+L’impossibilité d’annuler un paiement par son donneur d’ordre
+dès son règlement via Elyssa-RTGS.
+- Tout ou rien : Règle d’imputation comptable des soldes de
+compensation au niveau de Elyssa-RTGS qui signifie qu’en aucun
+cas le règlement partiel desdits soldes n’est autorisé. Cette
+imputation est conditionnée par la disponibilité de la liquidité
+suffisante au crédit des comptes de règlement de tous les
+participants concernés.
+- Compte pivot : Compte technique rattaché à un participant
+technique et utilisé pour créditer et débiter d’autres participants.
+- Tunisie Clearing : Le dépositaire central des titres, désigné dans
+les présentes conditions par (TC).
+- Plateforme-participant : Frontal-web ou TMS/X, plateforme de
+communication avec le système central de Elyssa-RTGS
+- Salle de secours informatique : Plateforme de secours
+permettant la saisie des ordres de paiement et le monitoring de
+la situation du compte et de la file d’attente mise à la disposition
+des participants aux locaux de la BCT. ARTICLE 2 : ANNEXES
+Les annexes aux présentes conditions, ci-après, y font partie intégrante et
+ont la même valeur juridique : Annexe I : Lettre d’adhésion ;
+Annexe II : Spécifications techniques de la plateforme technique ; et
+Annexe III : Guide utilisateur de la plateforme technique (TMS/X).
+Annexe IV : Manuel utilisateur du STPA.
+CHAPITRE PREMIER : PARTICIPATION A ELYSSA-RTGS
+

@@ -1,0 +1,395 @@
+=== CHUNK 1 | PDF: Cir_2025_06_fr.pdf | Page: 2 | Titre_Gemma: **Enrôlement électronique des clients : Exigences minimales.** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Article premier :
+Les mesures instituées par la présente circulaire constituent des exigences minimales pour
+l’enrôlement électronique des clients, sans préjudice de l’application de mesures plus
+contraignantes par les banques.
+Les dispositions de la présente circulaire viennent compléter celles de la circulaire aux banques
+et aux établissements financiers n°2017-08 du 19 septembre 2017 relative aux règles de contrôle
+interne pour la gestion du risque de blanchiment d’argent et de financement du terrorisme,
+lesquelles constituent avec la présente circulaire un cadre réglementaire unifié et indissociable.
+
+=== CHUNK 2 | PDF: Cir_2025_06_fr.pdf | Page: 2 | Titre_Gemma: **Définitions clés de l'enrôlement électronique et des taux de fausses acceptations.** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Article 2 :
+Au sens de la présente circulaire, on entend par :
+ Enrôlement électronique des clients : le processus par lequel la banque recourt à un
+procédé technologique automatisé ou semi-automatisé pour digitaliser tout ou une partie
+du processus de collecte, de vérification et de conservation des éléments d'identification
+des clients.
+ Identification électronique : le processus consistant en l’utilisation de données
+d’identification à caractère personnel sous une forme électronique représentant de
+manière univoque une personne physique ou morale.
+ Taux de fausses acceptations (TFA) : la probabilité que le procédé technologique
+accepte la demande d’entrée en relation avec une personne alors qu’elle devrait être
+rejetée. Ce taux renseigne sur la capacité du procédé technologique à détecter les
+tentatives de vérification d’identité non authentiques. Il est calculé selon la formule
+suivante :
+TFA= ( 𝑵𝒐𝒎𝒃𝒓𝒆 𝒅𝒆 𝒇𝒂𝒖𝒙 𝒑𝒐𝒔𝒊𝒕𝒊𝒇𝒔
+𝑵𝒐𝒎𝒃𝒓𝒆 𝒅𝒆 𝒇𝒂𝒖𝒙 𝒑𝒐𝒔𝒊𝒕𝒊𝒇𝒔 + 𝒏𝒐𝒎𝒃𝒓𝒆 𝒅𝒆 𝒗𝒓𝒂𝒊𝒔 𝑷𝒐𝒔𝒊𝒕𝒊𝒇𝒔) × 𝟏𝟎𝟎
+ Faux positifs :  les cas où le procédé technologique a vérifié et accepté l’identité d’une
+personne alors qu’elle aurait dû être refusée.
+ Vrais positifs : les cas où le procédé technologique a correctement vérifié et accepté
+l’identité d’une personne.
+ Faux négatifs : les cas où le procédé technologique a rejeté à tort la vérification
+d’identité d’une personne alors qu'elle aurait dû être acceptée.
+ Vrais négatifs : les cas où le procédé technologique a correctement rejeté la vérification
+d’identité d’une personne.
+ Dispositif de gestion des incidents : l’ensemble de procédures que la banque doit
+mettre en place en cas de violation de la sécurité, de tentative de fraude, ou de toute
+autre activité suspecte.
+ Scalabilité : la capacité de résistance d’un procédé technologique à une montée en
+charge pour pouvoir gérer une augmentation du nombre d'utilisateurs de manière
+efficace et sans perte de performance.
+ Registre de performance : le registre de performance enregistre les indicateurs clés
+permettant d’évaluer l’efficacité et la fiabilité du procédé technologique mis en place
+pour l’enrôlement électronique des clients.
+ Preuve de vie : le processus permettant de vérifier qu’une personne fournissant des
+données biométriques est réellement un être humain vivant.
+
+=== CHUNK 3 | PDF: Cir_2025_06_fr.pdf | Page: 3 | Titre_Gemma: **Enrôlement électronique clients : Obligations de la banque** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Article 3 :
+Dans le cas où la banque procède à l’enrôlement électronique des clients, elle doit :
+-
+recourir à un procédé technologique respectant les exigences minimales définies au
+niveau de la présente circulaire ; -
+mettre en place des mesures de vigilance proportionnelles aux profils de risques des
+clients,  et ; -
+garantir un niveau de vérification de l’identité au moins équivalent à celui impliquant la
+présence physique des clients conformément à la circulaire n°2017-08.
+
+=== CHUNK 4 | PDF: Cir_2025_06_fr.pdf | Page: 3 | Titre_Gemma: **Enrôlement électronique des clients : obligations de gouvernance bancaire** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Article 3 :
+TITRE II : RÈGLES DE GOUVERNANCE Article 4 :
+La banque qui envisage le recours à l’enrôlement électronique des clients doit mettre en place
+des procédures formalisées, adéquates et cohérentes avec ses politiques d’appétence pour le
+risque et de protection des intérêts des usagers des services bancaires et de leurs données
+personnelles, telles que prévues par la circulaire aux banques et aux établissements financiers
+n°2021-05 du 19 août 2021.
+Ces procédures doivent être approuvées par l’organe d’administration de la banque et
+comportent notamment : -
+une description détaillée du processus d’enrôlement électronique des clients de bout en
+bout avec notamment la procédure d’entretien ainsi que les étapes qui sont entièrement
+automatisées et celles qui nécessitent une intervention humaine ;
+-
+une description détaillée du procédé technologique à mettre en place pour l’enrôlement
+électronique des clients ; -
+une cartographie des risques associés à l’enrôlement électronique des clients tels que les
+risques opérationnels, les risques liés au traitement de données à caractère personnel et
+à l’usurpation d’identité, le risque cybernétique, le risque de scalabilité, le risque
+d’interruption de l’activité ainsi que les risques de blanchiment d'argent et de
+financement du terrorisme ; - les mesures d’atténuation des risques ; -
+le dispositif de gestion des incidents pour l’identification et la résolution des problèmes
+pouvant impacter la sécurité ou la performance du processus d’enrôlement électronique
+des clients, et ;
+-
+le cas échéant, le recours total ou partiel aux tiers lors du processus d’enrôlement
+électronique des clients.
+
+=== CHUNK 5 | PDF: Cir_2025_06_fr.pdf | Page: 4 | Titre_Gemma: **Obligations des Banques en matière d'Enrôlement Électronique des Clients** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Article 5 :
+La banque ayant adopté les procédures visées à l’article 4 de la présente circulaire doit :
+-
+allouer les ressources financières et techniques nécessaires ;
+-
+s’assurer en continu de la sécurité et de la performance du procédé technologique
+d’enrôlement électronique des clients ; -
+assurer des programmes de formation continue pour le personnel impliqué dans le
+processus d’enrôlement électronique des clients ;
+-
+mettre en place un dispositif de gestion des risques associés à l’enrôlement électronique
+des clients, en mettant l’accent sur la sécurité des données et l’intégrité des systèmes, et ;
+-
+assurer une veille technologique continue pour assurer l’adaptabilité et la résilience des
+procédés technologiques utilisés.
+
+=== CHUNK 6 | PDF: Cir_2025_06_fr.pdf | Page: 4 | Titre_Gemma: **Enrôlement électronique des clients : Obligations de vérification et de consentement** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : TITRE III : EXIGENCES TECHNIQUES MINIMALES
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Article 6 :
+Lors de l’enrôlement électronique des clients, la banque doit recueillir les éléments
+d’identification des clients et des bénéficiaires effectifs conformément à la circulaire aux
+banques et aux établissements financiers n°2017-08.
+La banque est tenue de vérifier l’identité des clients. A cet effet, elle doit notamment :
+ recueillir le consentement préalable du client quant au traitement de ses données à
+caractère personnel ;
+ mettre en place une combinaison adéquate de facteurs d’authentification pour
+l’identification électronique des clients, proportionnelle aux risques évalués ;
+ vérifier l’authenticité et l’intégrité des documents d’identification fournis par le client
+lorsqu’une connexion ou une intégration est disponible avec les systèmes électroniques
+des organismes compétents ayant délivré ces documents. Dans le cas où l’accès à
+distance aux informations requises n’est pas possible, l’entrée en relation ne peut être
+validée. A cet effet, la banque procède à une vérification manuelle des documents
+d’identification fournis par le client ;
+ s’assurer de la présence réelle du client à l’aide d’une technologie de communication
+audiovisuelle ou de reconnaissance faciale ou de toute autre technologie fiable
+permettant de confirmer la preuve de vie ;
+ procéder à une analyse de correspondance entre les données d’identification du client
+introduites et celles biométriques, en recourant à la technique de reconnaissance de
+caractère.
+
+=== CHUNK 7 | PDF: Cir_2025_06_fr.pdf | Page: 5 | Titre_Gemma: **Filtrage et Profilage des Clients : Conformité Circulaire 2017-08** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : TITRE III : EXIGENCES TECHNIQUES MINIMALES
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Article 7 :
+Lors de l’enrôlement électronique des clients, la banque doit assurer le filtrage et le profilage
+conformément à la circulaire aux banques et aux établissements financiers n°2017-08.
+
+=== CHUNK 8 | PDF: Cir_2025_06_fr.pdf | Page: 5 | Titre_Gemma: **KYC électronique : Obligations de la banque** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : TITRE III : EXIGENCES TECHNIQUES MINIMALES
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Article 8 :
+La banque doit s'assurer, qu’au bout du processus d’enrôlement électronique, le procédé
+technologique utilisé génère automatiquement une fiche d’identification du client « KYC »
+consignant au moins toutes les informations requises par la circulaire n°2017-08.
+En cas de modification des données du client, la fiche d’identification doit être mise à jour dans
+un délai ne dépassant pas un mois.
+
+=== CHUNK 9 | PDF: Cir_2025_06_fr.pdf | Page: 5 | Titre_Gemma: **Identification des clients : Exigence de documents papier pour les personnes morales.** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : TITRE III : EXIGENCES TECHNIQUES MINIMALES
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Article 9 :
+Pour les clients personnes morales, et en sus des mesures prévues par les articles 6, 7 et 8 de la
+présente circulaire, la banque doit recueillir la version papier des documents d’identification du
+client.
+La validation de l’entrée en relation est tributaire de la collecte au préalable des documents
+d’identification, à moins qu’un risque faible ait été dûment évalué et documenté.
+
+=== CHUNK 10 | PDF: Cir_2025_06_fr.pdf | Page: 5 | Titre_Gemma: **Consentement au traitement des données personnelles** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : TITRE III : EXIGENCES TECHNIQUES MINIMALES
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Article 10 :
+Le consentement du client aux conditions de l’entrée en relation intervient à sa signature de
+manière électronique ou manuscrite. Lorsque la signature est électronique, elle doit reposer sur
+un mode fiable d’identification qui établit un lien sûr entre la signature et le document
+électronique auquel elle se rattache.
+
+=== CHUNK 11 | PDF: Cir_2025_06_fr.pdf | Page: 5 | Titre_Gemma: **Conservation sécurisée des données KYC** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : TITRE III : EXIGENCES TECHNIQUES MINIMALES
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Article 11 :
+La banque doit prendre toutes les mesures nécessaires pour la conservation d’une manière
+sécurisée des fiches « KYC », des données personnelles, des copies des documents d’identité
+et autres documents nécessaires prévus par la circulaire n°2017-08 et recueillis dans le cadre de
+l’enrôlement électronique des clients.
+Ces mesures doivent garantir, avec un procédé cryptographique fiable, l'intégrité de ces
+documents.
+
+=== CHUNK 12 | PDF: Cir_2025_06_fr.pdf | Page: 5 | Titre_Gemma: **Responsabilité des banques concernant l'enrôlement électronique des clients** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : TITRE III : EXIGENCES TECHNIQUES MINIMALES
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Article 12 :
+La banque est tenue de s’assurer de la fiabilité du procédé technologique d’enrôlement
+électronique des clients préalablement à sa mise en œuvre. A cet effet, elle doit notamment :
+ soumettre le procédé technologique, avant sa mise en production, à des tests dont les
+résultats doivent être consignés dans un registre de performance tenu sur une base
+mensuelle conformément à l’annexe 1 à la présente circulaire et prendre les mesures
+nécessaires pour minimiser le taux de fausses acceptations (TFA).
+ soumettre le procédé technologique à des tests d’intrusion effectués par un organisme
+d’audit homologué par l’Agence Nationale de la Cybersécurité afin de détecter la
+présence de vulnérabilités pouvant avoir un impact significatif sur la protection de
+données à caractère personnel ou la sécurité des opérations,  et ;
+ établir un dispositif de gestion des incidents pouvant survenir lors de l’enrôlement
+électronique des clients.
+Il demeure entendu que la mise en production du procédé technologique est conditionnée par
+sa capacité technique à éliminer tous les cas de fausses acceptations.
+
+=== CHUNK 13 | PDF: Cir_2025_06_fr.pdf | Page: 6 | Titre_Gemma: **Audit annuel des procédures de lutte contre le blanchiment d'argent.** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : TITRE III : EXIGENCES TECHNIQUES MINIMALES
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Article 13 :
+Les procédures prévues par la présente circulaire font partie du dispositif de contrôle interne
+pour la gestion du risque blanchiment d’argent et du financement du terrorisme.
+Lesdites procédures et le procédé technologique employé pour l’enrôlement électronique des
+clients doivent faire l’objet, chaque deux ans, d’une mission d’audit dont les résultats doivent
+être approuvés par le comité d’audit.
+Ces résultats doivent être documentés et conservés pour examen par la Banque Centrale de
+Tunisie.
+
+=== CHUNK 14 | PDF: Cir_2025_06_fr.pdf | Page: 6 | Titre_Gemma: **Externalisation de l'Enrôlement Électronique : Obligations Bancaires** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : TITRE III : EXIGENCES TECHNIQUES MINIMALES
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Article 13 :
+TITRE IV : RECOURS AUX TIERS Article 14 :
+Dans le cas où une banque compte recourir à un tiers pour la réalisation d’une partie ou la
+totalité du processus d’enrôlement électronique des clients, elle doit notamment :
+ se conformer aux dispositions de la circulaire n°2017-08 relative aux règles de contrôle
+interne pour la gestion du risque de blanchiment d’argent et de financement du
+terrorisme ;
+ s’assurer que le tiers prestataire est en mesure de fournir les documents nécessaires pour
+répondre aux exigences de la circulaire n°2017-08, et de permettre à la banque d’accéder
+aux systèmes électroniques, sites web ou bases de données pour vérifier la validité et la
+véracité de ces documents, données ou informations, conformément à la réglementation
+en vigueur ;
+ se conformer aux dispositions légales et réglementaires régissant les opérations
+d’externalisation notamment celles prévues par l’article 81 de la loi n°2016-48 relative
+aux banques et aux établissements financiers ;
+ s’assurer que le tiers prestataire a soumis le procédé technologique à des tests
+conformément aux dispositions de l’article 12 de la présente circulaire, et ;
+ soumettre les activités objet du recours aux tiers à des audits annuels pour évaluer leur
+conformité à la réglementation applicable et leur adéquation avec les standards de
+sécurité et de fiabilité requis.
+
+=== CHUNK 15 | PDF: Cir_2025_06_fr.pdf | Page: 7 | Titre_Gemma: **Contrat d'externalisation bancaire : Exigences minimales** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : TITRE III : EXIGENCES TECHNIQUES MINIMALES
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Article 15 :
+Sans préjudice des dispositions légales et réglementaires régissant les opérations
+d’externalisation, le contrat à conclure avec le tiers, sur avis favorable du responsable de
+contrôle de la conformité de la banque, doit inclure au minimum les éléments suivants :
+ la tenue des registres et la gestion des données, informations et documents, ainsi que le
+respect de leur confidentialité ;
+ la définition des circonstances dans lesquelles la banque peut évaluer les manquements
+du tiers à ses obligations et prendre les mesures correctives nécessaires ;
+ la détermination des cas dans lesquels la banque pourrait examiner le défaut de
+performance du tiers dans l'exécution de ses obligations et prendre les mesures
+nécessaires ;
+ le droit de la banque d’avoir accès en temps voulu à toutes les données, informations et
+documents pertinents pour les procédures d’enrôlement électronique mises en place par
+le tiers ;
+ l’interdiction pour le tiers de divulguer les données, informations et documents relatifs
+aux procédures d’enrôlement électronique sauf dans les cas autorisés par la loi ;
+ l’interdiction pour le tiers de sous-traiter les opérations qui lui ont été externalisées ;
+ la mise à la disposition de la Banque Centrale de Tunisie, sur sa demande, tous les
+documents et informations qu’elle juge utile de les avoir et à accepter le contrôle des
+opérations externalisées à son siège et tout local lui appartenant,  et ;
+ la révision périodique systématique des contrats conclus avec des tiers et la mise à jour
+de ceux-ci, si nécessaire.
+Le recours aux tiers n’exonère en aucun cas la banque de sa responsabilité finale quant à
+l'exécution par le tiers du processus d’enrôlement électronique des clients et de la satisfaction
+de la banque aux exigences de lutte contre le blanchiment d'argent et le financement du
+terrorisme et de toute exigence prévue au niveau de la présente circulaire.
+
+=== CHUNK 16 | PDF: Cir_2025_06_fr.pdf | Page: 7 | Titre_Gemma: **Obligations de la Banque Centrale de Tunisie concernant l'enrôlement électronique des clients.** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : TITRE V : INFORMATION DE LA BANQUE CENTRALE DE TUNISIE
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Article 16 :
+Sans préjudice des dispositions de l’article 17 de la circulaire n°2024-2 et préalablement à la
+mise en place d’un procédé technologique d’enrôlement électronique des clients, la banque doit
+adresser à la Banque Centrale de Tunisie un dossier comprenant notamment :
+ le processus d’enrôlement électronique des clients précisant les étapes qui sont
+entièrement automatisées et celles qui nécessitent partiellement une intervention
+humaine ;
+ une description du procédé technologique que la banque compte mettre en place pour
+recueillir, vérifier et conserver les informations des clients tout au long du processus
+d’entrée en relation d’affaires à distance ;
+ un rapport détaillé sur les risques associés au processus d’enrôlement électronique,
+incluant le niveau de risque résiduel de blanchiment d’argent et de financement du
+terrorisme, le risque d’usurpation d’identité et sur les données personnelles, le risque
+cybernétique, le risque de scalabilité ou  d’interruption d’activité, ainsi que les mesures
+additionnelles prises pour leur atténuation ;
+ une copie du rapport des tests d’intrusion effectués par l’organisme d’audit homologué
+par l’Agence Nationale de la Cybersécurité ;
+ une évaluation de la performance du procédé technologique basée sur un échantillon
+test en phase de préproduction, y compris une analyse des taux de TFA observés
+conformément à l’annexe 1 de la présente circulaire ;
+ des actions proposées pour réduire le TFA ;
+ des mesures d’atténuation ou contrôles additionnels envisagés pour maintenir
+l’efficacité du processus d’enrôlement.
+En cas de recours à un tiers, la banque est tenue de faire part à la Banque Centrale de Tunisie,
+en sus des documents cités au niveau du premier alinéa du présent article, du contrat à conclure
+ainsi que des attestations actualisées du tiers pour le traitement des données personnelles et
+biométriques délivrées par l’Instance Nationale de Protection des Données Personnelles.
+
+=== CHUNK 17 | PDF: Cir_2025_06_fr.pdf | Page: 8 | Titre_Gemma: **Notification des incidents techniques liés à l'enrôlement électronique des clients.** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : TITRE V : INFORMATION DE LA BANQUE CENTRALE DE TUNISIE
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Article 17 :
+La banque est tenue d’informer sans délai la Banque Centrale de Tunisie de la survenance de
+tout incident technique, technologique ou fonctionnel majeur liés à l’enrôlement électronique
+des clients.
+Cette notification doit détailler la nature de l’incident, les causes sous-jacentes, les procédures
+de notification des clients ainsi que les actions correctives à entreprendre par la banque en
+réponse à cet incident.
+
+=== CHUNK 18 | PDF: Cir_2025_06_fr.pdf | Page: 8 | Titre_Gemma: **Conformité à la nouvelle circulaire sur l'enrôlement électronique des clients.** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : TITRE VI : DISPOSITIONS TRANSITOIRES ET ENTRÉE EN VIGUEUR
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Article 18 :
+La présente circulaire entre en vigueur à compter de la date de sa publication.
+Les banques qui ont été autorisées par la Banque Centrale de Tunisie à mettre en place un
+processus d’enrôlement électronique des clients avant la date de publication de la présente
+circulaire doivent se conformer à ses dispositions dans un délai ne dépassant pas six (06) mois
+à compter de la date de son entrée en vigueur.
+Le Gouverneur,
+Fethi Zouhaier NOURI
+
+=== CHUNK 19 | PDF: Cir_2025_06_fr.pdf | Page: 9 | Titre_Gemma: **Registre de Performance de l'Enrôlement Électronique des Clients** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
+Annexe 1 à la circulaire n°2025-06 du 28 février 2025
+Registre de performance du procédé technologique utilisé
+pour l’enrôlement électronique des clients
+Données Mois 1 Mois p Taille totale de l'échantillon des cas d'identification et de vérification
+Nombre de cas de vrais positifs
+Nombre de cas de vrais négatifs
+Nombre de cas de faux positifs
+Nombre de cas de faux négatifs
+Taux de fausses acceptations (%)
+

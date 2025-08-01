@@ -1,0 +1,68 @@
+=== CHUNK 1 | PDF: DECISION_20170412_fr.pdf | Page: -1 | Titre_Gemma: Veuillez me fournir le texte juridique. Je ne peux pas générer un titre sans le contenu. Une fois que vous l'aurez fourni, je vous donnerai un titre clair, court et précis. ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
+Voici le texte juridique découpé en sections de taille raisonnable, respectant les paragraphes et utilisant le séparateur indiqué :
+
+=== CHUNK 2 | PDF: DECISION_20170412_fr.pdf | Page: -1 | Titre_Gemma: **Règlement intérieur de la commission d'agrément** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
+**Article premier - Définition et Objet**
+Le présent règlement intérieur fixe les modalités de fonctionnement de la commission d’agréments créée en vertu de l’article 26 de la loi n° 2016-48 du 11 juillet 2016, relative aux banques et aux établissements financiers.
+
+=== CHUNK 3 | PDF: DECISION_20170412_fr.pdf | Page: -1 | Titre_Gemma: **Règles de Réunion** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Article 4 - Les délibérations de la commission ne sont valables qu’en présence de quatre de ses membres, au moins, dont le gouverneur de la banque centrale de Tunisie ou son représentant. Le secrétariat de la commission s’assure du nombre des personnes présentes et en informe le Président de la commission. Si le quorum sus-mentionné n’est pas atteint lors de la première réunion, la commission se réunit le jour suivant, à condition que trois membres au moins, y compris le gouverneur de la banque centrale de Tunisie ou son représentant, y soient présents.
+**Réunions et Règles de Fonctionnement**
+
+=== CHUNK 4 | PDF: DECISION_20170412_fr.pdf | Page: -1 | Titre_Gemma: **Processus Décisionnel et Confidentialité de la Commission d'Agrément** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Article 6 - Le président de la commission d’agréments ainsi que tous les membres présents à la réunion, consignent leur avis concernant les dossiers d’octroi ou de retrait d’agréments qui leur sont soumis, sur un document établi à cet effet par le secrétariat de la commission. Ce document est annexé aux procès-verbaux des réunions de la commission. Des extraits des délibérations des réunions de la commission sont signés par le président de la commission d’agréments ou son représentant, pour être opposables auprès des tiers.
+**Processus de Décision et Sécurité**
+Les décisions de la commission d’agréments sont prises à la majorité des voix des membres présents. En cas de partage des voix, la voix du président est prépondérante.
+Les délibérations de la commission d’agréments sont tenues secrètes. Le président peut, toutefois, inviter toute personne dont la présence est jugée utile pour participer, sans droit au vote, aux réunions de la commission, sans préjudice du devoir au secret professionnel.
+
+=== CHUNK 5 | PDF: DECISION_20170412_fr.pdf | Page: -1 | Titre_Gemma: **Notification et Secrétariat** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Article 10 - Le secrétariat de la commission d’agréments procède à l’élaboration des procès-verbaux des réunions de la commission et les notifie aux membres pour signature. Les procès-verbaux des réunions de la commission d’agréments sont consignés dans un registre spécial conservé auprès du secrétariat de la commission.
+**Notification et Secrétariat**
+
+=== CHUNK 6 | PDF: DECISION_20170412_fr.pdf | Page: -1 | Titre_Gemma: **Indépendance des Membres** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Article 12 - Chaque membre indépendant de la commission d’agréments est tenu de présenter une déclaration sur l’honneur par laquelle - il déclare ne pas être dans l'une des situations mentionnées à l’article 11 du présent règlement intérieur et s’engage à informer le président de la commission d’agréments immédiatement de tout changement dans sa situation de nature à affecter son indépendance, - il déclare ne pas être dans l'une des situations d’interdictions prévues par l’article 60 de la loi n° 2016-48 du 11 juillet 2016 et par l’article 256 du code des sociétés commerciales.
+**Indépendance des Membres**
+
+=== CHUNK 7 | PDF: DECISION_20170412_fr.pdf | Page: -1 | Titre_Gemma: **Publication et Signature du Document** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Article 13 - Le président de la commission d’agréments procède à la publication du présent règlement intérieur au Journal Officiel de la République Tunisienne et sur le site web de la banque centrale de Tunisie.
+**Publication et Signature**
+Tunis, le 12 avril 2017.
+Le Président de la Commission. ChedlyAyari
+

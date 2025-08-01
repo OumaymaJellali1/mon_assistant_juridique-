@@ -1,0 +1,207 @@
+=== CHUNK 1 | PDF: Cir_2025_01_fr.pdf | Page: 2 | Titre_Gemma: **Annexe 1** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Article premier : L’annexe III à la circulaire n°91-24 susvisée est abrogée et remplacée
+par l’annexe 1 à la présente circulaire.
+
+=== CHUNK 2 | PDF: Cir_2025_01_fr.pdf | Page: 2 | Titre_Gemma: **Détermination de la provision collective - Centrale de Tunisie** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Article 2 : Les banques et les établissements financiers sont tenus de déclarer à la Banque
+Centrale de Tunisie les éléments de détermination de la provision collective
+conformément au modèle de l’annexe 2 à la présente circulaire.
+
+=== CHUNK 3 | PDF: Cir_2025_01_fr.pdf | Page: 2 | Titre_Gemma: **Crédits et Taux de Migration - Engagements Bancaires** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Article 3 : La présente circulaire entre en vigueur à compter de sa date de publication et
+ses dispositions s’appliquent à l’exercice 2024 et les exercices ultérieurs.
+LE GOUVERNEUR,
+Fethi Zouhaier NOURI
+• Engagements sur les particuliers -
+Particuliers du secteur privé : Crédits logements
+-
+Particuliers du secteur privé : Crédits à la consommation
+-
+Particuliers du secteur public : Crédits logements
+-
+Particuliers du secteur public : Crédits à la consommation
+Les banques et les établissements financiers doivent s’assurer, dans le cadre de ce
+regroupement, de l’homogénéité des groupes.
+III.
+Détermination pour chaque groupe de contreparties désigné « gi » d’un taux
+de migration moyen estimé sur un historique de 7 ans les plus récents y
+compris l’année de référence et compte non tenu de l’année 2020.
+Avec :
+- TMgi (N) : Taux de migration de l’année N du groupe de contreparties i.
+- Risque additionnel du groupe i : les engagements à la fin de l’année N des
+contreparties classées 0 et 1  à la fin de l’année (N-1) du groupe i devenus classés
+2-3-4 à la fin de l’année (N).
+- Les TMgi (N) doivent être ajustés afin d’éliminer les effets exceptionnels pouvant
+engendrer un biais. Le détail des ajustements à ce titre doit être communiqué à la
+BCT.
+- TMMgi : Taux de migration historique moyen du groupe de contreparties i.
+- n : nombre d’années retenus dans le calcul du TMMgi.
+IV.
+Majoration des taux de migration historiques moyens
+Les taux de migration historiques du groupe de contreparties « gi » sont majorés par les
+taux « Δgi » comme suit :
+TMgi (N) = ′é() 01′é(−1) × 100 TMMgi = ∑𝑛 𝑁=1 𝑇𝑀𝑔𝑖(𝑁)/𝑛
+Groupe de contreparties ∆gi Professionnels du secteur privé Agriculture 6,75% Industries mécaniques et électriques 2,75%
+Industries agroalimentaires y compris les oléifacteurs
+2,75% Industries pharmaceutiques 0,50% Autres industries 3,50% BTP 6,25%
+Tourisme, y compris les agences de voyage
+7,75% Promotion immobilière 6,75% Commerce 3,25% Santé 1,00% Télécom et TIC 0,75%
+Autres services y compris les agences de location de voitures
+4,25% Contreparties publiques
+Entreprises publiques opérant dans des secteurs concurrentiels
+6,00% Autres organismes publics 2,50% Particuliers
+Particuliers du secteur privé : Crédits logements
+2,00%
+Particuliers du secteur privé : Crédits à la consommation
+3,25%
+Particuliers du secteur public : Crédits logements
+0,50%
+Particuliers du secteur public : Crédits à la consommation
+0,75%
+V.
+Application des taux de provisionnement standards « TPgi »
+Les taux de provisionnement standards « TPgi » se présentent comme suit :
+Groupe de contreparties TPgi Professionnels du secteur privé Agriculture 40% Industries mécaniques et électriques 40%
+Industries agroalimentaires y compris les oléifacteurs
+40% Industries pharmaceutiques 40% Autres industries 40% BTP 40%
+Tourisme y compris les agences de voyage
+40% Promotion immobilière 30% Commerce 40% Santé 40% Télécom et TIC 40%
+Autres services y compris les agences de location de voitures
+40%
+Contreparties publiques
+Entreprises publiques opérant dans des secteurs concurrentiels
+40% Autres organismes publics 40% Particuliers
+Particuliers du secteur privé : Crédits logements
+20%
+Particuliers du secteur privé : Crédits à la consommation
+40%
+Particuliers du secteur public : Crédits logements
+20%
+Particuliers du secteur public : Crédits à la consommation
+40%
+Les taux de majoration « ∆gi » et les taux de provisionnement standards «TPgi» doivent
+être appliqués par les banques. Les établissements financiers peuvent retenir, après
+accord préalable de la Banque Centrale de Tunisie et sur la base d’un rapport motivé,
+des taux de majoration « ∆gi » et/ou des taux de provisionnement «TPgi» inférieurs aux
+taux indiqués ci-dessus. VI.
+Calcul du montant des provisions collectives « PC » sur les engagements 0
+et 1
+Le montant des provisions collectives doit être revu à chaque date d'arrêté des comptes
+annuels. La population cible et les TMMgi doivent être annuellement recalculés.
+Provision collective globale : Somme des provisions collectives par groupe : ∑𝑛
+𝑃𝐶𝑔𝑖 =1
+Provision collective du groupe i : PCgi = Engts 0 et 1gix (TMMgi + Δgi )x TPgi
+
+=== CHUNK 4 | PDF: Cir_2025_01_fr.pdf | Page: 1 | Titre_Gemma: **Circulaire N°2025-01 : Division, Risque et Engagement** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
+Tunis, le 29 janvier 2025.
+CIRCULAIRE AUX BANQUES ET AUX ETABLISSEMENTS FINANCIERS
+N°2025-01
+Objet : Division, couverture des risques et suivi des engagements.
+Le Gouverneur de la Banque Centrale de Tunisie,
+Vu la loi n°2016-35 du 25 avril 2016, portant fixation du statut de la Banque Centrale
+de Tunisie,
+Vu la loi n°2016-48 du 11 juillet 2016, relative aux banques et aux établissements
+financiers,
+Vu la circulaire aux banques et aux établissements financiers n°91-24 du 17 décembre
+1991, relative à la division, couverture des risques et suivi des engagements telle que
+modifiée et complétée par les textes subséquents, notamment la circulaire aux banques
+et aux établissements financiers n°2024-01 du 19 janvier 2024,
+Vu la circulaire aux banques et aux établissements financiers n°2006-19 du 28 novembre
+2006 relative au contrôle interne,
+Vu la circulaire aux banques et aux établissements financiers n°2017-06 du 31 juillet
+2017, relative au reporting comptable, prudentiel et statistique à la Banque Centrale de
+Tunisie,
+Vu la circulaire aux banques et aux établissements financiers n°2021-05 du 19 août
+2021, relative au cadre de gouvernance des banques et des établissements financiers,
+Vu l’avis du Comité de Contrôle de la Conformité n°2025-01 du 28 janvier 2025, tel
+que prévu par l’article 42 de la loi n°2016-35 du 25 avril 2016, portant fixation du statut
+de la Banque Centrale de Tunisie. Décide :
+
+=== CHUNK 5 | PDF: Cir_2025_01_fr.pdf | Page: 3 | Titre_Gemma: **Méthodologie de Calcul des Provisions Collectives** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
+Annexe n° 1 à la circulaire aux banques et aux établissements financiers n° 2025-01 du
+29 janvier 2025
+Annexe III (nouvelle) à la circulaire n°91-24 du 17 décembre 1991
+Méthodologie de détermination des provisions collectives
+Cette méthodologie se base sur les étapes suivantes :
+I.
+Détermination de la base de calcul des provisions collectives
+Les engagements bruts par décaissement et les engagements hors bilan, crédits notifiés
+et non utilisés exclus, classés 0 et 1 à la fin de l’année de référence désignée « Nr ».
+Sont exclus, les engagements envers les banques et les établissements financiers au sens
+de la loi n°2016-48 et leurs assimilés installés à l’étranger ainsi que les institutions de
+microfinance constituées sous forme de société anonyme.
+II.
+Regroupement des engagements 0 et 1 en groupes homogènes
+Les engagements de la population cible sont regroupés par segment de clientèle et par
+secteur d’activité.
+• Engagements sur les professionnels du secteur privé
+- Agriculture - Industries mécaniques et électriques -
+Industries agroalimentaires, y compris les oléifacteurs
+- Industries pharmaceutiques - Autres industries - BTP -
+Tourisme y compris les agences de voyage
+- Promotion immobilière - Commerce - Santé - Télécom et TIC -
+Autres services y compris les agences de location de voitures
+• Engagements sur les contreparties publiques
+-
+Entreprises publiques opérant dans des secteurs concurrentiels
+- Autres organismes publics
+
+=== CHUNK 6 | PDF: Cir_2025_01_fr.pdf | Page: 7 | Titre_Gemma: **Provisions Collectives : Détermination des Engagements** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
+Annexe n° 2 à la circulaire aux banques et aux établissements financiers n° 2025-01 du 29 janvier 2025
+Etat de détermination des provisions collectives
+(*)  -  Crédits notifiés et non utilisés
+- Engagements sur les banques et les établissements financiers au sens de la loi n°2016-48 et leurs assimilés installés à l'étranger
+- Engagements sur les institutions de microfinance constituées sous forme de société anonyme.
+Engagements bruts par décaissement Engagements hors bilan Eléments à déduire (*) Encours des engagements classés 0 et 1 base de calcul des provisions collectives (En mD) TM1 TM2 TM3 TM4 TM5 TM6 TM (Nr) Professionnels du secteur privé Agriculture Industries mécaniques et électriques
+Industries agroalimentaires, y compris les
+oléifacteurs Industries pharmaceutiques Autres industries BTP
+Tourisme y compris les agences de voyage
+Promotion immobilière Commerce Santé Télécom et TIC
+Autres services y compris les agences de
+location de voitures Contreparties publiques Entreprises publiques opérant dans des secteurs concurrentiels Autres organismes publics Particuliers Particuliers du secteur privé : Crédits logements
+Particuliers du secteur privé : Crédits à la
+consommation
+Particuliers du secteur public : Crédits
+logements
+Particuliers du secteur public : Crédits à la
+consommation Total Taux de migration moyens (TMM) Δgi TMM majoré Taux de provisionnement (TP) Encours des provisions collectives à la fin de l'année de référence (Nr)
+Taux de migration (TM) (historique sur 7 ans les plus récents y
+compris l’année de référence et compte non tenu de l’année 2020)
+Encours des provisions collectives à la fin de l'année (Nr-1)
+Encours des engagements classés 0 et 1 à la fin de l'année de
+référence (Nr)
+Segment de clientèle/ Secteur d'activité
+

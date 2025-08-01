@@ -1,0 +1,1705 @@
+=== CHUNK 1 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 2 | Titre_Gemma: **Gouvernance des Banques et Établissements Financiers** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Article premier :
+La présente circulaire définit le cadre de gouvernance que les banques et les établissements
+financiers sont tenus d’observer en vue de :
+-
+protéger les intérêts des déposants, des créanciers, des actionnaires et du personnel,
+-
+assurer une gestion saine, prudente et transparente de la banque et de l’établissement
+financier, basée sur une culture solide du risque et de la conformité, et
+-
+assurer les conditions d’intégrité, d’honorabilité et de loyauté des membres de
+l’organe d’administration, des dirigeants et des employés de la banque et de
+l’établissement financier.
+
+=== CHUNK 2 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 2 | Titre_Gemma: **Circulaire : Obligations des établissements financiers tunisiens** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Article 2 :
+La présente circulaire s’applique aux banques et aux établissements financiers au sens de la loi
+n°2016-48, à l’exception des établissements de paiement.
+Ci-après désignés par « les établissements ».
+Sont exclues du champ d’application de la présente circulaire, les succursales des banques
+installées en Tunisie avant la promulgation de la loi n° 2016-48 susvisée et ayant leur siège
+social à l’étranger. Toutefois, ces succursales sont tenues de transmettre à la Banque Centrale
+de Tunisie un rapport annuel portant notamment sur le cadre de gouvernance appliqué par la
+société-mère à la succursale ainsi que la politique et la stratégie de gestion des risques et de la
+conformité.  Ce rapport doit être visé par l’organe d’administration de la société mère.
+
+=== CHUNK 3 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 3 | Titre_Gemma: **Définitions clés : Appétence au risque, gouvernance et comités.** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Article 3 :
+Au sens de la présente circulaire, on entend par :
+Appétence pour le risque : le niveau global et le type de risque qu’un établissement est disposé
+à assumer pour réaliser ses objectifs stratégiques et son plan d’activité.
+Cadre de gouvernance : l’ensemble de règles qui régissent les relations entre d’une part les
+organes de gouvernance à savoir : l’organe d’administration, l’organe de direction et les
+comités et d’autre part les parties prenantes. Le cadre de gouvernance définit notamment les
+pouvoirs et les responsabilités des différents organes de gouvernance ainsi que les mécanismes
+de prise de décision au sein de l’établissement.
+Comités : les comités d’audit, de risque et de nomination et de rémunération tels que visés
+par les articles 49, 50 et 51 de la loi n°2016-48.
+Conflits d’intérêts : la situation où les intérêts personnels d'un membre de l’organe
+d’administration ou de l’organe de direction ou du personnel ou de ceux des personnes avec
+qui ils ont un lien familial proche ou des intérêts financiers et stratégiques, ne soient pas
+compatibles avec les intérêts de l’établissement.
+Culture du risque : l’ensemble des normes, des attitudes et des conduites d’un établissement
+relatives à la sensibilisation au risque ainsi qu’à la prise et la gestion des risques.
+Devoir de diligence : l’obligation pour tout membre de l’organe d’administration et de
+l’organe de direction d’agir, dans le cadre de l’exercice de ses fonctions, d’une façon réactive,
+responsable et prudente dans l’intérêt de l’établissement.
+Entité consolidante : établissement agréé en qualité de banque ou d’établissement financier
+et ayant une ou plusieurs filiales.
+Fonctions clés : les fonctions de contrôle et les lignes de métiers.
+Fonctions de contrôle : elles comprennent les fonctions d'audit interne, de gestion des risques
+et de contrôle de la conformité telles que visées à l’article 53 de la loi n°2016-48.
+Groupe bancaire : l’entité consolidante et toutes ses filiales.
+Lien familial : englobe le conjoint, les ascendants et les descendants de premier degré.
+Obligation de loyauté : l’obligation, pour tout membre de l’organe d’administration et de
+l’organe de direction, d’agir uniquement dans l’intérêt de l’établissement.
+Organe d’administration : le Conseil d’Administration ou le Conseil de Surveillance au sens
+de la loi n°2016-48.
+Organe de direction : la Direction Générale composée du Directeur Général et le cas échéant
+du ou des Directeurs Généraux Adjoints ou des membres du directoire au sens de la loi n°2016-
+48.
+Parties prenantes : elles désignent l’ensemble des personnes qui sont en rapport direct avec
+les activités d’un établissement et qui peuvent influencer ou être influencées par la réalisation
+des objectifs de l’établissement. Sont considérées notamment parties prenantes les
+actionnaires, les déposants, les usagers des services bancaires, les créanciers, les pouvoirs
+publics, le personnel, les dirigeants et les concurrents.
+Risque de non-conformité : le risque d’exposition d’un établissement à un risque de
+réputation, de pertes financières ou de sanctions en raison de l’inobservation des dispositions
+légales et réglementaires, des normes et pratiques applicables à ses activités, du non-respect de
+la politique interne ou du code de déontologie de l’établissement.
+
+=== CHUNK 4 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 4 | Titre_Gemma: **Principes de Gouvernance des Établissements** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Article 4 :
+Le cadre de gouvernance des établissements doit obéir aux principes suivants :
+Le principe de proportionnalité : le cadre de gouvernance doit être adapté à la taille de
+l’établissement, à son caractère systémique au sens de l’article 69 de la loi n°2016-48, à sa
+situation financière au sens des articles 100, 101 et 102 de cette même loi, à son profil de risque
+ainsi qu’à la nature et à la complexité de ses activités et de ses opérations.
+Ce principe doit être appliqué sans préjudice des dispositions légales et réglementaires en
+vigueur.
+Le principe d’équilibre des pouvoirs : le cadre de gouvernance doit consacrer l’équilibre des
+pouvoirs à travers l’instauration d’un système approprié de pouvoirs et de contre-pouvoirs, de
+responsabilité et de reddition de comptes.
+Le principe de traitement équitable des actionnaires :   il se traduit particulièrement par :
+-
+l’obtention en temps opportun et d’une façon régulière des informations pertinentes et
+significatives sur l’établissement, -
+la participation et le vote aux assemblées générales,
+-
+la facilitation de la participation effective des actionnaires aux grandes décisions
+relatives à la gouvernance de l’établissement.
+Le principe de transparence et de diffusion de l’information : le cadre de gouvernance doit
+garantir la diffusion en temps opportun d’informations fiables et pertinentes à toutes les parties
+prenantes sur tous les sujets d’importance significative pour l’établissement notamment son
+actionnariat, sa situation financière, ses performances, sa gouvernance, son profil de risque et
+sa conformité.
+
+=== CHUNK 5 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 5 | Titre_Gemma: **Fonctionnement de l'Organe d'Administration** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE PREMIER : DES RESPONSABILITES
+Titre : TITRE 2 : DE L’ORGANE D’ADMINISTRATION
+Section : Section II : Des responsabilités spécifiques
+Sous-section : Non spécifié
+Article : Article 5 :
+Sans préjudice des dispositions de l’article 48 de la loi n°2016-48, l’organe d’administration
+est chargé de : -
+la définition de la stratégie de développement de l’établissement basée sur une politique
+formalisée d’appétence pour le risque, -
+l’élaboration d’un cadre de gouvernance en adéquation avec la taille, la complexité et
+la nature de l’activité ainsi que le profil du risque de l’établissement et le cas échéant
+du groupe bancaire auquel il appartient,
+-
+la définition et l’application effective d’une politique de gestion des conflits d’intérêts,
+-
+la surveillance de la mise en œuvre effective par l’organe de direction de la stratégie de
+l’établissement, -
+l’ancrage d’une véritable culture du risque dans la gestion de l’établissement et la
+surveillance de l’efficacité et l’indépendance des fonctions de contrôle,
+-
+la définition et l’application effective d’une politique de conformité,
+-
+la définition d’une politique de nomination et de rémunération,
+-
+la définition et la mise en œuvre d’une politique de reddition et de divulgation vis-vis
+des parties prenantes, -
+la protection des intérêts des déposants et des usagers des services bancaires et de leurs
+données à caractère personnel, et -
+la consécration d’une véritable culture d’entreprise valorisant le comportement
+responsable et éthique ainsi que le respect des principes de la responsabilité sociétale
+et environnementale.
+
+=== CHUNK 6 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 5 | Titre_Gemma: **Stratégie et politiques d'intervention de l'établissement.** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE PREMIER : DES RESPONSABILITES
+Titre : TITRE 2 : DE L’ORGANE D’ADMINISTRATION
+Section : Section II : Des responsabilités spécifiques
+Sous-section : Non spécifié
+Article : Article 6 :
+L’organe d’administration arrête la stratégie de développement et les politiques d’intervention
+de l’établissement. Il est appelé, à cet effet, à :
+- fixer d’une manière formalisée des objectifs de croissance et de rentabilité en cohérence avec
+la politique d’appétence pour le risque et la préservation de la solidité financière de
+l’établissement.
+-  vérifier régulièrement la pertinence de ces objectifs notamment au regard des évolutions des
+métiers de la banque et de la finance ainsi que des évolutions réglementaires, économiques et
+environnementales.
+Il doit s’assurer, à ce titre, que les moyens humains, financiers et techniques sont en adéquation
+permanente avec la stratégie et les politiques d’intervention arrêtées.
+
+=== CHUNK 7 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 6 | Titre_Gemma: **Politique d'Appétence au Risque** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE PREMIER : DES RESPONSABILITES
+Titre : TITRE 2 : DE L’ORGANE D’ADMINISTRATION
+Section : Section II : Des responsabilités spécifiques
+Sous-section : Non spécifié
+Article : Article 7 :
+L’organe d’administration met en place, en concertation avec l’organe de direction, une
+politique d’appétence pour le risque qui :
+-
+détermine le niveau global et individuel par type de risque que l’établissement est prêt
+à assumer pour réaliser son plan d’activité,
+-
+définit les limites d’exposition par type de risque,
+-
+définit la politique des fonds propres et de liquidité en adéquation avec le volume et la
+nature du risque et en conformité avec les exigences légales et réglementaires en
+vigueur.
+La politique d’appétence pour le risque doit faire l’objet d’une diffusion à tous les services
+concernés de l’établissement et doit faire partie de la culture du risque de l’établissement.
+L’organe d’administration s’assure de la mise en œuvre effective de la politique d’appétence
+pour le risque ainsi que son respect.
+
+=== CHUNK 8 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 6 | Titre_Gemma: **Cadre de Gouvernance de l'Établissement** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE PREMIER : DES RESPONSABILITES
+Titre : TITRE 2 : DE L’ORGANE D’ADMINISTRATION
+Section : Section II : Des responsabilités spécifiques
+Sous-section : Non spécifié
+Article : Article 8 :
+L’organe d’administration arrête un cadre de gouvernance de l’établissement en conformité
+avec les dispositions légales et réglementaires en vigueur et les principes consignés dans le code
+de déontologie visé à l’article 13 de la présente circulaire. Ce cadre définit, en conformité avec
+les statuts de l’établissement et la législation en vigueur :
+- le mode de gouvernance, -
+les principes, les politiques et les pratiques de gouvernance,
+-
+les organes de gouvernance, leurs attributions, leurs compositions et les règles de leur
+fonctionnement, -
+les dispositifs destinés à assurer l’indépendance des fonctions de contrôle, et
+-
+les rapports de l’organe d’administration avec l’organe de direction et les structures
+opérationnelles de l’établissement.
+L’organe d’administration s’assure de la mise en œuvre effective de ce cadre de gouvernance
+ainsi que son respect et vérifie régulièrement sa pertinence.
+Le cadre de gouvernance doit être formalisé et consigné dans un code de gouvernance
+approuvé par l’organe d’administration et dûment signé et par l’ensemble de ses membres.
+
+=== CHUNK 9 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 7 | Titre_Gemma: **Surveillance de la gestion et définition d'indicateurs de performance.** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE PREMIER : DES RESPONSABILITES
+Titre : TITRE 2 : DE L’ORGANE D’ADMINISTRATION
+Section : Section II : Des responsabilités spécifiques
+Sous-section : Non spécifié
+Article : Article 9 :
+L’organe d’administration assure la surveillance de l’efficacité de la gestion de
+l’établissement par l’organe de direction en s’appuyant notamment sur les travaux des
+fonctions de contrôle.
+Il doit, à ce titre, contrôler la cohérence de la politique d’intervention de l’organe de direction
+avec la stratégie et les politiques approuvées, y compris la politique des risques.
+Il définit, dans ce cadre, des indicateurs quantitatifs et qualitatifs de suivi des performances de
+l’établissement notamment en matière de solvabilité, de liquidité, de rentabilité et de
+conformité et de responsabilité sociétale et environnementale.
+
+=== CHUNK 10 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 7 | Titre_Gemma: **Politique de rémunération et de nomination des dirigeants bancaires islamiques.** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE PREMIER : DES RESPONSABILITES
+Titre : TITRE 2 : DE L’ORGANE D’ADMINISTRATION
+Section : Section II : Des responsabilités spécifiques
+Sous-section : Non spécifié
+Article : Article 10 :
+L’organe d’administration arrête une politique de rémunération et de nomination de ses
+membres, des comités, du comité de contrôle de conformité des normes bancaires islamiques,
+de l’organe de direction, ainsi que des premiers responsables des fonctions clés et de l’auditeur
+des opérations bancaires islamiques en adéquation avec l’organisation et les performances de
+l’établissement.
+La politique de rémunération obéit aux éléments suivants :
+-
+être cohérente avec la stratégie de développement, avec la solidité financière de
+l’établissement et avec ses intérêts à long terme,
+-
+être conçue afin d’établir des pratiques qui encadrent les incitations à des prises de
+risques excessifs, -
+établir d’une manière claire, formalisée et selon des critères objectifs le régime de
+rémunération et les composantes de la rémunération, et
+-
+réviser partiellement ou totalement la rémunération variable lorsque l’établissement
+enregistre des performances financières défavorables ou accuse des pertes, ou en
+cas d’agissements entraînant des pertes significatives pour l’établissement ou en cas
+de manquement à ses obligations.
+L’organe d’administration est tenu de faire part à la Banque Centrale de Tunisie d’un rapport
+détaillant les pratiques de rémunération des membres de l’organe de direction et des premiers
+responsables des fonctions clés.
+
+=== CHUNK 11 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 8 | Titre_Gemma: **Nomination des Comités de Conformité Bancaire Islamique** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE PREMIER : DES RESPONSABILITES
+Titre : TITRE 2 : DE L’ORGANE D’ADMINISTRATION
+Section : Section II : Des responsabilités spécifiques
+Sous-section : Non spécifié
+Article : Article 11 :
+L’organe d’administration nomme parmi ses pairs les membres des comités visés aux articles
+49, 50 et 51 de la loi n°2016-48.
+Il nomme :
+- les premiers responsables des structures, d’audit interne, de risque et de contrôle de la
+conformité sur proposition de l’organe de direction, et
+- le responsable de la structure d’audit des opérations bancaires islamiques conformément à
+l’alinéa 1er de l’article 58 de la présente circulaire.
+L’organe d’administration propose à l’assemblée générale de l’établissement les membres du
+Comité de Contrôle de Conformité des Normes Bancaires Islamiques.
+
+=== CHUNK 12 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 8 | Titre_Gemma: **Gestion des conflits d'intérêts** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE PREMIER : DES RESPONSABILITES
+Titre : TITRE 2 : DE L’ORGANE D’ADMINISTRATION
+Section : Section II : Des responsabilités spécifiques
+Sous-section : Non spécifié
+Article : Article 12 :
+L’organe d’administration de l’établissement veille à ce que tous ses membres, les membres
+de l’organe de direction ainsi que les premiers responsables des fonctions de contrôle évitent
+les situations qui pourraient créer des conflits d’intérêts. Il définit à ce titre la politique en
+matière de gestion des conflits d'intérêts qui doit inclure notamment :
+-
+la typologie des situations susceptibles d’engendrer des conflits d’intérêts,
+-
+le processus d'examen et d'approbation par l’organe d’administration de toute activité
+ou transaction que l’un de ses membres ou de ceux de l’organe de direction compte
+entreprendre et qui pourrait créer des conflits d’intérêts,
+-
+l’obligation pour tout membre de l’organe d’administration ou de l’organe de direction
+de signaler à l’organe d’administration tout fait de nature à l’induire en une situation
+de conflit d’intérêts, -
+l’engagement des membres de l’organe d’administration de ne pas prendre part aux
+débats portant sur des questions qui peuvent engendrer une situation de conflit
+d’intérêts vis-à-vis de l’établissement et de s’abstenir de voter sur lesdites questions,
+-
+les procédures qui régissent de façon adéquate les transactions avec des parties liées
+au sens de l’article 43 de la loi n°2016-48, et
+-
+les modalités selon lesquelles l’organe d’administration traite les cas de non-respect
+de cette politique.
+
+=== CHUNK 13 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 8 | Titre_Gemma: **Code de Déontologie et Politiques d'Éthique Bancaire** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE PREMIER : DES RESPONSABILITES
+Titre : TITRE 2 : DE L’ORGANE D’ADMINISTRATION
+Section : Section II : Des responsabilités spécifiques
+Sous-section : Non spécifié
+Article : Article 13 :
+L’organe d’administration fixe les principes et les règles de bonne conduite professionnelle
+à l’égard des parties prenantes. Ces règles sont consignées dans un code de déontologie.
+À cet effet, l’organe d’administration met en place des politiques documentées concernant la
+manière dont ces règles doivent être respectées. Ces politiques doivent prévoir notamment :
+-
+les principes de comportement professionnel responsable dont notamment
+l’accomplissement des attributions en faisant preuve d’intégrité, de loyauté, de
+compétence et de diligence requise et d’évitement des conflits d’intérêt,
+-
+les principes à même de garantir l’écoute des usagers des services bancaires, leur bonne
+information et une conduite commerciale dans leur intérêt, et
+-
+les règles de conduite assurant la protection des données à caractère personnel ainsi
+qu’au respect du secret professionnel.
+
+=== CHUNK 14 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 9 | Titre_Gemma: **Responsabilités de l'organe d'administration en matière de conformité.** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE PREMIER : DES RESPONSABILITES
+Titre : TITRE 2 : DE L’ORGANE D’ADMINISTRATION
+Section : Section II : Des responsabilités spécifiques
+Sous-section : Non spécifié
+Article : Article 14 :
+Il incombe à l’organe d’administration de :
+-
+arrêter les principes de base de la politique de conformité que l’établissement doit
+respecter dans l’exercice de ses activités et superviser sa mise en œuvre,
+-
+veiller à la mise en place, par l’organe de direction, d’une fonction de contrôle de la
+conformité efficace et indépendante, -
+veiller régulièrement au suivi de l’activité de l’organe chargé du contrôle de la
+conformité, s’assurer de son bon fonctionnement et de l’adéquation de ses moyens, et
+-
+évaluer au moins, annuellement, la gestion du risque de non-conformité par
+l’établissement.
+
+=== CHUNK 15 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 9 | Titre_Gemma: **Responsabilité Sociétale et Environnementale de l'Établissement** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE PREMIER : DES RESPONSABILITES
+Titre : TITRE 2 : DE L’ORGANE D’ADMINISTRATION
+Section : Section II : Des responsabilités spécifiques
+Sous-section : Non spécifié
+Article : Article 15 :
+L’organe d’administration veille à l’instauration d’une culture de finance responsable. A ce
+titre, il œuvre à intégrer les principes de la responsabilité sociétale et environnementale dans la
+stratégie de l’établissement.
+Les actions entreprises dans le cadre de la responsabilité sociétale et environnementale de
+l’établissement sont consignées dans son rapport annuel qui prévoit notamment les projets
+financés et leurs impacts environnementaux et sociaux.
+
+=== CHUNK 16 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 9 | Titre_Gemma: **Politique de Signalement des Pratiques Douteuses** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE PREMIER : DES RESPONSABILITES
+Titre : TITRE 2 : DE L’ORGANE D’ADMINISTRATION
+Section : Section II : Des responsabilités spécifiques
+Sous-section : Non spécifié
+Article : Article 16 :
+L’organe d’administration met en place une politique de lancement d'alerte et des procédures
+adéquates permettant aux employés de dénoncer, en toute confidentialité, à la fonction de
+contrôle de la conformité de l’établissement les pratiques douteuses, illégales ou contraires à
+la déontologie.
+L’organe d’administration s'assure que les employés qui signalent lesdites pratiques soient
+protégés de tout traitement préjudiciable et veille à ce que l’organe de direction donne suite
+aux questions soulevées par la fonction de contrôle de conformité.
+L’organe d’administration surveille la procédure de traitement des alertes et est tenu informé
+des alertes et des suites qui leur sont réservées.
+
+=== CHUNK 17 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 10 | Titre_Gemma: **Auto-évaluation et évaluation des membres de l'organe d'administration.** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE II
+Titre : TITRE 2 : DE L’ORGANE D’ADMINISTRATION
+Section : Section I : De la composition et de la qualification des membres
+Sous-section : Non spécifié
+Article : Article 17 :
+L’organe d’administration réalise selon une périodicité annuelle une auto-évaluation ainsi
+qu’une évaluation des travaux de ses comités et de chacun de ses membres, et prend les
+mesures correctrices à la lumière des évaluations élaborées.
+Cette évaluation porte notamment sur : -
+les modalités de fonctionnement de l’organe d’administration et de ses comités,
+-
+les modalités de préparation et d’examen des questions importantes,
+-
+l’appréciation de la qualification, de l’assiduité et de la contribution effective de
+chaque membre aux travaux de l’organe d’administration et de ses comités, et
+-
+l’appréciation de la structure, de la taille et de la composition de l’organe
+d’administration et des comités et leurs adéquations avec les attributions et les
+objectifs fixés.
+L’organe d’administration veille à ce que les actionnaires soient informés, au niveau du
+rapport de gestion, de l’évaluation de l’action de l’organe d’administration et de ses comités
+et, le cas échéant, des suites données à cette évaluation.
+Cette évaluation doit être effectuée conformément à la méthodologie prévue par l’article 42
+alinéa 4 de la présente circulaire.
+DE LA COMPOSITION ET DU FONCTIONNMENT DE L’ORGANE
+D’ADMINISTRATION
+
+=== CHUNK 18 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 10 | Titre_Gemma: **Composition et Diversité de l'Administration** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE II
+Titre : TITRE 2 : DE L’ORGANE D’ADMINISTRATION
+Section : Section I : De la composition et de la qualification des membres
+Sous-section : Non spécifié
+Article : Article 18 :
+La composition de l’organe d’administration et les qualifications de ses membres doivent être
+adaptées à la stratégie de développement de l’établissement, à sa taille, à la nature de son
+activité et à la complexité de ses opérations ainsi qu’à son profil de risque.
+L’organe d’administration doit refléter une diversité des compétences à même de lui
+permettre d’assurer efficacement ses responsabilités.
+L’établissement veille à mettre en place une politique visant à instaurer la diversité de genre
+au niveau de l’organe d’administration et à communiquer sur cet aspect au niveau du rapport
+destiné au public prévu à l’article 69 de la présente circulaire.
+
+=== CHUNK 19 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 11 | Titre_Gemma: **Composition du Conseil d'Administration** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE II
+Titre : TITRE 2 : DE L’ORGANE D’ADMINISTRATION
+Section : Section I : De la composition et de la qualification des membres
+Sous-section : Non spécifié
+Article : Article 19 :
+L’organe d’administration doit comporter au moins deux membres indépendants et un
+membre représentant les petits actionnaires au sens de la réglementation relative au marché
+financier pour l’établissement coté à la Bourse des Valeurs Mobilières de Tunis.
+
+=== CHUNK 20 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 11 | Titre_Gemma: **Définition de Membre Indépendant de l'Administration** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE II
+Titre : TITRE 2 : DE L’ORGANE D’ADMINISTRATION
+Section : Section I : De la composition et de la qualification des membres
+Sous-section : Non spécifié
+Article : Article 20 :
+Sans préjudice des dispositions de l’article 47 de la loi n°2016-48 et de l’article 237 du code
+des sociétés commerciales, est qualifié de membre indépendant au sein de l’organe
+d’administration de l’établissement, toute personne :
+-
+ne détenant pas, elle-même, son conjoint, ses ascendants et descendants de premier
+degré, une participation directe ou indirecte dans le capital de l’établissement,
+-
+n’ayant pas occupé la fonction de dirigeant ou n’ayant pas été un membre dans
+l’organe d’administration de cet établissement au moins au cours des 5 dernières
+années précédant sa désignation en qualité de membre indépendant dans
+l’établissement, -
+n’étant pas membre de l’organe d’administration ou de l’organe de direction d’une
+entité ayant des liens avec l’établissement au sens de l’article 43 de la loi n° 2016- 48
+au moins au cours des 5 dernières années précédant sa désignation dans
+l’établissement, -
+n’ayant pas fait partie des salariés de l’établissement au moins au cours des 3
+dernières années précédant sa désignation en qualité de membre indépendant dans
+l’établissement, -
+n’agissant pas pour le compte d’un client, d’un fournisseur ou d’un prestataire de
+service significatif de l’établissement,
+-
+n’ayant pas des contrats de prestations conclus directement par lui-même ou par
+personne interposée avec l’établissement ou avec l’une des sociétés ayant des liens
+avec l’établissement et ce, au sens de l’article 43 de la loi n° 2016-48, et
+-
+n’occupant pas une responsabilité partisane à l’échelle centrale, régionale ou locale.
+L’organe d’administration apprécie sur la base des critères qu’il fixe le caractère significatif
+ou non de la relation entretenue avec l’établissement. Les critères ayant servi à cette
+appréciation doivent être inclus dans le dossier de notification adressé à la Banque Centrale
+de Tunisie conformément à l’article 62 de la présente circulaire.
+
+=== CHUNK 21 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 12 | Titre_Gemma: **Réexamen annuel de l'évaluation de l'administrateur indépendant** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE II
+Titre : TITRE 2 : DE L’ORGANE D’ADMINISTRATION
+Section : Section I : De la composition et de la qualification des membres
+Sous-section : Non spécifié
+Article : Article 21 :
+Le respect par l’administrateur indépendant des critères prévus à l’article 20 de la présente
+circulaire est réexaminé annuellement par le comité de nomination et de rémunération de
+l’établissement.  Les conclusions de cet examen sont portées à la connaissance de l’organe
+d’administration.
+
+=== CHUNK 22 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 12 | Titre_Gemma: **Obligation d'alerte de l'administrateur indépendant** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE II
+Titre : TITRE 2 : DE L’ORGANE D’ADMINISTRATION
+Section : Section I : De la composition et de la qualification des membres
+Sous-section : Non spécifié
+Article : Article 22 :
+L’administrateur indépendant doit, au cours de l’exercice de son mandat, aviser sans délai
+l’organe d’administration en cas de non-respect des conditions et des critères relatifs à son
+éligibilité.
+
+=== CHUNK 23 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 12 | Titre_Gemma: **Compétences des membres de l'organe d'administration.** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE II
+Titre : TITRE 2 : DE L’ORGANE D’ADMINISTRATION
+Section : Section I : De la composition et de la qualification des membres
+Sous-section : Non spécifié
+Article : Article 23 :
+Les membres de l’organe d’administration doivent disposer individuellement des compétences
+appropriées dans un ou plusieurs des domaines suivants, et notamment : des opérations
+bancaires, des systèmes de paiement, de la planification stratégique, de la gouvernance, du
+contrôle interne et de la gestion des risques, des systèmes d’information, de l'analyse financière
+et de la comptabilité.
+
+=== CHUNK 24 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 12 | Titre_Gemma: **Déclaration de conflits d'intérêts et obligations des administrateurs** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE II
+Titre : TITRE 2 : DE L’ORGANE D’ADMINISTRATION
+Section : Section I : De la composition et de la qualification des membres
+Sous-section : Non spécifié
+Article : Article 24 :
+L’organe d’administration de l’établissement exige de tout candidat appelé à être nommé parmi
+ses membres ou au sein de l’organe de direction, une déclaration sur l’honneur permettant de
+vérifier l’existence ou non de situations de conflit d’intérêts. Cette déclaration doit indiquer :
+-
+s’il occupe des fonctions dans des organes d’administration ou de direction d’autres
+entreprises ainsi que des opérations effectuées ou en cours avec des entreprises liées à
+l’établissement ou à ses filiales par les entités au sein desquelles ils exercent ces
+fonctions, et
+-
+l’existence de liens familiaux avec les principaux actionnaires personnes physiques et
+les membres de l’organe d’administration et de l’organe de direction.
+Les membres de l’organe d’administration doivent, également au cours de leurs mandats, tenir
+informé l’organe d’administration avant d’accepter toute invitation à siéger dans un autre
+organe d’administration ou à assumer une fonction de direction dans une entreprise
+économique.
+
+=== CHUNK 25 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 13 | Titre_Gemma: **Engagement déontologique des administrateurs** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE II
+Titre : TITRE 2 : DE L’ORGANE D’ADMINISTRATION
+Section : Section II : DU FONCTIONNEMENT DE L’ORGANE D’ADMINISTRATION
+Sous-section : Non spécifié
+Article : Article 25 :
+Tous les membres de l’organe d’administration s'engagent à :
+-
+exercer leurs fonctions en toute honnêteté et loyauté en plaçant l'intérêt de
+l’établissement au-dessus de leurs intérêts propres,
+-
+respecter les obligations de secret professionnel pour les informations dont ils ont pris
+connaissance du fait de l’exercice de leurs missions et de ne pas utiliser ces
+informations, en dehors des cas permis par la loi, à des fins autres que celles qu’exige
+l’exécution des missions qui leur sont dévolues même après la perte de leurs qualités,
+-
+ne pas utiliser les moyens de l’établissement à des fins personnelles ou à des fins
+étrangères à l’intérêt social de l’établissement.
+À cet effet, les membres de l’organe d’administration s’engagent à respecter le code de
+déontologie visé à l’article 13 de cette circulaire.
+
+=== CHUNK 26 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 13 | Titre_Gemma: **Fréquence des réunions de l'organe d'administration** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE II
+Titre : TITRE 2 : DE L’ORGANE D’ADMINISTRATION
+Section : Section II : DU FONCTIONNEMENT DE L’ORGANE D’ADMINISTRATION
+Sous-section : Non spécifié
+Article : Article 26 :
+La fréquence des réunions de l’organe d’administration doit tenir compte de la nature, de la
+diversité, de la complexité et du volume de l’activité de l’établissement. Cette fréquence doit
+être augmentée notamment dans les cas suivants :
+-
+la survenance d’événements exceptionnels pouvant affecter les conditions normales
+d’activité, -
+la soumission de l’établissement aux dispositions des articles 100, 101 et 102 de la
+loi n°2016-48, -
+l’établissement est de taille systémique au sens de l’article 69 de la loi n°2016-48.
+
+=== CHUNK 27 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 13 | Titre_Gemma: **Obligations des membres de l'organe d'administration** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE II
+Titre : TITRE 2 : DE L’ORGANE D’ADMINISTRATION
+Section : Section II : DU FONCTIONNEMENT DE L’ORGANE D’ADMINISTRATION
+Sous-section : Non spécifié
+Article : Article 27 :
+Tous les membres de l’organe d’administration doivent :
+-
+participer d’une manière assidue aux réunions de l’organe d’administration selon les
+conditions qui doivent être arrêtées dans le code de gouvernance,
+-
+contribuer activement aux travaux de l’organe d’administration,
+-
+s’assurer que l’ordre du jour de la réunion de l’organe d’administration couvre toutes
+les questions importantes, -
+consacrer le temps nécessaire pour s’acquitter convenablement de leurs obligations.
+
+=== CHUNK 28 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 14 | Titre_Gemma: **Formation continue des membres de l'administration.** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE III : DU ROLE DU PRESIDENT DE L’ORGANE
+Titre : TITRE 2 : DE L’ORGANE D’ADMINISTRATION
+Section : Section II : DU FONCTIONNEMENT DE L’ORGANE D’ADMINISTRATION
+Sous-section : Non spécifié
+Article : Article 28 :
+L’organe d’administration doit mettre en place un programme continu de renforcement des
+compétences généralisé à tous ses membres afin qu’ils s’acquittent pleinement de leurs
+missions.
+D’ADMINISTRATION
+
+=== CHUNK 29 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 14 | Titre_Gemma: **Supervision de l'organe d'administration** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE III : DU ROLE DU PRESIDENT DE L’ORGANE
+Titre : TITRE 2 : DE L’ORGANE D’ADMINISTRATION
+Section : Section II : DU FONCTIONNEMENT DE L’ORGANE D’ADMINISTRATION
+Sous-section : Non spécifié
+Article : Article 29 :
+Le président de l’organe d’administration est tenu de :
+-
+veiller à ce que l’organe d’administration s’acquitte convenablement de ses
+responsabilités de manière efficace et indépendante,
+-
+s’assurer que les comités s’acquittent des responsabilités qui leur incombent et qu’ils
+rendent compte à l’organe d’administration des résultats de leurs travaux, et
+-
+superviser le processus d’évaluation de la performance de l’organe d’administration,
+des comités et des membres dudit organe,
+
+=== CHUNK 30 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 14 | Titre_Gemma: **Présidence de l'Organe d'Administration** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE III : DU ROLE DU PRESIDENT DE L’ORGANE
+Titre : TITRE 2 : DE L’ORGANE D’ADMINISTRATION
+Section : Section II : DU FONCTIONNEMENT DE L’ORGANE D’ADMINISTRATION
+Sous-section : Non spécifié
+Article : Article 30 :
+Le président de l’organe d’administration prépare, coordonne et dirige les travaux dudit organe.
+Il est chargé notamment de : -
+arrêter l’ordre du jour des réunions de l’organe d’administration en concertation avec
+l’organe de direction et les autres structures de gouvernance,
+-
+vérifier de la régularité des réunions de l’organe d’administration,
+-
+communiquer à l’organe de direction les requêtes, les commentaires et toute décision
+de l’organe d’administration, -
+recenser auprès de l’organe de direction des questions importantes à soumettre à
+l’organe d’administration ou à l’un de ses comités, et
+-
+animer les débats lors des réunions de l’organe d’administration et veiller à ce que les
+opinions divergentes puissent être librement exprimées et discutées en vue d’instaurer
+un processus de prise de décision transparent et efficace.
+Le président de l’organe d’administration est chargé également de s’entretenir, chaque fois
+que de besoin, avec les membres de l’organe d’administration, les membres de l’organe de
+direction et les principaux actionnaires au sens de la loi n°2016-48.
+
+=== CHUNK 31 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 15 | Titre_Gemma: **Présidence de l'Organe d'Administration** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE III : DU ROLE DU PRESIDENT DE L’ORGANE
+Titre : TITRE 2 : DE L’ORGANE D’ADMINISTRATION
+Section : Section II : DU FONCTIONNEMENT DE L’ORGANE D’ADMINISTRATION
+Sous-section : Non spécifié
+Article : Article 31 :
+Le président de l’organe d’administration est l’interlocuteur des actionnaires et de la Banque
+Centrale de Tunisie pour les aspects relatifs à la gouvernance de l’établissement ainsi que dans
+toute circonstance exceptionnelle susceptible d’entraver le fonctionnement de ses organes de
+gouvernance.
+
+=== CHUNK 32 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 15 | Titre_Gemma: **Qualités et expérience du président de l'organe d'administration.** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE III : DU ROLE DU PRESIDENT DE L’ORGANE
+Titre : TITRE 2 : DE L’ORGANE D’ADMINISTRATION
+Section : Section II : DU FONCTIONNEMENT DE L’ORGANE D’ADMINISTRATION
+Sous-section : Non spécifié
+Article : Article 32 :
+Sans préjudice des dispositions de l’article 23 de la présente circulaire, le président de
+l’organe d’administration doit disposer d’une expérience professionnelle notamment dans le
+domaine bancaire ou/et financier et doit posséder les qualités personnelles nécessaires pour
+s’acquitter de ses missions en l’occurrence le leadership, le sens de la communication, de
+l’écoute et de la gestion des conflits.
+Le président de l’organe d’administration consacre le temps adéquat pour l’exercice de ses
+fonctions.
+
+=== CHUNK 33 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 15 | Titre_Gemma: **Obligation de Rapport du Président** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE III : DU ROLE DU PRESIDENT DE L’ORGANE
+Titre : TITRE 2 : DE L’ORGANE D’ADMINISTRATION
+Section : Section II : DU FONCTIONNEMENT DE L’ORGANE D’ADMINISTRATION
+Sous-section : Non spécifié
+Article : Article 33 :
+Le président de l’organe d’administration doit veiller à l’élaboration des rapports visés par
+l’article 69 de la présente circulaire.
+
+=== CHUNK 34 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 15 | Titre_Gemma: **Secrétariat et Procès-Verbal de l'Organe d'Administration** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE III : DU ROLE DU PRESIDENT DE L’ORGANE
+Titre : TITRE 2 : DE L’ORGANE D’ADMINISTRATION
+Section : Section II : DU FONCTIONNEMENT DE L’ORGANE D’ADMINISTRATION
+Sous-section : Non spécifié
+Article : Article 34 :
+L’organe d’administration se dote d’un secrétariat permanent placé sous la hiérarchie directe
+du président de l’organe d’administration, qui est chargé notamment de :
+-
+la remise à chaque membre de l’ordre du jour ainsi que des documents et informations
+nécessaires à l’accomplissement de sa mission dans un délai suffisant pour permettre
+à chaque membre de bien préparer les questions inscrites à l’ordre du jour,
+- l’établissement du procès-verbal.
+Le président de l’organe d’administration veille à ce que le procès-verbal des réunions relate
+d’une manière fidèle et précise les discussions, les questions soulevées par les membres
+présents, les réserves émises et les décisions prises.
+
+=== CHUNK 35 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 16 | Titre_Gemma: **Mission des comités d'analyse et de contrôle** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE PREMIER : PRINCIPES GENERAUX
+Titre : TITRE III : DES COMITES EMANANT DE L’ORGANE D’ADMINISTRATION
+Section : Section II : DU FONCTIONNEMENT DE L’ORGANE D’ADMINISTRATION
+Sous-section : Non spécifié
+Article : Article 35 :
+Les comités visés aux articles 49, 50 et 51 de la loi n°2016-48 doivent, au titre de leur mission :
+-
+analyser en profondeur les questions spécifiques et techniques qui relèvent de leurs
+attributions en vue d’éclairer les décisions de l’organe d’administration,
+-
+rendre compte régulièrement à l’organe d’administration de leurs travaux ainsi que
+de leurs appréciations et opinions sur l’organisation et le fonctionnement de
+l’établissement dans les domaines qu’ils couvrent,
+-
+informer l’organe d’administration de tout événement susceptible de porter préjudice
+à la solidité et la réputation de l’établissement,
+-
+examiner les rapports et documents des fonctions de contrôle au sein de
+l’établissement ainsi que ceux émis par les commissaires aux comptes et les rapports
+et les notifications de la Banque Centrale de Tunisie et des autres autorités de contrôle,
+-
+proposer à l’organe d’administration de charger l’organe de direction de réaliser toute
+mission ou enquête, et -
+soumettre à l’organe d’administration, à l’occasion de la tenue de la réunion relative
+à l’examen des états financiers annuels, un rapport annuel détaillé sur leurs activités.
+L’organe d’administration demeure responsable, en dernier ressort, des missions qui sont
+confiées aux comités.
+
+=== CHUNK 36 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 16 | Titre_Gemma: **Composition et remplacement des comités** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE PREMIER : PRINCIPES GENERAUX
+Titre : TITRE III : DES COMITES EMANANT DE L’ORGANE D’ADMINISTRATION
+Section : Section II : DU FONCTIONNEMENT DE L’ORGANE D’ADMINISTRATION
+Sous-section : Non spécifié
+Article : Article 36 :
+La composition de chaque comité doit tenir compte des qualifications des membres en
+rapport avec les attributions dudit comité.
+Sous réserve des dispositions de l’article 55 de la loi n°2016-48, en cas de vacance d’un poste
+dans un comité, l’organe d’administration doit, dans les meilleurs délais, combler cette
+vacance.
+
+=== CHUNK 37 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 16 | Titre_Gemma: **Règles de fonctionnement des comités.** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE II : LE COMITE D’AUDIT
+Titre : TITRE III : DES COMITES EMANANT DE L’ORGANE D’ADMINISTRATION
+Section : Section II : DU FONCTIONNEMENT DE L’ORGANE D’ADMINISTRATION
+Sous-section : Non spécifié
+Article : Article 37 :
+Tout comité se réunit sur convocation de son président au moins chaque trimestre et chaque
+fois qu’il le juge utile et au moins tous les deux mois pour les établissements soumis aux
+dispositions des articles 101 et 102 de la loi n°2016-48 ainsi que ceux à caractère systémique
+au sens de l’article 69 de la loi n°2016-48.
+Le comité peut faire appel à toute personne dont la présence est jugée utile, sans prendre part
+au vote.
+Le comité peut également convoquer un membre de l’organe de direction pour prendre part
+à ses réunions afin d’apporter des éclaircissements sur certaines questions.
+Le comité ne peut délibérer valablement sans la présence de trois de ses membres. En cas
+d’empêchement du président, la présidence est confiée à l’un des membres du comité choisi
+par ses pairs.
+Les décisions sont prises à la majorité des membres présents. En cas de partage des voix, la
+voix du président est prépondérante.
+Il est établi un procès-verbal de chaque réunion du comité signé par tous les membres du comité
+et dans lequel sont consignées d’une manière détaillée les délibérations, décisions et
+recommandations ainsi que les opinions divergentes et le suivi de la mise en œuvre des
+décisions des réunions précédentes.
+Tout comité doit élaborer une charte, approuvée par l’organe d’administration, définissant ses
+attributions, sa composition, ses règles de fonctionnement et ses rapports avec l’organe
+d’administration et les structures opérationnelles de l’établissement.
+Le Comité d’audit et le Comité des risques doivent instaurer un cadre de coordination et de
+collaboration afin de faciliter la prise de décision au niveau de l’organe d’administration. Le
+comité des risques est tenu de remettre au comité d’audit les procès-verbaux de ses réunions
+en temps opportun.
+
+=== CHUNK 38 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 17 | Titre_Gemma: **Comité d'Audit : Fonctions et Responsabilités** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE II : LE COMITE D’AUDIT
+Titre : TITRE III : DES COMITES EMANANT DE L’ORGANE D’ADMINISTRATION
+Section : Section II : DU FONCTIONNEMENT DE L’ORGANE D’ADMINISTRATION
+Sous-section : Non spécifié
+Article : Article 38 :
+Le comité d’audit est chargé d’assister l’organe d’administration dans les domaines de
+l’information financière, du contrôle interne y compris l’audit interne.
+Sans préjudice des dispositions de l’article 49 de la loi n° 2016-48, le comité d’audit est
+appelé notamment à :
+-
+s’assurer de la qualité et de la pertinence du dispositif de production des informations
+financières et de la cohérence des systèmes de mesure, de surveillance et de maîtrise
+des risques, -
+définir les politiques d’audit et d’information financière,
+-
+surveiller la mise en place des principes et des pratiques comptables de
+l’établissement, -
+surveiller l’organisation et l’efficacité du système de contrôle interne, examiner les
+insuffisances du fonctionnement de ce système relevées par les différentes structures
+de l’établissement, de l’audit externe et de la Banque Centrale de Tunisie,
+-
+suivre la réalisation des plans d’actions visant la régularisation des insuffisances
+soulevées dans les rapports d’audit interne et externes et les rapports d’inspection de
+la Banque Centrale de Tunisie et des autres autorités de contrôle,
+-
+contrôler les activités de la structure d’audit interne, valider et faire le suivi du
+programme d’audit et le cas échéant les travaux des autres structures de
+l’établissement chargées des missions de contrôle,
+-
+proposer à l’organe d’administration la nomination ou la révocation du ou des
+commissaires aux comptes et des auditeurs externes et donner un avis sur le
+programme et les résultats de leurs contrôles, sous réserve des dispositions légales et
+réglementaires spécifiques applicables à l’établissement, et
+-
+veiller à ce que la structure d’audit interne soit dotée de moyens humains et
+logistiques nécessaires pour s’acquitter efficacement et d’une manière indépendante
+de l’ensemble de ses missions.
+
+=== CHUNK 39 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 18 | Titre_Gemma: **Qualités et Organisation du Comité d'Audit** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE III : LE COMITE DES RISQUES
+Titre : TITRE III : DES COMITES EMANANT DE L’ORGANE D’ADMINISTRATION
+Section : Section II : DU FONCTIONNEMENT DE L’ORGANE D’ADMINISTRATION
+Sous-section : Non spécifié
+Article : Article 39 :
+Le président du comité d’audit doit disposer d’une qualification académique et
+professionnelle et d’une expertise solide dans l’un des domaines de la finance, de la
+comptabilité et de l’audit.
+Les membres du comité d’audit doivent justifier d’une expérience dans l’un des domaines de
+la finance, de la comptabilité et de l’audit et qui soit adaptée à la complexité de l’activité de
+l’établissement et à son profil de risque.
+Le secrétariat du comité est assuré par la structure chargée de la fonction d’audit interne.
+
+=== CHUNK 40 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 18 | Titre_Gemma: **Comité des Risques : Mission et Responsabilités** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE III : LE COMITE DES RISQUES
+Titre : TITRE III : DES COMITES EMANANT DE L’ORGANE D’ADMINISTRATION
+Section : Section II : DU FONCTIONNEMENT DE L’ORGANE D’ADMINISTRATION
+Sous-section : Non spécifié
+Article : Article 40 :
+Le comité des risques a pour mission d’assister l’organe d’administration afin de s’acquitter
+de ses responsabilités relatives à la surveillance du dispositif de gestion des risques de
+l’établissement.
+Sans préjudice des dispositions de l’article 50 de la loi n°2016-48, le comité des risques est
+chargé d’assister l’organe d’administration notamment dans :
+-
+la conception et la mise à jour d’une politique de gestion des risques et la fixation des
+limites d’exposition et des plafonds opérationnels,
+-
+l’approbation des systèmes de mesure et de surveillance des risques,
+-
+le contrôle du respect par l’organe de direction de la politique d’appétence pour le
+risque, -
+l’analyse et le suivi de l’exposition de l’établissement aux risques notamment les
+risques de crédit, de marché, de liquidité et le risque opérationnel,
+-
+l’évaluation de la politique de provisionnement et l’adéquation permanente des fonds
+propres par rapport au profil de risque de l’établissement,
+-
+l’étude des risques découlant des décisions stratégiques de l’organe d’administration,
+-
+l’adoption des actions correctrices pour une meilleure efficacité du dispositif de
+gestion des risques, -
+l’approbation des plans de continuité d’activité, et
+-
+la désignation du responsable de la fonction de gestion des risques.
+Il doit veiller à ce que la structure de gestion des risques soit dotée de moyens humains et
+logistiques nécessaires pour s’acquitter efficacement et d’une manière indépendante de
+l’ensemble de ses missions.
+
+=== CHUNK 41 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 19 | Titre_Gemma: **Comité des risques : Qualifications et Responsabilités** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE IV LE COMITE DE NOMINATION ET DE REMUNERATION
+Titre : TITRE III : DES COMITES EMANANT DE L’ORGANE D’ADMINISTRATION
+Section : Section II : DU FONCTIONNEMENT DE L’ORGANE D’ADMINISTRATION
+Sous-section : Non spécifié
+Article : Article 41 :
+Le président du comité des risques doit disposer d’une solide qualification académique et
+professionnelle et d’une bonne expertise dans la gestion des risques.
+Les membres du comité des risques doivent justifier d’une expérience en matière de gestion
+des risques qui soit adaptée à la complexité des opérations, à la nature des métiers de
+l’établissement et à son profil de risque.
+Le secrétariat du comité des risques est assuré par la structure chargée de la fonction de
+gestion des risques au sein de l’établissement.
+
+=== CHUNK 42 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 19 | Titre_Gemma: **Comité de Nomination et Rémunération des Banques Islamiques** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE IV LE COMITE DE NOMINATION ET DE REMUNERATION
+Titre : TITRE III : DES COMITES EMANANT DE L’ORGANE D’ADMINISTRATION
+Section : Section II : DU FONCTIONNEMENT DE L’ORGANE D’ADMINISTRATION
+Sous-section : Non spécifié
+Article : Article 42 :
+Sans préjudice des dispositions de l’article 51 de la loi n° 2016-48, le comité de nomination
+et de rémunération devant être institué par toute banque est tenu d’assister l’organe
+d’administration notamment dans :
+-
+la conception de la politique de nomination et de rémunération du président de
+l’organe d’administration et de ses membres, des comités, de l’organe de direction,
+des responsables des fonctions clés, de l’auditeur des opérations bancaires islamiques
+et des membres du comité de contrôle de conformité des normes bancaires islamiques,
+-
+la conception de la politique de succession des membres de l’organe d’administration,
+des comités, de l’organe de direction, des responsables des fonctions clés ainsi que de
+l’auditeur des opérations bancaires islamiques et des membres du comité de contrôle
+de conformité des normes bancaires islamiques,
+-
+la nomination des membres de l’organe d’administration et des comités ainsi que de
+l’organe de direction et des fonctions de contrôle, et
+-
+la conception de la méthodologie d’évaluation des travaux de l’organe
+d’administration et de ses comités.
+
+=== CHUNK 43 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 20 | Titre_Gemma: **Processus de Nomination et d'Évaluation des Cadres** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE IV LE COMITE DE NOMINATION ET DE REMUNERATION
+Titre : TITRE III : DES COMITES EMANANT DE L’ORGANE D’ADMINISTRATION
+Section : Section II : DU FONCTIONNEMENT DE L’ORGANE D’ADMINISTRATION
+Sous-section : Non spécifié
+Article : Article 43 :
+Le comité de nomination et de rémunération doit élaborer et tenir à jour un processus clair,
+transparent et rigoureux d'identification, de sélection, de nomination et d’évaluation des
+membres de l’organe d’administration et de ses comités, de l’organe de direction et des
+responsables des fonctions de contrôle.
+Le processus de sélection doit permettre de s’assurer que les candidats :
+-
+possèdent les qualifications, les compétences et l’expérience nécessaire,
+-
+répondent aux critères d'intégrité et jouissent d’une bonne réputation, et
+- consacrent suffisamment de temps pour exercer convenablement leurs responsabilités.
+Le comité de nomination et de rémunération doit identifier et soumettre à l’organe
+d’administration les situations de conflits d’intérêts émanant du processus de nomination.
+Le secrétariat du comité est assuré par la structure chargée de la gestion des ressources
+humaines.
+
+=== CHUNK 44 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 20 | Titre_Gemma: **Responsabilité du comité d'administration en matière de nomination et de rémunération.** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE IV LE COMITE DE NOMINATION ET DE REMUNERATION
+Titre : TITRE III : DES COMITES EMANANT DE L’ORGANE D’ADMINISTRATION
+Section : Section II : DU FONCTIONNEMENT DE L’ORGANE D’ADMINISTRATION
+Sous-section : Non spécifié
+Article : Article 44 :
+Pour les établissements financiers n’ayant pas institué un comité de nomination et de
+rémunération, les obligations citées dans ce chapitre incombent systématiquement à l’organe
+d’administration.
+
+=== CHUNK 45 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 20 | Titre_Gemma: **Fonctions de l'Organe de Direction** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE IV LE COMITE DE NOMINATION ET DE REMUNERATION
+Titre : TITRE IV : DE L’ORGANE DE DIRECTION
+Section : Section II : DU FONCTIONNEMENT DE L’ORGANE D’ADMINISTRATION
+Sous-section : Non spécifié
+Article : Article 45 :
+Sans préjudice des pouvoirs qui lui sont attribués par les lois en vigueur, l’organe de direction
+est chargé de la gestion courante des activités de l’établissement et assure le pilotage effectif
+du processus de réalisation de la stratégie de développement et de la politique d’appétence
+pour le risque approuvée par l’organe d’administration.
+En vue d’assurer une gestion saine et prudente de l’établissement, l’organe de direction est
+notamment chargé de :
+-
+formuler des propositions à l’organe d’administration en vue de la définition de la
+stratégie de développement et la politique d’appétence pour le risque,
+-
+décliner les stratégies arrêtées par l’organe d’administration en plans d’actions et
+assurer leur mise en œuvre, -
+soumettre à l’organe d’administration des rapports périodiques et au moins
+trimestriels sur l’activité et la situation financière de l’établissement,
+-
+veiller à ce que les activités de l’établissement soient cohérentes avec ses orientations
+stratégiques et la politique d’appétence pour le risque définie par l’organe
+d’administration, -
+veiller à garantir l’efficacité et l’indépendance des fonctions de contrôle,
+-
+s’assurer, en permanence, du bon fonctionnement global des dispositifs de contrôle
+interne et de gestion des risques, -
+mettre en œuvre et veiller au respect de la politique de la conformité approuvée par
+l’organe d’administration, -
+veiller à la mise en œuvre de la politique de rémunération déterminée par l’organe
+d’administration, -
+assurer la communication de toutes informations et données pertinentes et nécessaires
+à une prise de décision par l’organe d’administration et de ses comités et mettre à leur
+disposition les moyens nécessaires pour accomplir leurs missions,
+-
+mettre en place un dispositif de protection des usagers des services bancaires, ainsi
+que des dispositifs en matière de protection des données à caractère personnel, et
+-
+veiller au respect du code de déontologie par l’ensemble du personnel et œuvrer à
+l’adhésion effective du personnel aux principes d'éthique et de professionnalisme
+ainsi qu’à de saines pratiques en matière de gouvernance.
+
+=== CHUNK 46 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 21 | Titre_Gemma: **Obligation de notification des événements critiques.** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE IV LE COMITE DE NOMINATION ET DE REMUNERATION
+Titre : TITRE IV : DE L’ORGANE DE DIRECTION
+Section : Section II : DU FONCTIONNEMENT DE L’ORGANE D’ADMINISTRATION
+Sous-section : Non spécifié
+Article : Article 46 :
+L’organe de direction doit immédiatement alerter l’organe d’administration de tout évènement
+pouvant :
+-
+impacter la situation financière et le profil de risque de l’établissement,
+-
+provoquer un dysfonctionnement du système de contrôle interne et augmenter les
+risques de non-conformité, -
+altérer la continuité des activités critiques.
+
+=== CHUNK 47 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 21 | Titre_Gemma: **Qualités et formation des dirigeants** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE IV LE COMITE DE NOMINATION ET DE REMUNERATION
+Titre : TITRE IV : DE L’ORGANE DE DIRECTION
+Section : Section II : DU FONCTIONNEMENT DE L’ORGANE D’ADMINISTRATION
+Sous-section : Non spécifié
+Article : Article 47 :
+Les membres de l’organe direction doivent disposer de l’expérience, des compétences et de
+l’intégrité nécessaires à la gestion des activités de l’établissement. Ils doivent recevoir une
+formation régulière afin d’approfondir leurs compétences et se tenir à jour des connaissances
+et évolutions dans leurs domaines de responsabilité.
+
+=== CHUNK 48 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 22 | Titre_Gemma: **Contrôle Interne et Gestion des Risques : Obligations de l'Administration** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE PREMIER : DE LA FONCTION DE GESTION DES RISQUES
+Titre : TITRE IV : DE L’ORGANE DE DIRECTION
+Section : Section II : DU FONCTIONNEMENT DE L’ORGANE D’ADMINISTRATION
+Sous-section : Non spécifié
+Article : Article 47 :
+TITRE V : DES FONCTIONS DE CONTROLE Article 48 :
+L’organe d’administration doit veiller à ce que les fonctions d’audit interne, de gestion des
+risques et de contrôle de la conformité visées à l’article 53 de la loi n°2016-48 disposent des
+procédures formalisées et des ressources humaines, techniques et financières leur permettant
+de s’acquitter de leurs missions de façon efficace, en toute indépendance et objectivité.
+Le responsable de la fonction de gestion des risques et le responsable de la fonction audit
+interne ne doivent pas cumuler leurs mandats respectifs avec d’autres fonctions ou
+responsabilités au sein de l’établissement.
+L’organe d’administration doit tenir des réunions au moins annuelles avec les responsables
+des fonctions de contrôle afin d’assurer le suivi de leurs travaux et de s’informer sur les
+évolutions majeures pouvant affecter le profil de risque de l’établissement.
+
+=== CHUNK 49 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 22 | Titre_Gemma: **Gestion des Risques** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE 2 : DE LA FONCTION D’AUDIT INTERNE
+Titre : TITRE IV : DE L’ORGANE DE DIRECTION
+Section : Section II : DU FONCTIONNEMENT DE L’ORGANE D’ADMINISTRATION
+Sous-section : Non spécifié
+Article : Article 49 :
+La fonction de gestion des risques est chargée notamment de ce qui suit :
+-
+identifier les principaux risques et élaborer une cartographie des risques de
+l’établissement et évaluer les niveaux d’exposition à ces risques,
+-
+préparer la politique de gestion des risques de l’établissement,
+-
+proposer une politique d’appétence pour le risque à l’organe de direction,
+-
+exercer un suivi permanent des activités comportant une prise de risque et des
+expositions au risque, -
+mettre en place des politiques de pilotage des fonds propres et de la liquidité adaptées
+au profil risque de l’établissement sur une base individuelle et consolidée,
+-
+instaurer un système de détection ou d’alerte précoce en cas de dépassement des
+plafonds de risque, -
+fournir un avis sur les décisions qui donnent lieu à des risques importants, et
+-
+proposer des mesures adéquates pour atténuer les risques et tout fait pouvant menacer
+la solvabilité et la liquidité de l’établissement ainsi que les intérêts des parties
+prenantes.
+
+=== CHUNK 50 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 23 | Titre_Gemma: **Audit Interne : Assurance et Amélioration des Contrôles** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE 3 : DE LA FONCTION DE CONTROLE DE LA CONFORMITE
+Titre : TITRE IV : DE L’ORGANE DE DIRECTION
+Section : Section II : DU FONCTIONNEMENT DE L’ORGANE D’ADMINISTRATION
+Sous-section : Non spécifié
+Article : Article 50 :
+La fonction d’audit interne fournit à l’organe d’administration et à l’organe de direction une
+assurance indépendante quant à la qualité et à l’efficacité des systèmes et processus de
+contrôle interne, de gestion des risques et de gouvernance.  Elle doit à cet effet :
+-
+évaluer d’une manière régulière le dispositif de gouvernance des risques et
+notamment :
+• l’efficacité et le fonctionnement des fonctions gestion des risques et de contrôle
+de la conformité,
+• la qualité, la fiabilité et la fréquence des rapports sur les risques soumis à l’organe
+d’administration et à l’organe de direction, et
+• l’efficacité du système de contrôle interne de l’établissement.
+-
+faire part à l’organe d’administration et à l’organe de direction des insuffisances
+relevées dans le cadre de ses missions afin de prendre les mesures correctrices
+adéquates.
+La fonction d’audit interne doit avoir un accès à la totalité des données, des archives et des
+locaux de l’établissement.
+La fonction d’audit interne doit communiquer aux responsables de la fonction de contrôle de
+la conformité et de la fonction de gestion des risques, les dysfonctionnements relatifs au risque
+de non-conformité, relevés dans le cadre de ses missions de contrôle.
+
+=== CHUNK 51 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 23 | Titre_Gemma: **Fonction de Contrôle de Conformité : Rôle et Obligations** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE 3 : DE LA FONCTION DE CONTROLE DE LA CONFORMITE
+Titre : TITRE IV : DE L’ORGANE DE DIRECTION
+Section : Section II : DU FONCTIONNEMENT DE L’ORGANE D’ADMINISTRATION
+Sous-section : Non spécifié
+Article : Article 51 :
+La fonction de contrôle de la conformité doit exercer un rôle de conseiller auprès de l’organe
+d’administration et de l’organe de direction sur les questions liées au respect des dispositions
+légales et règlementaires en vigueur et les tenir informés des changements en la matière. Dans
+l’exercice de ses fonctions, la fonction de contrôle de la conformité est indépendante de
+l’organe de direction.
+A cet effet, cette fonction doit notamment :
+- assurer une mission de veille réglementaire,
+- établir une cartographie des risques de non-conformité,
+- veiller à ce que l’établissement dispose de procédures formalisées et de règles de contrôle
+interne pour les domaines relevant directement de la fonction de contrôle de la
+conformité,
+- procéder régulièrement à une vérification du respect de la politique, des procédures en
+matière de conformité et recommander les mesures correctrices qu’il y a lieu de prendre,
+- donner un avis écrit sur les nouveaux produits à commercialiser et sur les procédures de
+contrôle interne y afférents,
+- dispenser régulièrement des formations à l’ensemble du personnel sur les procédures de
+contrôle de la conformité relatives aux opérations qu’il effectue et veiller à la diffusion
+de la culture de la conformité,
+- remonter à l’organe d’administration des rapports sur les problèmes et les
+dysfonctionnements constatés au niveau des procédures ainsi que les mesures à prendre
+pour pallier ces insuffisances, et
+- établir un rapport semestriel sur son activité qui doit être transmis au comité d’audit.
+
+=== CHUNK 52 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 24 | Titre_Gemma: **Gouvernance du Groupe : Risques et Échange d'Informations** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE 3 : DE LA FONCTION DE CONTROLE DE LA CONFORMITE
+Titre : TITRE VI : DE LA GOUVERNANCE AU SEIN DES GROUPES BANCAIRES
+Section : Section II : DU FONCTIONNEMENT DE L’ORGANE D’ADMINISTRATION
+Sous-section : Non spécifié
+Article : Article 52 :
+L’organe d’administration de l’entité consolidante doit prendre connaissance des risques
+auxquels est exposée cette entité ainsi que ses filiales.
+Il doit établir un dispositif de gouvernance du groupe qui définit clairement :
+-
+les rôles et les obligations de l’entité consolidante et de ses filiales en tenant compte
+des activités et du profil de risque du groupe,
+-
+s’assurer de la mise en place d’un système d'échange d'informations entre les entités
+du groupe.
+A cet égard, il doit exercer une surveillance appropriée de ses filiales tout en respectant
+l'indépendance et l'autonomie de l’organe d’administration de chacune de ses filiales.
+
+=== CHUNK 53 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 24 | Titre_Gemma: **Gouvernance et Contrôle du Groupe** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE 3 : DE LA FONCTION DE CONTROLE DE LA CONFORMITE
+Titre : TITRE VI : DE LA GOUVERNANCE AU SEIN DES GROUPES BANCAIRES
+Section : Section II : DU FONCTIONNEMENT DE L’ORGANE D’ADMINISTRATION
+Sous-section : Non spécifié
+Article : Article 53 :
+L’organe d’administration de l’entité consolidante doit, dans le cadre de l’exercice de ses
+responsabilités :
+-
+établir un cadre de gouvernance pour chaque filiale, en cohérence avec le cadre du
+groupe et qui soit adapté à la taille de la filiale et à la complexité de ses activités,
+-
+approuver une stratégie de développement du groupe et des politiques claires pour sa
+mise en œuvre, -
+définir la politique de risque globale du groupe et de ses filiales,
+-
+approuver des politiques et des stratégies claires quant à la création de nouvelles
+structures et entités juridiques et veiller à ce qu’elles soient cohérentes avec les
+politiques et les intérêts du groupe, -
+mettre en place des processus et des contrôles appropriés pour détecter et gérer les
+conflits d’intérêts potentiels à l’intérieur du groupe, résultant notamment des
+transactions intragroupes,
+-
+s’assurer de l’adéquation des dispositifs de contrôle interne, de conformité et de
+gestion des risques aux spécificités de chaque filiale et de leur cohérence avec le
+dispositif du groupe, -
+s’assurer de l’adéquation des systèmes d’information, de l’existence de pistes d’audit
+robustes et de contrôles adéquats pour l’identification, la mesure, la gestion et la
+limitation des risques au niveau consolidé, et
+-
+vérifier qu’il existe des systèmes efficaces pour faciliter la communication
+d’informations entre les différentes entités, gérer les risques des différentes filiales ou
+entités du groupe et permettre une supervision efficace du groupe.
+
+=== CHUNK 54 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 25 | Titre_Gemma: **Contrôle de conformité des filiales à l'étranger.** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE 3 : DE LA FONCTION DE CONTROLE DE LA CONFORMITE
+Titre : TITRE VI : DE LA GOUVERNANCE AU SEIN DES GROUPES BANCAIRES
+Section : Section II : DU FONCTIONNEMENT DE L’ORGANE D’ADMINISTRATION
+Sous-section : Non spécifié
+Article : Article 54 :
+L’organe d’administration de l’entité consolidante qui dispose de filiales à l’étranger, doit
+s’assurer qu’elles mettent en place un dispositif de contrôle de la conformité de leurs
+opérations.
+Lorsque les dispositions de la réglementation des pays d’accueil font obstacle à l’application
+des règles prévues par les dispositions de la présente circulaire, l’entité consolidante doit en
+informer la Banque Centrale de Tunisie. .
+
+=== CHUNK 55 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 25 | Titre_Gemma: **Conformité bancaire islamique et gouvernance.** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE PREMIER : DU COMITE DE CONTROLE DE CONFORMITE DES NORMES BANCAIRES ISLAMIQUES
+Titre : TITRE VII : DES DISPOSITIONS DE GOUVERNANCE SPECIFIQUES AUX ETABLISSEMENTS EXERCANT DES OPERATIONS BANCAIRES ISLAMIQUES
+Section : Section II : DU FONCTIONNEMENT DE L’ORGANE D’ADMINISTRATION
+Sous-section : Non spécifié
+Article : Article 55 :
+Nonobstant les dispositions des titres I, II, III, IV, V,  VI et VIII  de la présente circulaire,
+l’organe d’administration de l’établissement exerçant des opérations bancaires islamiques
+veille à garantir la conformité de l’établissement aux normes bancaires islamiques et prend à
+cet effet toutes les mesures nécessaires pour conférer aux structures de gouvernance spécifiques
+telles que visées par la loi n°2016-48 , l’indépendance et les moyens humains et financiers
+adéquats pour assurer leurs missions.
+
+=== CHUNK 56 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 25 | Titre_Gemma: **Fonctionnement et missions du comité de contrôle bancaire islamique.** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE PREMIER : DU COMITE DE CONTROLE DE CONFORMITE DES NORMES BANCAIRES ISLAMIQUES
+Titre : TITRE VII : DES DISPOSITIONS DE GOUVERNANCE SPECIFIQUES AUX ETABLISSEMENTS EXERCANT DES OPERATIONS BANCAIRES ISLAMIQUES
+Section : Section II : DU FONCTIONNEMENT DE L’ORGANE D’ADMINISTRATION
+Sous-section : Non spécifié
+Article : Article 56 :
+Sans préjudice des dispositions de l’article 54 de la loi n°2016-48, le comité de contrôle de
+conformité des normes bancaires islamiques est tenu notamment de :
+-
+élaborer une charte définissant ses attributions, sa composition, ses règles de
+fonctionnement et ses rapports avec l’organe d’administration et les structures
+opérationnelles de l’établissement, -
+émettre à l’organe d’administration un avis quant au degré de respect par
+l’établissement des normes bancaires islamiques ainsi que les recommandations pour
+remédier aux insuffisances soulevées à cet égard,
+-
+valider le programme annuel de travail de l’auditeur des opérations bancaires
+islamiques et œuvrer à l’orienter durant l'exercice de ses fonctions, et
+-
+soumettre à l’organe d’administration un rapport annuel faisant état de ses travaux.
+
+=== CHUNK 57 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 26 | Titre_Gemma: **Comité de Contrôle de Conformité Bancaire Islamique** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE 2 : DE L’AUDITEUR DES OPERATIONS BANCAIRES ISLAMIQUES
+Titre : TITRE VII : DES DISPOSITIONS DE GOUVERNANCE SPECIFIQUES AUX ETABLISSEMENTS EXERCANT DES OPERATIONS BANCAIRES ISLAMIQUES
+Section : Section II : DU FONCTIONNEMENT DE L’ORGANE D’ADMINISTRATION
+Sous-section : Non spécifié
+Article : Article 57 :
+Le comité de contrôle de conformité des normes bancaires islamiques se réunit sur
+convocation de son président, au moins deux fois par an, et chaque fois qu’il le juge utile.
+Le comité de contrôle de conformité des normes bancaires islamiques peut faire appel à toute
+personne dont la présence est jugée utile, sans droit au vote.
+Il ne peut délibérer sans la présence de trois au moins de ses membres.
+En cas d’empêchement du président, la présidence est confiée à l’un des membres du comité
+de contrôle de conformité des normes bancaires islamiques choisi par ses pairs.
+Il est établi un procès-verbal pour chaque réunion du comité de contrôle de conformité des
+normes bancaires islamiques.
+Les décisions au sein de ce comité sont prises à la majorité des voix des membres. En cas de
+partage des voix, la voix du président de séance est prépondérante.
+Le secrétariat du comité de contrôle de conformité des normes bancaires islamiques est assuré
+par l’auditeur des opérations bancaires islamiques.
+
+=== CHUNK 58 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 26 | Titre_Gemma: **Auditeur des Opérations Bancaires Islamiques : Désignation et Missions** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE 3 : DES DROITS DES TITULAIRES DES COMPTES
+Titre : TITRE VII : DES DISPOSITIONS DE GOUVERNANCE SPECIFIQUES AUX ETABLISSEMENTS EXERCANT DES OPERATIONS BANCAIRES ISLAMIQUES
+Section : Section II : DU FONCTIONNEMENT DE L’ORGANE D’ADMINISTRATION
+Sous-section : Non spécifié
+Article : Article 58 :
+L’auditeur des opérations bancaires islamiques est désigné par l’organe d’administration sur
+proposition de l’organe de direction et après avis du comité de contrôle de conformité des
+normes bancaires islamiques. Il sera chargé notamment de : -
+s’assurer de la conformité des transactions, des services et produits financiers ainsi
+que des contrats et des financements octroyés aux avis et propositions du comité de
+contrôle de conformité des normes bancaires islamiques,
+-
+signaler toute irrégularité relevée au comité de contrôle de conformité des normes
+bancaires islamiques, à l’organe d’administration et à l’organe de direction,
+-
+réaliser le plan annuel d’audit et soumettre les rapports d’audit au comité de contrôle
+de conformité des normes bancaires islamiques,
+-
+soumettre un rapport annuel sur ses travaux, au comité de contrôle de conformité des
+normes bancaires islamiques.
+L’auditeur des opérations bancaires islamiques est rattaché au comité de contrôle de
+conformité des normes bancaires islamiques et jouit d’une indépendance lui permettant
+d’accomplir ses missions.
+L'auditeur des opérations bancaires islamiques doit justifier d’une expertise en finance
+islamique.
+D’INVESTISSEMENT
+
+=== CHUNK 59 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 27 | Titre_Gemma: **Responsabilités de l'organe d'administration des banques islamiques en matière d'investissement et de surveillance des investissements.** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE 4 : DES OBLIGATIONS DE L’ORGANE DE DIRECTION
+Titre : TITRE VII : DES DISPOSITIONS DE GOUVERNANCE SPECIFIQUES AUX ETABLISSEMENTS EXERCANT DES OPERATIONS BANCAIRES ISLAMIQUES
+Section : Section II : DU FONCTIONNEMENT DE L’ORGANE D’ADMINISTRATION
+Sous-section : Non spécifié
+Article : Article 59 :
+Sans préjudice des dispositions de l’article 76 de la loi n°2016-48, l’organe d’administration
+des établissements exerçant des opérations bancaires islamiques doit :
+-
+mettre en place une stratégie d’investissement saine qui soit en cohérence avec les
+attentes des investisseurs titulaires des comptes d’investissement en matière de risque,
+de rendement et de lissage des rendements,
+-
+reconnaître aux titulaires des comptes d’investissement le droit de surveiller la
+performance de leurs investissements et les risques associés ainsi que leur droit à la
+communication de manière adéquate et en temps utile des informations importantes
+et pertinentes sur lesdits comptes.
+
+=== CHUNK 60 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 27 | Titre_Gemma: **Obligations de l'organe de direction envers le comité de conformité bancaire islamique.** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE 4 : DES OBLIGATIONS DE L’ORGANE DE DIRECTION
+Titre : TITRE VII : DES DISPOSITIONS DE GOUVERNANCE SPECIFIQUES AUX ETABLISSEMENTS EXERCANT DES OPERATIONS BANCAIRES ISLAMIQUES
+Section : Section II : DU FONCTIONNEMENT DE L’ORGANE D’ADMINISTRATION
+Sous-section : Non spécifié
+Article : Article 60 :
+Afin de permettre au comité de contrôle de conformité des normes bancaires islamiques
+d’accomplir ses missions, l’organe de direction est tenu de :
+-
+mettre à la disposition du comité de contrôle de conformité des normes bancaires
+islamiques, les moyens humains et logistiques adéquats, les documents et/ou
+informations nécessaires, -
+fournir tous les éclaircissements demandés par le comité de contrôle de conformité
+des normes bancaires islamiques lors de l’exécution de ses travaux,
+-
+présenter, a priori, au comité de contrôle de conformité des normes bancaires
+islamiques tous les nouveaux produits, contrats et transactions que l’établissement
+compte utiliser à l'avenir, pour examen et approbation,
+-
+organiser des réunions périodiques entre le comité de contrôle de conformité des
+normes bancaires islamiques et les structures opérationnelles, et
+-
+organiser au profit des structures opérationnelles des formations ayant trait à la
+conformité des normes bancaires islamiques.
+L’organe de direction est également tenu de :
+-
+formaliser les procédures décrivant les normes bancaires islamiques à respecter par
+les structures opérationnelles et notamment celles relatives aux transactions, services
+financiers et contrats, et -
+mettre en place un dispositif de contrôle permettant la détection précoce des situations
+de non-conformité par rapport aux normes bancaires islamiques.
+
+=== CHUNK 61 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 28 | Titre_Gemma: **Application des Principes de la Circulaire** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE 4 : DES OBLIGATIONS DE L’ORGANE DE DIRECTION
+Titre : TITRE VII : DES DISPOSITIONS DE GOUVERNANCE SPECIFIQUES AUX ETABLISSEMENTS EXERCANT DES OPERATIONS BANCAIRES ISLAMIQUES
+Section : Section II : DU FONCTIONNEMENT DE L’ORGANE D’ADMINISTRATION
+Sous-section : Non spécifié
+Article : Article 61 :
+L’organe de direction doit veiller à l’application des principes visés à l’article 59 de la
+présente circulaire et à mettre en place les procédures et moyens adéquats nécessaires à cet
+effet.
+
+=== CHUNK 62 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 28 | Titre_Gemma: **Dossier de notification à la BCT : Exigences pour la nomination de nouveaux administrateurs.** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE PREMIER : DE L’INFORMATION A LA BANQUE CENTRALE DE TUNISIE
+Titre : TITRE VIII : DE LA COMMUNICATION DE L’INFORMATION ET DE LA RELATION AVEC LA BANQUE CENTRALE DE TUNISIE
+Section : Section II : DU FONCTIONNEMENT DE L’ORGANE D’ADMINISTRATION
+Sous-section : Non spécifié
+Article : Article 62:
+En application de l’article 55 de la loi 2016-48, le dossier de notification à transmettre à la
+Banque Centrale de Tunisie doit comporter :
+-
+une lettre de motivation signée par le président de l’organe d’administration relatant
+notamment les motifs du choix de la personne en question, sa contribution afin de
+renforcer la compétence collective des autres membres de l’organe d’administration
+ou de l’organe de direction ainsi que son apport attendu afin de remédier aux
+éventuelles faiblesses ou défaillances relevées lors des récentes auto-évaluation.
+
+=== CHUNK 63 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 30 | Titre_Gemma: **Notification des membres du Comité de Contrôle de Conformité Bancaire Islamique** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE PREMIER : DE L’INFORMATION A LA BANQUE CENTRALE DE TUNISIE
+Titre : TITRE VIII : DE LA COMMUNICATION DE L’INFORMATION ET DE LA RELATION AVEC LA BANQUE CENTRALE DE TUNISIE
+Section : Section II : DU FONCTIONNEMENT DE L’ORGANE D’ADMINISTRATION
+Sous-section : Non spécifié
+Article : Article 66 :
+La nomination et le remplacement de l’un des membres du comité de contrôle de conformité
+aux normes bancaires islamiques doivent être notifiés sans délai à la Banque Centrale de
+Tunisie.
+En cas de révocation de l’un des membres dudit comité, l’établissement informe la Banque
+Centrale de Tunisie des motifs inhérents.
+
+=== CHUNK 64 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 30 | Titre_Gemma: **Gouvernance de la BCT : Réunions avec les administrateurs indépendants** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE  2 : TRANSPARENCE ET COMMUNICATION DE L’INFORMATION
+Titre : TITRE VIII : DE LA COMMUNICATION DE L’INFORMATION ET DE LA RELATION AVEC LA BANQUE CENTRALE DE TUNISIE
+Section : Section II : DU FONCTIONNEMENT DE L’ORGANE D’ADMINISTRATION
+Sous-section : Non spécifié
+Article : Article 67 :
+La Banque Centrale de Tunisie organise des réunions avec les administrateurs indépendants
+afin de s’enquérir de leur rôle dans la gouvernance de l’établissement.
+
+=== CHUNK 65 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 30 | Titre_Gemma: **Divulgation de l'Information** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE  2 : TRANSPARENCE ET COMMUNICATION DE L’INFORMATION
+Titre : TITRE VIII : DE LA COMMUNICATION DE L’INFORMATION ET DE LA RELATION AVEC LA BANQUE CENTRALE DE TUNISIE
+Section : Section II : DU FONCTIONNEMENT DE L’ORGANE D’ADMINISTRATION
+Sous-section : Non spécifié
+Article : Article 68 :
+L’organe d’administration veille à la mise en place et la mise à jour d’un dispositif de
+divulgation de l’information pour les parties prenantes qui doit assurer la communication en
+temps opportun d’informations fiables et pertinentes sur les aspects significatifs de l’activité
+de l’établissement.
+
+=== CHUNK 66 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 30 | Titre_Gemma: **Rapport Annuel de l'Organe d'Administration** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE  2 : TRANSPARENCE ET COMMUNICATION DE L’INFORMATION
+Titre : TITRE VIII : DE LA COMMUNICATION DE L’INFORMATION ET DE LA RELATION AVEC LA BANQUE CENTRALE DE TUNISIE
+Section : Section II : DU FONCTIONNEMENT DE L’ORGANE D’ADMINISTRATION
+Sous-section : Non spécifié
+Article : Article 69 :
+L’organe d’administration publie annuellement un rapport détaillé, destiné au public, sur ses
+activités, prévoyant notamment :
+-
+le code de gouvernance et les détails de sa mise en œuvre, le code de déontologie
+interne et les chartes des comités de l’établissement,
+-
+la composition nominative de l’organe d’administration, les règles de son
+fonctionnement, le parcours professionnel de ses membres, leurs qualités de
+représentation et leurs mandats et une synthèse des travaux des comités,
+-
+le rapport annuel du comité de contrôle de conformité des normes bancaires
+islamiques pour les établissements exerçant des opérations bancaires islamiques,
+-
+l’organisation de l’établissement, ses lignes de métier et la structure de ses filiales,
+-
+la fréquence des réunions de l’organe d’administration et des comités,
+-
+un exposé de l’organe d’administration sur l'adéquation du dispositif de contrôle
+interne et de ses moyens, -
+une description de la structure, du fonctionnement et des activités de la gestion des
+risques,
+-
+le profil de risque de l’établissement notamment le niveau d’exposition par type de
+risques, par zone géographique, par secteur et par principaux bénéficiaires,
+-
+la composition des fonds propres et leur adéquation par rapport au profil de risques,
+-
+la politique de provisionnement pour la couverture des risques, et
+-
+la structure de l’actionnariat notamment les principaux actionnaires, leur
+représentation à l’organe d’administration et les droits de vote.
+
+=== CHUNK 67 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 31 | Titre_Gemma: **Modification de l'Annexe I de la Circulaire n°2017-06** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE  2 : TRANSPARENCE ET COMMUNICATION DE L’INFORMATION
+Titre : TITRE VIII : DE LA COMMUNICATION DE L’INFORMATION ET DE LA RELATION AVEC LA BANQUE CENTRALE DE TUNISIE
+Section : Section II : DU FONCTIONNEMENT DE L’ORGANE D’ADMINISTRATION
+Sous-section : Non spécifié
+Article : Article 69 :
+TITRE IX : DISPOSITIONS DIVERSES Article 70 :
+L’annexe I à la circulaire n°2017-06 relative au reporting comptable, prudentiel et statistique
+à la Banque Centrale de Tunisie est modifiée par l’ajout de déclarations aux sous domaines 1
+« Gouvernance » et 4 « Conformité » du domaine 5 « Reporting sur les dispositifs de
+gouvernance, de contrôle interne et de gestion des risques » conformément à l’annexe 3 de la
+présente circulaire.
+
+=== CHUNK 68 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 31 | Titre_Gemma: **Abrogation et remplacement de circulaires antérieures – Nouvelle circulaire.** ===
+Loi : Non spécifié
+Chapitre : CHAPITRE  2 : TRANSPARENCE ET COMMUNICATION DE L’INFORMATION
+Titre : TITRE VIII : DE LA COMMUNICATION DE L’INFORMATION ET DE LA RELATION AVEC LA BANQUE CENTRALE DE TUNISIE
+Section : Section II : DU FONCTIONNEMENT DE L’ORGANE D’ADMINISTRATION
+Sous-section : Non spécifié
+Article : Article 71 :
+La présente circulaire abroge et remplace la circulaire n°2011-06 du 20 mai 2011 et la circulaire
+n°2006-06 du 24 juillet 2006 et entre en vigueur à compter de la date de sa publication.
+Les établissements doivent se conformer aux dispositions de la présente circulaire dans un délai
+ne dépassant pas 1 an à compter de la date de son entrée en vigueur.
+A ce titre, ils sont tenus de présenter, dans un délai n’excédant pas 3 mois de la publication de
+la présente circulaire, une feuille de route pour le respect des dispositions y afférentes.
+LE GOUVERNEUR
+MAROUANE El ABASSI
+EXPÉRIENCE PROFESSIONNELLE
+Expérience dans le domaine bancaire/financier
+Fonction/titre du poste Organisation/entreprise Principales Responsabilités domaines d’expertise Date/durée
+Autres expériences hors du secteur bancaire/financier (poste de cadre dirigeant ou autre)
+Fonction/titre du poste Organisation/entreprise Principales Responsabilités domaines d’expertise Date/durée
+Membre dans d’autres organes d’administration/de direction
+Fonction/titre du poste Organisation/entreprise Principales Responsabilités domaines d’expertise Date/durée
+AUTRES COMPETENCES
+LANGUES
+Je certifie que les informations contenues dans le présent CV sont exactes et complètes.
+Tunis le .............................................
+Signature de la personne désignée
+Domaine Code de la déclaration Intitulé de la déclaration EA Périodicité de déclaration Délai maximum de transmission Format /transmi ssion
+Reporting sur les dispositifs de  gouvernance, de contrôle interne et de gestion des risques
+-
+SD 1 : Gouvernance (Suite) RGT240140
+PV des réunions du conseil d’administration
+tenues au cours du trimestre écoulé BR+BNR+EL+EF + BA Trimestrielle
+DR+30j PDF
+RGT240150
+PV des réunions du comité d’audit interne
+tenues au cours du trimestre écoulé BR+BNR+EL+EF + BA Trimestrielle
+DR+30j PDF
+RGT240160
+PV des réunions du comité des risques tenues
+au cours du trimestre écoulé BR+BNR+EL+EF + BA Trimestrielle
+DR+30j PDF
+RGT240170
+PV des réunions du comité de contrôle de
+conformité des normes bancaires islamiques
+tenues au cours du trimestre écoulé BEFI Trimestrielle
+DR+30j PDF
+RGA240180
+PV de la réunion du Conseil d’Administration
+pour l’arrêté des états financiers de l’exercice
+concerné BR+BNR+EL+EF + BA Annuelle
+Un mois avant la date de tenue de l’AGO 2 PDF
+RGA240190
+Projet des résolutions de l’AGO au titre de
+l’exercice en question BR+BNR+EL+EF + BA Annuelle
+Un mois avant la date de tenue de l’AGO 2 PDF
+RGA240200
+PV signé de l’AGO au titre de l’exercice en
+question BR+BNR+EL+EF + BA Annuelle
+Fin juin PDF
+RGA240210
+Rapport du conseil d’administration sur la
+gestion de l’exercice visé par l’article 201 du
+Code des Sociétés Commerciales BR+BNR+EL+EF Annuelle
+15 jours avant la date de tenue de l’AGO PDF
+RGA240220
+Rapport annuel sur les résultats des activités du
+comité de contrôle de conformité des normes
+bancaires islamiques visé par l’article 54 de la
+loi n°2016-48 BEFI Annuelle
+Un mois avant la date de tenue de l’AGO 2 PDF
+RGA240230 Rapport du comité d’audit BR+BNR+EL+EF Annuelle
+DR+45j PDF
+RGA240240 Rapport du comité des risques BR+BNR+EL+EF Annuelle
+DR+45j PDF
+RGA240241 Rapport du Comité de Nomination et de Rémunération BR+BNR Annuelle
+DR+45j PDF
+RGA240242
+Rapport détaillé des pratiques de rémunération
+des membres de l’organe de direction et des
+premiers responsables des fonctions clés.
+BR+BNR+EL+EF +BA Annuelle
+DR+45 j PDF
+RGA240250 Politique de lancement de l’alerte BR+BNR+EL+EF +BA Annuelle
+DR+45 j PDF
+RGA240260 Rapport auto-évaluation de l’organe
+d’administration/des comités et des membres
+BR+BNR+EL+EF +BA Annuelle
+DR+45 j PDF
+RGA240270 …
+Rapport de l’auditeur des opérations bancaires
+islamiques BEFI Annuelle
+DR+45 j PDF
+RGA250
+Concours accordés aux personnes ayant des
+liens avec l’établissement au sens de l’article 43
+de la loi n° 2016-48 BR+BNR+EL+EF Annuelle
+DR+45j XML
+Domai ne Code de la déclaration Intitulé de la déclaration EA Périodicité de déclaration Délai maximum de transmission Format /transmission SD4: Conformité RCONFA260010 Rapport d’activité de l’organe chargé du contrôle de la conformité au titre de l’exercice BR+BNR+EL+EF+ BA Annuelle DR+45j PDF RCONFA260020
+Rapport transmis par l’organe chargé du contrôle de la conformité au conseil d’administration BR+BNR+EL+EF+ BA Annuelle DR+45j PDF RCONFA260030 Politique de Conformité BR+BNR+EL+EF+ BA Annuelle DR+45j PDF RCONFA260040 Rapport transmis par l’organe chargé du contrôle de la conformité des Normes Bancaires Islamiques au conseil d’administration BEFI Annuelle DR+45j PDF
+
+=== CHUNK 69 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 29 | Titre_Gemma: **Dossier de Nomination : Pièces Requises** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
+-
+le curriculum vitae de la personne désignée suivant le modèle objet de l’annexe 1 de
+la présente circulaire, -
+copie d’une pièce d’identité de la personne désignée,
+-
+une déclaration sur l’honneur signée par la personne désignée par laquelle elle atteste
+qu’elle n’est pas frappée par les interdictions légales, établie suivant le modèle en
+annexe 2 de la présente circulaire, -
+une attestation signée par le président de l’organe d’administration, stipulant
+l’absence de conflit d’intérêts telle que visée à l’article 24 de la présente circulaire.
+Pour toute personne désignée en qualité de membre indépendant, et en sus des pièces
+précitées, le président de l’organe d’administration doit joindre au dossier de notification une
+déclaration sur l’honneur signée par lui-même attestant que la personne désignée répond aux
+critères prévus par l’article 20 de la présente circulaire.
+La Banque Centrale de Tunisie peut, dans le cadre de l’étude des dossiers d’autorisation pour
+la nomination des personnes visées à l’article 55 de la loi n°2016-48, demander à
+l’établissement concerné de lui communiquer tous renseignements ou documents
+complémentaires qu’elle juge utile pour l’étude du dossier et ce, dans un délai ne dépassant
+15 jours à compter de la date de notification par la Banque centrale de Tunisie.
+Article 63 :
+La Banque Centrale de Tunisie peut convoquer, pour entretien et demande
+d’éclaircissements, toute personne désignée conformément aux dispositions de l’article 55 de
+la loi n°2016-48.
+Article 64 :
+L’organe d’administration doit informer sans délai la Banque Centrale de Tunisie de tout
+changement au niveau des critères d’éligibilité de l’administrateur indépendant tels que visés
+à l’article 20 de la présente circulaire et doit, le cas échéant, procéder à son remplacement
+conformément aux dispositions de la loi n°2016-48.
+Article 65 :
+Sans préjudice des dispositions des articles 53 et 54 de la loi n°2016-48, chaque établissement
+doit informer la Banque Centrale de Tunisie de l’identité et des qualifications
+professionnelles des premiers responsables des fonctions de contrôle ainsi que de l’auditeur
+des opérations bancaires islamiques.
+L’établissement doit informer, sans délai, la Banque Centrale de Tunisie de toute décision de
+révocation ou de remplacement des premiers responsables des fonctions de contrôle ainsi que
+de l’auditeur des opérations bancaires islamiques et les motifs ayant présidé à cette décision.
+
+=== CHUNK 70 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 32 | Titre_Gemma: **Curriculum Vitae (CV)** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
+Annexe 1 à la circulaire n°2021-05 du 19 août 2021
+CURRICULUM VITAE
+INFORMATIONS GENERALES
+Nom de famille : Prénom :
+Date et lieu de naissance : Nationalité : N° pièce d’identité : pays/ date d’émission Adresse actuelle : Téléphone : Adresse électronique :
+FORMATION ACADEMIQUE ET DIPLOMES
+Intitulé diplôme Nom de l’établissement Date /durée Domaines d’études/Observations
+FORMATION PROFESSIONNELLE ET CERTIFICATS
+Formation Nom de l’établissement Date/durée Observations
+
+=== CHUNK 71 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 34 | Titre_Gemma: **Déclaration d'Honneur - Annexe 2, Circulaire n°2021-05** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
+Annexe 2 à la circulaire n°2021-05. Du 19 août 2021
+DECLARATION SUR L’HONNEUR
+Je soussigné(e) Mr/Mme/Mlle…. ………………. ……………….titulaire de la CNI ou
+passeport n° : ………………..…………… délivrée à………………………………….le
+……………….……………… et désigné(e) en qualité de …………………….par décision de
+……. …en date du….. déclare sur l’honneur que :
+• je n’ai pas fait l’objet d’un jugement définitif pour faux en écriture, vol, abus de
+confiance, escroquerie extorsion de fonds ou valeurs d'autrui, soustraction commise
+par dépositaire public, corruption ou évasion fiscale, émission de chèque sans
+provision, recel des choses obtenues à l'aide de ces infractions ou infraction à la
+réglementation des changes ou à la législation relative à la lutte contre le
+blanchiment d’argent et le financement du terrorisme,
+• je n’ai pas été frappé(e) par un jugement définitif de faillite,
+• je n’ai pas été gérant ou mandataire de sociétés, condamné en vertu des dispositions
+du code pénal relatives à la banqueroute,
+• je n’ai pas été révoqué(e) des fonctions d’administration ou de gestion d’une
+entreprise soumise au contrôle de la banque centrale de Tunisie ou par l’une des
+autorités chargées du contrôle du marché financier ou des entreprises d’assurance et
+de réassurance ou des institutions de micro-finance, en vertu d’une sanction infligée
+par ces autorités,
+• je n’ai pas subi une sanction de radiation dans l’exercice d’une activité
+professionnelle régie par un cadre légal ou réglementaire,
+• je n’ai pas été responsable de la mauvaise gestion d’une banque ou d’un
+établissement financier ayant causé des difficultés qui ont rendu nécessaire la
+soumission de la banque ou l’établissement financier à un plan de résolution ou à la
+liquidation.
+• je ne me trouve pas dans l’une des situations d’interdiction et d’incompatibilité
+prévues par la législation en vigueur et notamment la loi n°2016-48 et notamment
+ses articles 46, 57 et 58
+Fait à………………, le ……………..……………….
+SIGNATURE
+
+=== CHUNK 72 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 35 | Titre_Gemma: **Annexe 3 : Reporting sur la Gouvernance et les Risques (Circulaire 2021-05)** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
+Annexe 3 à la circulaire n°2021-05 du 19 août 2021
+Modifiant l’annexe I à la circulaire n°2017-06 relative au reporting comptable, prudentiel et
+statistique à la Banque Centrale de Tunisie
+Domaine Code de la déclaration Intitulé de la déclaration EA Périodicité de déclaration Délai maximum de transmission Format /transmission
+Reporting sur les dispositifs de  gouvernance, de contrôle interne et de gestion des risques
+-
+SD1 : Gouvernance RGA210 Structure du capital BR+BNR+EL+EF+ BA Annuelle
+DR+45 j XML
+RGA220 Renseignements sur les structures de gouvernance BR+BNR+EL+EF+ BA Annuelle
+DR+45 j XML
+RGA230 Renseignements sur les structures de contrôle BR+BNR+EL+EF Annuelle
+DR+45 j XML
+RGA240010 Note actualisée sur la stratégie sur une période de 5 ans BR+BNR+EL+EF+ BA Annuelle
+DR+45 j PDF
+RGA240011 Politiques de Financement BR+BNR+EL+EF Annelle
+DR+45 j PDF
+RGA240012 Politique de Gestion des Risques BR+BNR+EL+EF Annelle
+DR+45 j PDF
+RGA240115 Politique d’appétence pour le risque BR+BNR+EL+EF Annuelle
+DR+45 j PDF
+RGA240020 Rapport annuel BR+BNR+EL+EF+ BA Annuelle
+DR+45 j PDF
+RGA240030 Les statuts BR+BNR+EL+EF+ BA Annuelle
+DR+45 j PDF
+RGA240050 L'organigramme BR+BNR+EL+EF+ BA Annuelle
+DR+45 j PDF
+RGA240060 Le Code de Gouvernance BR+BNR+EL+EF + BA Annuelle
+DR+45 j PDF
+RGA240061 Cadre de Gouvernance (Cf. Article 3 de la circulaire n°****** BR+BNR+EL+EF+ BA Annuelle
+DR+45 j PDF
+RGA240040 Le code de Déontologie BR+BNR+EL+EF+ BA Annuelle
+DR+45 j PDF
+RGA240070 Charte du comité d'audit BR+BNR+EL+EF+ BA Annuelle
+DR+45 j PDF
+RGA240080 Charte du comité des risques BR+BNR+EL+EF+ BA Annuelle
+DR+45 j PDF
+RGA240090 Charte du comité de rémunération et de nomination BR+BNR Annuelle
+DR+45 j PDF
+RGA240100 Charte du comité de contrôle de conformité des normes bancaires islamiques BEFI Annuelle
+DR+45 j PDF
+RGA240110 Politique de gestion des conflits d'intérêts BR+BNR+EL+EF Annuelle
+DR+45 j PDF
+RGA240113 Politique de protection des intérêts des usagers des services bancaires et de leurs données personnelles BR+BNR+EL+EF Annuelle
+DR+45 j PDF
+RGA240114 Politique en matière de comportement responsable et éthique et de respect des principes de la Responsabilité Sociétale et Environnementale BR+BNR+EL+EF Annuelle
+DR+45 j PDF
+RGA240120 Politique de nomination et de rémunération BR+BNR+EL+EF Annuelle
+DR+45 j PDF
+RGA240130 Plan de succession BR+BNR+EL+EF Annuelle
+DR+45 j PDF
+

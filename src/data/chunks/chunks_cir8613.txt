@@ -1,0 +1,50 @@
+=== CHUNK 1 | PDF: cir8613.pdf | Page: -1 | Titre_Gemma: **Conditions d'Activité des Banques Non Résidentes en Tunisie** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
+## Découpage du texte juridique en sections :
+**=== Section 1 ===**
+**Objet et Contexte**
+La présente circulaire, numéro 86-13, adressée aux banques non résidentes, précise les conditions d'activité de ces institutions en Tunisie. Elle s'inscrit dans le cadre de la loi n° 85-108 du 6 décembre 1985, qui a élargi leur champ d'action en leur permettant d'opérer avec les résidents, tout en leur imposant une obligation de veiller à la préservation du crédit de la place de Tunis. L'objet de la circulaire est de définir les conditions de gestion financière, les règles régissant l'activité avec les résidents, les attributions en tant qu'intermédiaires agréés, le régime de change, les conditions de banque et les ratios applicables.
+**=== Section 2 ===**
+**I - CONDITIONS GENERALES DE GESTION FINANCIERE**
+Cette section énonce les obligations fondamentales des banques non résidentes en matière de gestion financière. Elle aborde notamment :
+*   La couverture des risques (change, crédits, titres, etc.) en imposant des ratios de fonds propres nets.
+*   La division des risques, en limitant le risque par débiteur et par concentration.
+**=== Section 3 ===**
+**II - REGLES PARTICULIERES A L'ACTIVITE AVEC LES RESIDENTS**
+Cette section détaille les règles spécifiques à l'activité bancaire avec les résidents, divisée en deux sous-sections :
+*   **Collecte et emploi des fonds en dinars:**
+*   La collecte des fonds de résidents, limitée en fonction de leur participation à des sociétés et des dépôts bancaires.
+*   L'utilisation de ces fonds pour le financement d'opérations productives en Tunisie.
+*   **Financement en devises:**
+*   Le financement des investissements (souscription au capital, crédits à moyen et long terme).
+*   Le financement des opérations de commerce extérieur (importations et exportations), avec des conditions spécifiques concernant le transfert des fonds.
+**=== Section 4 ===**
+**III - CONDITIONS D'EXERCICE DE LA QUALITE D'INTERMEDIAIRE AGREE**
+Cette section précise les conditions pour qu'une banque non résidente puisse agir en tant qu'intermédiaire agréé, lui conférant des obligations similaires à celles des intermédiaires résidents. Elle couvre notamment les opérations connexes au commerce extérieur.
+**=== Section 5 ===**
+**IV - REGIME DE CHANGE**
+Cette section détaille les règles relatives au transfert de fonds en devises, en distinguant :
+*   **Opérations en devises :** Le transfert du produit des liquidations d'investissements et le remboursement des prêts en principal et intérêts, avec des procédures spécifiques et des exigences en matière d'autorisation de la Banque Centrale de Tunisie.
+*   **Opérations en dinars :** La possibilité de transférer des revenus réalisés avec des résidents financés sur des ressources en dinars, sous réserve d'autorisation.
+**=== Section 6 ===**
+**V - CONDITIONS DE BANQUE**
+Cette section énonce les conditions de banque pour les banques non résidentes, précisant :
+*   Les conditions débitrices et créditrices pour les opérations en dinars.
+*   Les taux de prêt pour les crédits en devises, avec des marges autorisées et des exigences en matière d'autorisation de la Banque Centrale de Tunisie.
+**=== Section 7 ===**
+**VI - RATIOS APPLICABLES AUX FONDS EN DINARS**
+Cette section définit les ratios de liquidité et de solvabilité applicables aux fonds en dinars :
+*   **Ratio immédiat de liquidité (RIL):**  Définition du ratio, de sa composition (encaisse, solde de comptes à vue, ligne de trésorerie), et des niveaux réglementaires en fonction du degré de répartition des dépôts.
+*   **Réserves obligatoires:** Les banques non résidentes collectant des fonds en dinars sont soumises à une réserve obligatoire.
+*   **Ratio d'effets publics:**  Ce ratio est soumis à des modalités précises qui seront définies ultérieurement.
+**=== Section 8 ===**
+**VII - ORGANISATION COMPTABLE ET DECLARATIONS PERIODIQUES A LA BANQUE CENTRALE DE TUNISIE**
+Cette section détaille les obligations comptables et de déclaration des banques non résidentes :
+*   **Organisation comptable:**  L'obligation d'individualiser les opérations avec les résidents dans leur comptabilité.
+*   **Déclarations périodiques:**  Les déclarations à communiquer à la Banque Centrale de Tunisie, notamment les déclarations liées à la balance des paiements, la situation comptable, les crédits accordés, les comptes pertes et profits, et le bilan.
+

@@ -1,0 +1,979 @@
+=== CHUNK 1 | PDF: DECISION_20170731_fr.pdf | Page: 1 | Titre_Gemma: **Procédure d'agrément bancaire et financier** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Article premier : objet
+La présente décision, portant fixation des « procédures de dépôt des demandes d’agrément» :
+1- Est destinée à toute personne physique ou morale, sollicitant la commission d’agrément pour l’obtention
+d’un agrément relatif aux opérations énumérées par les articles 24, 34 et 35 de la loi no 2016-48, relative aux
+banques et aux établissements financiers.
+2- Rappelle les dispositions légales régissant le processus d’agrément en particulier :
+- Les structures chargées de l’instruction, de l’octroi des agréments et de notification au requérant de la suite
+réservée à sa demande,
+- L’agrément de principe et d’agrément définitif, et
+- Les délais légaux y afférents.
+3- Définit la procédure de demande d’agrément, les annexes et  les renseignements à fournir par catégorie
+d’agrément et les formulaires à remplir par le requérant.
+
+=== CHUNK 2 | PDF: DECISION_20170731_fr.pdf | Page: 1 | Titre_Gemma: **Agrément bancaire et commission d'agrément : Obligations légales.** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Article 2 : champs d’application
+Les activités et les opérations prévues aux articles 24, 34 et 35 de la loi n° 2016-48, doivent faire l’objet
+d’une demande d’agrément à la Banque Centrale de Tunisie et obtenir l’agrément de la commission d’agrément
+prévue par l’article 26 de ladite loi. N° 91
+Journal Officiel de la République Tunisienne — 14 novembre 2017
+Page 3889
+
+=== CHUNK 3 | PDF: DECISION_20170731_fr.pdf | Page: 2 | Titre_Gemma: **Procédure d'agrément bancaire en Tunisie** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Article 3 : Structures chargées de l’instruction, de l’octroi des agréments et de la notification du
+requérant
+3.1 La commission d’agrément se prononce sur les demandes d’agrément relatives aux opérations, prévues
+par les articles 24, 34 et 35 de la loi no 2016-48, sur rapport élaboré par la Banque Centrale de Tunisie après
+instruction du dossier d’agrément.
+3.2 La commission d’agrément se prononce sur les demandes d’agrément relatives aux opérations énumérées
+par l’article 24 de la loi no 2016-48, par une décision accordant ou non au requérant dans une première étape un
+agrément de principe et dans une deuxième étape un agrément définitif.
+3.3. La demande d’agrément doit être adressée à la Banque Centrale de Tunisie. La Direction Générale de la
+Supervision Bancaire au sein de la Banque Centrale de Tunisie assure le secrétariat de la commission d’agrément et
+se charge d’instruire le dossier d’agrément. La Banque Centrale de Tunisie se charge de la notification au requérant
+des décisions de la commission d’agrément. En cas de refus, la Banque Centrale de Tunisie notifie au requérant les
+motifs de refus de la commission d’agrément.
+
+=== CHUNK 4 | PDF: DECISION_20170731_fr.pdf | Page: 2 | Titre_Gemma: **Agrément des opérations réglementées (Loi n° 2016-48)** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Article 4 : Agrément de principe et Agrément définitif
+4.1. Les opérations prévues par l’article 24 de la loi n° 2016-48 requièrent un agrément de principe et un
+agrément définitif de la commission d’agrément et ce, conformément aux dispositions de l’article 30 de ladite loi.
+4.2. L’agrément de principe définit notamment  la catégorie de l’établissement, la nature des opérations
+autorisées, le capital initial ainsi que l’identité de l’actionnaire de référence et des principaux actionnaires et fixe les
+exigences et les conditions nécessaires à remplir pour l’octroi de l’agrément définitif conformément aux
+dispositions de l’article 30 de la loi n° 2016-48.
+4.3. Le requérant de l’agrément doit satisfaire aux conditions définies par l’agrément définitif dans un délai
+ne dépassant pas six mois à compter de la date de la notification de l’agrément de principe. Ce délai peut être
+prorogé à titre exceptionnel, pour une durée de 3 mois, sur la base d’une demande du requérant dûment motivée.
+4.4. L’agrément de principe est retiré par la commission d’agrément dans le cas où le requérant n’a pas
+satisfait les conditions requises dans le délai de six mois
+à
+compter de la date de notification de la décision
+d’agrément et ce, sur la base d’un rapport motivé de la Banque Centrale de Tunisie indiquant le non-respect des
+conditions requises lors de l’octroi de l’agrément de principe.
+4.5. L’agrément définitif est délivré par la commission d’agrément sur rapport de la Banque Centrale de
+Tunisie dans un délai de deux mois à compter de la réception d’une demande du requérant prouvant le respect de
+toutes les conditions requises définies dans l’agrément de principe notamment :
+- L’accomplissement des procédures de constitution :
+* Procès-verbal de l’Assemblée Générale Constitutive,
+* Libération du capital et certificat de souscription,
+* Extrait de l’immatriculation au registre de commerce,
+* Copie du Journal Officiel de la République Tunisienne indiquant la constitution de la société.
+- La nomination des organes de gouvernance et l’obtention des autorisations requises de la Banque Centrale
+de Tunisie en respect des dispositions de l’article 55 de la loi no 2016-48.
+Page 3890
+Journal Officiel de la République Tunisienne — 14 novembre 2017
+N° 91
+- Identification du système d’information et l’engagement des procédures d’acquisition
+- L’avancement dans la mise en place du programme de recrutement des moyens humains et techniques et
+des principales structures organisationnelles notamment en matière de contrôle interne, de gestion des risques,
+d’audit interne et de contrôle de conformité.
+- L’avancement dans la mise  en place de la politique commerciale.
+- Elaboration du manuel de procédures des principales opérations à exercer par l’établissement.
+- L’élaboration d’une feuille de route pour le contrôle (monitoring) de l’implémentation du processus
+opérationnel selon les règles de bonne gouvernance.
+4.6. Dans le cadre de l’étude de la demande d’un agrément définitif, la Banque Centrale de Tunisie peut
+effectuer des visites sur place dans les locaux de l’établissement ayant obtenu un agrément de principe pour
+s’assurer du respect des conditions requises pour l’octroi de l’agrément définitif.
+
+=== CHUNK 5 | PDF: DECISION_20170731_fr.pdf | Page: 3 | Titre_Gemma: **Dossier d'agrément bancaire : Éléments requis** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Article 5 : Dossier d’agrément
+Le dossier d’agrément doit comporter au minimum les pièces et renseignements suivants :
+- Une demande d’agrément au nom du Gouverneur de la Banque Centrale de Tunisie définissant la nature de
+l’agrément demandé et la catégorie de l’activité à exercer dans le cas d’un agrément relatif aux opérations bancaires
+énumérées par l’article 24 de la loi no 2016-48.
+- Le formulaire no 1 « Présentation du requérant » signé par le requérant indiquant les informations
+minimales suivantes: qualité, forme juridique, groupe d’appartenance le cas échéant, qualifications académiques,
+expertise technique et honorabilité.
+- Une lettre d’intention signée par le requérant  indiquant les raisons et les motivations de la demande
+d’agrément.
+- Le formulaire no 2 « déclaration sur l’honneur » signé par le requérant  attestant de la sincérité des
+informations et documents fournis dans le dossier d’agrément.
+- Une note retraçant les modalités pratiques et procédurales pour la mise en place du projet objet de la
+demande d’agrément et la feuille de route y afférente.
+- Les renseignements et documents prévus aux annexes 1 à 8 jointes à la présente décision et spécifiques à
+chaque type d’agrément.
+- Les formulaires no 3, 4 et 5 signés par les personnes concernées (telles que définies dans les annexes jointes
+à la présente décision).
+
+=== CHUNK 6 | PDF: DECISION_20170731_fr.pdf | Page: 3 | Titre_Gemma: **Délais d'instruction des demandes d'agrément** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Article 6 : Délais légaux
+6.1. La commission d’agrément se prononce sur la demande d’agrément, dans un délai maximum de :
+- Quatre mois au titre de l’agrément de principe relatif aux opérations prévues par l’article 24 de la loi no
+2016-48.
+- Deux mois au titre des opérations prévues par les articles 34 et 35 de la loi n° 2016-48.
+6.2. Les délais légaux sus-mentionnés courent à partir  de la date de la réception par la Banque Centrale de
+Tunisie d’un dossier complet de la part du requérant de l’agrément.
+N° 91
+Journal Officiel de la République Tunisienne — 14 novembre 2017
+Page 3891
+6.3. Est considéré comme complet un dossier d’agrément comportant au minimum les documents et les
+renseignements prévus par l'article 5 de la présente décision.
+6.4. Dans le cadre de l’instruction de la demande d’agrément, la Banque Centrale de Tunisie se réserve le
+droit de demander au requérant toute information ou documents complémentaires nécessaires, et ce, en rapport
+avec les informations et documents présentés dans la demande d’agrément dans un délai maximal :
+- d’un mois à compter de la date de réception de la demande pour les opérations prévues par l’article 24 de la
+loi no 2016-48.
+- de deux semaines à compter de la date de réception de la demande pour les opérations prévues par les
+articles 34 et 35 de la loi no 2016-48.
+6.5. Est considérée caduque, toute demande d’agrément qui ne répond pas aux renseignements et documents
+requis (y compris les éventuels documents complémentaires mentionnés dans le point 6.4 du présent article) à
+compter de la date de leur réclamation par la Banque Centrale de Tunisie dans un délai de :
+- 3 mois pour les opérations prévues par l’article 24 de la loi no 2016-48.
+- 2 mois pour les opérations prévues par les articles 34 et 35 de la loi no 2016-48.
+
+=== CHUNK 7 | PDF: DECISION_20170731_fr.pdf | Page: 4 | Titre_Gemma: **Décision d'agrément bancaire - Détails requis** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Article 7 : Dispositions diverses
+La présente décision sera publiée au Journal Officiel de la République Tunisienne et sur le site web de la
+Banque Centrale de Tunisie. Tunis, le 31 juillet 2017
+Le président de la commission d’agrément :
+Chedly Ayari N° 91
+Journal Officiel de la République Tunisienne — 14 novembre 2017
+Page 3893
+- Le mode de gouvernance cible (direction générale et conseil d’administration ou directoire et conseil de
+surveillance).
+- La composition envisagée du Conseil d’Administration ou du Conseil de Surveillance et des différents
+comités émanant de ces organes (comité  d’audit , comité des risques, Comité de nomination et de rémunération).
+- Le projet des statuts de la banque ou de l’établissement financier  à créer.
+- Le pacte d’actionnaires, le cas échéant.
+- Un dossier relatif aux membres du conseil d’administration ou du conseil de surveillance y compris les
+administrateurs indépendants et la direction générale (directeur général et directeurs généraux adjoints) ou le
+directoire comportant un curriculum vitae actualisé et signé indiquant de façon exhaustive le cursus académique et
+professionnel.
+- Le formulaire no 5 dénommé « déclaration sur l’honneur des dirigeants et administrateurs » dûment signé
+par les dirigeants et les administrateurs.
+- L’organigramme cible de l’établissement à créer.
+- L’organisation cible, description des processus métiers, les moyens humains et techniques à mobiliser avec
+les curriculums  vitae des premiers responsables des fonctions :
+* de contrôle interne, de conformité et de risque de blanchiment d’argent,
+* de gestion des risques et * d’audit interne.
+- La politique de transparence et de gestion de conflits d’intérêt et de relation avec les parties liées.
+- La nature et l’étendue des transactions avec le groupe d’appartenance.
+4- Moyens humains et techniques
+- La politique de recrutement : effectif cible, politique de rémunération et qualification et expertise requises.
+- Un rapport décrivant le système d’information cible qui sera mis en place par l’établissement à créer et son
+adéquation avec la nature de l’activité de l’établissement et le degré de complexité de ces opérations ainsi qu’aux
+exigences règlementaires notamment en matière de communication financière (Reporting) et un planning de mise
+en place dudit système d’information.
+- Description du dispositif de gouvernance du système d’information et de la sécurité informatique respectant
+la réglementation en vigueur en matière de  protection des données à caractère personnel.
+5- Plan d’affaires sur 5 ans
+- Les hypothèses clés retenues pour la conception du plan d’affaires et leurs impacts potentiels sur les
+projections financières.
+- Les projections financières prévisionnelles sur une période de 5 ans qui prennent en considération  le
+volume d’activité prévu dans l’étude de marché, les risques prévisionnels et les éléments de fonds propres et de
+passif.
+- Le descriptif détaillé des charges et moyens de fonctionnement.
+- L’évolution des indicateurs d’activité et de rentabilité sur une période de 5 ans.
+Page 3894
+Journal Officiel de la République Tunisienne — 14 novembre 2017
+N° 91
+- L’évolution des indicateurs de risque sur une période de 5 ans notamment, le taux de défaut, le coût du
+risque et le taux de couverture.
+- L’évolution et le respect des ratios prudentiels notamment, le ratio de solvabilité et le ratio de liquidité.
+6- Une copie de l’agrément accordé par les autorités compétentes du pays d’origine pour l’exercice de
+l'activité bancaire ou financière  pour  les établissements ayant leur siège social à l’étranger.
+7- L’accord des autorités compétentes du pays d’origine concernant les banques et les établissements
+financiers ayant leurs sièges sociaux à l’étranger et qui ont la qualité d’actionnaire important au sens de
+l’article 102 de la loi no 2016-48 susvisée pour l’agrément relatif à la création de filiales ou des bureaux de
+représentation.
+8-Pilotage stratégique et opérationnel de l’entité à créer :
+Une note retraçant le pilotage stratégique et opérationnel de l’entité à créer, son organisation, son planning et
+sa feuille de route. 9-Politique de communication :
+La stratégie de communication avec toutes les parties prenantes en relation avec l’entité à créer.
+Page 3896
+Journal Officiel de la République Tunisienne — 14 novembre 2017
+N° 91
+- La politique de liquidité et de fonds propres par référence aux exigences réglementaires en vigueur.
+3. Impacts attendus sur le dispositif de gouvernance et l’organisation
+- Un rapport sur les implications de l’opération de changement de la catégorie ou de la nature de l’activité de
+la banque ou de l’établissement financier sur la gouvernance, l’organisation de l’établissement et les dispositifs de
+contrôle interne et de gestion des risques spécifiant :
+ Le mode de gouvernance cible (direction générale et conseil d’administration ou directoire et conseil de
+surveillance).
+ La composition du Conseil d’Administration ou du Conseil de Surveillance et des différents comités
+émanant de ces organes (Comité d’Audit, Comité des Risques, Comité de nomination et de rémunération).
+- Le projet des statuts actualisé traduisant les implications de l’opération de changement de l’activité sur
+l’objet, la structure de capital et la dénomination sociale.
+- Un dossier relatif aux membres du conseil d’administration ou du conseil de surveillance y compris les
+administrateurs indépendants et la direction générale (directeur général et directeurs généraux adjoints)ou le
+directoire : curriculum vitae actualisé et signé indiquant de façon exhaustive le cursus académique et professionnel,
+une attestation d’honorabilité et une lettre de motivation émanant du conseil d’administration ou du  conseil de
+surveillance.
+- Le formulaire n o 5 dénommé « déclaration sur l’honneur des dirigeants et administrateurs » dûment signé
+par les dirigeants et les administrateurs.
+- L’organigramme cible suite au changement de l’activité.
+- L’organisation cible, description des processus métiers, les moyens humains et techniques à mobiliser avec
+les curriculums  vitae   des premiers responsables des fonctions :
+* de contrôle interne, de conformité et de risque de blanchiment d’argent,
+* de gestion des risques, et * d’audit interne.
+- La politique de transparence et de gestion de conflits d’intérêt et des relations avec les parties liées.
+- La nature et l’étendue des transactions avec le groupe d’appartenance.
+4- Impacts attendus sur les moyens humains et techniques
+- Une note sur les implications du changement de l’activité sur les moyens humains et techniques.
+- La politique de gestion des ressources humaines : recrutement et effectif cible, licenciement, politique de
+rémunération, qualifications et expertise requises.
+- Un rapport décrivant les implications du changement de l’activité sur le système d’information et son
+adéquation avec la nature de la nouvelle activité de l’établissement et la spécificité des opérations ainsi qu’aux
+exigences règlementaires notamment en matière de Reporting.
+5- Plan d’affaires sur 5 ans
+- Les hypothèses clés retenues pour la conception du plan d’affaires et leur impact potentiel sur les
+projections financières. N° 91
+Journal Officiel de la République Tunisienne — 14 novembre 2017
+Page 3897
+- Les états financiers prévisionnels sur une période de 5 ans qui prennent en considération : le volume
+d’activité prévu dans l’étude de marché, les risques prévisionnels et les éléments de fonds propres et de passif.
+- Le descriptif détaillé des charges et des moyens de fonctionnement.
+- L’évolution des indicateurs d’activité et de rentabilité sur une période de 5 ans.
+- L’évolution des indicateurs de risque sur une période de 5 ans notamment, le taux de défaut, le coût du
+risque et le taux de couverture.
+- L’évolution et le respect des ratios prudentiels notamment, le ratio de solvabilité et le ratio de liquidité.
+6. Dossier relatif aux aspects juridiques, procéduraux, comptables et fiscaux liés au changement de
+l’activité
+- Le procès-verbal de l’Assemblée Générale Extraordinaire approuvant l’opération de changement d’activité
+de l’établissement.
+- Un rapport d’un commissaire aux comptes n’exerçant pas un mandat auprès de l’établissement retraçant les
+implications comptables, financières et fiscales du changement de l’activité.
+- Les procédures opérationnelles en matière de traitement comptable et fiscal des actifs et des passifs.
+- Une note sur la gestion des implications du changement d’activité sur les relations contractuelles avec les
+créanciers et la clientèle.
+- Une note sur la nature et l’étendue des risques liés au changement de l’activité.
+- Les procédures légales et réglementaires à suivre pour accomplir l’opération de changement d’activité de
+l’établissement.
+7- Pilotage stratégique et opérationnel du changement de la catégorie ou de la nature de l’activité de
+l’établissement :
+- Une note retraçant le pilotage stratégique et opérationnel de l’opération de transformation, son organisation,
+son planning, sa feuille de route 8- Politique de communication
+- La stratégie de communication avec les parties prenantes et d’accompagnement du changement en interne
+et en externe N° 91
+Journal Officiel de la République Tunisienne — 14 novembre 2017
+Page 3899
+- La politique des risques liés à la stratégie, le modèle d’affaires et les opérations et services à exercer, risque
+de crédit, risque de liquidité, risque global de taux d’intérêt et risque de marché.
+- La politique de liquidité et de fonds propres par référence aux exigences réglementaires en vigueur.
+3. Impacts attendus sur le dispositif de gouvernance et l’organisation
+- Un rapport sur les implications de l’opération de fusion ou de scission sur la gouvernance, l’organisation de
+l’établissement et les dispositifs de contrôle interne et de gestion des risques spécifiant :
+ Le mode de gouvernance cible (direction générale et conseil d’administration ou directoire et conseil de
+surveillance).
+ La composition envisagée du Conseil d’Administration ou du Conseil de Surveillance et des différents
+comités émanant de ces organes (Comité d’Audit, Comité des Risques, Comité de nomination et de rémunération).
+- Le nouveau projet des statuts traduisant les implications de l’opération de fusion ou de scission sur la
+structure de capital et la dénomination sociale.
+- Le pacte d’actionnaires, le cas échéant.
+- Un dossier relatif aux membres du conseil d’administration ou du conseil de surveillance y compris les
+administrateurs indépendants et la direction générale (directeur général et directeurs généraux adjoints) ou le
+directoire comportant un curriculum vitae actualisé et signé indiquant de façon exhaustive le cursus académique et
+professionnel, une attestation d’honorabilité et une lettre de motivation émanant du conseil d’administration ou du
+conseil de surveillance.
+- Le formulaire no 5 intitulé « déclaration sur l’honneur des dirigeants et administrateurs » dûment signé par
+les dirigeants et les administrateurs.
+- L’organigramme cible suite à l’opération de fusion ou de scission.
+- L’organisation cible, description des processus métiers, les moyens humains et techniques à mobiliser avec
+les curriculums vitae  des premiers responsables des fonctions :
+* de contrôle interne, de conformité et de risque de blanchiment d’argent,
+* de gestion des risques, et * d’audit interne.
+- La politique de transparence et de gestion de conflits d’intérêt et de relation avec les parties liées.
+- La nature et l’étendue des transactions avec le groupe d’appartenance.
+4- Impacts attendus sur les moyens humains et techniques
+- Une note sur les implications de l’opération de fusion ou de scission sur les moyens humains et techniques.
+- La politique de gestion des ressources humaines : recrutement et effectif cible, licenciement, politique de
+rémunération, qualifications et expertise requises.
+- Un rapport décrivant les implications de l’opération de fusion ou de scission sur le système d’information et
+son adéquation avec l’organisation cible et la nouvelle activité de la nouvelle entité et les spécificités des
+opérations ainsi qu’aux exigences règlementaires notamment en matière de Reporting.
+Page 3900
+Journal Officiel de la République Tunisienne — 14 novembre 2017
+N° 91 5- Plan d’affaires sur 5 ans
+- Les hypothèses clés retenues pour la conception du plan d’affaires et leur impact potentiel sur les
+projections financières.
+- Les états financiers prévisionnels sur une période de 5 ans qui prennent en considération : le volume
+d’activité prévu dans l’étude de marché, les risques prévisionnels et les éléments de fonds propres et de passif.
+- Le descriptif détaillé des charges et moyen de fonctionnement.
+- L’évolution des indicateurs d’activité et de rentabilité sur une période de 5 ans.
+- L’évolution des indicateurs de risque sur une période de 5 ans notamment, le taux de défaut, le coût du
+risque et le taux de couverture.
+- L’évolution et le respect des ratios prudentiels notamment, le ratio de solvabilité et le ratio de liquidité.
+6. Dossier relatif aux aspects juridiques, procéduraux, comptables et fiscaux liés à l’opération de
+fusion ou de scission
+- Un rapport sur les modalités de l’opération de fusion ou de scission.
+- Un rapport d’un commissaire aux comptes n’exerçant pas un mandat auprès des parties concernées par
+l’opération de fusion retraçant les implications comptables, financières et fiscales de ladite opération sur la nouvelle
+entité.
+- Les rapports d’évaluation des entités et détermination des parités d’échange d’actions et du boni ou du mali
+de fusion.
+- Les procédures légales et réglementaires à suivre pour accomplir l’opération de fusion ou de scission.
+- Le procès-verbal des Assemblées Générales Extraordinaires de chacune des entités concernées par
+l’opération de fusion ou de scission.
+- La convention de fusion ou de scission.
+- Les modalités de notification de l’opération  à la clientèle.
+- Une note sur la gestion des implications de l’opération de fusion ou de scission sur les relations
+contractuelles avec les créanciers et la clientèle.
+- Une  note sur la nature et l’étendue des risques liés à l’opération de fusion ou de scission.
+- Les procédures opérationnelles en matière de traitement comptable et fiscal des actifs et des passifs.
+7-Pilotage stratégique et opérationnel lié à l’opération de fusion ou de scission :
+-Une note retraçant le pilotage stratégique et opérationnel de l’opération de fusion ou de scission, son
+organisation, son planning et sa feuille de route
+8. Politique de communication :
+- La stratégie de communication avec toutes les parties prenantes pour l’accompagnement de l’opération de
+fusion ou scission. Page 3902
+Journal Officiel de la République Tunisienne — 14 novembre 2017
+N° 91
+- Un dossier relatif aux membres du conseil d’administration ou du conseil de surveillance y compris les
+administrateurs indépendants et la direction générale (directeur général et directeurs généraux adjoints) ou le
+directoire : curriculum vitae actualisé et signé indiquant de façon exhaustive le cursus académique et professionnel,
+une attestation d’honorabilité et une lettre de motivation émanant du conseil d’administration.
+-Le formulaire no 5 intitulé « déclaration sur l’honneur des dirigeants et administrateurs » dûment signé par
+les dirigeants et les administrateurs.
+- L’organigramme cible suite à l’opération de cession d’une part importante d’actif ou du passif.
+- L’organisation cible, description des processus métiers, les moyens humains et techniques à mobiliser avec
+les Curriculums vitae  des premiers responsables des fonctions :
+* de contrôle interne, de conformité et de risque de blanchiment d’argent,
+*de gestion des risques, et * d’audit interne.
+- La politique de transparence et de gestion de conflits d’intérêt et de relation avec les parties liées.
+- La nature et l’étendue des transactions avec le groupe d’appartenance.
+4-Impacts attendus sur les moyens humains et techniques et le Système de traitement de l’information
+- Un rapport sur les implications de l’opération de cession d’une part importante d’actif ou du passif sur les
+moyens humains et techniques.
+- La politique de gestion des ressources humaines : recrutement et effectif cible, licenciement, politique de
+rémunération, qualifications et expertise requises.
+- Un rapport décrivant les implications de l’opération de cession d’une part importante d’actif ou du passif
+sur le système d’information et son adéquation avec l’organisation et les spécificités des opérations ainsi qu’aux
+exigences règlementaires notamment en matière de Reporting.
+5- Plan d’affaires sur 5 ans
+- Les hypothèses clés retenues pour la conception du plan d’affaires et leur impact potentiel sur les
+projections financières.
+- Les états financiers prévisionnels sur une période de 5 ans qui prennent en considération : le volume
+d’activité prévu dans l’étude de marché, les risques prévisionnels et les éléments de fonds propres et de passif.
+- Le descriptif détaillé des charges et moyens de fonctionnement.
+- L’évolution des indicateurs d’activité et de rentabilité sur une période de 5 ans.
+- L’évolution des indicateurs de risque sur une période de 5 ans notamment, le taux de défaut, le coût du
+risque et le taux de couverture.
+- L’évolution et le respect des ratios prudentiels notamment, le ratio de solvabilité et le ratio de liquidité.
+6. Dossier relatif aux aspects juridiques, procéduraux, comptables et fiscaux liés à la cession d’une part
+importante d’actif ou du passif
+- Une note décrivant les modalités de l’opération et les procédures légales et réglementaires à suivre pour
+réaliser l’opération de cession d’une part importante d’actif ou du passif de l’établissement.
+N° 91
+Journal Officiel de la République Tunisienne — 14 novembre 2017
+Page 3903
+- Un rapport d’un commissaire aux comptes n’exerçant pas un mandat auprès de l’établissement concerné
+par l’opération de cession d’une part importante d’actif ou du passif retraçant les implications comptables,
+financières et fiscales de ladite opération sur l’établissement.
+- Une note sur la gestion des implications de l’opération sur les relations contractuelles avec les créanciers et
+la clientèle.
+- Le procès-verbal de l’Assemblée Générale Extraordinaire approuvant l’opération de cession d’une part
+importante d’actif ou du passif de l’établissement.
+- Le rapport d’évaluation des actifs ou des passifs à céder par l’établissement.
+7- Pilotage stratégique et opérationnel :
+- Une note retraçant le pilotage stratégique et opérationnel de l’opération de cession d’une part importante
+d’actif ou de passif, son organisation, son planning et sa feuille de route.
+8-Politique de communication :
+- La stratégie de communication avec toutes les parties prenantes pour l’accompagnement de l’opération de
+cession d’une part importante d’actif ou de passif.
+N° 91
+Journal Officiel de la République Tunisienne — 14 novembre 2017
+Page 3905
+* de contrôle interne, de conformité et de risque de blanchiment d’argent,
+* de gestion des risques, et * d’audit interne.
+- La politique de transparence et de gestion de conflits d’intérêt et de relation avec les parties liées.
+- La nature et l’étendue des transactions avec le groupe d’appartenance.
+4-Impacts attendus sur les moyens humains et techniques et le Système de traitement de l’information
+- Un rapport sur les implications de l’opération de réduction du capital sur les moyens humains et techniques.
+- La politique de gestion des ressources humaines : recrutement et effectif cible, licenciement, politique de
+rémunération, qualifications et expertise requises.
+5- Plan d’affaires sur 5 ans
+- Les hypothèses clés retenues pour la conception du plan d’affaires et leurs impacts potentiels sur les
+projections financières.
+- Les états financiers prévisionnels sur une période de 5 ans qui prennent en considération : le volume
+d’activité prévu dans l’étude de marché, les risques prévisionnels et les éléments de fonds propres et de passif.
+- Le descriptif détaillé des charges et des moyens de fonctionnement.
+- L’évolution des indicateurs d’activité et de rentabilité sur une période de 5 ans.
+- L’évolution des indicateurs de risque sur une période de 5 ans notamment, le taux de défaut, le coût du
+risque et le taux de couverture.
+- L’évolution et le respect des ratios prudentiels notamment, le ratio de solvabilité et le ratio de liquidité.
+6. Dossier relatif aux aspects juridiques, procéduraux et comptables liés à l’opération de réduction du
+capital de l’établissement
+- Une note décrivant les modalités de l’opération (à travers la réduction de la valeur nominale ou du nombre
+d’actions).
+- Le procès-verbal de l’Assemblée Générale Extraordinaire approuvant l’opération de réduction du capital.
+- Les procédures légales et réglementaires à suivre pour accomplir l’opération de réduction du capital.
+7- Pilotage stratégique et opérationnel :
+- Une note retraçant le pilotage stratégique et opérationnel de l’opération de la réduction du capital, son
+planning et  sa feuille de route. 8- Politique de communication :
+- La stratégie de communication avec toutes les parties prenantes pour l’accompagnement de l’opération de
+réduction de capital.
+N° 91
+Journal Officiel de la République Tunisienne — 14 novembre 2017
+Page 3907
+- La politique de tarification des produits et services et positionnement par rapport à la concurrence et la
+structure de coût.
+- La politique des risques liés à la stratégie, le modèle d’affaires et les opérations et services à exercer: risque
+de crédit, risque de liquidité, risque global de taux d’intérêt et risque de marché.
+- La politique de liquidité et de fonds propres par référence aux exigences réglementaires en vigueur.
+2. Impacts attendus sur le dispositif de gouvernance et l’organisation
+- Un rapport sur les implications de l’opération de franchissement de seuil dans le capital sur la gouvernance,
+l’organisation de l’établissement et les dispositifs de contrôle interne et de gestion des risques spécifiant :
+ Le mode de gouvernance cible (direction générale et conseil d’administration ou directoire et conseil de
+surveillance).
+ La composition envisagée du Conseil d’Administration ou du Conseil de Surveillance et des différents
+comités émanant de ces organes (comité d’audit, comité des risques, comité de nomination et de rémunération).
+- Le pacte d’actionnaires, le cas échéant.
+- Un dossier relatif aux membres du conseil d’administration ou du conseil de surveillance y compris les
+administrateurs indépendants et la direction générale (directeur général et directeurs généraux adjoints) ou le
+directoire : curriculum vitae actualisé et signé indiquant de façon exhaustive le cursus académique et professionnel,
+une attestation d’honorabilité et une lettre de motivation émanant du conseil d’administration ou du conseil de
+surveillance.
+- Le formulaire n° 5 dénommé « déclaration sur l’honneur des dirigeants et administrateurs » dûment signé
+par les dirigeants et les administrateurs.
+- L’organigramme cible suite à l’opération de  franchissement de seuil.
+- L’organisation cible, description des processus métiers, les moyens humains et techniques à mobiliser avec
+les Curriculums Vitae  des premiers responsables des fonctions :
+* de contrôle interne, de conformité et de risque de  blanchiment d’argent,
+* de gestion des risques; et * d’audit interne.
+- La politique de transparence et de gestion de conflits d’intérêt et de relation avec les parties liées.
+- La nature et l’étendue des transactions avec le groupe d’appartenance du requérant.
+3- Implications des nouvelles orientations stratégiques sur les moyens humains et techniques de l’entité
+- Un rapport sur les implications de l’opération de franchissement de seuil sur la politique de gestion des
+ressources humaines : recrutement et effectif cible, licenciement, politique de rémunération, qualifications et
+expertise requises.
+- Un rapport décrivant les implications de l’opération de franchissement de seuil sur le système
+d’information cible et son adéquation avec les activités de l’établissement et le degré de complexité de ces
+opérations ainsi qu’aux exigences règlementaires notamment en matière de Reporting.
+Page 3908
+Journal Officiel de la République Tunisienne — 14 novembre 2017
+N° 91 4- Plan d’affaires sur 5 ans
+- Les hypothèses clés retenues pour la conception du plan d’affaires et leur impact potentiel sur les
+projections financières.
+- Les états financiers prévisionnels sur une période de 5 ans qui prennent en considération : le volume
+d’activité prévu dans l’étude de marché, les risques prévisionnels et les éléments de fonds propres et de passif.
+- Le descriptif détaillé des charges et des moyens de fonctionnement.
+- L’évolution des indicateurs d’activité et de rentabilité sur une période de 5 ans.
+- L’évolution des indicateurs de risque sur une période de 5 ans notamment, le taux de défaut, le coût du
+risque et le taux de couverture.
+- L’évolution et le respect des ratios prudentiels notamment, le ratio de solvabilité et le ratio de liquidité.
+5- Pilotage stratégique et opérationnel
+- Une note retraçant le pilotage stratégique et opérationnel de l’acquisition du bloc de contrôle et ses
+implications, son planning et sa feuille de route.
+6-Politique de communication
+- La stratégie de communication avec toutes les parties prenantes
+Page 3910
+Journal Officiel de la République Tunisienne — 14 novembre 2017
+N° 91
+- La politique des risques liés à la stratégie, le modèle d’affaires et les opérations et services à exercer: risque
+de crédit, risque de liquidité, risque global de taux d’intérêt et risque de marché.
+- La politique de liquidité et de fonds propres par référence aux exigences réglementaires en vigueur.
+2.  Impacts attendus sur le dispositif de gouvernance et l’organisation
+- Un rapport sur les implications de l’action de concert sur la gouvernance, l’organisation de l’établissement
+et les dispositifs de contrôle interne et de gestion des risques spécifiant :
+ Le mode de gouvernance cible (direction générale ou directoire et conseil d’administration ou conseil de
+surveillance).
+ La composition envisagée du Conseil d’Administration ou du Conseil de Surveillance et des différents
+comités émanant de ces organes (comité d’audit, comité des risques, comité de nomination et de rémunération).
+- Le pacte d’actionnaires, le cas échéant.
+- Un dossier relatif aux membres du conseil d’administration ou du conseil de surveillance y compris les
+administrateurs indépendants et la direction générale (directeur général et directeurs généraux adjoints) ou le
+directoire : curriculum vitae actualisé et signé indiquant de façon exhaustive le cursus académique et professionnel,
+une attestation d’honorabilité et une lettre de motivation émanant du conseil d’administration ou du conseil de
+surveillance.
+- Le formulaire no 5 dénommé « déclaration sur l’honneur des dirigeants et administrateurs » dûment signé
+par les dirigeants et les administrateurs.
+- L’organigramme cible suite à l’opération de  franchissement de seuil.
+- L’organisation cible description des processus métiers, les moyens humains et techniques à mobiliser,  avec
+les curriculums vitae  des premiers responsables des fonctions :
+* de contrôle interne, de conformité et de risque de blanchiment d’argent,
+* de gestion des risques, et * d’audit interne.
+- La politique de transparence et de gestion de conflits d’intérêt et de relation avec les parties liées.
+- La nature et l’étendue des transactions avec le groupe d’appartenance des requérants.
+3- Implications des nouvelles orientations stratégiques sur les moyens humains et techniques de l’entité
+- Un rapport sur les implications de l’action de concert sur la politique de gestion des ressources humaines :
+recrutement et effectif cible, licenciement, politique de rémunération, qualifications et expertise requises.
+- Un rapport décrivant les implications de l’action de concert sur le système d’information cible et son
+adéquation avec les activités de l’établissement et les spécificités  de ces opérations ainsi qu’aux exigences
+règlementaires notamment en matière de Reporting.
+4- Plan d’affaires sur 5 ans
+- Les hypothèses clés retenues pour la conception du plan d’affaires et leur impact potentiel sur les
+projections financières. N° 91
+Journal Officiel de la République Tunisienne — 14 novembre 2017
+Page 3911
+- Les états financiers prévisionnels sur une période de 5 ans qui prennent en considération : le volume
+d’activité prévu dans l’étude de marché, les risques prévisionnels et les éléments de fonds propres et de passif.
+- Le descriptif détaillé des charges et des moyens de fonctionnement.
+- L’évolution des indicateurs d’activité et de rentabilité sur une période de 5 ans.
+- L’évolution des indicateurs de risque sur une période de 5 ans notamment, le taux de défaut, le coût du
+risque et le taux de couverture.
+- L’évolution et le respect des ratios prudentiels notamment, le ratio de solvabilité et le ratio de liquidité.
+5- Pilotage stratégique et opérationnel :
+- Une note retraçant le pilotage stratégique et opérationnel de l’opération de prise de contrôle, son planning
+et  sa feuille de route 6-Politique de communication :
+- La stratégie de communication avec toutes les parties prenantes pour l’accompagnement de l’opération de
+prise de contrôle. N° 91
+Journal Officiel de la République Tunisienne — 14 novembre 2017
+Page 3913
+FORMULAIRE 1 : Présentation du requérant
+Les informations demandées ci-dessous, doivent être fournies par toute personne physique ou morale qui
+sollicite la commission d’agrément pour l’obtention d’un agrément relatif aux opérations énumérées par les articles
+24, 34 et 35 de la loi no 2016-48.
+Identité du requérant - Personne morale, ou - Personne physique
+Qualité du requérant - Dirigeant, ou - Administrateur
+Forme juridique
+Groupe d’appartenance
+Qualifications académiques
+Domaines d’expertise
+Page 3914
+Journal Officiel de la République Tunisienne — 14 novembre 2017
+N° 91
+FORMULAIRE 2 : Déclaration sur l’honneur du requérant
+Monsieur le Gouverneur de la Banque Centrale de Tunisie,
+Etant appelé à exercer la fonction de ……………. au……………………au sens de l’article 55 de la loi
+no 2016-48, relative aux banques et aux établissements financiers, à compter de ………………….., j’ai l’honneur
+de vous faire parvenir les renseignements demandés par la Banque Centrale de Tunisie.
+Je certifie que ces renseignements sont sincères et fidèles et qu’il n’y a pas, à ma connaissance d’autres faits
+importants à signaler notamment, l’existence d’entraves potentielles à l'exercice de la mission de surveillance par la
+Banque Centrale de Tunisie
+Je m’engage à informer immédiatement la Banque Centrale de Tunisie de tout changement qui modifierait de
+façon significative les renseignements fournis dans le cadre de la demande d’agrément.
+Veuillez agréer, Monsieur le Gouverneur, l’expression de ma haute considération.
+Fait à………..le……………..
+Signature du requérant N° 91
+Journal Officiel de la République Tunisienne — 14 novembre 2017
+Page 3915
+FORMULAIRE 3 : Identité des actionnaires
+Les informations demandées ci-dessous, doivent être fournies par toute personne physique ou morale appelée
+à détenir directement ou indirectement des droits de vote ou une participation dans le capital de l’établissement à
+créer.
+Nom de l’établissement à créer : ………………………………………………………………………………….
+Identité de l’Actionnaire :
+Personne morale :
+Dénomination sociale :
+Forme juridique :
+Registre du commerce :
+Nationalité :
+Adresse :
+Personne physique :
+Nom et prénom(s) :
+Date et lieu de naissance :
+Nationalité :
+Adresse :
+Page 3916
+Journal Officiel de la République Tunisienne — 14 novembre 2017
+N° 91
+FORMULAIRE 4 : Lettre d’engagement des actionnaires
+Je soussigné, ………………………………………………………………… titulaire :
+- de la carte d’identité nationale1 no…………….………………..
+- de la carte séjour2 no…………valable jusqu’au………………..
+- du passeport no…………...….valable jusqu’au ……………….
+Résidant à …………………………………………………………
+m’engage à participer dans le capital de …………………………………….à concurrence de …………….,
+soit………… du capital représentant …………..des droits de vote.
+Fait à……………., le ………………..
+Signature
+1 Pour les personnes physiques et les représentants légaux des personnes morales de nationalité tunisienne
+2 Pour les personnes physiques et les représentants légaux des personnes morales de nationalité étrangère
+N° 91
+Journal Officiel de la République Tunisienne — 14 novembre 2017
+Page 3917
+FORMULAIRE 5 : Déclaration sur l’honneur des dirigeants et administrateurs
+Je soussigné, ……………………………………………………………………
+titulaire :
+- de la carte d’identité nationale3 no…………….………………..
+- de la carte séjour4 no…………………………..valable jusqu’au………………..
+- du passeport no……………………………….valable jusqu’au ……………….
+Résidant à ……………………………………………………………………………
+actionnaire à concurrence de ………………………………………………………..
+exerçant la fonction de ……………………………………………………………….
+Au sein de5 ………………………………………………………………………….
+déclare sur l’honneur n’avoir jamais fait l’objet :
+1. d’un jugement définitif pour faux en écriture, pour vol, pour abus de confiance, pour escroquerie pour
+extorsion de fonds ou valeurs d'autrui, pour soustraction commise par dépositaire public, pour corruption ou
+évasion fiscale, pour émission de chèques sans provision, pour recel des choses obtenues à l'aide de ces
+infractions ou pour infraction à la réglementation des changes ou à la législation relative à la lutte contre le
+blanchiment d’argent et le financement du terrorisme.
+2. d'un jugement définitif de faillite.
+3. d’une condamnation en vertu des dispositions du Code Pénal relatives à la banqueroute pour le gérant
+ou mandataire de sociétés.
+4. d’une démission de fonctions d’administration ou de gestion d’une entreprise soumise au contrôle de
+autorités susvisées suite à une sanction infligée par la banque centrale de Tunisie ou par l’une des autorités
+chargées du contrôle du marché financier ou des entreprises d’assurance et de réassurance ou des institutions
+de micro-finance.
+5. d’une sanction ou d’une radiation dans l’exercice d’une activité professionnelle régie par un cadre légal
+ou réglementaire.
+6. d’une responsabilité dans la mauvaise gestion d’une banque ou d’un établissement financier ayant
+causé des difficultés qui ont rendu nécessaire la soumission de la banque ou l’établissement financier à un
+plan de résolution ou leur liquidation.
+D’autre part, je m’engage à communiquer à la Banque Centrale de Tunisie, sans délai, tout changement qui
+affecterait ma situation et ce, au regard des dispositions de l’article 60 de la loi no 2016-48 relative aux banques et
+aux établissements financiers.
+Fait à……………., le ………………..
+Signature
+3 Pour les personnes de nationalité tunisienne
+4 Pour les personnes de nationalité étrangère
+5 Nom de l’établissement
+
+=== CHUNK 8 | PDF: DECISION_20170731_fr.pdf | Page: 5 | Titre_Gemma: **Agrément bancaire : Informations sur l'actionnariat** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
+Page 3892
+Journal Officiel de la République Tunisienne — 14 novembre 2017
+N° 91
+ANNEXE 1 : Agrément pour l’exercice des opérations prévues par l’article 4 de la loi no 2016-48 relative aux
+banques et établissements financiers
+(Documents  et informations requis pour l’obtention de l’agrément de principe)
+1. Informations sur l’actionnariat de l’entité à créer
+- Une liste exhaustive des futurs actionnaires personnes physiques et personnes morales directes et indirectes,
+notamment l’actionnaire de référence et les principaux actionnaires  au sens de l’article 102 de la loi no 2016-48
+(qui comptent détenir 10% ou plus du capital de l’établissement à créer).
+- Le formulaire no 3 intitulé « identité des actionnaires » dûment rempli et signé par les futurs actionnaires.
+- Une copie de la pièce d’identité, du curriculum vitae et un extrait du casier judiciaire dont la date
+d’émission ne dépassant pas 3 mois des futurs actionnaires personnes physiques.
+- Le formulaire no 4 dénommé « lettre d’engagement des actionnaires » pour la participation dans le capital
+de cet établissement signé par les futurs actionnaires.
+- Les états financiers individuels et consolidés, certifiés par les Commissaires aux Comptes, des trois derniers
+exercices des futurs actionnaires personnes morales détenant 5% ou plus du capital de l’établissement à créer.
+2. Présentation  de l’entité à créer : stratégie et modèle d’affaires « Business Model »
+- La stratégie de développement de l’entité à créer, modèle d’affaires cible: choix et objectifs stratégiques,
+description des domaines d’activité, secteurs économiques cibles, clientèle cible, produits et services à
+commercialiser et canaux de distribution.
+- L’étude de marché et de l’environnement économique et financier de l’entité à créer et le positionnement
+cible de l’entité à créer sur le marché et les diverses lignes de métiers.
+- La politique commerciale traduisant les orientations stratégiques : produits, clientèle cible, secteurs
+d’activité et canaux de distribution.
+- Une étude sur la nature et l’étendue des risques globaux auxquels est exposé  l’entité à créer (risques
+financiers, stratégiques, de réputation et juridique)
+- La politique financière globale pour financer l’entité à créer  et soutenir le développement de l’activité :
+principales sources de financement et conditions de financement  en termes de coût et de maturité
+- La politique de tarification des produits et services et positionnement par rapport à la concurrence et la
+structure de coûts.
+- La politique des risques liés à la stratégie, le modèle d’affaires et les opérations et services à exercer: risque
+de crédit, risque de liquidité, risque global de taux d’intérêt et risque de marché.
+- La politique de liquidité et de fonds propres par référence aux exigences réglementaires en vigueur.
+3. Dispositif de gouvernance et d’organisation
+- La politique générale de gouvernance et de transparence.
+
+=== CHUNK 9 | PDF: DECISION_20170731_fr.pdf | Page: 8 | Titre_Gemma: **Agrément pour changement de catégorie d'activité bancaire : Exigences** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
+N° 91
+Journal Officiel de la République Tunisienne — 14 novembre 2017
+Page 3895
+ANNEXE 2 : Agrément pour le changement de la catégorie ou de la  nature de l’activité d’une banque ou
+d’un établissement financier
+(Documents et informations requis pour l’obtention de l’agrément de principe)
+1. Informations sur l’actionnariat
+- L’implication du changement de la catégorie ou de la  nature de l’activité de l’établissement sur la structure
+du capital : maintien de la structure, entrée de nouveaux actionnaires.
+- Une liste exhaustive des actionnaires personnes physiques et personnes morales directes et indirectes,
+notamment l’actionnaire de référence et les principaux actionnaires qui comptent détenir 10% ou plus du capital de
+l’établissement au sens de l’article 102 de la loi no 2016-48.
+- Le formulaire no 3 intitulé « identité des actionnaires »  dûment rempli et signé par les nouveaux
+actionnaires.
+- Les états financiers individuels et consolidés, certifiés par les Commissaires aux Comptes, des trois derniers
+exercices des actionnaires personnes morales détenant 5% ou plus du capital de l’établissement.
+- Une copie de la pièce d’identité, du curriculum vitae et un extrait du casier judiciaire dont la date
+d’émission ne dépassant pas 3 mois pour les nouveaux actionnaires personnes physiques.
+- Le formulaire no 4 intitulé « lettre d’engagement des actionnaires » signé par les nouveaux actionnaires.
+2. Présentation de l’opération : stratégie de transformation, nouveau modèle d’affaires  ou  « Business
+Model »
+- La stratégie de développement de l’établissement dans le cadre du changement de l’activité, modèle
+d’affaires cible : choix et objectifs stratégiques, description des domaines d’activité, secteurs économiques cibles,
+clientèle cible, produits et services à commercialiser, canaux de distribution.
+- L’étude de l’environnement économique et financier de l’affaire et le positionnement cible sur le marché et
+les diverses lignes de métiers.
+- La politique commerciale traduisant les nouvelles orientations stratégiques : produits, clientèle cible,
+secteurs d’activité et canaux de distribution.
+- L’étude sur la nature et l’étendue des risques globaux auxquels est exposée l’entité (risques financiers et
+stratégiques, risque de réputation et risque juridique)
+- La politique financière globale pour financer l’opération de transformation  et soutenir le développement de
+l’activité : principales sources de financement et conditions de financement en termes de coûts et  de maturité.
+- La politique de tarification des produits et services et positionnement par rapport à la concurrence et la
+structure de coût.
+- La politique des risques liés à la stratégie, le modèle d’affaires et les opérations et services à exercer: risque
+de crédit, risque de liquidité, risque global de taux d’intérêt et risque de marché.
+
+=== CHUNK 10 | PDF: DECISION_20170731_fr.pdf | Page: 11 | Titre_Gemma: **Agrément de Fusion/Scission : Informations sur l'Actionnariat** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
+Page 3898
+Journal Officiel de la République Tunisienne — 14 novembre 2017
+N° 91
+ANNEXE 3 :Agrément pour une opération de fusion ou de scission
+(Documents et informations requis pour l’obtention de l’agrément de principe)
+1. Informations sur l’actionnariat
+- L’implication de l’opération de fusion ou de scission sur la structure du capital : maintien de la structure,
+entrée de nouveaux actionnaires.
+- Une liste exhaustive des actionnaires personnes physiques et personnes morales directes et indirectes,
+notamment l’actionnaire de référence et les principaux actionnaires qui comptent détenir 10% ou plus du capital de
+l’établissement au sens de l’article 102 de la loi no 2016-48.
+- Le formulaire no 3 intitulé « identité des actionnaires »  dûment rempli et signé par les nouveaux
+actionnaires.
+- Les états financiers individuels et consolidés, certifiés par les Commissaires aux Comptes, des trois derniers
+exercices des actionnaires personnes morales détenant 5% ou plus du capital de l’établissement.
+- Une copie de la pièce d’identité, du curriculum vitae et un extrait du casier judiciaire dont la date
+d’émission ne dépassant pas 3 mois pour les nouveaux actionnaires personnes physiques.
+- Le formulaire no 4 intitulé « lettre d’engagement des actionnaires » pour la participation dans le capital de
+cet établissement signé par les nouveaux actionnaires.
+2. Présentation de l’opération : stratégie, modèle d’affaires ou « Business Model »
+- Un rapport sur les motifs de l’opération et les enjeux stratégiques cibles, les facteurs de synergies et de
+complémentarité entre les entités concernées par l’opération de fusion ou de scission, les avantages et les
+inconvénients sur le plan stratégique et les objectifs stratégiques cibles de la nouvelle entité.
+- Une étude de marché et de l’environnement économique et financier de l’établissement et son
+positionnement cible sur le marché et son impact sur les diverses lignes de métiers.
+- La stratégie de développement de la nouvelle entité, modèle d’affaires cible: choix objectifs stratégiques,
+description des domaines d’activité secteurs économiques cibles, clientèle cible, produits et services à
+commercialiser, canaux de distribution.
+- La politique commerciale traduisant les orientations stratégiques : produits, clientèle cible, secteurs
+d’activité et canaux de distribution.
+- Une étude sur la nature et l’étendue des risques globaux auxquels est exposé l’entité (risques financiers et
+stratégiques, risque de réputation et risque  juridique).
+- La politique financière globale pour financer l’entité et soutenir le développement de l’activité : principales
+sources de financement et conditions de financement en termes de coût et de maturité.
+- La politique de tarification des produits et services et positionnement par rapport à la concurrence et la
+structure de coût.
+
+=== CHUNK 11 | PDF: DECISION_20170731_fr.pdf | Page: 14 | Titre_Gemma: **Agrément pour Cession d'Actif/Passif d'un Établissement Financier** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
+N° 91
+Journal Officiel de la République Tunisienne — 14 novembre 2017
+Page 3901
+ANNEXE 4 : Agrément pour une opération de cession d’une part importante d’actif ou du passif d’une
+banque ou d’un établissement financier entrainant un changement substantiel dans la structure financière,
+dans la catégorie ou dans la nature de l’activité à laquelle il a été autorisé à exercer
+(Documents  et informations requis pour l’obtention de l’agrément de principe)
+1. Informations sur l’actionnariat
+- L’implication de l’opération de cession d’une part importante d’actif ou du passif sur la structure du
+capital : maintien de la structure, entrée de nouveaux actionnaires.
+- Une liste exhaustive des actionnaires personnes physiques et personnes morales directes et indirectes,
+notamment l’actionnaire de référence et les principaux actionnaires qui comptent détenir 10% ou plus du capital de
+l’établissement au sens de l’article 102 de la loi no 2016-48.
+- Le formulaire no3 dénommé « identité des actionnaires »  dûment rempli et signé par les nouveaux
+actionnaires.
+- Les états financiers individuels et consolidés, certifiés par les Commissaires aux Comptes, des trois derniers
+exercices des actionnaires personnes morales détenant 5% ou plus du capital de l’établissement.
+- Une copie de la pièce d’identité, du curriculum vitae et un extrait du casier judiciaire dont la date
+d’émission ne dépassant pas 3 mois pour les nouveaux actionnaires personnes physiques.
+- Le formulaire no 4 dénommé « lettre d’engagement des actionnaires » pour la participation dans le capital
+de cet établissement signé par les nouveaux actionnaires.
+2. Présentation de l’opération: stratégie et modèle d’affaires ou « Business Model »
+Rapport sur :
+- les motifs, enjeux, et objectifs stratégiques liés à l’opération de cession d’une part importante d’actif ou du
+passif.
+- les implications éventuelles sur le business modèle de l’établissement, sur sa politique de développement et
+sa  situation financière.
+- les implications éventuelles sur le plan d’affaires de l’établissement  et le respect des normes prudentielles.
+3. Impacts attendus  sur la gouvernance et l’organisation
+- Un rapport sur les implications de l’opération de cession sur la gouvernance, l’organisation de
+l’établissement et les dispositifs de contrôle interne et de gestion des risques spécifiant :
+ Le mode de gouvernance cible (direction générale et conseil d’administration ou directoire et conseil de
+surveillance).
+ La composition envisagée du Conseil d’Administration ou du Conseil de Surveillance et des différents
+comités émanant de ces organes (comité d’audit, comité des risques, comité de nomination et de rémunération).
+- Le pacte d’actionnaires, le cas échéant.
+
+=== CHUNK 12 | PDF: DECISION_20170731_fr.pdf | Page: 17 | Titre_Gemma: **Agrément pour la Réduction de Capital des Banques et Établissements Financiers** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
+Page 3904
+Journal Officiel de la République Tunisienne — 14 novembre 2017
+N° 91
+ANNEXE 5 : Agrément pour la réduction du capital d’une banque ou d’un établissement financier
+(Documents  et informations requis pour l’obtention de l’agrément de principe)
+1. Information sur l’actionnariat
+- Les implications de l’opération de réduction du capital sur la structure du capital.
+- Une liste exhaustive des actionnaires personnes physiques et personnes morales directes et indirectes,
+notamment l’actionnaire de référence et les principaux actionnaires qui comptent détenir 10% ou plus du capital de
+l’établissement au sens de l’article 102 de la loi no 2016-48.
+2. Présentation de l’opération : stratégie et modèle d’affaires ou business Model
+Rapport sur :
+- les motifs, les enjeux, les avantages, les inconvénients, les objectifs stratégiques liés à l’opération de
+réduction du capital.
+- les implications éventuelles sur le modèle d’affaire de l’établissement, la politique de développement et la
+situation financière.
+- les implications éventuelles sur le plan d’affaires et le respect des normes prudentielles.
+3- Impacts attendus sur la gouvernance et l’organisation
+- Un rapport sur les implications de l’opération de réduction du capital sur la gouvernance, l’organisation de
+l’établissement et les dispositifs de contrôle interne et de gestion des risques spécifiant :
+ Le mode de gouvernance cible (direction générale et conseil d’administration ou directoire et conseil de
+surveillance).
+ La composition envisagée du Conseil d’Administration ou du Conseil de Surveillance et des différents
+comités émanant de ces organes (comité d’audit, comité des risques, comité de nomination et de rémunération).
+- Le pacte d’actionnaires, le cas échéant.
+- Un dossier relatif aux membres du conseil d’administration ou du conseil de surveillance y compris les
+administrateurs indépendants et la direction générale (directeur général et directeurs généraux adjoints) ou le
+directoire : curriculum vitae actualisé et signé indiquant de façon exhaustive le cursus académique et professionnel,
+une attestation d’honorabilité et une lettre de motivation émanant du conseil d’administration ou du conseil de
+surveillance.
+- Le formulaire n° 5 intitulé « déclaration sur l’honneur des dirigeants et administrateurs » dûment signé par
+les dirigeants et les administrateurs.
+- L’organigramme cible suite à l’opération de réduction du capital.
+- L’organisation cible, la description des processus métiers, les moyens humains et techniques à mobiliser
+avec les curriculums vitae  des premiers responsables des fonctions :
+
+=== CHUNK 13 | PDF: DECISION_20170731_fr.pdf | Page: 19 | Titre_Gemma: **Agrément pour franchissement de seuil dans une banque ou établissement financier** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
+Page 3906
+Journal Officiel de la République Tunisienne — 14 novembre 2017
+N° 91
+ANNEXE 6 : Agrément pour le franchissement de seuils dans le capital d’une banque ou d’un établissement
+financier
+I. Informations générales
+1. Présentation de l’opération et du requérant
+Un rapport sur :
+- Les motifs et objectifs stratégiques liés à l’opération de franchissement du seuil moyennant une déclaration
+d’intention écrite décrivant la stratégie à l’égard de l’émetteur et l’absence de conflits d’intérêts.
+- La présentation du requérant : la qualité de l’entité acquéreuse (personne physique ou personne morale),
+groupe d’affiliation (principales sociétés du groupe et structure du capital).
+- La capacité financière du requérant : états financiers individuels et consolidés des 3 derniers exercices
+certifiés par les commissaires aux comptes des sociétés contrôlées par le requérant.
+2. Modalités de réalisation de l’opération et aspects procéduraux
+Un rapport sur :
+- Les modalités d’acquisition de la participation (sur la bourse ou de gré à gré).
+- Les modalités de financement de l’opération.
+3. Une copie de l’agrément délivré par l’autorité compétente du pays d’origine pour exercer l’activité
+bancaire et/ou financière si l’acquéreur est une banque ou un établissement financier ayant son siège social à
+l’étranger
+4. Une autorisation accordée par les autorités compétentes du pays d’origine de l’établissement
+acquéreur lui permettant de prendre des participations dans des banques ou des établissements financiers
+étrangers
+II. Informations supplémentaires pour les opérations de franchissement de seuil conduisant à la prise de
+contrôle de l’établissement (au sens des dispositions de code des sociétés commerciales) :
+Le requérant doit fournir les documents et renseignements additionnels suivants :
+1. Stratégie de développement visée par le requérant de l’entité à contrôler et son impact sur :
+- Le marché et l’environnement économique et financier de l’établissement  et le positionnement cible sur le
+marché et les diverses lignes de métiers.
+- La stratégie de développement de l’établissement, modèle d’affaires ou« business model » cible: choix
+objectifs stratégiques, description des domaines d’activité, secteurs économiques y clientèle cible, produits et
+services à commercialiser et canaux de distribution.
+- La politique commerciale traduisant les orientations stratégiques : produits, clientèle cible, secteurs
+d’activité et canaux de distribution.
+- L’étude sur la nature et l’étendue des risques globaux auxquels est exposé l’établissement (risques
+financiers et stratégiques, risque de réputation et risque juridique)
+
+=== CHUNK 14 | PDF: DECISION_20170731_fr.pdf | Page: 22 | Titre_Gemma: **Agrément de l'Action de Concert entre Actionnaires d'une Banque ou d'un Établissement Financier** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
+N° 91
+Journal Officiel de la République Tunisienne — 14 novembre 2017
+Page 3909
+ANNEXE 7 : Agrément pour l’action de concert entre actionnaires d’une banque ou d’un établissement
+financier entraînant le dépassement de l’un des seuils prévus à l’article 34 de la loi no 2016-48
+I. Informations générales
+1. Présentation du projet et des requérants
+Un rapport sur :
+- Le seuil de contrôle visé par l’action de concert
+- Les motifs et objectifs stratégiques liés à l’opération de concert entre les actionnaires.
+- Une présentation des actionnaires engagés dans l’action de concert : la qualité des entités (personne
+physique ou personne morale), groupe d’affiliation (principales sociétés du groupe et structure du capital).
+- La capacité financière des requérants : états financiers individuels et consolidés des 3 derniers exercices
+certifiés par les commissaires aux comptes des sociétés contrôlées par les requérants.
+2. Modalités de réalisation de l’opération et les aspects procéduraux
+- Une copie de l’accord conclu entre les actionnaires personnes physiques et/ou morales en vue d’acquérir,
+d’exercer ou de céder des actions ou des droits de vote, pour mettre en œuvre et suivre une politique commune vis-
+à-vis de la banque ou de l’établissement financier.
+- Les procédures légales et réglementaires à suivre pour accomplir l’action de concert entre actionnaires de la
+banque ou de l’établissement financier.
+II. Informations supplémentaires dans le cas où l’action de concert conduit à la prise de contrôle de
+l’entité (au sens de dispositions de code de sociétés commerciales) :
+Les requérants doivent fournir les documents et renseignements additionnels suivants :
+1. Stratégie de développement de l’entité à contrôler et son impact sur :
+- Le marché et l’environnement économique et financier de l’établissement et le positionnement cible sur le
+marché et les diverses lignes de métiers.
+- La stratégie de développement de l’établissement, modèle économique cible: choix objectifs stratégiques,
+description des domaines d’activité, secteurs économiques et clientèle cible, produits et services à commercialiser,
+canaux de distribution.
+- La politique commerciale traduisant les orientations stratégiques : produits, clientèle cible, secteurs
+d’activité et canaux de distribution.
+- La portée et l’étendue des risques globaux auxquels est exposé l’établissement (risques financiers et
+stratégiques, risque de réputation et risque juridique)
+- La politique de tarification des produits et services et positionnement par rapport à la concurrence et la
+structure de coût.
+
+=== CHUNK 15 | PDF: DECISION_20170731_fr.pdf | Page: 25 | Titre_Gemma: **Agrément pour le Changement d'Actionnaire de Référence dans les Banques et Établissements Financiers** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
+Page 3912
+Journal Officiel de la République Tunisienne — 14 novembre 2017
+N° 91
+ANNEXE 8 :Agrément pour le changement de l’actionnaire de référence suite à la cession de sa
+participation dans le capital d’une banque ou d’un établissement financier
+Le dossier d’agrément doit être présenté concomitamment par :
+ L’actionnaire de référence cédant de la participation  qui doit fournir un rapport décrivant les motifs de la
+cession.
+ L’acquéreur de la participation de l’actionnaire de référence qui doit fournir un dossier complet selon ses
+intentions :
+1. Un dossier d’agrément de franchissement de seuils dans le capital d’une banque ou d’un
+établissement financier suite à l’acquisition d’un bloc de contrôle  sans changement de l’activité.
+Dans ce cas  le requérant doit fournir un dossier comportant les renseignements requis dans  l’annexe  6.
+2. Un dossier d‘agrément de changement de la catégorie ou de la nature de l’activité d’une banque ou
+d’un établissement financier
+Dans ce cas  le requérant doit fournir un dossier comportant les renseignements requis dans l’annexe  2.
+

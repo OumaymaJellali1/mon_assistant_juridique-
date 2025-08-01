@@ -1,0 +1,150 @@
+=== CHUNK 1 | PDF: Cir_2025_08_fr.pdf | Page: 2 | Titre_Gemma: **Établissements Financiers (hors établissements de paiement)** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Article premier : La présente circulaire s’applique aux banques et aux
+établissements financiers au sens de la loi n°2016-48 susvisée, à l’exception des
+établissements de paiement.
+
+=== CHUNK 2 | PDF: Cir_2025_08_fr.pdf | Page: 2 | Titre_Gemma: **Préparation à la mise en œuvre des réformes prudentielles et normatives.** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Article 2 : Les banques et les établissements financiers sont tenus de prendre
+toutes les mesures nécessaires pour la préparation à l’implémentation des
+réformes prudentielles et normatives objet de la lettre de la Banque Centrale
+de Tunisie susvisée et portant sur les composantes suivantes :
+• Les nouvelles normes d’adéquation des fonds propres.
+• Les nouvelles règles de classification et de couverture des expositions.
+• Le guide d’application de la norme IFRS 9.
+
+=== CHUNK 3 | PDF: Cir_2025_08_fr.pdf | Page: 2 | Titre_Gemma: **Plan d'action des réformes prudentielles et normatives** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Article 3 : L’organe de direction de la banque ou de l’établissement financier
+doit mettre en place un plan stratégique et opérationnel pour la conduite du
+projet global des réformes prudentielles et normatives. Ce plan doit être validé
+par l’organe d’administration et comporter au moins les éléments suivants :
+• Le processus de pilotage stratégique et opérationnel du projet ainsi que le
+plan d’actions qui couvre toutes les composantes des réformes à engager
+et la feuille de route pour sa mise en œuvre.
+• La composition du comité de pilotage visé à l’article 5 de la présente
+circulaire, les structures internes impliquées et l’identification des équipes
+par composante du projet des réformes.
+• Les mesures nécessaires à l’adaptation du dispositif de contrôle interne,
+du système d’information et du système comptable pour répondre aux
+exigences de l’implémentation des réformes prudentielles et
+normatives.
+• Un projet de mise en place d’un dispositif de gouvernance des données
+par référence aux principes édictés par l’article 6 de la présente
+circulaire.
+• Un projet d’'adoption d'un modèle de calcul des pertes de crédit
+attendues (ECL) conformément aux orientations méthodologiques
+définies dans le guide d’application de la norme IFRS 9.
+• Un plan de formation couvrant l’ensemble des intervenants dans le projet
+y compris les membres des organes de gouvernance.
+Le plan stratégique et opérationnel susvisé doit être adapté à la taille de
+l’établissement, à son profil de risque ainsi qu’à la nature et à la complexité de
+ses activités et de ses opérations.
+
+=== CHUNK 4 | PDF: Cir_2025_08_fr.pdf | Page: 3 | Titre_Gemma: **Pilotage du projet** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Article 4 : L’organe d’administration veille à la mise en œuvre effective du plan
+stratégique et opérationnel visé à l’article 3 de la présente circulaire. À ce titre,
+il s’assure de l’allocation des ressources nécessaires à la bonne conduite du
+projet.
+Le comité d’audit et le comité des risques appuient le conseil d’administration
+dans l’exercice de cette mission, chacun dans le cadre de ses attributions. Ils
+assurent, de manière coordonnée, le suivi des travaux du comité de pilotage visé
+à l’article 5 de la présente circulaire.
+
+=== CHUNK 5 | PDF: Cir_2025_08_fr.pdf | Page: 3 | Titre_Gemma: **Comité de pilotage des réformes prudentielles** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Article 5 : La banque ou l’établissement financier doit créer un comité de
+pilotage dédié à la conduite du projet de réformes prudentielles et normatives
+prévu par la présente circulaire. Ce comité de pilotage est chargé :
+• de la constitution et de l’organisation des équipes projet ;
+• du suivi de l’avancement du projet et du contrôle de sa mise en œuvre
+conformément aux objectifs arrêtés ;
+• de la surveillance de la réalisation des objectifs en cohérence avec les
+orientations stratégiques de la banque ou l’établissement financier ;
+• de la coordination entre les différentes lignes de métiers et les fonctions
+de support impliquées dans le projet ;
+• de la validation des phases clés du projet ; et
+• de la communication d’un reporting régulier aux comités des risques et
+d’audit.
+
+=== CHUNK 6 | PDF: Cir_2025_08_fr.pdf | Page: 3 | Titre_Gemma: **Gouvernance des données pour la conformité réglementaire.** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Article 6 : La banque ou l’établissement financier est tenu(e) de mettre en
+place un dispositif structuré et transversal de gouvernance des données, en
+appui à la mise en œuvre des réformes prudentielles et normatives.
+Ce dispositif vise à garantir la qualité, l’intégrité, la traçabilité, la sécurité et la
+disponibilité des données utilisées pour les calculs prudentiels, la modélisation
+des pertes de crédit attendues (ECL) et le reporting réglementaire et financier.
+À cet effet, la banque ou l’établissement financier doit notamment :
+• Élaborer une politique interne de gouvernance des données, approuvée
+par l’organe de direction, définissant :
+- les responsabilités des parties prenantes,
+- les principes directeurs en matière de qualité, de sécurité et de
+conformité des données, et - les systèmes de contrôle y afférents.
+• Désigner un Chief Data Officer (CDO) ou une structure équivalente, doté(e)
+de ressources et des responsabilités nécessaires pour piloter la stratégie
+de gouvernance des données.
+• Mettre en œuvre des processus réguliers de contrôle de la qualité des
+données, incluant des validations périodiques, des audits internes, des
+tests de cohérence, des revues indépendantes et un suivi d’indicateurs de
+qualité assorti de plans de remédiation en cas d’écarts.
+• Assurer la traçabilité complète du cycle de vie des données, de leur origine
+à leur utilisation, en passant par leur transformation et leur stockage.
+• Garantir un archivage sécurisé des données, assurant leur accessibilité aux
+fonctions de contrôle et d’audit interne et externe.
+• Adopter des solutions technologiques conformes aux standards
+internationaux en matière de sécurité de l’information et de gouvernance
+des données, permettant notamment l’automatisation des flux de
+données critiques afin de limiter les risques d’erreurs manuelles
+et de renforcer la fiabilité des traitements.
+
+=== CHUNK 7 | PDF: Cir_2025_08_fr.pdf | Page: 4 | Titre_Gemma: **Publication du Plan Stratégique et Opérationnel** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Article 7: La banque ou l’établissement financier est tenu(e) de transmettre à
+la Banque Centrale de Tunisie, dans un délai maximum de trois (3) mois à
+compter de la date de publication de la présente circulaire, le plan stratégique
+et opérationnel visé à l’article 3.
+
+=== CHUNK 8 | PDF: Cir_2025_08_fr.pdf | Page: 4 | Titre_Gemma: **Abrogation de la circulaire 2020-01** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Article 8 :  La présente circulaire entre en vigueur à compter de la date de sa
+publication et abroge la circulaire aux banques et aux établissements
+financiers n°2020-01 relative aux mesures préalables pour l’adoption des
+normes internationales d’information financière (IFRS).
+LE GOUVERNEUR,
+Fethi Zouhaier NOURI
+

@@ -1,0 +1,30 @@
+=== CHUNK 1 | PDF: Communique_cir_201603_fr.pdf | Page: -1 | Titre_Gemma: **Circulaire Prudentielle 2016-03 : Renforcement du Cadre Bâlois** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
+**I. Objet et Contexte de la Circulaire N°2016-03**
+Le présent communiqué concerne la circulaire aux banques et aux établissements financiers n°2016-03, datée du 29 juillet 2016. Cette circulaire a pour objectif de renforcer le dispositif prudentiel existant et d'accélérer la convergence vers le cadre bâlois. Elle apporte des modifications à la circulaire n°91-24 relative à la division, la couverture des risques et le suivi des engagements.
+
+=== CHUNK 2 | PDF: Communique_cir_201603_fr.pdf | Page: -1 | Titre_Gemma: **Nouvelle exigence de fonds propres pour le risque opérationnel (Bâle II)** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
+**II. Nouvelle Exigence en Fonds Propres pour le Risque Opérationnel**
+La circulaire n°2016-03 a introduit une nouvelle exigence en fonds propres (EFP) au titre du risque opérationnel, conformément à l'approche indicateur de base du pilier 1 de Bâle II. Cette exigence est applicable à compter de décembre 2016. Elle est calculée de la manière suivante : la moyenne du PNB des trois derniers exercices multipliée par 15%.  Le total des Risques encourus (opérationnels) est égal à l'EFP multipliée par 12,5.
+
+=== CHUNK 3 | PDF: Communique_cir_201603_fr.pdf | Page: -1 | Titre_Gemma: **Resserrement des règles sur les parties liées** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
+**III. Resserrement de la Norme Relative aux Parties Liées**
+La circulaire n°2016-03 prévoit également un resserrement progressif de la norme relative aux parties liées. Celle-ci est abaissée de 100% des fonds propres nets à 75% à fin 2017, puis à 25% à fin 2018. Cette modification vise à se conformer aux normes bâloises qui imposent des limites d'exposition sur les parties liées aussi strictes que celles imposées sur les grands risques.
+
