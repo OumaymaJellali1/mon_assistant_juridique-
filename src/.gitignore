@@ -1,0 +1,12 @@
+# Ignore les environnements virtuels
+venv/
+venv1/
+.env/
+__pycache__/
+*.pyc
+
+# Fichiers de dépendances compilées
+*.dll
+*.lib
+*.so
+*.exe
