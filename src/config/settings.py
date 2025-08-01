@@ -12,7 +12,7 @@ CACHE_FILE = os.path.join(CACHE_FOLDER, "title_cache.json")
 EMBEDDINGS_FILE = os.path.join(EMBEDDINGS_FOLDER, "vectors.json")
 
 # GEMINI / GEMMA API
-GEMINI_API_KEY = "AIzaSyBJ5xLmhvTIDzJo3MPbhLejZjAIHhFD7-E"
+GEMINI_API_KEY = "****"
 GEMMA_MODEL = "gemma-3n-e2b-it"
 
 # Modèle embeddings
