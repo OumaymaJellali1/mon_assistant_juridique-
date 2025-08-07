@@ -19,8 +19,8 @@ GEMMA_MODEL = "gemma-3n-e2b-it"
 EMBEDDING_MODEL= "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
 
 # Qdrant config
-QDRANT_HOST = "localhost"
-QDRANT_PORT = 6333
+QDRANT_HOST = "..."
+QDRANT_PORT = ...
 QDRANT_COLLECTION = "chunks_juridiques"
 
 # Divers
