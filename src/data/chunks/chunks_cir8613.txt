@@ -1,50 +1,106 @@
-=== CHUNK 1 | PDF: cir8613.pdf | Page: -1 | Titre_Gemma: **Conditions d'Activité des Banques Non Résidentes en Tunisie** ===
+=== CHUNK 1 | PDF: cir8613.pdf | Page: -1 | Titre_Gemma: **Absence de texte juridique fourni.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
 Section : Non spécifié
 Sous-section : Non spécifié
 Article : Non spécifié
-## Découpage du texte juridique en sections :
-**=== Section 1 ===**
-**Objet et Contexte**
-La présente circulaire, numéro 86-13, adressée aux banques non résidentes, précise les conditions d'activité de ces institutions en Tunisie. Elle s'inscrit dans le cadre de la loi n° 85-108 du 6 décembre 1985, qui a élargi leur champ d'action en leur permettant d'opérer avec les résidents, tout en leur imposant une obligation de veiller à la préservation du crédit de la place de Tunis. L'objet de la circulaire est de définir les conditions de gestion financière, les règles régissant l'activité avec les résidents, les attributions en tant qu'intermédiaires agréés, le régime de change, les conditions de banque et les ratios applicables.
-**=== Section 2 ===**
+Voici le texte juridique découpé en plusieurs sections de taille raisonnable, avec des paragraphes respectés et un séparateur entre chaque section.
+
+=== CHUNK 2 | PDF: cir8613.pdf | Page: -1 | Titre_Gemma: **Ratio de Risque et Fonds Propres Nets** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
 **I - CONDITIONS GENERALES DE GESTION FINANCIERE**
-Cette section énonce les obligations fondamentales des banques non résidentes en matière de gestion financière. Elle aborde notamment :
-*   La couverture des risques (change, crédits, titres, etc.) en imposant des ratios de fonds propres nets.
-*   La division des risques, en limitant le risque par débiteur et par concentration.
-**=== Section 3 ===**
+1) La couverture des risques
+Le rapport minimum entre le montant des fonds propres nets et celui de l'ensemble des risques que ces organismes encourent du fait de leurs opérations doit être égal à 5 %.
+Par fonds propres nets il faut entendre:
+• le capital ou la dotation • les réserves
+• les provisions non affectées à la couverture de créances spécifiques
+• le report à nouveau (non compris les résultats bénéficiaires non encore approuvés).
+Ces éléments sont diminués : • de la part non libérée du capital, • de la valeur du fonds de commerce,
+• des frais de constitution, de premier établissement, d'agencement et d'installation,
+• des frais d'augmentation de capital, • des pertes sur exercices antérieurs,
+• des résultats déficitaires non encore approuvés.
+Par risques encourus, il faut entendre :
+• les crédits distribués à la clientèle,
+• les concours consentis à des intermédiaires financiers installés en Tunisie et à l'étranger,
+• les opérations de crédit-bail, • le portefeuille-titres, • les engagements par signature. Ces éléments sont diminués :
+• du montant des garanties reçues de l'Etat tunisien, des banques ou assurances installées en Tunisie, du Fonds National de Garantie ou de la Compagnie Tunisienne pour l'Assurance du Commerce Extérieur (COTUNACE).
+• du montant des provisions affectées à la couverture des créances,
+• du montant des fonds reçus de la clientèle au titre des engagements par signature.
+Les risques encourus, tels que définis, seront retenus selon les quotités ci-après:
+• 100 % pour les crédits consentis à la clientèle, les concours consentis à des intermédiaires financiers installés à l'étranger, les opérations de crédit-bail et le porte feuille-titres
+• 5 % pour les concours consentis à des intermédiaires financiers installés en Tunisie,
+• 25 % pour les engagements par signature.
+2) La division des risques
+Les risques encourus sur un même débiteur ne devront pas en règle générale dépasser 10 % des fonds propres nets de la banque s'ils excèdent 5 % du total des risques de la banque ou 50 % de l'endettement global de ce débiteur.
+L'ensemble des risques encourus sur les débiteurs dont les risques dépassent pour chacun d'entre eux 5 % des fonds propres nets de la banque ne devront pas en règle générale dépasser 10 fois ses fonds propres nets.
+Les débiteurs qui ont entre eux des liens financiers directs ou indirects peuvent être considérés comme un même débiteur.
+
+=== CHUNK 3 | PDF: cir8613.pdf | Page: -1 | Titre_Gemma: **Collecte de Fonds par Banques Non Résidantes auprès des Résidents** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
 **II - REGLES PARTICULIERES A L'ACTIVITE AVEC LES RESIDENTS**
-Cette section détaille les règles spécifiques à l'activité bancaire avec les résidents, divisée en deux sous-sections :
-*   **Collecte et emploi des fonds en dinars:**
-*   La collecte des fonds de résidents, limitée en fonction de leur participation à des sociétés et des dépôts bancaires.
-*   L'utilisation de ces fonds pour le financement d'opérations productives en Tunisie.
-*   **Financement en devises:**
-*   Le financement des investissements (souscription au capital, crédits à moyen et long terme).
-*   Le financement des opérations de commerce extérieur (importations et exportations), avec des conditions spécifiques concernant le transfert des fonds.
-**=== Section 4 ===**
+1) Collecte et emploi des fonds en dinars:
+a) Collecte des fonds de résidents :
+La loi n°85-108 du 6 décembre 1985 autorise les banques non résidentes à collecter des fonds de résidents sans que le total de ces fonds puisse dépasser pour chaque organisme le montant souscrit de ses participations effectuées conformément à l'article 8 de la loi précitée et pour l'ensemble des banques non résidentes 1,5 % des dépôts des banques de dépôts.
+Doivent être inclus dans le calcul des limites sus-visées les fonds provenant :
+• du produit des libérations des souscriptions dans le capital de sociétés.
+• des versements effectués en prévision du règlement des échéances des crédits contractés auprès des organismes précités.
+• des versements effectués en prévision du dénouement des opérations de commerce extérieur réalisées dans le cadre de l'article 9 de la loi précitée.
+et tous fonds revenant à un résident.
+Afin de déterminer le volume maximum de fonds de résidents que chaque banque non résidente sera autorisée à collecter, ces banques doivent communiquer à la Banque Centrale de Tunisie la liste des participations effectuées dans le cadre de l'article 8 de la loi précitée en utilisant un état conforme au modèle figurant à l'annexe I.
+Le volume maximum de fonds de résidents que chaque banque non résidente sera autorisée à collecter sera actualisé en fonction des nouvelles souscriptions ou des cessions de participations; ces renseignements seront transmis à la Banque centrale de Tunisie sur un état conforme au modèle figurant à l'annexeII.
+Tout dépassement par rapport au volume maximum autorisé devra être intégralement viré à la Banque Centrale de Tunisie; ces montants ne seront pas rémunérés et seront débloqués en totalité ou en partie en fonction de l'actualisation du volume maximum autorisé ou de la diminution des dépôts.
+b) Utilisation des fonds en dinars
+Les ressources définies à l'alinéa "a" ci-dessus peuvent être utilisées pour le financement d'opérations productives réalisées en Tunisie par des entreprises residentes dans les secteurs agricole, industriel, artisanal, touristique et d'exportation.
+2) Financement en devises :
+a) Financement des opérations d'investissements :
+• Souscriptions au capital d'entreprises :
+L'article 8 alinéa 2 de la loi n°85/108 du 6 décembre 1985 autorise les banques non résidentes à participer, sur leurs fonds propres en devises, au capital d'entreprises residentes dont le schéma de financement agréé prévoit une participation étrangère.
+• Crédits à moyen et long termes :
+L'article 8 alinéa 3 de la loi n°85/108 du 6 décembre 1985 autorise, également, les banques non résidentes à accorder sur leurs ressources en devises les crédits à moyen et long termes prévus par les schémas de financement agrées.
+b) Financement des opérations de commerce extérieur:
+L'article 8 alinéa 4 de la loi n° 85/108 du 6 décembre 1985 autorise les banques non résidentes à financer sur des ressources en devises les opérations d'importations et d'exportations. Dans ce cadre, elles peuvent accorder leurs concours à des résidents.
+• Financement des importations :
+Le financement des importations peut être effectué quel que soit le régime des produits à importer (prohibés, contingentes, libérés). Le règlement financier de l'importation doit être assuré par la banque non résidente.
+Les décaissements sont opérés au plus tôt à la date à laquelle la réglementation des changes, suivant la procédure, permet d'opérer le transfert.
+• Financement des exportations :
+Le financement des exportations peut être effectué quel que soit le régime des produits à exporter (prohibés, contingentés, libérés). Il est réalisé dans la limite du montant prévu au contrat commercial au plus tôt à compter de la date d'imputation douanière du titre d'exportation.
+Le financement peut s'effectuer en toute monnaie étrangère convertible quelle que soit la monnaie du contrat commercial.
+Le montant du financement accordé par la banque doit être immédiatement et intégralement cédé, pour le compte du bénéficiaire, à la Banque Centrale de Tunisie. Cette opération ne peut donner lieu à inscription en compte Exportations Frais Accessoires (EFAC) ou Voyage d'affaires uniquement au moment du rapatriement du produit de l'exportation.
+
+=== CHUNK 4 | PDF: cir8613.pdf | Page: -1 | Titre_Gemma: **Qualité d'Intermédiaire Agréé pour Opérations de Commerce Extérieur** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
 **III - CONDITIONS D'EXERCICE DE LA QUALITE D'INTERMEDIAIRE AGREE**
-Cette section précise les conditions pour qu'une banque non résidente puisse agir en tant qu'intermédiaire agréé, lui conférant des obligations similaires à celles des intermédiaires résidents. Elle couvre notamment les opérations connexes au commerce extérieur.
-**=== Section 5 ===**
-**IV - REGIME DE CHANGE**
-Cette section détaille les règles relatives au transfert de fonds en devises, en distinguant :
-*   **Opérations en devises :** Le transfert du produit des liquidations d'investissements et le remboursement des prêts en principal et intérêts, avec des procédures spécifiques et des exigences en matière d'autorisation de la Banque Centrale de Tunisie.
-*   **Opérations en dinars :** La possibilité de transférer des revenus réalisés avec des résidents financés sur des ressources en dinars, sous réserve d'autorisation.
-**=== Section 6 ===**
-**V - CONDITIONS DE BANQUE**
-Cette section énonce les conditions de banque pour les banques non résidentes, précisant :
-*   Les conditions débitrices et créditrices pour les opérations en dinars.
-*   Les taux de prêt pour les crédits en devises, avec des marges autorisées et des exigences en matière d'autorisation de la Banque Centrale de Tunisie.
-**=== Section 7 ===**
-**VI - RATIOS APPLICABLES AUX FONDS EN DINARS**
-Cette section définit les ratios de liquidité et de solvabilité applicables aux fonds en dinars :
-*   **Ratio immédiat de liquidité (RIL):**  Définition du ratio, de sa composition (encaisse, solde de comptes à vue, ligne de trésorerie), et des niveaux réglementaires en fonction du degré de répartition des dépôts.
-*   **Réserves obligatoires:** Les banques non résidentes collectant des fonds en dinars sont soumises à une réserve obligatoire.
-*   **Ratio d'effets publics:**  Ce ratio est soumis à des modalités précises qui seront définies ultérieurement.
-**=== Section 8 ===**
-**VII - ORGANISATION COMPTABLE ET DECLARATIONS PERIODIQUES A LA BANQUE CENTRALE DE TUNISIE**
-Cette section détaille les obligations comptables et de déclaration des banques non résidentes :
-*   **Organisation comptable:**  L'obligation d'individualiser les opérations avec les résidents dans leur comptabilité.
-*   **Déclarations périodiques:**  Les déclarations à communiquer à la Banque Centrale de Tunisie, notamment les déclarations liées à la balance des paiements, la situation comptable, les crédits accordés, les comptes pertes et profits, et le bilan.
+Les banques non résidentes peuvent réaliser pour le compte de la clientèle qu'elles financent les opérations connexes de commerce extérieur telles que la domiciliation de titres de commerce extérieur, l'ouverture d'accréditifs documentaires, de comptes Exportations et Frais Accessoires (EFAC) et de comptes voyages d'affaires et l'octroi d'allocations pour voyages d'affaires.
+Conformément aux dispositions de l'article 14 de la loi n°85-108 elles ont pour ces opérations la qualité d'intermédiaire agréé et sont de ce fait, soumises aux mêmes obligations que les Intermédiaires Agréés résidents.
+
+=== CHUNK 5 | PDF: cir8613.pdf | Page: -1 | Titre_Gemma: **Transfert de Fonds des Banques Non Résidentes** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
+**IV - REGIME DE CHANGE :**
+1) Opérations en devises
+Pour les opérations en devises, les banques non résidentes sont autorisées à procéder librement au transfert du produit de la liquidation de leurs investissements et du remboursement des prêts en principal et intérêts selon la même procédure que celle suivie par les intermédiaires agréés résidents pour les opérations déléguées.
+a) Produit de liquidation des investissements
+Pour le transfert du produit de la liquidation de leurs investissements, elles doivent déposer à la BCT des fiches d'information en deux exemplaires conformes au modèle de l'annexe III avant l'exécution de l'opération de transfert et y joindre toutes pièces justificatives.
+Un exemplaire de la fiche est retourné à la banque non résidente revêtu d'un cachet portant des références devant être reproduites sur la demande d'achat de devises à la Banque Centrale de Tunisie pour l'exécution effective du transfert.
+Les fiches d'information doivent
 

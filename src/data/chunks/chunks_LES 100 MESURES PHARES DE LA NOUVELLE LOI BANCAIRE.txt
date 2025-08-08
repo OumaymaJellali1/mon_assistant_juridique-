@@ -1,13 +1,13 @@
-=== CHUNK 1 | PDF: LES 100 MESURES PHARES DE LA NOUVELLE LOI BANCAIRE.pdf | Page: -1 | Titre_Gemma: Veuillez me fournir le texte juridique. Je ne peux pas générer un titre sans le contenu. Une fois que vous l'aurez fourni, je vous donnerai un titre clair, court et précis. ===
+=== CHUNK 1 | PDF: LES 100 MESURES PHARES DE LA NOUVELLE LOI BANCAIRE.pdf | Page: -1 | Titre_Gemma: **Titre :** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
 Section : Non spécifié
 Sous-section : Non spécifié
 Article : Non spécifié
-Voici le texte juridique découpé en sections de taille raisonnable, respectant les paragraphes et utilisant le séparateur indiqué :
+Voici le texte juridique découpé en sections de taille raisonnable, respectant les paragraphes et utilisant le séparateur indiqué.
 
-=== CHUNK 2 | PDF: LES 100 MESURES PHARES DE LA NOUVELLE LOI BANCAIRE.pdf | Page: -1 | Titre_Gemma: **Réforme du secteur bancaire : adaptation aux nouveaux acteurs et à l'innovation.** ===
+=== CHUNK 2 | PDF: LES 100 MESURES PHARES DE LA NOUVELLE LOI BANCAIRE.pdf | Page: -1 | Titre_Gemma: **Réforme du secteur bancaire : ouverture et convergence.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -16,11 +16,11 @@ Sous-section : Non spécifié
 Article : Non spécifié
 **I. Réorganiser le marché bancaire à la faveur de l’émergence de nouveaux opérateurs**
 1. Préservation du modèle de la banque universelle et promotion de nouveaux « Business Models » de banques spécialisées.
-2. Elargissement de l’exercice des activités de gestion de moyens de paiement et de change manuel, jusqu'à-là réservées aux banques et à l’office national des postes, à de nouveaux opérateurs et ce, par la consécration du statut d’établissement de paiement.
+2. Elargissement de l’exercice des activités de gestion de moyens de paiement et de change manuel, jusqu’à-là réservées aux banques et à l’office national des postes, à de nouveaux opérateurs et ce, par la consécration du statut d’établissement de paiement.
 3. Extension du périmètre d’intervention des banques d’affaires en leur permettant d’accorder sur leurs fonds propres des financements spécifiques aux entreprises pour en faire une véritable courroie de transmission entre le marché bancaire et le marché financier.
 4. Harmonisation entre le cadre légal régissant l’activité bancaire off-shore et on-shore dans la perspective d’une convergence totale entre les deux statuts.
 
-=== CHUNK 3 | PDF: LES 100 MESURES PHARES DE LA NOUVELLE LOI BANCAIRE.pdf | Page: -1 | Titre_Gemma: **Cadre légal des banques islamiques en Tunisie** ===
+=== CHUNK 3 | PDF: LES 100 MESURES PHARES DE LA NOUVELLE LOI BANCAIRE.pdf | Page: -1 | Titre_Gemma: **Cadre légal des opérations bancaires islamiques en Tunisie** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -50,7 +50,7 @@ Article : Non spécifié
 15. Augmentation du capital minimum sans pour autant en faire une barrière à l’entrée : le niveau du capital minimum exigé est de 50Md pour les banques, 25 MD pour les établissements financiers, 10MD pour les banques d’affaires et les sociétés de factoring et 5MD pour les établissements de paiement (délai max. de conformité: juillet.2017).
 16. Appréciation par l’autorité d’agrément de l’honorabilité des actionnaires et des dirigeants fondée sur des éléments probants et objectifs moyennant l’accès aux données confidentielles fournies par d’autres autorités de régulation ou autorités judiciaires.
 
-=== CHUNK 5 | PDF: LES 100 MESURES PHARES DE LA NOUVELLE LOI BANCAIRE.pdf | Page: -1 | Titre_Gemma: **Gouvernance des Banques : Renforcement des Rôles et des Comités** ===
+=== CHUNK 5 | PDF: LES 100 MESURES PHARES DE LA NOUVELLE LOI BANCAIRE.pdf | Page: -1 | Titre_Gemma: **Gouvernance des Banques et Établissements Financiers** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -58,7 +58,7 @@ Section : Non spécifié
 Sous-section : Non spécifié
 Article : Non spécifié
 **IV. Consolider la gouvernance des banques et des établissements financiers**
-17. Consécration, de la règle de séparation entre les fonctions de président du conseil d’administration et de directeur général pour le mode de gouvernance moniste (des dérogations peuvent être accordées par la BCT aux établissements financiers lorsque la taille et la nature de l’activité le justifient) (délai max. de conformité: Janv.2017.)
+17. Consécration, de la règle de séparation entre les fonctions de président du conseil d’administration et de directeur général pour le mode de gouvernance moniste (des dérogations peuvent être accordées par la BCT aux établissements financiers lorsque la taille et la nature de l’activité le justifient) (délai max. de conformité: Janv.2017).
 18. Clarification des attributions du conseil d’administration ou du conseil de surveillance conformément aux principes de Bâle sur la bonne gouvernance (Corporate governance principles for banks, July 2015).
 19. Appui et assistance au conseil par des comités indépendants en matière de gestion des risques, d’audit, de rémunération et de nomination (délai max. de conformité: Janv.2017).
 20. Possibilité pour les établissements financiers de cumuler les attributions du comité d’audit et celles du comité des risques en un seul comité et ce, après accord de la BCT et lorsque le volume d’activité et la nature des opérations le justifient.
@@ -66,11 +66,11 @@ Article : Non spécifié
 22. Obligation d’instituer des fonctions d’audit interne, de gestion des risques et de contrôle de conformité indépendantes des structures d’exploitation et d’appui.
 23. Désignation par les banques et les établissements financiers d’administrateurs indépendants et d’administrateurs représentant les petits actionnaires avec fixation des critères d’indépendance et alignement de la définition des petits actionnaires à celle retenue dans la législation relative au marché financier (délai max. de conformité: Janv.2017).
 24. Adossement de la politique de rémunération des dirigeants des banques et des établissements financiers aux indicateurs de solidité, de solvabilité et de rentabilité.
-25. Consécration du principe de non cumul entre la fonction de directeur général, de directeur général adjoint ou de membre du directoire pour une banque ou un établissement financier et ces mêmes fonctions dans une autre banque, un autre établissement financier, une entreprise d’assurance, une entreprise d’intermédiation en bourse, une société de gestion de portefeuille de valeurs mobilières ou une société d’investissement.
+25. Consécration du principe de non cumul entre la fonction de directeur général, de directeur général adjoint ou de membre du directoire d’une banque ou d’un établissement financier avec ces mêmes fonctions dans une autre banque, dans un autre établissement financier, dans une entreprise d’assurance, dans une entreprise d’intermédiation en bourse, dans une société de gestion de portefeuille de valeurs mobilières ou dans une société d’investissement.
 26. Consécration du principe de non cumul de la fonction de membre du conseil d’administration ou du conseil de surveillance dans deux banques ou dans deux établissements financiers de même catégorie.
 27. Obligation pour le directeur général, le directeur général adjoint et les membres du directoire d’une banque ou d’un établissement financier de ne pas exercer parallèlement la fonction de dirigeant d’une entreprise économique.
 
-=== CHUNK 6 | PDF: LES 100 MESURES PHARES DE LA NOUVELLE LOI BANCAIRE.pdf | Page: -1 | Titre_Gemma: **Renforcement de la Prise en Charge Prudentielle par la BCT** ===
+=== CHUNK 6 | PDF: LES 100 MESURES PHARES DE LA NOUVELLE LOI BANCAIRE.pdf | Page: -1 | Titre_Gemma: **Renforcement de la Surveillance Prudentielle de la BCT** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -84,7 +84,7 @@ Article : Non spécifié
 31. Instauration d’un contrôle complémentaire par la BCT pour les conglomérats financiers.
 32. Clarification de l’objectif et des modalités de contrôle de la BCT en vue d’instaurer une transparence dans le processus de surveillance bancaire tout en renforçant la qualité de la supervision bancaire.
 
-=== CHUNK 7 | PDF: LES 100 MESURES PHARES DE LA NOUVELLE LOI BANCAIRE.pdf | Page: -1 | Titre_Gemma: **Réforme du régime des sanctions** ===
+=== CHUNK 7 | PDF: LES 100 MESURES PHARES DE LA NOUVELLE LOI BANCAIRE.pdf | Page: -1 | Titre_Gemma: **Réforme du régime de sanctions** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -101,7 +101,7 @@ Article : Non spécifié
 47. Clarification de la procédure de recours.
 48. Le recours à la publication des sanctions comme une mesure de dissuasion et d’injonction nouvellement introduite.
 
-=== CHUNK 8 | PDF: LES 100 MESURES PHARES DE LA NOUVELLE LOI BANCAIRE.pdf | Page: -1 | Titre_Gemma: **Cadre de Redressement Bancaire et Financier** ===
+=== CHUNK 8 | PDF: LES 100 MESURES PHARES DE LA NOUVELLE LOI BANCAIRE.pdf | Page: -1 | Titre_Gemma: **Intervention Préventive et Redressement des Banques et Établissements Financiers** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -111,5 +111,5 @@ Article : Non spécifié
 **VII. Etablir un cadre clair et précis pour une intervention préventive et un redressement efficace des banques et des établissements financiers**
 49. Différenciation entre le traitement réservé aux banques et aux établissements financiers en difficulté et la surveillance ordinaire des banques et des établissements financiers.
 50. Clarification des signes précurseurs des difficultés nécessitant la préparation par la banque ou l’établissement financier d’un plan d’actions permettant d’agir d’une manière précoce pour contenir les risques de difficultés potentielles.
-51. Clarification des facteurs déclencheurs des difficultés nécessitant la soumission d’une banque ou d’un établissement financier à un plan de redressement dont
+51. Clarification des facteurs déclencheurs des difficultés nécessitant la soumission d’une banque ou d’un établissement
 

@@ -1,4 +1,4 @@
-=== CHUNK 1 | PDF: cir2001-08.pdf | Page: 1 | Titre_Gemma: **Allocations pour voyages d'affaires** ===
+=== CHUNK 1 | PDF: cir2001-08.pdf | Page: 1 | Titre_Gemma: **Allocations pour Voyages d'Affaires** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -19,7 +19,7 @@ Allocation pour voyages d’affaires-exportateur
 Paragraphe 1
 Bénéficiaires
 
-=== CHUNK 2 | PDF: cir2001-08.pdf | Page: 1 | Titre_Gemma: **Allocation pour voyages d'affaires exportateur** ===
+=== CHUNK 2 | PDF: cir2001-08.pdf | Page: 1 | Titre_Gemma: **Allocation pour voyages d'affaires-exportateur** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -43,7 +43,7 @@ copie de la carte d’identification fiscale.
 Paragraphe 2
 Montant de l’allocation
 
-=== CHUNK 3 | PDF: cir2001-08.pdf | Page: 1 | Titre_Gemma: **Allocation Voyages Affaires Exportateur : Calcul et Modalités** ===
+=== CHUNK 3 | PDF: cir2001-08.pdf | Page: 1 | Titre_Gemma: **Allocation Voyages d'Affaires Exportateur : Calcul et Montant** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -69,7 +69,7 @@ les transferts au titre de frais de séjour à l’étranger ne
 dépassent au cours d’une année le plafond fixé à l’alinéa
 premier de cet article.
 
-=== CHUNK 4 | PDF: cir2001-08.pdf | Page: 1 | Titre_Gemma: **Calcul des taux d'exportation : Recettes et transactions avec non-résidents.** ===
+=== CHUNK 4 | PDF: cir2001-08.pdf | Page: 1 | Titre_Gemma: **Détermination des taux de tarification des recettes d'exportation.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -121,7 +121,7 @@ de l’exportation sur production d’une facture accompagnée
 d’une attestation délivrée par ces opérateurs ou
 organismes, confirmant la réalisation du règlement.
 
-=== CHUNK 5 | PDF: cir2001-08.pdf | Page: 2 | Titre_Gemma: **Transmission des droits à transfert via un intermédiaire agréé.** ===
+=== CHUNK 5 | PDF: cir2001-08.pdf | Page: 2 | Titre_Gemma: **Transfert de droits à transfert via intermédiaires agréés** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -136,7 +136,7 @@ l’allocation, un formulaire conforme à l’annexe n°1
 précisant le montant à inscrire à titre de droits à
 transfert .
 
-=== CHUNK 6 | PDF: cir2001-08.pdf | Page: 2 | Titre_Gemma: **Inscription des droits de devises : délai et conditions** ===
+=== CHUNK 6 | PDF: cir2001-08.pdf | Page: 2 | Titre_Gemma: **Inscription des droits de devises : Délai et conditions.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -155,7 +155,7 @@ crédit du compte professionnel en devises du titulaire de
 l’allocation ou du règlement de l’opération pouvant
 donner lieu à l’inscription de ces droits.
 
-=== CHUNK 7 | PDF: cir2001-08.pdf | Page: 2 | Titre_Gemma: **Annulation des droits de transfert et Allocation Voyages d'Affaires** ===
+=== CHUNK 7 | PDF: cir2001-08.pdf | Page: 2 | Titre_Gemma: **Annulation des droits de transfert et allocation pour voyages d'affaires.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -197,7 +197,7 @@ ou des contrats déjà conclu(s).
 Paragraphe 2
 Montant de l’allocation
 
-=== CHUNK 8 | PDF: cir2001-08.pdf | Page: 2 | Titre_Gemma: **Allocation Voyages d'Affaires - Pourcentage** ===
+=== CHUNK 8 | PDF: cir2001-08.pdf | Page: 2 | Titre_Gemma: **Allocation pour voyages d'affaires à l'étranger** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -208,7 +208,7 @@ voyages d’affaires-marchés réalisables à l’étranger » est
 fixé à quinze pour cent (15 %) du prix du contrat de
 marché à titre duquel l’allocation est demandée.
 
-=== CHUNK 9 | PDF: cir2001-08.pdf | Page: 2 | Titre_Gemma: **Décision du 3 janvier 2005** ===
+=== CHUNK 9 | PDF: cir2001-08.pdf | Page: 2 | Titre_Gemma: **Arrêt du 03/01/2005** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -217,7 +217,7 @@ Sous-section : Non spécifié
 Article : Article 11 : ( Abrogé par circulaire aux IA n°2005-02
 du 03/01/2005.)
 
-=== CHUNK 10 | PDF: cir2001-08.pdf | Page: 2 | Titre_Gemma: **Cumul et Domiciliation des Allocations Export et Marchés à l'Étranger** ===
+=== CHUNK 10 | PDF: cir2001-08.pdf | Page: 2 | Titre_Gemma: **Cumul et gestion des allocations voyages d'affaires** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -238,7 +238,7 @@ ayant servi au calcul de droits à transfert à titre de
 «l’allocation pour voyages d’affaires-marchés réalisables à
 l’étranger».
 
-=== CHUNK 11 | PDF: cir2001-08.pdf | Page: 2 | Titre_Gemma: **Allocation voyages d'affaires : Règlements et conditions d'obtention** ===
+=== CHUNK 11 | PDF: cir2001-08.pdf | Page: 2 | Titre_Gemma: **Allocation pour voyages d'affaires : Obligations de régularisation.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -282,7 +282,7 @@ bénéficiaire. Le montant de l’allocation non utilisé au
 cours d’une année civile ne peut être reporté sur l’année
 suivante .
 
-=== CHUNK 12 | PDF: cir2001-08.pdf | Page: 3 | Titre_Gemma: **Renouvellement de l'Allocation Voyages d'Affaires Importateur : Délais et Obligations** ===
+=== CHUNK 12 | PDF: cir2001-08.pdf | Page: 3 | Titre_Gemma: **Renouvellement de l'allocation voyages d'affaires importateur : Obligations et délais.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -350,7 +350,7 @@ de 10.000 à 30.000 TND 2.000 TND plus de 30.000 TND 8% avec un plafond de 30.00
 (2) Ainsi modifié par circulaire aux IA n°2007-03 du
 05/02/2007.
 
-=== CHUNK 13 | PDF: cir2001-08.pdf | Page: 4 | Titre_Gemma: **Reconduite et Report de l'Allocation** ===
+=== CHUNK 13 | PDF: cir2001-08.pdf | Page: 4 | Titre_Gemma: **Reconduction et report de l'allocation** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -365,7 +365,7 @@ Le montant de l’allocation non utilisé au cours
 d’une année civile ne peut être reporté sur l’année
 suivante.
 
-=== CHUNK 14 | PDF: cir2001-08.pdf | Page: 4 | Titre_Gemma: **Avances pour frais de séjour à l'étranger : Obligations et délais.** ===
+=== CHUNK 14 | PDF: cir2001-08.pdf | Page: 4 | Titre_Gemma: **Avances pour frais de séjour à l'étranger : Délais et Responsabilités** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -441,7 +441,7 @@ doit être domiciliée auprès d’un intermédiaire agréé
 unique.
 2007-03 du 5 février 2007 ).
 
-=== CHUNK 16 | PDF: cir2001-08.pdf | Page: 4 | Titre_Gemma: **Engagement de Domiciliation pour Voyages d'Affaires** ===
+=== CHUNK 16 | PDF: cir2001-08.pdf | Page: 4 | Titre_Gemma: **Engagement de domiciliation pour voyages d'affaires** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -452,7 +452,7 @@ voyages d’affaires, quelle que soit sa nature, doit à la
 domiciliation et avant toute utilisation souscrire un
 engagement conforme au modèle en annexe n°2.
 
-=== CHUNK 17 | PDF: cir2001-08.pdf | Page: 4 | Titre_Gemma: **Gestion des frais de séjour à l'étranger pour les allocataires** ===
+=== CHUNK 17 | PDF: cir2001-08.pdf | Page: 4 | Titre_Gemma: **Gestion des frais de séjour à l'étranger pour les allocataires.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -479,7 +479,7 @@ utiliser pendant l’année en cours et d’éviter en
 conséquence tout dépassement des plafonds fixés par la
 présente circulaire.
 
-=== CHUNK 18 | PDF: cir2001-08.pdf | Page: 5 | Titre_Gemma: **Changement de domiciliation de l'allocation pour voyages d'affaires** ===
+=== CHUNK 18 | PDF: cir2001-08.pdf | Page: 5 | Titre_Gemma: **Changement de domiciliation de l'allocation voyages d'affaires** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -502,7 +502,7 @@ garder une copie de cette autorisation.
 Paragraphe 2
 Modalités de délivrance des devises
 
-=== CHUNK 19 | PDF: cir2001-08.pdf | Page: 5 | Titre_Gemma: **Allocation de séjour à l'étranger : Conditions d'utilisation** ===
+=== CHUNK 19 | PDF: cir2001-08.pdf | Page: 5 | Titre_Gemma: **Déplacement professionnel à l'étranger : conditions d'utilisation de l'allocation** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -536,7 +536,7 @@ titulaire de l’allocation), par chèques, par virement ou
 par carte de paiement internationale.
 a– transferts en espèces ou par chèques
 
-=== CHUNK 21 | PDF: cir2001-08.pdf | Page: 5 | Titre_Gemma: **Délivrance de devises et autorisation de sortie** ===
+=== CHUNK 21 | PDF: cir2001-08.pdf | Page: 5 | Titre_Gemma: **Délivrance et Autorisation de Sortie de Devises** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -569,7 +569,7 @@ de la durée de validité de l’ "autorisation de sortie de
 devises".
 b– Transferts par virement :
 
-=== CHUNK 23 | PDF: cir2001-08.pdf | Page: 5 | Titre_Gemma: **Transferts d'argent et réservations pour les étrangers** ===
+=== CHUNK 23 | PDF: cir2001-08.pdf | Page: 5 | Titre_Gemma: **Virements et Reservations d'Hôtel pour les Allocations** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -597,7 +597,7 @@ des factures visées par le titulaire de la carte de paiement,
 soit d’un ordre de paiement émanant de la société émettrice
 de la carte.
 
-=== CHUNK 25 | PDF: cir2001-08.pdf | Page: 5 | Titre_Gemma: **Suspension immédiate des allocations suite à utilisation de carte internationale.** ===
+=== CHUNK 25 | PDF: cir2001-08.pdf | Page: 5 | Titre_Gemma: **Suspension de l'Allocation suite à Utilisation de Carte Internationale** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -614,7 +614,7 @@ oppositions du réseau international et informera son client
 et la Banque Centrale de Tunisie.
 Dispositions diverses
 
-=== CHUNK 26 | PDF: cir2001-08.pdf | Page: 5 | Titre_Gemma: **Déclaration de dates de voyage et conséquences du non-respect.** ===
+=== CHUNK 26 | PDF: cir2001-08.pdf | Page: 5 | Titre_Gemma: **Déclaration de retour d'employé étranger : Obligations et conséquences** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -634,7 +634,7 @@ l’intermédiaire agréé doit surseoir à tout transfert par
 utilisation de l’allocation et en informer son client et la
 Banque Centrale de Tunisie.
 
-=== CHUNK 27 | PDF: cir2001-08.pdf | Page: 6 | Titre_Gemma: **Demande de financement complémentaire pour voyages d'affaires** ===
+=== CHUNK 27 | PDF: cir2001-08.pdf | Page: 6 | Titre_Gemma: **Demande de Complément de Financement pour Voyages d'Affaires** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -650,7 +650,7 @@ accompagnées des justificatifs appropriés pour
 l’obtention de montants complémentaires.
 Information de la Banque Centrale de Tunisie
 
-=== CHUNK 28 | PDF: cir2001-08.pdf | Page: 6 | Titre_Gemma: **Déclarations et listes d'allocations pour voyages d'affaires.** ===
+=== CHUNK 28 | PDF: cir2001-08.pdf | Page: 6 | Titre_Gemma: **Fourniture de documents relatifs aux allocations de voyages d'affaires à la BCT** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -672,7 +672,7 @@ objet de l’annexe n°5. Toute modification au niveau de
 ces listes doit être portée à la connaissance de la Banque
 Centrale de Tunisie selon ces mêmes conditions.
 
-=== CHUNK 29 | PDF: cir2001-08.pdf | Page: 6 | Titre_Gemma: **Déclaration des Allocations pour Voyages d'Affaires - Délai et Formalités** ===
+=== CHUNK 29 | PDF: cir2001-08.pdf | Page: 6 | Titre_Gemma: **Déclaration des Allocations de Voyage d'Affaires** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -792,7 +792,7 @@ débit de l’AVA.
 Zone vide X Zone non utilisée.
 * A : Alphabétique, X : Alphanumérique, N : Numérique
 
-=== CHUNK 31 | PDF: cir2001-08.pdf | Page: 7 | Titre_Gemma: **Rapatriement de devises pour exportateurs : Déclaration d'un intermédiaire agréé.** ===
+=== CHUNK 31 | PDF: cir2001-08.pdf | Page: 7 | Titre_Gemma: **Rapatriement de devises pour exportateurs : Annexes et conditions** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -822,7 +822,7 @@ le numéro et la date de domiciliation.
 CD (code en douane) ou CIN (Carte d’Identité Nationale ou RC (Registre de commerce) /00.trimestre.Année".
 2)-Biffer la mention inutile.
 
-=== CHUNK 32 | PDF: cir2001-08.pdf | Page: 8 | Titre_Gemma: **Engagement pour allocation de voyages d'affaires** ===
+=== CHUNK 32 | PDF: cir2001-08.pdf | Page: 8 | Titre_Gemma: **Certification d'absence d'autres allocations et de liste d'employés autorisés pour l'allocation de voyages d'affaires.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -857,7 +857,7 @@ Signature et cachet
 réalisables à l’étranger. (5)-Pour les personnes physiques.
 (*) Ajouté par circulaire aux IA n° 2007-/03 DU 05/02/2007.
 
-=== CHUNK 33 | PDF: cir2001-08.pdf | Page: 9 | Titre_Gemma: **Décompte Annuel Allocation Voyages d'Affaires - Intermédiaires Agrégés** ===
+=== CHUNK 33 | PDF: cir2001-08.pdf | Page: 9 | Titre_Gemma: **Décompte Annuel Allocation Voyages d'Affaires - Intermédiaires Agrés** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -907,7 +907,7 @@ l’exportation.
 (7)-C (carte d'identité nationale ) ou S (carte de séjour).
 (8)-Hors taxes déclaré à l'administration Fiscale au titre de l'année précédente (concernant les importateurs).           Signature et Cachet
 
-=== CHUNK 34 | PDF: cir2001-08.pdf | Page: 10 | Titre_Gemma: **Enregistrement des allocations pour voyages d'affaires : Détails requis** ===
+=== CHUNK 34 | PDF: cir2001-08.pdf | Page: 10 | Titre_Gemma: **Enregistrement d'allocations pour voyages d'affaires : Détails** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -1010,7 +1010,7 @@ AAAAMMJJ.
 Code mise à jour A A : ajout, S : suppression.
 * A : Alphabétique, X : Alphanumérique, N : Numérique
 
-=== CHUNK 36 | PDF: cir2001-08.pdf | Page: 14 | Titre_Gemma: **Identité du Titulaire de l'AVA** ===
+=== CHUNK 36 | PDF: cir2001-08.pdf | Page: 14 | Titre_Gemma: **Informations sur le Titulaire de l'AVA** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -1037,7 +1037,7 @@ Catégorie A Mettre A,B ou C Code centre informatique N
 N° chronologique N Cadrage à droite Année
 N
 
-=== CHUNK 37 | PDF: cir2001-08.pdf | Page: 15 | Titre_Gemma: **Caractéristiques des supports magnétiques (Annexe 7A)** ===
+=== CHUNK 37 | PDF: cir2001-08.pdf | Page: 15 | Titre_Gemma: **Spécifications des supports magnétiques (Annexe 7A)** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -1054,7 +1054,7 @@ suffix  'TXT'.
 - Label fichier des bénéficiaires : DUAV009R  avec suffix  'TXT'.
 - Fichiers  ASCII.
 
-=== CHUNK 38 | PDF: cir2001-08.pdf | Page: 16 | Titre_Gemma: **Activités non éligibles à l'AVA** ===
+=== CHUNK 38 | PDF: cir2001-08.pdf | Page: 16 | Titre_Gemma: **Liste des activités non éligibles à l'AVA** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié

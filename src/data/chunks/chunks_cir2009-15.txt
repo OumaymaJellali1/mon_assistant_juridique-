@@ -1,4 +1,4 @@
-=== CHUNK 1 | PDF: cir2009-15.pdf | Page: 1 | Titre_Gemma: **Comptes Bénéfices-Export** ===
+=== CHUNK 1 | PDF: cir2009-15.pdf | Page: 1 | Titre_Gemma: **Comptes Spéciaux Bénéfices-Export** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -7,7 +7,7 @@ Sous-section : Non spécifié
 Article : Article premier : La présente circulaire a pour objet de fixer les conditions d’ouverture et
 de fonctionnement des comptes spéciaux «Bénéfices-Export» en devises ou en dinar convertibles.
 
-=== CHUNK 2 | PDF: cir2009-15.pdf | Page: 1 | Titre_Gemma: **Obligations de déclaration de bénéfices d'exportation** ===
+=== CHUNK 2 | PDF: cir2009-15.pdf | Page: 1 | Titre_Gemma: **Obligation de déclarer les bénéfices d'exportation** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -21,7 +21,7 @@ b - toute personne physique résidente qui détient des participations au capita
 morales résidentes réalisant des bénéfices provenant d’opérations d’exportation de biens ou de
 services.
 
-=== CHUNK 3 | PDF: cir2009-15.pdf | Page: 2 | Titre_Gemma: **Demande de conversion** ===
+=== CHUNK 3 | PDF: cir2009-15.pdf | Page: 2 | Titre_Gemma: **Demande de Conversion** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -31,7 +31,7 @@ Article : Article 3 : L’ouverture d’un compte spécial «Bénéfices-Export�
 convertibles a lieu sur production d’une demande sur formulaire 2 dûment visée par la Banque
 Centrale de Tunisie.
 
-=== CHUNK 4 | PDF: cir2009-15.pdf | Page: 2 | Titre_Gemma: **Déclaration de bénéfices d'exportation** ===
+=== CHUNK 4 | PDF: cir2009-15.pdf | Page: 2 | Titre_Gemma: **Attestation de Bénéfices d'Exportation** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -46,7 +46,7 @@ concernée et provenant d’opérations d’exportation de biens ou de services 
 réalisés par des personnes morales résidentes pendant l’année précédente et distribués à la personne
 physique concernée en sa qualité d’associé ou d’actionnaire.
 
-=== CHUNK 5 | PDF: cir2009-15.pdf | Page: 2 | Titre_Gemma: **Demande de Compte Spécial "Bénéfices-Export"** ===
+=== CHUNK 5 | PDF: cir2009-15.pdf | Page: 2 | Titre_Gemma: **Demande de compte "Bénéfices-Export" en devise convertible** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -59,7 +59,7 @@ indiquer la devise étrangère dans laquelle le compte sera tenu.
 A – Comptes spéciaux « Bénéfices-Export » en devises convertibles :
 1) - Opérations au crédit:
 
-=== CHUNK 6 | PDF: cir2009-15.pdf | Page: 2 | Titre_Gemma: **Crédits de contre-valeur de bénéfices et revenus étrangers.** ===
+=== CHUNK 6 | PDF: cir2009-15.pdf | Page: 2 | Titre_Gemma: **Crédits en devises pour bénéfices et revenus étrangers** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -86,7 +86,7 @@ convertibles.
 Toute autre opération au crédit du compte est soumise à l’autorisation de la Banque Centrale
 de Tunisie. 2)  Opérations au débit:
 
-=== CHUNK 7 | PDF: cir2009-15.pdf | Page: 3 | Titre_Gemma: **Débits autorisés sur compte bancaire** ===
+=== CHUNK 7 | PDF: cir2009-15.pdf | Page: 3 | Titre_Gemma: **Opérations de Compte : Débits et Comptes Spéciaux** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -127,7 +127,7 @@ convertible.
 Toute autre opération au crédit du compte est soumise à l’autorisation de la Banque Centrale
 de Tunisie. 2) Opérations au débit:
 
-=== CHUNK 9 | PDF: cir2009-15.pdf | Page: 4 | Titre_Gemma: **Débits autorisés et non autorisés sur compte bancaire** ===
+=== CHUNK 9 | PDF: cir2009-15.pdf | Page: 4 | Titre_Gemma: **Débits autorisés sur compte bancaire en Tunisie** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -145,7 +145,7 @@ et du commerce extérieur en vigueur, * tout règlement à l’étranger pour :
 Toute autre opération au débit du compte est soumise à l’autorisation de la Banque Centrale
 de Tunisie. Section 4 : DISPOSITIONS COMMUNES :
 
-=== CHUNK 10 | PDF: cir2009-15.pdf | Page: 4 | Titre_Gemma: **Bénéfices d'Export : Conversion de Devises** ===
+=== CHUNK 10 | PDF: cir2009-15.pdf | Page: 4 | Titre_Gemma: **Bénéfices-Export : Devise ou Dinars Convertibles** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -174,7 +174,7 @@ Article : Article 12 : Toute personne physique ayant bénéficié de l’ouvertu
 de Tunisie tous ses avoirs à l’étranger acquis par débit du compte et ce, conformément à l’article 16
 du code des changes et du commerce extérieur.
 
-=== CHUNK 13 | PDF: cir2009-15.pdf | Page: 5 | Titre_Gemma: **Transformation de Compte "Bénéfices-Export" en Devise Convertible** ===
+=== CHUNK 13 | PDF: cir2009-15.pdf | Page: 5 | Titre_Gemma: **Transformation d'un Compte "Bénéfices-Export" en Devise Convertible** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -191,7 +191,7 @@ Dans ce cas, toute transformation doit donner lieu à information de la Banque C
 Tunisie dans un délai maximum de 10 jours à compter de la date de clôture du compte spécial
 «Bénéfices-Export» en dinar convertible.
 
-=== CHUNK 14 | PDF: cir2009-15.pdf | Page: 5 | Titre_Gemma: **Exigences de l'enregistrement des convertibles** ===
+=== CHUNK 14 | PDF: cir2009-15.pdf | Page: 5 | Titre_Gemma: **Design d'enregistrement des convertibles** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -200,7 +200,7 @@ Sous-section : Non spécifié
 Article : Article 14 :  Les extraits des  comptes spéciaux «Bénéfices-Export» en devises ou en dinar
 convertibles sont établis conformément au dessin d’enregistrement  objet de l’annexe n° 1.
 
-=== CHUNK 15 | PDF: cir2009-15.pdf | Page: 5 | Titre_Gemma: **Déclaration Mensuelle des Opérations de Capitaux** ===
+=== CHUNK 15 | PDF: cir2009-15.pdf | Page: 5 | Titre_Gemma: **Déclaration mensuelle des opérations de capitaux** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -211,7 +211,7 @@ Article : Article 15 : Les extraits visés à l’article 14 sont adressés à l
 mois suivant le mois concerné, sur fichiers informatiques remplissant les conditions prévues par
 l’annexe n°2 et ce, via le SED tel que prévu par la circulaire  n° 2008-07 du 13 mars 2008 .
 
-=== CHUNK 16 | PDF: cir2009-15.pdf | Page: 5 | Titre_Gemma: **Agréments de 2001 (Modifiés en 2006)** ===
+=== CHUNK 16 | PDF: cir2009-15.pdf | Page: 5 | Titre_Gemma: **Agréments (2001) et Modifications (2006)** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -221,7 +221,7 @@ Article : Article 16 : Est abrogée la circulaire de la Banque Centrale de Tunis
 Agréés n° 2001-09 du 02 mars 2001, telle que modifiée par la circulaire  n° 2006-23  du
 11décembre 2006.
 
-=== CHUNK 17 | PDF: cir2009-15.pdf | Page: 5 | Titre_Gemma: **Extrait de Compte : Informations Essentielles** ===
+=== CHUNK 17 | PDF: cir2009-15.pdf | Page: 5 | Titre_Gemma: **Extrait de Compte : Informations Clés** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -246,7 +246,7 @@ des codes devises de la BCT X Sens de l’opération Mettre+si opération au cr�
 *A : Alphabétique, X : Alphanumérique, N : Numérique.
 3/3
 
-=== CHUNK 18 | PDF: cir2009-15.pdf | Page: 6 | Titre_Gemma: **Enregistrement des Extraits Mensuels des Comptes Spéciaux "Bénéfices-Export" (Annexe n°1)** ===
+=== CHUNK 18 | PDF: cir2009-15.pdf | Page: 6 | Titre_Gemma: **Enregistrement des Extraits Mensuels des Comptes Spéciaux "Bénéfices-Export" (Annexe N°1)** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié

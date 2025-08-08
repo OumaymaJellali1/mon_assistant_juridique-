@@ -1,4 +1,4 @@
-=== CHUNK 1 | PDF: cir200611.pdf | Page: 1 | Titre_Gemma: **Conditions Générales et Particulières de Gestion des Comptes de Dépôt** ===
+=== CHUNK 1 | PDF: cir200611.pdf | Page: 1 | Titre_Gemma: **Conditions Générales et Particulières de Gestion de Comptes de Dépôt** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -11,7 +11,7 @@ physiques et morales ouverts pour des besoins non
 professionnels auprès des établissements de crédit ayant la
 qualité de banque et auprès des banques non-résidentes.
 
-=== CHUNK 2 | PDF: cir200611.pdf | Page: 1 | Titre_Gemma: **Convention Bancaire : Obligations et Droits du Client** ===
+=== CHUNK 2 | PDF: cir200611.pdf | Page: 1 | Titre_Gemma: **Convention Bancaire : Durée, Services et Informations** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -70,7 +70,7 @@ informations qu’il a fournies au moment et après l’ouverture
 du compte et notamment en cas de changement
 d’adresse ;
 
-=== CHUNK 3 | PDF: cir200611.pdf | Page: 3 | Titre_Gemma: **Conditions du Compte Bancaire** ===
+=== CHUNK 3 | PDF: cir200611.pdf | Page: 3 | Titre_Gemma: **Conditions de Compte Bancaire** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -94,7 +94,7 @@ délais et procédures de sa clôture par la banque.
 f. les nom, prénom et adresse du ou des médiateurs
 de la banque ;
 
-=== CHUNK 4 | PDF: cir200611.pdf | Page: 4 | Titre_Gemma: **Convention de dépôt : Obligations bancaires et délais.** ===
+=== CHUNK 4 | PDF: cir200611.pdf | Page: 4 | Titre_Gemma: **Convention de dépôt : Réglementation et délais** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié

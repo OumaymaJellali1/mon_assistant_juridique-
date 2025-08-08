@@ -1,4 +1,4 @@
-=== CHUNK 1 | PDF: DECISION_2012_33_fr.pdf | Page: 1 | Titre_Gemma: **Commission d'Agrément : Remplacement et Indépendance des Membres** ===
+=== CHUNK 1 | PDF: DECISION_2012_33_fr.pdf | Page: 1 | Titre_Gemma: **Modifications du Règlement Interne de la Commission d'Agrément** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -24,7 +24,7 @@ d'interdictions visees a I'article 11 du present reglement interieur.
 — d'informer le president de la commission de tout changement dans sa
 situation affectant son independance au sens du paragraphe precedent.
 
-=== CHUNK 2 | PDF: DECISION_2012_33_fr.pdf | Page: 2 | Titre_Gemma: **Signature des décisions de la commission (Article 6)** ===
+=== CHUNK 2 | PDF: DECISION_2012_33_fr.pdf | Page: 2 | Titre_Gemma: **Signature des décisions de la commission.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -34,7 +34,7 @@ Article : Article 2 : Est ajoute a I'article 6 du reglement interieur susvise un
 suit: Article 6 (alinea quatre nouveau)
 Le president la commission signe les decisions de la commission.
 
-=== CHUNK 3 | PDF: DECISION_2012_33_fr.pdf | Page: 2 | Titre_Gemma: **Agrément d'Emprunt** ===
+=== CHUNK 3 | PDF: DECISION_2012_33_fr.pdf | Page: 2 | Titre_Gemma: **Agrément des prêts : Procédure et Diffusion** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -44,7 +44,7 @@ Article : Article 3: La presente decision sera publiee au Journal Officiel de la
 Tunisienne et sur le site web de la Banque Centrale de Tunisie.
 Le presi^erit de la tmission d'agrements % assi
 
-=== CHUNK 4 | PDF: DECISION_2012_33_fr.pdf | Page: 3 | Titre_Gemma: **Attestation d'indépendance pour membres de la commission d'agrément** ===
+=== CHUNK 4 | PDF: DECISION_2012_33_fr.pdf | Page: 3 | Titre_Gemma: **Attestation d'Indépendance - Commission d'Agrément** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié

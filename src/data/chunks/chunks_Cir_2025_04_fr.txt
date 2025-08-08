@@ -1,4 +1,4 @@
-=== CHUNK 1 | PDF: Cir_2025_04_fr.pdf | Page: 1 | Titre_Gemma: **Liste des institutions adhérentes à la Plateforme Electronique Unique des Chèques** ===
+=== CHUNK 1 | PDF: Cir_2025_04_fr.pdf | Page: 1 | Titre_Gemma: **Institutions Adhérentes à la Plateforme Electronique des Chèques** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -22,7 +22,7 @@ Article : Article 2 : La présente circulaire entre en vigueur à compter du 3 f
 LE GOUVERNEUR,
 FETHI ZOUHAIER NOURI
 
-=== CHUNK 3 | PDF: Cir_2025_04_fr.pdf | Page: 3 | Titre_Gemma: Liste des institutions adhérentes à la Plateforme Al Baraka Bank Tunisie. ===
+=== CHUNK 3 | PDF: Cir_2025_04_fr.pdf | Page: 3 | Titre_Gemma: **Liste des institutions adhérentes à la Plateforme Al Baraka Bank Tunisie** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié

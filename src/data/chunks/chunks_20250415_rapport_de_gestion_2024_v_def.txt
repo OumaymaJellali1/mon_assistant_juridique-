@@ -1,4 +1,4 @@
-=== CHUNK 1 | PDF: 20250415_rapport_de_gestion_2024_v_def.pdf | Page: 1 | Titre_Gemma: **Profil de la BIAT : Aperçu de l'institution financière** ===
+=== CHUNK 1 | PDF: 20250415_rapport_de_gestion_2024_v_def.pdf | Page: 1 | Titre_Gemma: **BIAT : Profil et Présence en 2024** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -5963,7 +5963,7 @@ d’Administration du 26 mars 2025. Aucun évènement postérieur à la date de 
 financiers au 31 décembre 2024 n’est survenu jusqu’à la date de leur arrêté.
 chapître 14 - Rapport sur la gestion de la Banque Exercice 2024 - 251
 
-=== CHUNK 2 | PDF: 20250415_rapport_de_gestion_2024_v_def.pdf | Page: 9 | Titre_Gemma: **Perspectives économiques mondiales 2023-2025** ===
+=== CHUNK 2 | PDF: 20250415_rapport_de_gestion_2024_v_def.pdf | Page: 9 | Titre_Gemma: **Perspectives Économiques Mondiales 2023-2025** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -5995,7 +5995,7 @@ et de composants électroniques, alimentée par
 d’importants investissements dans l’intelligence
 artificielle. Source, Données FMI, octobre 2024 (*) Atterrissage (**) Projections (1) projection FMI Zone Euro Etats-Unis Japon Royaume- Uni Chine 2,4 3,0 2,2 2,6 0,4 2,0 1,9 2,0 2,1 1,7 5,4 4,1 3,3 7,3 0,2 2023 2024 2025(1)
 
-=== CHUNK 3 | PDF: 20250415_rapport_de_gestion_2024_v_def.pdf | Page: 23 | Titre_Gemma: **Produit Net Bancaire de la Banque en 2024** ===
+=== CHUNK 3 | PDF: 20250415_rapport_de_gestion_2024_v_def.pdf | Page: 23 | Titre_Gemma: **Produit Net Bancaire 2024 : Analyse et Évolution** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -6019,7 +6019,7 @@ s’établir à 276,8MD. Evolution de la marge nette sur commissions (en MD) 202
 La part de la marge sur commissions dans le PNB se
 situe à 18,7% au 31 décembre 2024. 2023 47,2% 18,2% 34,6% 44,5% 18,7% 36,8%
 
-=== CHUNK 4 | PDF: 20250415_rapport_de_gestion_2024_v_def.pdf | Page: 24 | Titre_Gemma: **Performance Financière 2024 : Croissance des Revenus et du Résultat Net** ===
+=== CHUNK 4 | PDF: 20250415_rapport_de_gestion_2024_v_def.pdf | Page: 24 | Titre_Gemma: **Performance Financière 2024** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -6043,7 +6043,7 @@ de l’année 2024, en hausse de 7,9% par rapport à
 l’exercice écoulé (331,4MD). Evolution du résultat d’exploitation (en MD) 2023 590,7 2024 669,6 Evolution du résultat net (en MD) 2023 331,4 2024 357,8 Evolution des autres revenus (en MD) 2023 483,2 2024 544,8 Evolution des frais d’exploitation (en MD) 2023 564,3 2024 664,6
 24 - Rapport sur la gestion de la Banque Exercice 2024 - chapître 2
 
-=== CHUNK 5 | PDF: 20250415_rapport_de_gestion_2024_v_def.pdf | Page: 27 | Titre_Gemma: **Croissance du Résultat Net et du Produit Net Bancaire (2021-2024)** ===
+=== CHUNK 5 | PDF: 20250415_rapport_de_gestion_2024_v_def.pdf | Page: 27 | Titre_Gemma: **Croissance des Résultats et du Produit Bancaire** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -6059,7 +6059,7 @@ Evolution du Produit Net Bancaire (en MD)
 1 015,5 1 396,9 1 479,7 1 267,1 2021 2022 2023 2024 Evolution du Résultat Net (en MD) 357,8 266,8 299,7 331,4 2024 2021 2022 2023
 chapître 2 - Rapport sur la gestion de la Banque Exercice 2024 - 27
 
-=== CHUNK 6 | PDF: 20250415_rapport_de_gestion_2024_v_def.pdf | Page: 28 | Titre_Gemma: **Croissance du Total Bilan et des Ratios de Rentabilité (2021-2024)** ===
+=== CHUNK 6 | PDF: 20250415_rapport_de_gestion_2024_v_def.pdf | Page: 28 | Titre_Gemma: **Croissance du Bilan et des Ratios de Rentabilité** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -6071,7 +6071,7 @@ Le total du Bilan s’inscrit en hausse moyenne de 9,1% au cours des quatre dern
 24.996MD à fin décembre 2024. Evolution du Total Bilan (en MD) 19 230 21 115 22 945 24 996 2021 2022 2023 2024 2021 2022 2023 2024 PNB / Total Actif 5,3% 6,0% 6,1% 5,9% Résultat net / PNB 26,3% 23,6% 23,7% 24,2% Résultat net / FP (ROE) 14,5% 15,3% 15,9% 16,1% Résultat net / Total Actif (ROA) 1,4% 1,4% 1,4% 1,4%
 28 - Rapport sur la gestion de la Banque Exercice 2024 - chapître 2
 
-=== CHUNK 7 | PDF: 20250415_rapport_de_gestion_2024_v_def.pdf | Page: 29 | Titre_Gemma: **Performance Financière et Ratio de Couverture des Risques (2021-2024)** ===
+=== CHUNK 7 | PDF: 20250415_rapport_de_gestion_2024_v_def.pdf | Page: 29 | Titre_Gemma: **Performance Financière et Solvabilité (2021-2024)** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -6096,7 +6096,7 @@ Ratio de couverture des risques (Tier 1)
 (2) Après affectation du résultat de l’exercice par l’Assemblée Générale
 chapître 2 - Rapport sur la gestion de la Banque Exercice 2024 - 29
 
-=== CHUNK 8 | PDF: 20250415_rapport_de_gestion_2024_v_def.pdf | Page: 47 | Titre_Gemma: **Répartition du Capital et Acquisitions d'Actions de BIAT (31/12/2024)** ===
+=== CHUNK 8 | PDF: 20250415_rapport_de_gestion_2024_v_def.pdf | Page: 47 | Titre_Gemma: **Répartition du capital social et opérations d'acquisition d'actions (BIAT) en 2024.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -6174,7 +6174,7 @@ capital.
 capital ;
 chapître 4 - Rapport sur la gestion de la Banque Exercice 2024 - 47
 
-=== CHUNK 9 | PDF: 20250415_rapport_de_gestion_2024_v_def.pdf | Page: 133 | Titre_Gemma: **Convention de détachement entre BIAT et Assurances BIAT** ===
+=== CHUNK 9 | PDF: 20250415_rapport_de_gestion_2024_v_def.pdf | Page: 133 | Titre_Gemma: **Convention de Détachement entre BIAT et Assurances BIAT** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -6223,7 +6223,7 @@ véhicules usagés pour un montant total de 66 000 dinars, réparti comme suit :
 véhicule et 38 000 DT pour le second, conformément aux valeurs d’expertise effectuées.
 chapître 13 - Rapport sur la gestion de la Banque Exercice 2024 - 133
 
-=== CHUNK 10 | PDF: 20250415_rapport_de_gestion_2024_v_def.pdf | Page: 136 | Titre_Gemma: **Cession de créances par Tunisie Titrisation à la BIAT** ===
+=== CHUNK 10 | PDF: 20250415_rapport_de_gestion_2024_v_def.pdf | Page: 136 | Titre_Gemma: **Cession de créances par Tunisian Titrisation à la BIAT** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -6268,7 +6268,7 @@ Un avenant à ladite convention a été conclu, en 2020, en vertu duquel les deu
 le montant du loyer du parcours du golf en le réduisant à un loyer annuel de 50.000 dinars hors TVA, payable
 136 - Rapport sur la gestion de la Banque Exercice 2024 - chapître 13
 
-=== CHUNK 11 | PDF: 20250415_rapport_de_gestion_2024_v_def.pdf | Page: 137 | Titre_Gemma: **Location de bureau et produits de la BIAT** ===
+=== CHUNK 11 | PDF: 20250415_rapport_de_gestion_2024_v_def.pdf | Page: 137 | Titre_Gemma: **Location de bureau et Rémunération de CIAR** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -6317,7 +6317,7 @@ objet que la BIAT donne un mandat à la « CIAR » qui accepte d’agir en son n
 recouvrir ses créances auprès de ses clients.
 chapître 13 - Rapport sur la gestion de la Banque Exercice 2024 - 137
 
-=== CHUNK 12 | PDF: 20250415_rapport_de_gestion_2024_v_def.pdf | Page: 144 | Titre_Gemma: **Convention de mission technique et renouvellements** ===
+=== CHUNK 12 | PDF: 20250415_rapport_de_gestion_2024_v_def.pdf | Page: 144 | Titre_Gemma: **Convention de mission technique : Prolongation et honoraires** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -6368,7 +6368,7 @@ met à la disposition de la banque un technicien supérieur pour exécuter les f
 travaux relatifs à la construction de l’immeuble abritant le siège de TUNISIE VALEURS.
 144 - Rapport sur la gestion de la Banque Exercice 2024 - chapître 13
 
-=== CHUNK 13 | PDF: 20250415_rapport_de_gestion_2024_v_def.pdf | Page: 146 | Titre_Gemma: **Tarifs et Avenants - BIAT Consulting** ===
+=== CHUNK 13 | PDF: 20250415_rapport_de_gestion_2024_v_def.pdf | Page: 146 | Titre_Gemma: **Avenants tarifaires – BIAT Consulting** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -6422,7 +6422,7 @@ terme échu.
 Le montant des produits constaté à ce titre, en 2024, s’élève à 17.615 dinars.
 146 - Rapport sur la gestion de la Banque Exercice 2024 - chapître 13
 
-=== CHUNK 14 | PDF: 20250415_rapport_de_gestion_2024_v_def.pdf | Page: 148 | Titre_Gemma: **Amendements des conventions de rémunération de la BIAT et des distributions de SICAV OPPORTUNITY et PROSPERITY.** ===
+=== CHUNK 14 | PDF: 20250415_rapport_de_gestion_2024_v_def.pdf | Page: 148 | Titre_Gemma: **Amandements relatifs à la rémunération de la BIAT et des distributeurs de SICAV.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -6519,7 +6519,7 @@ d’un local à usage de bureaux administratifs d’une surface approximative de
 Avenue Habib Bourguiba, la Manouba.
 chapître 13 - Rapport sur la gestion de la Banque Exercice 2024 - 151
 
-=== CHUNK 16 | PDF: 20250415_rapport_de_gestion_2024_v_def.pdf | Page: 154 | Titre_Gemma: **Convention de Conseil Informatique et Contrat de Location avec Value Digital Services (2019-2024)** ===
+=== CHUNK 16 | PDF: 20250415_rapport_de_gestion_2024_v_def.pdf | Page: 154 | Titre_Gemma: **Convention de Conseil et Contrat de Location avec Value Digital Services** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -6568,7 +6568,7 @@ ramenant le montant du contrat annuel à la somme de 609.000 dinars TTC.
 activité support et gestion de courrier. Le montant du contrat annuel est de 96.000 dinars TTC.
 154 - Rapport sur la gestion de la Banque Exercice 2024 - chapître 13
 
-=== CHUNK 17 | PDF: 20250415_rapport_de_gestion_2024_v_def.pdf | Page: 193 | Titre_Gemma: **Bail et Révision du Loyer : BIAT - Banque Exercice 2024** ===
+=== CHUNK 17 | PDF: 20250415_rapport_de_gestion_2024_v_def.pdf | Page: 193 | Titre_Gemma: **Bail de location et Révision du Loyer** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -6616,7 +6616,7 @@ le 1er Septembre 2012 et arrivant à échéance le 31 Août 2014, renouvelable d
 reconduction. Cette location a été consentie et acceptée moyennant un loyer annuel de 2.468 dinars HTVA,
 payable trimestriellement et d’avance.
 
-=== CHUNK 18 | PDF: 20250415_rapport_de_gestion_2024_v_def.pdf | Page: 199 | Titre_Gemma: **Location et détachement de personnel – BIAT** ===
+=== CHUNK 18 | PDF: 20250415_rapport_de_gestion_2024_v_def.pdf | Page: 199 | Titre_Gemma: **Location et Détachement de Personnel : BIAT et BIAT Capital Risque (2015-2024)** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -6665,7 +6665,7 @@ Ahmadi à la Marsa d’une superficie totale de 595 m2 hors œuvres.
 La location est consentie et acceptée pour une période de deux ans, commençant le 13 décembre 2019
 et arrivant à échéance le 12 décembre 2021, renouvelable d’année en année par tacite reconduction, et
 
-=== CHUNK 19 | PDF: 20250415_rapport_de_gestion_2024_v_def.pdf | Page: 200 | Titre_Gemma: **Location et Honoraires d'un Technicien pour Rénovation (BIAT-SOPIAT)** ===
+=== CHUNK 19 | PDF: 20250415_rapport_de_gestion_2024_v_def.pdf | Page: 200 | Titre_Gemma: **Location et Honoraires Technicien - BIAT et SOPIAT (Exercice 2024)** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -6716,7 +6716,7 @@ fournir toute l’assistance et l’encadrement nécessaire.
 En contrepartie de cette mise à disposition, la BIAT s’engage à rembourser à la SOPIAT sur présentation
 d’une facture, des prestations de 700 dinars hors taxes et par journée de travail (le forfait jour inclus les frais
 
-=== CHUNK 20 | PDF: 20250415_rapport_de_gestion_2024_v_def.pdf | Page: 203 | Titre_Gemma: **Location et Détachement de Personnel avec BIAT Consulting - Exercice 2024** ===
+=== CHUNK 20 | PDF: 20250415_rapport_de_gestion_2024_v_def.pdf | Page: 203 | Titre_Gemma: **Location et services à BIAT CONSULTING (2014-2024)** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -6768,7 +6768,7 @@ mier amendement, et puis a été révisé à la hausse, au niveau du second amen
 l’apportant de 0,1% TTC à 0,1% H.T.
 Cette rémunération est prélevée quotidiennement et réglée mensuellement à terme échu.
 
-=== CHUNK 21 | PDF: 20250415_rapport_de_gestion_2024_v_def.pdf | Page: 207 | Titre_Gemma: **Rapport Financier et Conventions de Titrisation - Banque (Exercice 2024)** ===
+=== CHUNK 21 | PDF: 20250415_rapport_de_gestion_2024_v_def.pdf | Page: 207 | Titre_Gemma: **Rapport Financier 2024 : Réduction des Charges et Fonds de Titrisation** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -6821,7 +6821,7 @@ payable à la signature de la présente après la déduction des montants avanc�
 47.	La BIAT a conclu, en 2024, une convention avec la société « TUNISIE TITRISATION » aux termes de laquelle
 la société de gestion (TUNISIE TITRISATION) rétrocède à la BIAT qui accepte un lot de créances concernant
 
-=== CHUNK 22 | PDF: 20250415_rapport_de_gestion_2024_v_def.pdf | Page: 208 | Titre_Gemma: **Créances et Location de Local : Rapport 2024** ===
+=== CHUNK 22 | PDF: 20250415_rapport_de_gestion_2024_v_def.pdf | Page: 208 | Titre_Gemma: **Créances et Location de Local de la BIAT** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -6855,7 +6855,7 @@ dinars.
 50.	 La BIAT a conclu, depuis 2004, des contrats d’assurances avec la société « BIAT ASSURANCES ». La charge
 supportée, au titre de l’exercice 2024, se détaille comme suit :
 
-=== CHUNK 23 | PDF: 20250415_rapport_de_gestion_2024_v_def.pdf | Page: 210 | Titre_Gemma: **Détachement de personnel - BIAT Assurances et BIAT** ===
+=== CHUNK 23 | PDF: 20250415_rapport_de_gestion_2024_v_def.pdf | Page: 210 | Titre_Gemma: **Détachement de personnel : Conventions de détachement BIAT Assurances - BIAT** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -6902,7 +6902,7 @@ Cette convention est conclue pour une période de trois ans commençant le 1er j
 par tacite reconduction sauf renonciation écrite de l’une des parties, moyennant le respect d’un délai de
 préavis d’un mois.
 
-=== CHUNK 24 | PDF: 20250415_rapport_de_gestion_2024_v_def.pdf | Page: 211 | Titre_Gemma: **Convention de conseil informatique BIAT-Value Digital Services (2019-2024)** ===
+=== CHUNK 24 | PDF: 20250415_rapport_de_gestion_2024_v_def.pdf | Page: 211 | Titre_Gemma: **Convention de conseil informatique BIAT - Société Value Digital Services (2019-2024)** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -6950,7 +6950,7 @@ services, entretien et maintenance de bâtiments.
 Un avenant est signé en 2023 prolongeant la durée du contrat initial jusqu’à la date du 31 décembre 2024
 et ramenant le montant du contrat annuel à la somme de 609.000 dinars TTC.
 
-=== CHUNK 25 | PDF: 20250415_rapport_de_gestion_2024_v_def.pdf | Page: 232 | Titre_Gemma: **Périmètre de consolidation du groupe BIAT (31/12/2024)** ===
+=== CHUNK 25 | PDF: 20250415_rapport_de_gestion_2024_v_def.pdf | Page: 232 | Titre_Gemma: **Périmètre de Consolidation du Groupe BIAT (31/12/2024)** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié

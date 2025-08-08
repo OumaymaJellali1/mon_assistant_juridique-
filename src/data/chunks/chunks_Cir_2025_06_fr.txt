@@ -1,4 +1,4 @@
-=== CHUNK 1 | PDF: Cir_2025_06_fr.pdf | Page: 2 | Titre_Gemma: **Enrôlement électronique des clients : Exigences minimales.** ===
+=== CHUNK 1 | PDF: Cir_2025_06_fr.pdf | Page: 2 | Titre_Gemma: **Enrôlement électronique des clients : exigences minimales.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -13,7 +13,7 @@ et aux établissements financiers n°2017-08 du 19 septembre 2017 relative aux r
 interne pour la gestion du risque de blanchiment d’argent et de financement du terrorisme,
 lesquelles constituent avec la présente circulaire un cadre réglementaire unifié et indissociable.
 
-=== CHUNK 2 | PDF: Cir_2025_06_fr.pdf | Page: 2 | Titre_Gemma: **Définitions clés de l'enrôlement électronique et des taux de fausses acceptations.** ===
+=== CHUNK 2 | PDF: Cir_2025_06_fr.pdf | Page: 2 | Titre_Gemma: **Définitions : Enrôlement électronique, Identification électronique et Taux de fausses acceptations** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -55,7 +55,7 @@ pour l’enrôlement électronique des clients.
  Preuve de vie : le processus permettant de vérifier qu’une personne fournissant des
 données biométriques est réellement un être humain vivant.
 
-=== CHUNK 3 | PDF: Cir_2025_06_fr.pdf | Page: 3 | Titre_Gemma: **Enrôlement électronique clients : Obligations de la banque** ===
+=== CHUNK 3 | PDF: Cir_2025_06_fr.pdf | Page: 3 | Titre_Gemma: **Enrôlement électronique des clients : Obligations de la banque** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -71,7 +71,7 @@ clients,  et ; -
 garantir un niveau de vérification de l’identité au moins équivalent à celui impliquant la
 présence physique des clients conformément à la circulaire n°2017-08.
 
-=== CHUNK 4 | PDF: Cir_2025_06_fr.pdf | Page: 3 | Titre_Gemma: **Enrôlement électronique des clients : obligations de gouvernance bancaire** ===
+=== CHUNK 4 | PDF: Cir_2025_06_fr.pdf | Page: 3 | Titre_Gemma: **Enrôlement électronique des clients : exigences de gouvernance bancaire** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -126,7 +126,7 @@ des clients, en mettant l’accent sur la sécurité des données et l’intégr
 assurer une veille technologique continue pour assurer l’adaptabilité et la résilience des
 procédés technologiques utilisés.
 
-=== CHUNK 6 | PDF: Cir_2025_06_fr.pdf | Page: 4 | Titre_Gemma: **Enrôlement électronique des clients : Obligations de vérification et de consentement** ===
+=== CHUNK 6 | PDF: Cir_2025_06_fr.pdf | Page: 4 | Titre_Gemma: **Identification électronique des clients : Obligations des banques** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : TITRE III : EXIGENCES TECHNIQUES MINIMALES
@@ -154,7 +154,7 @@ permettant de confirmer la preuve de vie ;
 introduites et celles biométriques, en recourant à la technique de reconnaissance de
 caractère.
 
-=== CHUNK 7 | PDF: Cir_2025_06_fr.pdf | Page: 5 | Titre_Gemma: **Filtrage et Profilage des Clients : Conformité Circulaire 2017-08** ===
+=== CHUNK 7 | PDF: Cir_2025_06_fr.pdf | Page: 5 | Titre_Gemma: **Filtrage et profilage des clients : Conformité circulaire 2017-08** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : TITRE III : EXIGENCES TECHNIQUES MINIMALES
@@ -164,7 +164,7 @@ Article : Article 7 :
 Lors de l’enrôlement électronique des clients, la banque doit assurer le filtrage et le profilage
 conformément à la circulaire aux banques et aux établissements financiers n°2017-08.
 
-=== CHUNK 8 | PDF: Cir_2025_06_fr.pdf | Page: 5 | Titre_Gemma: **KYC électronique : Obligations de la banque** ===
+=== CHUNK 8 | PDF: Cir_2025_06_fr.pdf | Page: 5 | Titre_Gemma: **KYC et Mise à Jour des Informations Clients** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : TITRE III : EXIGENCES TECHNIQUES MINIMALES
@@ -177,7 +177,7 @@ consignant au moins toutes les informations requises par la circulaire n°2017-0
 En cas de modification des données du client, la fiche d’identification doit être mise à jour dans
 un délai ne dépassant pas un mois.
 
-=== CHUNK 9 | PDF: Cir_2025_06_fr.pdf | Page: 5 | Titre_Gemma: **Identification des clients : Exigence de documents papier pour les personnes morales.** ===
+=== CHUNK 9 | PDF: Cir_2025_06_fr.pdf | Page: 5 | Titre_Gemma: **Exigence de documents d'identification pour les clients moraux** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : TITRE III : EXIGENCES TECHNIQUES MINIMALES
@@ -190,7 +190,7 @@ client.
 La validation de l’entrée en relation est tributaire de la collecte au préalable des documents
 d’identification, à moins qu’un risque faible ait été dûment évalué et documenté.
 
-=== CHUNK 10 | PDF: Cir_2025_06_fr.pdf | Page: 5 | Titre_Gemma: **Consentement au traitement des données personnelles** ===
+=== CHUNK 10 | PDF: Cir_2025_06_fr.pdf | Page: 5 | Titre_Gemma: **Consentement aux conditions contractuelles : Signature électronique** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : TITRE III : EXIGENCES TECHNIQUES MINIMALES
@@ -216,7 +216,7 @@ l’enrôlement électronique des clients.
 Ces mesures doivent garantir, avec un procédé cryptographique fiable, l'intégrité de ces
 documents.
 
-=== CHUNK 12 | PDF: Cir_2025_06_fr.pdf | Page: 5 | Titre_Gemma: **Responsabilité des banques concernant l'enrôlement électronique des clients** ===
+=== CHUNK 12 | PDF: Cir_2025_06_fr.pdf | Page: 5 | Titre_Gemma: **Responsabilité de la banque pour la fiabilité de l'enrôlement électronique des clients** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : TITRE III : EXIGENCES TECHNIQUES MINIMALES
@@ -238,7 +238,7 @@ données à caractère personnel ou la sécurité des opérations,  et ;
 Il demeure entendu que la mise en production du procédé technologique est conditionnée par
 sa capacité technique à éliminer tous les cas de fausses acceptations.
 
-=== CHUNK 13 | PDF: Cir_2025_06_fr.pdf | Page: 6 | Titre_Gemma: **Audit annuel des procédures de lutte contre le blanchiment d'argent.** ===
+=== CHUNK 13 | PDF: Cir_2025_06_fr.pdf | Page: 6 | Titre_Gemma: **Audit annuel du dispositif de lutte contre le blanchiment d'argent.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : TITRE III : EXIGENCES TECHNIQUES MINIMALES
@@ -280,7 +280,7 @@ conformément aux dispositions de l’article 12 de la présente circulaire, et 
 conformité à la réglementation applicable et leur adéquation avec les standards de
 sécurité et de fiabilité requis.
 
-=== CHUNK 15 | PDF: Cir_2025_06_fr.pdf | Page: 7 | Titre_Gemma: **Contrat d'externalisation bancaire : Exigences minimales** ===
+=== CHUNK 15 | PDF: Cir_2025_06_fr.pdf | Page: 7 | Titre_Gemma: **Contrat d'externalisation bancaire : exigences de conformité.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : TITRE III : EXIGENCES TECHNIQUES MINIMALES
@@ -313,7 +313,7 @@ l'exécution par le tiers du processus d’enrôlement électronique des clients
 de la banque aux exigences de lutte contre le blanchiment d'argent et le financement du
 terrorisme et de toute exigence prévue au niveau de la présente circulaire.
 
-=== CHUNK 16 | PDF: Cir_2025_06_fr.pdf | Page: 7 | Titre_Gemma: **Obligations de la Banque Centrale de Tunisie concernant l'enrôlement électronique des clients.** ===
+=== CHUNK 16 | PDF: Cir_2025_06_fr.pdf | Page: 7 | Titre_Gemma: **Déclaration préalable pour l'enrôlement électronique des clients.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : TITRE V : INFORMATION DE LA BANQUE CENTRALE DE TUNISIE
@@ -347,7 +347,7 @@ en sus des documents cités au niveau du premier alinéa du présent article, du
 ainsi que des attestations actualisées du tiers pour le traitement des données personnelles et
 biométriques délivrées par l’Instance Nationale de Protection des Données Personnelles.
 
-=== CHUNK 17 | PDF: Cir_2025_06_fr.pdf | Page: 8 | Titre_Gemma: **Notification des incidents techniques liés à l'enrôlement électronique des clients.** ===
+=== CHUNK 17 | PDF: Cir_2025_06_fr.pdf | Page: 8 | Titre_Gemma: **Notification des incidents techniques liés à l'enrôlement électronique.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : TITRE V : INFORMATION DE LA BANQUE CENTRALE DE TUNISIE
@@ -361,7 +361,7 @@ Cette notification doit détailler la nature de l’incident, les causes sous-ja
 de notification des clients ainsi que les actions correctives à entreprendre par la banque en
 réponse à cet incident.
 
-=== CHUNK 18 | PDF: Cir_2025_06_fr.pdf | Page: 8 | Titre_Gemma: **Conformité à la nouvelle circulaire sur l'enrôlement électronique des clients.** ===
+=== CHUNK 18 | PDF: Cir_2025_06_fr.pdf | Page: 8 | Titre_Gemma: **Conformité à la Circulaire d'Enrôlement Électronique des Clients** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : TITRE VI : DISPOSITIONS TRANSITOIRES ET ENTRÉE EN VIGUEUR
@@ -376,7 +376,7 @@ circulaire doivent se conformer à ses dispositions dans un délai ne dépassant
 Le Gouverneur,
 Fethi Zouhaier NOURI
 
-=== CHUNK 19 | PDF: Cir_2025_06_fr.pdf | Page: 9 | Titre_Gemma: **Registre de Performance de l'Enrôlement Électronique des Clients** ===
+=== CHUNK 19 | PDF: Cir_2025_06_fr.pdf | Page: 9 | Titre_Gemma: **Registre de Performance du Procédé d'Enrôlement Électronique** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié

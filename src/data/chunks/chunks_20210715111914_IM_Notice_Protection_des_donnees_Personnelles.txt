@@ -1,4 +1,4 @@
-=== CHUNK 1 | PDF: 20210715111914_IM_Notice_Protection_des_donnees_Personnelles.pdf | Page: -1 | Titre_Gemma: **Protection des données personnelles - AMEN BANK** ===
+=== CHUNK 1 | PDF: 20210715111914_IM_Notice_Protection_des_donnees_Personnelles.pdf | Page: -1 | Titre_Gemma: **Protection des Données Personnelles - AMEN BANK** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -34,7 +34,7 @@ En fonction notamment du type de produit ou de service que nous vous fournissons
 *   Informations concernant votre appareil (adresse IP, caractéristiques techniques et données d’identification uniques) ;
 *   Identifiants de connexion ou dispositifs de sécurité personnalisés utilisés pour vous connecter au site Internet et aux applications d’AMEN BANK ou exécuter un service de paiement.
 
-=== CHUNK 3 | PDF: 20210715111914_IM_Notice_Protection_des_donnees_Personnelles.pdf | Page: -1 | Titre_Gemma: **Droits et Exercices sur les Données Personnelles** ===
+=== CHUNK 3 | PDF: 20210715111914_IM_Notice_Protection_des_donnees_Personnelles.pdf | Page: -1 | Titre_Gemma: **Droits en matière de données personnelles** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -43,18 +43,18 @@ Sous-section : Non spécifié
 Article : Non spécifié
 **3. QUELS SONT VOS DROITS ET COMMENT POUVEZ-VOUS LES EXERCER ?**
 Conformément à la législation applicable à votre situation, vous pouvez exercer, le cas échéant, les droits suivants :
-*   **Droit d’accès :** vous pouvez obtenir des informations concernant le traitement de vos données personnelles ainsi qu’une copie de celles-ci ;
-*   **Droit de rectification :** si vous estimez que vos données personnelles sont inexactes ou incomplètes, vous pouvez demander qu’elles soient modifiées en conséquence ;
-*   **Droit à l’effacement :** vous pouvez demander la suppression de vos données personnelles, dans la limite autorisée par la loi ;
-*   **Droit à la limitation du traitement :** vous pouvez demander la limitation du traitement de vos données personnelles ;
-*   **Droit d’opposition :** vous pouvez vous opposer au traitement de vos données personnelles pour des raisons tenant à votre situation particulière. Vous avez le droit absolu de vous opposer à tout moment à ce que vos données soient utilisées à des fins de prospection commerciale, ou à des fins de profilage si ce profilage est lié à une prospection commerciale ;
-*   **Droit de définir des directives relatives à la conservation, l’effacement ou la communication de vos données personnelles, applicables après votre décès ;**
-*   **Droit de retirer votre consentement :** si vous avez donné votre consentement au traitement de vos données personnelles, vous pouvez retirer ce consentement à tout moment ;
-*   **Droit à la portabilité de vos données :** lorsque la loi l’autorise, vous pouvez demander la restitution des données personnelles que vous nous avez fournies ou, lorsque cela est techniquement possible, le transfert de celles-ci à un tiers.
+*   Droit d’accès : vous pouvez obtenir des informations concernant le traitement de vos données personnelles ainsi qu’une copie de celles-ci ;
+*   Droit de rectification : si vous estimez que vos données personnelles sont inexactes ou incomplètes, vous pouvez demander qu’elles soient modifiées en conséquence ;
+*   Droit à l’effacement : vous pouvez demander la suppression de vos données personnelles, dans la limite autorisée par la loi ;
+*   Droit à la limitation du traitement : vous pouvez demander la limitation du traitement de vos données personnelles ;
+*   Droit d’opposition : vous pouvez vous opposer au traitement de vos données personnelles pour des raisons tenant à votre situation particulière. Vous avez le droit absolu de vous opposer à tout moment à ce que vos données soient utilisées à des fins de prospection commerciale, ou à des fins de profilage si ce profilage est lié à une prospection commerciale ;
+*   Droit de définir des directives relatives à la conservation, l’effacement ou la communication de vos données personnelles, applicables après votre décès ;
+*   Droit de retirer votre consentement : si vous avez donné votre consentement au traitement de vos données personnelles, vous pouvez retirer ce consentement à tout moment ;
+*   Droit à la portabilité de vos données : lorsque la loi l’autorise, vous pouvez demander la restitution des données personnelles que vous nous avez fournies ou, lorsque cela est techniquement possible, le transfert de celles-ci à un tiers.
 Si vous souhaitez exercer les droits évoqués ci-dessus, veuillez adresser votre demande par courrier postal à : AMEN BANK Avenue Mohamed V 1002 Tunis.
 Merci d’inclure un scan/copie de votre pièce d’identité, lorsque cela est nécessaire.
 
-=== CHUNK 4 | PDF: 20210715111914_IM_Notice_Protection_des_donnees_Personnelles.pdf | Page: -1 | Titre_Gemma: **Conservation des données personnelles** ===
+=== CHUNK 4 | PDF: 20210715111914_IM_Notice_Protection_des_donnees_Personnelles.pdf | Page: -1 | Titre_Gemma: **Durée de conservation des données personnelles** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -62,6 +62,5 @@ Section : Non spécifié
 Sous-section : Non spécifié
 Article : Non spécifié
 **4. PENDANT COMBIEN DE TEMPS CONSERVONS-NOUS VOS DONNÉES PERSONNELLES ?**
-Nous conservons vos données personnelles pendant la durée nécessaire au respect des législations et des réglementations applicables, ou pendant une durée définie au regard de nos contraintes opérationnelles, telles que la tenue de notre comptabilité, une gestion efficace de la relation client, ainsi que pour faire valoir des droits en justice ou répondre à des demandes des organismes de régulation.
-Ainsi, les données des clients sont en majorité conservées pendant la durée de la relation contractuelle et pendant dix ans à compter de la fin de celle-ci.
+Nous conservons vos données personnelles pendant la durée nécessaire au respect des législations et des réglementations applicables, ou pendant une durée définie au regard de nos contraintes opérationnelles, telles que la tenue de notre comptabilité, une gestion efficace de la relation client, ainsi que pour faire valoir des droits en justice ou répondre à des demandes des organismes de régulation. Ainsi, les données des clients sont en majorité conservées pendant la durée de la relation contractuelle et pendant dix ans à compter de la fin de celle-ci.
 

@@ -9,7 +9,7 @@ fonctionnement des comptes « prestataires de services » en devises et en dinar
 convertibles.
 SECTION1 : Bénéficiaires
 
-=== CHUNK 2 | PDF: cir200614.pdf | Page: 2 | Titre_Gemma: **Remboursement de services rendus à l'étranger : Conditions pour les résidents tunisiens.** ===
+=== CHUNK 2 | PDF: cir200614.pdf | Page: 2 | Titre_Gemma: **Ressources en devises pour services rendus à l'étranger : conditions d'accès.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -29,7 +29,7 @@ technique au profit de non-résidents établis hors de Tunisie;
 des prestations de services à des non-résidents à l’étranger tout en gardant leur
 résidence en Tunisie3 .
 
-=== CHUNK 3 | PDF: cir200614.pdf | Page: 2 | Titre_Gemma: **Ouverture de comptes en dinars convertibles** ===
+=== CHUNK 3 | PDF: cir200614.pdf | Page: 2 | Titre_Gemma: **Ouverture de comptes en dinars convertibles : conditions et exceptions.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -60,7 +60,7 @@ la rémunération y afférente (contrats, factures, notes d’honoraires,…).
 A- Comptes « prestataires de services » en devises convertibles
 1/ Opérations au crédit
 
-=== CHUNK 4 | PDF: cir200614.pdf | Page: 3 | Titre_Gemma: **Crédits et Débits de Comptes en Devises** ===
+=== CHUNK 4 | PDF: cir200614.pdf | Page: 3 | Titre_Gemma: **Crédits et Débits de Compte en Devises** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -111,7 +111,7 @@ Banque Centrale de Tunisie.
 B- Comptes « prestataires de services » en dinars convertibles
 1/ Opérations au crédit
 
-=== CHUNK 6 | PDF: cir200614.pdf | Page: 4 | Titre_Gemma: **Crédits et Débits de Compte** ===
+=== CHUNK 6 | PDF: cir200614.pdf | Page: 4 | Titre_Gemma: **Crédits et Débits d'un Compte en Dinars Convertibles** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -136,7 +136,7 @@ Toute autre opération au crédit du compte est soumise à autorisation de
 la Banque Centrale de Tunisie.
 2/ Opérations au débit
 
-=== CHUNK 7 | PDF: cir200614.pdf | Page: 5 | Titre_Gemma: **Débits librement autorisés sur un compte bancaire en Tunisie.** ===
+=== CHUNK 7 | PDF: cir200614.pdf | Page: 5 | Titre_Gemma: **Débits autorisés d'un compte bancaire en Tunisie** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -162,7 +162,7 @@ l’étranger.
 Toute autre opération au débit du compte est soumise à autorisation de la
 Banque Centrale de Tunisie.
 
-=== CHUNK 8 | PDF: cir200614.pdf | Page: 6 | Titre_Gemma: **Ouverture de compte prestataires de services** ===
+=== CHUNK 8 | PDF: cir200614.pdf | Page: 6 | Titre_Gemma: **Ouverture de compte prestataires de services : Déclaration d'honneur.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -173,7 +173,7 @@ compte « prestataires de services » en devises ou en dinars convertibles. A ce
 effet, l’intéressé doit remettre avant l’ouverture du compte une déclaration sur
 l’honneur dans laquelle il atteste la non détention d’un compte de même nature.
 
-=== CHUNK 9 | PDF: cir200614.pdf | Page: 6 | Titre_Gemma: **Déclaration des avoirs à l'étranger par les prestataires de services** ===
+=== CHUNK 9 | PDF: cir200614.pdf | Page: 6 | Titre_Gemma: **Déclaration des avoirs à l'étranger pour les prestataires de services.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -184,7 +184,7 @@ Article : Article 9 : Toute personne physique ayant bénéficié de l’ouvertur
 déclarer à la Banque Centrale de Tunisie tous ses avoirs acquis à l’étranger par le
 débit de ce compte, conformément à l’article 16 du code des changes.
 
-=== CHUNK 10 | PDF: cir200614.pdf | Page: 6 | Titre_Gemma: **Débiteur** ===
+=== CHUNK 10 | PDF: cir200614.pdf | Page: 6 | Titre_Gemma: Rendre débiteur. ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -193,7 +193,7 @@ Sous-section : Non spécifié
 Article : Article 10 : Le compte « prestataires de services » ne peut en aucun cas être
 rendu débiteur .
 
-=== CHUNK 11 | PDF: cir200614.pdf | Page: 6 | Titre_Gemma: **Restrictions sur les comptes "Bénéfices-Export" et allocations voyages d'affaires.** ===
+=== CHUNK 11 | PDF: cir200614.pdf | Page: 6 | Titre_Gemma: **Restrictions sur les comptes "bénéfices-export" et allocations voyages d'affaires.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -210,7 +210,7 @@ export » et/ou de toute allocation pour voyages d’affaires  dont elle  serait
 attestant la non détention d’un compte « bénéfices-export »     et/ou d’une
 allocation pour voyages d’affaires .
 
-=== CHUNK 12 | PDF: cir200614.pdf | Page: 6 | Titre_Gemma: **Déclaration mensuelle des prestataires de services en Tunisie** ===
+=== CHUNK 12 | PDF: cir200614.pdf | Page: 6 | Titre_Gemma: **Déclaration Mensuelle des Prestataires de Services (Tunisie)** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -222,7 +222,7 @@ et au plus tard le 15 du mois suivant un état des comptes « prestataires de
 services » ouverts sur leurs livres accompagné des pièces objet de l’article 3 sus-
 visé et ce, conformément au modèle prévu en l’Annexe n° 3.
 
-=== CHUNK 13 | PDF: cir200614.pdf | Page: 6 | Titre_Gemma: **Dessin d'enregistrement** ===
+=== CHUNK 13 | PDF: cir200614.pdf | Page: 6 | Titre_Gemma: **Conformité au dessin d'enregistrement** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -231,7 +231,7 @@ Sous-section : Non spécifié
 Article : Article 13 : Les extraits des comptes « prestataires de services » sont établis
 conformément au dessin d’enregistrement objet de l’annexe n°1.
 
-=== CHUNK 14 | PDF: cir200614.pdf | Page: 6 | Titre_Gemma: **Déclaration Trimestrielle des Opérations de Capitaux** ===
+=== CHUNK 14 | PDF: cir200614.pdf | Page: 6 | Titre_Gemma: **Déclaration trimestrielle des opérations de capitaux** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -247,7 +247,7 @@ retraçant leur contenu et d’un bordereau précisant la période à  laquelle 
 rattachent, visés par un représentant de l’Intermédiaire Agréé dûment habilité à
 cet effet.
 
-=== CHUNK 15 | PDF: cir200614.pdf | Page: 7 | Titre_Gemma: **Délais de dépôt des extraits de comptes (transitoire)** ===
+=== CHUNK 15 | PDF: cir200614.pdf | Page: 7 | Titre_Gemma: **Délais et modalités de déclaration des extraits de comptes "prestataires de services" (juillet 2007)** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié

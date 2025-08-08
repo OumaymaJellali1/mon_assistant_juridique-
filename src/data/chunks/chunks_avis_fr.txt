@@ -1,44 +1,45 @@
-=== CHUNK 1 | PDF: avis_fr.pdf | Page: -1 | Titre_Gemma: **Consultation publique : Nouvelle norme des immobilisations corporelles pour les établissements publics.** ===
+=== CHUNK 1 | PDF: avis_fr.pdf | Page: -1 | Titre_Gemma: **Consultation publique sur la norme des immobilisations corporelles** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
 Section : Non spécifié
 Sous-section : Non spécifié
 Article : Non spécifié
-**1. Objet de l'Avis de Consultation Publique**
-Le présent avis concerne une consultation publique relative au projet de la norme des comptes des établissements publics soumis au Code de la comptabilité publique, spécifiquement concernant "Les immobilisations corporelles".
+**1. Objet de l'avis de consultation publique**
+Le Secrétariat Général du Conseil National des Normes des Comptes Publics (CNNCP) annonce une consultation publique concernant le projet de la norme des comptes des établissements publics soumis au code de la comptabilité publique. La norme concernée est spécifiquement dédiée aux "Immobilisations corporelles".
 
-=== CHUNK 2 | PDF: avis_fr.pdf | Page: -1 | Titre_Gemma: **Consultation : Organisme et Période** ===
+=== CHUNK 2 | PDF: avis_fr.pdf | Page: -1 | Titre_Gemma: **Consultation Publique : Dates** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
 Section : Non spécifié
 Sous-section : Non spécifié
 Article : Non spécifié
-**2. Organisme Organisateur et Période de Consultation**
-Le Secrétariat Général du Conseil National des Normes des Comptes Publics (CNNCP) est l'organisme responsable de l'organisation de cette consultation. Elle se déroulera du 30 avril 2025 au 30 mai 2025.
+**2. Date et Durée de la consultation publique**
+La consultation publique a débuté le 30 avril 2025 et se terminera le 30 mai 2025.
 
-=== CHUNK 3 | PDF: avis_fr.pdf | Page: -1 | Titre_Gemma: **Consultation du Projet de Norme** ===
+=== CHUNK 3 | PDF: avis_fr.pdf | Page: -1 | Titre_Gemma: **Comment donner son avis sur le projet de norme** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
 Section : Non spécifié
 Sous-section : Non spécifié
 Article : Non spécifié
-**3. Appel aux Parties Prenantes et Modalités de Participation**
-Le Secrétariat Général du CNNCP invite toutes les parties prenantes à soumettre leurs avis sur le projet de la norme.  Les participants doivent répondre au questionnaire fourni et transmettre leurs commentaires et suggestions par l'un des deux moyens suivants :
-*   Par courrier à l'adresse : Conseil National des Normes des Comptes Publics (CNNCP)- 16 rue du canada, 1002 Tunis
-*   Par voie électronique à l'adresse : sg.cnncp@finances.tn
+**3. Appel à l'action : Comment participer**
+Le Secrétariat Général du CNNCP invite les parties prenantes à exprimer leurs avis sur le projet de la norme.  Pour ce faire, il est nécessaire de :
+*   Répondre au questionnaire fourni.
+*   Transmettre les commentaires et suggestions par courrier à l'adresse : Conseil National des Normes des Comptes Publics (CNNCP)- 16 rue du canada, 1002 Tunis.
+*   Ou par voie électronique à l'adresse : sg.cnncp@finances.tn
 
-=== CHUNK 4 | PDF: avis_fr.pdf | Page: -1 | Titre_Gemma: **Accès au Projet de Norme et Documents Associés** ===
+=== CHUNK 4 | PDF: avis_fr.pdf | Page: -1 | Titre_Gemma: **Accès aux documents du projet de norme** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
 Section : Non spécifié
 Sous-section : Non spécifié
 Article : Non spécifié
-**4. Accès au Projet de Norme et aux Documents Associés**
-Le projet de la norme des comptes des établissements publics soumis au Code de la comptabilité publique "Les immobilisations corporelles" ainsi que la note de présentation et le questionnaire sont disponibles pour consultation et téléchargement via les liens suivants :
-*   Cliquer ici (lien pour consulter et télécharger le projet de la norme).
-*   Cliquer ici (lien pour consulter et télécharger la note de présentation et le questionnaire).
+**4. Accès aux documents**
+Il est possible de consulter et de télécharger le projet de la norme ainsi que la note de présentation et le questionnaire en cliquant sur les liens suivants (non présents dans le texte original, mais nécessaires pour la consultation) :
+*   [Lien pour consulter et télécharger le projet de la norme des comptes des établissements publics soumis au code de la comptabilité publique « Les immobilisations corporelles »]
+*   [Lien pour consulter et télécharger la note de présentation et le questionnaire]
 

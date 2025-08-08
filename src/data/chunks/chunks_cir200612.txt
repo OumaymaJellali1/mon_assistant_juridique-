@@ -1,4 +1,4 @@
-=== CHUNK 1 | PDF: cir200612.pdf | Page: 1 | Titre_Gemma: **Qualité et Sécurité des Opérations Bancaires Non-Résidentes** ===
+=== CHUNK 1 | PDF: cir200612.pdf | Page: 1 | Titre_Gemma: **Qualité des opérations bancaires non-résidentes** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -17,7 +17,7 @@ différentes opérations ;
 - oeuvrer pour l’adoption des normes de la qualité en
 vigueur.
 
-=== CHUNK 2 | PDF: cir200612.pdf | Page: 1 | Titre_Gemma: **Délais maximums pour opérations bancaires** ===
+=== CHUNK 2 | PDF: cir200612.pdf | Page: 1 | Titre_Gemma: **Délais maximums pour les opérations bancaires et de financement.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -52,7 +52,7 @@ Ces délais sont décomptés à partir de la date de réception
 de la demande accompagnée de tous les documents et
 renseignements demandés.
 
-=== CHUNK 3 | PDF: cir200612.pdf | Page: 1 | Titre_Gemma: **Communication transparente envers la clientèle : Obligations des établissements de crédit.** ===
+=== CHUNK 3 | PDF: cir200612.pdf | Page: 1 | Titre_Gemma: **Communication transparente envers la clientèle : obligations des établissements de crédit.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -75,7 +75,7 @@ variation à la hausse du taux d’intérêt sur le marché monétaire et
 des impacts sur le montant des mensualités dues en principal et en
 intérêt ; (1) - fournir à tout bénéficiaire d’un crédit un tableau d’amortissement.(1)
 
-=== CHUNK 4 | PDF: cir200612.pdf | Page: 1 | Titre_Gemma: **Obligations de déclaration bancaire** ===
+=== CHUNK 4 | PDF: cir200612.pdf | Page: 1 | Titre_Gemma: **Obligations de Déclaration Bancaire** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -105,7 +105,7 @@ une réponse écrite dans un délai maximum de quinze jours
 (15) ouvrables dans les banques à compter de la date de
 leur réception.
 
-=== CHUNK 6 | PDF: cir200612.pdf | Page: 1 | Titre_Gemma: **Information des délais d'application circulaire.** ===
+=== CHUNK 6 | PDF: cir200612.pdf | Page: 1 | Titre_Gemma: **Notification des modifications de la circulaire bancaire.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -117,7 +117,7 @@ délais prévus par l’article 2 de la présente circulaire ainsi
 que de toute modification y apportée et ce, avant sa mise en
 application effective.
 
-=== CHUNK 7 | PDF: cir200612.pdf | Page: 1 | Titre_Gemma: **Date de notification** ===
+=== CHUNK 7 | PDF: cir200612.pdf | Page: 1 | Titre_Gemma: **Délai de notification** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié

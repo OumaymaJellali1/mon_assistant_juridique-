@@ -1,4 +1,4 @@
-=== CHUNK 1 | PDF: 02-Circulaire-aux-banques-et-aux-etablissements-financiers-n°2024-02-du-29-Janvier-2024.pdf | Page: 2 | Titre_Gemma: **Conformité des produits financiers.** ===
+=== CHUNK 1 | PDF: 02-Circulaire-aux-banques-et-aux-etablissements-financiers-n°2024-02-du-29-Janvier-2024.pdf | Page: 2 | Titre_Gemma: **Obligations de tarification des établissements financiers.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -22,7 +22,7 @@ prévues par l’article 4 de la loi n°2016-48 précitée, les opérations qui 
 ainsi que toutes les autres opérations effectuées par les banques et les
 établissements financiers conformément à la législation en vigueur.
 
-=== CHUNK 3 | PDF: 02-Circulaire-aux-banques-et-aux-etablissements-financiers-n°2024-02-du-29-Janvier-2024.pdf | Page: 3 | Titre_Gemma: **Services de paiement financier : Réglementation** ===
+=== CHUNK 3 | PDF: 02-Circulaire-aux-banques-et-aux-etablissements-financiers-n°2024-02-du-29-Janvier-2024.pdf | Page: 3 | Titre_Gemma: **Définition et Réglementation des Services Financiers** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -35,7 +35,7 @@ Les services de paiement mobile domestique demeurent régis par les dispositions
 de la circulaire de la Banque Centrale de Tunisie n°2020-11 du 18 mai 2020
 relative aux conditions de fourniture des services de paiement mobile domestique.
 
-=== CHUNK 4 | PDF: 02-Circulaire-aux-banques-et-aux-etablissements-financiers-n°2024-02-du-29-Janvier-2024.pdf | Page: 3 | Titre_Gemma: **Politique de Commercialisation et de Tarification Financière** ===
+=== CHUNK 4 | PDF: 02-Circulaire-aux-banques-et-aux-etablissements-financiers-n°2024-02-du-29-Janvier-2024.pdf | Page: 3 | Titre_Gemma: **Politique de Commercialisation et de Tarification des Services Financiers** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : TITRE II : DE LA POLITIQUE DE TARIFICATION ET DE COMMERCIALISATION DES PRODUITS ET SERVICES FINANCIERS ET DES REGLES DE CONTROLE INTERNE
@@ -62,7 +62,7 @@ prévues par la présente circulaire;
 concurrence déloyale ; et
 − garantir la protection des données à caractère personnel des clients.
 
-=== CHUNK 5 | PDF: 02-Circulaire-aux-banques-et-aux-etablissements-financiers-n°2024-02-du-29-Janvier-2024.pdf | Page: 4 | Titre_Gemma: **Contrôle interne de la commercialisation** ===
+=== CHUNK 5 | PDF: 02-Circulaire-aux-banques-et-aux-etablissements-financiers-n°2024-02-du-29-Janvier-2024.pdf | Page: 4 | Titre_Gemma: **Contrôle Interne de la Commercialisation** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : TITRE II : DE LA POLITIQUE DE TARIFICATION ET DE COMMERCIALISATION DES PRODUITS ET SERVICES FINANCIERS ET DES REGLES DE CONTROLE INTERNE
@@ -77,7 +77,7 @@ exigences réglementaires en vigueur.
 Ces procédures doivent être revues annuellement et mises à jour à chaque fois que
 nécessaire.
 
-=== CHUNK 6 | PDF: 02-Circulaire-aux-banques-et-aux-etablissements-financiers-n°2024-02-du-29-Janvier-2024.pdf | Page: 4 | Titre_Gemma: **Contrôle interne des produits financiers en ligne** ===
+=== CHUNK 6 | PDF: 02-Circulaire-aux-banques-et-aux-etablissements-financiers-n°2024-02-du-29-Janvier-2024.pdf | Page: 4 | Titre_Gemma: **Contrôle interne des produits et services financiers en ligne.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : TITRE II : DE LA POLITIQUE DE TARIFICATION ET DE COMMERCIALISATION DES PRODUITS ET SERVICES FINANCIERS ET DES REGLES DE CONTROLE INTERNE
@@ -93,7 +93,7 @@ blanchiment d’argent et de financement du terrorisme et de réputation ;
 − la sécurité des plateformes et des transactions ; et
 − la continuité de la fourniture du produit ou du service financier.
 
-=== CHUNK 7 | PDF: 02-Circulaire-aux-banques-et-aux-etablissements-financiers-n°2024-02-du-29-Janvier-2024.pdf | Page: 4 | Titre_Gemma: **Qualité des Opérations** ===
+=== CHUNK 7 | PDF: 02-Circulaire-aux-banques-et-aux-etablissements-financiers-n°2024-02-du-29-Janvier-2024.pdf | Page: 4 | Titre_Gemma: **Qualité des Opérations : Normes et Procédures** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : TITRE II : DE LA POLITIQUE DE TARIFICATION ET DE COMMERCIALISATION DES PRODUITS ET SERVICES FINANCIERS ET DES REGLES DE CONTROLE INTERNE
@@ -108,7 +108,7 @@ A cet effet, ils doivent notamment :
 - mettre en place des programmes pour inculquer la culture de qualité aux
 agents et l’enraciner au niveau de leurs différentes structures.
 
-=== CHUNK 8 | PDF: 02-Circulaire-aux-banques-et-aux-etablissements-financiers-n°2024-02-du-29-Janvier-2024.pdf | Page: 4 | Titre_Gemma: **Information à la clientèle sur les produits et services financiers.** ===
+=== CHUNK 8 | PDF: 02-Circulaire-aux-banques-et-aux-etablissements-financiers-n°2024-02-du-29-Janvier-2024.pdf | Page: 4 | Titre_Gemma: **Information à la clientèle sur les produits et services financiers** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : TITRE II : DE LA POLITIQUE DE TARIFICATION ET DE COMMERCIALISATION DES PRODUITS ET SERVICES FINANCIERS ET DES REGLES DE CONTROLE INTERNE
@@ -176,7 +176,7 @@ lisibles, les caractéristiques du produit ou du service financier, ses conditio
 tarifaires ainsi que les avantages et les risques qui en découlent. Ces documents
 doivent être mis à jour à l’occasion de chaque modification.
 
-=== CHUNK 11 | PDF: 02-Circulaire-aux-banques-et-aux-etablissements-financiers-n°2024-02-du-29-Janvier-2024.pdf | Page: 6 | Titre_Gemma: **Délais de décision bancaire sur les demandes de financement** ===
+=== CHUNK 11 | PDF: 02-Circulaire-aux-banques-et-aux-etablissements-financiers-n°2024-02-du-29-Janvier-2024.pdf | Page: 6 | Titre_Gemma: **Délais de décision pour les demandes de financement bancaire** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : TITRE II : DE LA POLITIQUE DE TARIFICATION ET DE COMMERCIALISATION DES PRODUITS ET SERVICES FINANCIERS ET DES REGLES DE CONTROLE INTERNE
@@ -203,7 +203,7 @@ Les banques et les établissements financiers sont tenus d’afficher par tout m
 de communication accessible, y compris sur leurs sites Web et par voie d'affichage
 dans les agences, les délais de réponse susmentionnés.
 
-=== CHUNK 12 | PDF: 02-Circulaire-aux-banques-et-aux-etablissements-financiers-n°2024-02-du-29-Janvier-2024.pdf | Page: 6 | Titre_Gemma: **Mainlevée des Garanties et Délai** ===
+=== CHUNK 12 | PDF: 02-Circulaire-aux-banques-et-aux-etablissements-financiers-n°2024-02-du-29-Janvier-2024.pdf | Page: 6 | Titre_Gemma: **Mainlevée des Garanties - Remboursement du Financement** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : TITRE II : DE LA POLITIQUE DE TARIFICATION ET DE COMMERCIALISATION DES PRODUITS ET SERVICES FINANCIERS ET DES REGLES DE CONTROLE INTERNE
@@ -218,7 +218,7 @@ sur la garantie accordée dans un délai ne dépassant pas trente (30) jours ouv
 à compter de la date de remboursement total du financement par le client et
 l’acquittement, le cas échéant, des frais de mainlevées applicables.
 
-=== CHUNK 13 | PDF: 02-Circulaire-aux-banques-et-aux-etablissements-financiers-n°2024-02-du-29-Janvier-2024.pdf | Page: 7 | Titre_Gemma: **Information Client sur les Commissions Bancaires** ===
+=== CHUNK 13 | PDF: 02-Circulaire-aux-banques-et-aux-etablissements-financiers-n°2024-02-du-29-Janvier-2024.pdf | Page: 7 | Titre_Gemma: **Information à la clientèle sur les commissions bancaires.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : TITRE III :DE LA TRANSPARENCE ET DE LA COMMUNICATION AVEC LA CLIENTELE
@@ -232,7 +232,7 @@ complète. Les supports d’information doivent indiquer, de manière claire,
 l’assiette applicable à chaque commission et les niveaux de commissions
 exprimés en hors taxe.
 
-=== CHUNK 14 | PDF: 02-Circulaire-aux-banques-et-aux-etablissements-financiers-n°2024-02-du-29-Janvier-2024.pdf | Page: 7 | Titre_Gemma: **Commissions et frais bancaires : obligations des banques** ===
+=== CHUNK 14 | PDF: 02-Circulaire-aux-banques-et-aux-etablissements-financiers-n°2024-02-du-29-Janvier-2024.pdf | Page: 7 | Titre_Gemma: **Commissions Bancaires : Information et Récapitulatif** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : TITRE III :DE LA TRANSPARENCE ET DE LA COMMUNICATION AVEC LA CLIENTELE
@@ -249,7 +249,7 @@ chaque année, par tout moyen laissant trace écrite, un récapitulatif en toute
 comprises, des commissions et frais prélevés sur leurs comptes au cours de
 l’année écoulée.
 
-=== CHUNK 15 | PDF: 02-Circulaire-aux-banques-et-aux-etablissements-financiers-n°2024-02-du-29-Janvier-2024.pdf | Page: 7 | Titre_Gemma: **Transparence des Supports Promotionnels Financiers** ===
+=== CHUNK 15 | PDF: 02-Circulaire-aux-banques-et-aux-etablissements-financiers-n°2024-02-du-29-Janvier-2024.pdf | Page: 7 | Titre_Gemma: **Transparence dans la Promotion Financière** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : TITRE III :DE LA TRANSPARENCE ET DE LA COMMUNICATION AVEC LA CLIENTELE
@@ -260,7 +260,7 @@ conception, la présentation et le contenu de leurs supports promotionnels
 expliquent de manière claire les caractéristiques du produit ou du service financier
 et éviter toute pratique ou information pouvant induire le client en erreur.
 
-=== CHUNK 16 | PDF: 02-Circulaire-aux-banques-et-aux-etablissements-financiers-n°2024-02-du-29-Janvier-2024.pdf | Page: 7 | Titre_Gemma: **Déclaration des produits et services financiers - Réglementation** ===
+=== CHUNK 16 | PDF: 02-Circulaire-aux-banques-et-aux-etablissements-financiers-n°2024-02-du-29-Janvier-2024.pdf | Page: 7 | Titre_Gemma: **Déclaration des Produits et Services Financiers : Obligations des Banques et Établissements Financiers** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : TITRE IV : DE L’INFORMATION DE LA BANQUE CENTRALE DE TUNISIE
@@ -292,7 +292,7 @@ islamiques, étayé par des arguments charaïques pour les produits et services
 fournis par les banques et les établissements financiers qui exercent les
 opérations bancaires islamiques.
 
-=== CHUNK 17 | PDF: 02-Circulaire-aux-banques-et-aux-etablissements-financiers-n°2024-02-du-29-Janvier-2024.pdf | Page: 8 | Titre_Gemma: **Documents obligatoires pour la conformité TIC.** ===
+=== CHUNK 17 | PDF: 02-Circulaire-aux-banques-et-aux-etablissements-financiers-n°2024-02-du-29-Janvier-2024.pdf | Page: 8 | Titre_Gemma: **Obligations en matière de sécurité et de continuité d'activité pour les nouvelles technologies.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : TITRE IV : DE L’INFORMATION DE LA BANQUE CENTRALE DE TUNISIE
@@ -311,7 +311,7 @@ septembre 2017, telle que modifiée par la circulaire n° 2018-09 du 18
 octobre 2018 ; et
 − une copie du plan de continuité de l’activité.
 
-=== CHUNK 18 | PDF: 02-Circulaire-aux-banques-et-aux-etablissements-financiers-n°2024-02-du-29-Janvier-2024.pdf | Page: 8 | Titre_Gemma: **Déclaration et Approbation des Modifications Bancaires/Financières** ===
+=== CHUNK 18 | PDF: 02-Circulaire-aux-banques-et-aux-etablissements-financiers-n°2024-02-du-29-Janvier-2024.pdf | Page: 8 | Titre_Gemma: **Déclaration des Modifications Financières - Banques et Établissements Financiers** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : TITRE IV : DE L’INFORMATION DE LA BANQUE CENTRALE DE TUNISIE
@@ -340,7 +340,7 @@ Article : Article 19 : Toute décision mettant fin à la commercialisation d’u
 d’un service financier doit faire l’objet d’une notification préalable et motivée à
 la Banque Centrale de Tunisie.
 
-=== CHUNK 20 | PDF: 02-Circulaire-aux-banques-et-aux-etablissements-financiers-n°2024-02-du-29-Janvier-2024.pdf | Page: 9 | Titre_Gemma: **Déclaration des commissions bancaires à la BCT** ===
+=== CHUNK 20 | PDF: 02-Circulaire-aux-banques-et-aux-etablissements-financiers-n°2024-02-du-29-Janvier-2024.pdf | Page: 9 | Titre_Gemma: **Obligations de communication des commissions financières.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : TITRE IV : DE L’INFORMATION DE LA BANQUE CENTRALE DE TUNISIE
@@ -356,7 +356,7 @@ concerné ; et
 l’institution de la commission en termes de valeur ajoutée proposée à la
 clientèle.
 
-=== CHUNK 21 | PDF: 02-Circulaire-aux-banques-et-aux-etablissements-financiers-n°2024-02-du-29-Janvier-2024.pdf | Page: 9 | Titre_Gemma: **Obligations de transparence tarifaire des banques en Tunisie.** ===
+=== CHUNK 21 | PDF: 02-Circulaire-aux-banques-et-aux-etablissements-financiers-n°2024-02-du-29-Janvier-2024.pdf | Page: 9 | Titre_Gemma: **Déclarations tarifaires des institutions financières à la BCT** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : TITRE IV : DE L’INFORMATION DE LA BANQUE CENTRALE DE TUNISIE
@@ -375,7 +375,7 @@ la banque ou l’établissement financier ; et
 − une fiche précisant les composantes du coût du produit ou du service
 concerné.
 
-=== CHUNK 22 | PDF: 02-Circulaire-aux-banques-et-aux-etablissements-financiers-n°2024-02-du-29-Janvier-2024.pdf | Page: 10 | Titre_Gemma: **Renseignements financiers** ===
+=== CHUNK 22 | PDF: 02-Circulaire-aux-banques-et-aux-etablissements-financiers-n°2024-02-du-29-Janvier-2024.pdf | Page: 10 | Titre_Gemma: **Divulgation de données financières.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : TITRE IV : DE L’INFORMATION DE LA BANQUE CENTRALE DE TUNISIE
@@ -386,7 +386,7 @@ banques et aux établissements financiers tout document ou renseignement qu’el
 juge nécessaire concernant les produits et services financiers à commercialiser ou
 les niveaux de rémunération ou de tarification.
 
-=== CHUNK 23 | PDF: 02-Circulaire-aux-banques-et-aux-etablissements-financiers-n°2024-02-du-29-Janvier-2024.pdf | Page: 10 | Titre_Gemma: **Nouveaux produits/services et commissions : Conformité Légale** ===
+=== CHUNK 23 | PDF: 02-Circulaire-aux-banques-et-aux-etablissements-financiers-n°2024-02-du-29-Janvier-2024.pdf | Page: 10 | Titre_Gemma: **Nouveaux produits/services et commissions** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : TITRE IV : DE L’INFORMATION DE LA BANQUE CENTRALE DE TUNISIE
@@ -409,7 +409,7 @@ Centrale de Tunisie en vue de fournir, à sa demande, toute information ou
 complément de renseignements sur les produits et services financiers
 commercialisés ainsi que les conditions tarifaires.
 
-=== CHUNK 25 | PDF: 02-Circulaire-aux-banques-et-aux-etablissements-financiers-n°2024-02-du-29-Janvier-2024.pdf | Page: 10 | Titre_Gemma: **Reporting Général : Banque Centrale de Tunisie** ===
+=== CHUNK 25 | PDF: 02-Circulaire-aux-banques-et-aux-etablissements-financiers-n°2024-02-du-29-Janvier-2024.pdf | Page: 10 | Titre_Gemma: **Reporting Général - Banque Centrale de Tunisie** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : TITRE V : DISPOSITIONS DIVERSES ET TRANSITOIRES
@@ -423,7 +423,7 @@ l’annexe II de la présente circulaire.
 Le contenu de ces déclarations doit être conforme aux annexes III et IV à la
 présente circulaire.
 
-=== CHUNK 26 | PDF: 02-Circulaire-aux-banques-et-aux-etablissements-financiers-n°2024-02-du-29-Janvier-2024.pdf | Page: 10 | Titre_Gemma: **Réglementation bancaire - 1991** ===
+=== CHUNK 26 | PDF: 02-Circulaire-aux-banques-et-aux-etablissements-financiers-n°2024-02-du-29-Janvier-2024.pdf | Page: 10 | Titre_Gemma: **Réglementation bancaire (Banque Centrale de Tunisie, 1991)** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : TITRE V : DISPOSITIONS DIVERSES ET TRANSITOIRES
@@ -443,7 +443,7 @@ Article : Article 27 : La circulaire de la Banque Centrale de Tunisie aux établ
 crédit n°2006-12 du 19 octobre 2006, relative aux attributs de la qualité des
 services bancaires est abrogée.
 
-=== CHUNK 28 | PDF: 02-Circulaire-aux-banques-et-aux-etablissements-financiers-n°2024-02-du-29-Janvier-2024.pdf | Page: 10 | Titre_Gemma: **Conformité aux dispositions de la circulaire et mesures associées - Date limite : 31 décembre 2024** ===
+=== CHUNK 28 | PDF: 02-Circulaire-aux-banques-et-aux-etablissements-financiers-n°2024-02-du-29-Janvier-2024.pdf | Page: 10 | Titre_Gemma: **Conformité et mesures applicables jusqu'au 31 décembre 2024** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : TITRE V : DISPOSITIONS DIVERSES ET TRANSITOIRES
@@ -459,7 +459,7 @@ de la présente circulaire, une feuille de route déclinant les actions et les m
 31 décembre 2024. Le Gouverneur
 Marouane EL ABASSI
 
-=== CHUNK 29 | PDF: 02-Circulaire-aux-banques-et-aux-etablissements-financiers-n°2024-02-du-29-Janvier-2024.pdf | Page: 1 | Titre_Gemma: **Circulaire sur les conditions de commercialisation et de tarification des produits financiers.** ===
+=== CHUNK 29 | PDF: 02-Circulaire-aux-banques-et-aux-etablissements-financiers-n°2024-02-du-29-Janvier-2024.pdf | Page: 1 | Titre_Gemma: **Circulaire de la Banque Centrale de Tunisie : Conditions de Commercialisation et de Tarification** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -495,7 +495,7 @@ Vu la circulaire aux banques n° 2006-11 du 18 octobre 2006, relative aux
 conditions générales et particulières minimales de la convention de gestion de
 compte de dépôt,
 
-=== CHUNK 30 | PDF: 02-Circulaire-aux-banques-et-aux-etablissements-financiers-n°2024-02-du-29-Janvier-2024.pdf | Page: 12 | Titre_Gemma: **Mentions obligatoires sur les relevés de compte bancaire** ===
+=== CHUNK 30 | PDF: 02-Circulaire-aux-banques-et-aux-etablissements-financiers-n°2024-02-du-29-Janvier-2024.pdf | Page: 12 | Titre_Gemma: **Mentions obligatoires sur un relevé de compte bancaire** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -537,7 +537,7 @@ demande du client. 9)
 Une indication du lien sur le site Web de la banque se rapportant au lexique des
 commissions bancaires.
 
-=== CHUNK 31 | PDF: 02-Circulaire-aux-banques-et-aux-etablissements-financiers-n°2024-02-du-29-Janvier-2024.pdf | Page: 13 | Titre_Gemma: **Reporting Comptable et Financier des Banques et Établissements Financiers en Tunisie** ===
+=== CHUNK 31 | PDF: 02-Circulaire-aux-banques-et-aux-etablissements-financiers-n°2024-02-du-29-Janvier-2024.pdf | Page: 13 | Titre_Gemma: **Reporting Comptable, Prudentiel et Statistique des Banques et Établissements Financiers en Tunisie** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -553,7 +553,7 @@ ROGA781 Conditions tarifaires conformément à l’Annexe III de la Circulaire n
 ROGA782 Etat des Produits et Services conformément à l’Annexe IV de la Circulaire n°2024-2 BR+BNR +EL+EF+ BA Annuelle
 DR+45j XML
 
-=== CHUNK 32 | PDF: 02-Circulaire-aux-banques-et-aux-etablissements-financiers-n°2024-02-du-29-Janvier-2024.pdf | Page: 14 | Titre_Gemma: **Tarifs et Commissions Bancaires - Annexe III** ===
+=== CHUNK 32 | PDF: 02-Circulaire-aux-banques-et-aux-etablissements-financiers-n°2024-02-du-29-Janvier-2024.pdf | Page: 14 | Titre_Gemma: **Taux et Commissions Bancaires – Annexe III à la Circulaire 2024-2** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié

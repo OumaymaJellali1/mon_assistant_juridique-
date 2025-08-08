@@ -1,36 +1,60 @@
-=== CHUNK 1 | PDF: Décret n° 2006-1881.pdf | Page: -1 | Titre_Gemma: **Décret sur la médiation bancaire en Tunisie** ===
+=== CHUNK 1 | PDF: Décret n° 2006-1881.pdf | Page: -1 | Titre_Gemma: **Décret fixant les conditions d'exercice de la médiation bancaire en Tunisie.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
 Section : Non spécifié
 Sous-section : Non spécifié
-Article : Non spécifié
-## Décret n° 2006-1881 du 10 juillet 2006, fixant les conditions d’exercice de l’activité de médiateur bancaire.
-**Section 1 : Objet et Déclenchement**
-Le présent décret fixe les conditions d’exercice de l’activité de médiation bancaire. Il est motivé par la nécessité de réglementer cette activité et de garantir une procédure équitable pour les clients des établissements de crédit.
-Le décret est pris en application de la loi n° 58-90 du 19 septembre 1958, portant création et organisation de la banque centrale de Tunisie, modifiée et complétée par les textes subséquents, ainsi que de la loi n° 2001-65 du 10 juillet 2001, relative aux établissements de crédit, modifiée et complétée par la loi n° 2006-19 du 2 mai 2006.
-**Section 2 : Conditions d'Exercice de l'Activité**
-L'activité de médiation bancaire peut être exercée par toute personne physique ou morale. Si elle est exercée par une personne morale, les personnes physiques qui exercent la médiation bancaire doivent remplir les conditions prévues aux articles 3 et 4 du présent décret.
-**Section 3 : Qualifications et Désignation**
-Le médiateur bancaire doit être de nationalité tunisienne et justifier d’une expérience minimale de dix ans dans le domaine bancaire. Il est interdit aux établissements de crédit de désigner les médiateurs bancaires parmi les personnes avec lesquelles ils sont liés par une relation de travail ou par tout autre lien au sens de l’article 23 de la loi n° 2001-65 susvisée.
-Le médiateur bancaire est désigné pour une durée de trois années, renouvelable une seule fois, par le conseil d’administration ou le conseil de surveillance de l’établissement de crédit sur proposition, selon le cas, du président-directeur général, du directeur général ou du président du directoire.
-**Section 4 : Procédure de Désignation et Information**
-L'établissement de crédit doit informer sans délai la banque centrale de la désignation du médiateur bancaire. La banque centrale de Tunisie peut s’opposer à cette désignation dans un délai d’un mois à partir de la date d’information.
-**Section 5 : Conventions et Résiliation**
-Une convention écrite doit être conclue entre l’établissement de crédit et le médiateur bancaire, fixant notamment la durée, les obligations des deux parties et les honoraires du médiateur bancaire, conformément à une convention-type approuvée par le conseil de l’association professionnelle prévue à l’article 31 de la loi n° 2001-65 susvisée.
-La convention de médiation ne peut être résiliée à l’initiative de l’établissement de crédit, avant l’arrivée de son terme, que dans le cas où il est établi qu’une faute grave a été commise par le médiateur dans l’exercice de ses fonctions. La décision de résiliation doit être motivée et portée sans délai à la connaissance de la Banque Centrale.
-**Section 6 : Procédure de Recours et Statut de l'Avis du Médiateur**
-Le client doit, avant de recourir au médiateur bancaire, adresser, par écrit, un recours gracieux à l’établissement de crédit. Le médiateur bancaire ne peut se saisir de la plainte qu’après la réponse de l’établissement de crédit à cette requête et dans tous les cas après 15 jours ouvrables dans les banques à partir de sa date.
-Les plaintes doivent être introduites auprès du médiateur bancaire par requête écrite, signée par le client, comportant ses réclamations et accompagnée des justificatifs à sa disposition et de la preuve de l’épuisement des procédures spécifiées à l’article 8 du présent décret.
-Le médiateur bancaire statue sur la recevabilité des plaintes qui lui sont soumises par décision motivée.
-**Section 7 :  Obligations du Médiateur et Droits du Client**
-Le médiateur bancaire peut demander à l’établissement de crédit et au client de lui communiquer tous les documents qu’il juge nécessaires pour l’accomplissement de sa mission. Le médiateur entend l’établissement de crédit et le client chaque fois que nécessaire.
-Le médiateur bancaire informe simultanément, l’établissement de crédit et le client de son avis, et ce, par un écrit signé de sa part prévoyant obligatoirement que ledit avis ne lie pas les parties et n’est susceptible d’aucun recours. L’établissement de crédit et le client doivent dans les dix jours ouvrables dans les banques à partir de cette information, faire connaître au médiateur bancaire l’acceptation ou le refus de cet avis.
-Les constatations et les déclarations qui peuvent être effectuées ou recueillies à l’occasion de la médiation ainsi que l’avis du médiateur ne peuvent être invoqués devant la justice. Il est interdit au médiateur de représenter l’une des parties devant la justice à propos du litige.
-Le client conserve le droit de porter l’affaire, à tout moment au cours du litige devant la justice.
-**Section 8 : Rapport d'Activité et Application du Décret**
-Le médiateur bancaire adresse au plus tard le 31 mars de chaque année, à l’observatoire des services bancaires un rapport annuel sur son activité.
-Le gouverneur de la banque centrale de Tunisie est chargé de l’application du présent décret qui sera publié au Journal Officiel de la République Tunisienne.
----
-**Note:** Cette découpe est une tentative de structurer le texte en sections logiques.  La taille des sections est arbitraire et peut être ajustée en fonction de la préférence.  Il est important de noter qu'un texte juridique de cette ampleur est généralement traité de manière plus détaillée, et cette présentation est simplifiée.
+Article : Art. 16. - Le gouverneur de la banque centrale de Tunisie est chargé de l’application du présent décret qui sera publié au Journal Officiel de la République Tunisienne.
+Voici le texte juridique découpé en sections de taille raisonnable, avec des paragraphes.
+=== Section 1 ===
+N° 56
+Journal Officiel de la République Tunisienne — 14 juillet 2006
+Page 1861
+Décret n° 2006-1881 du 10 juillet 2006, fixant les conditions d’exercice de l’activité de médiateur bancaire.
+Le Président de la République,
+Vu la loi n° 58-90 du 19 septembre 1958, portant création et organisation de la banque centrale de Tunisie, telle que modifiée et complétée par les textes subséquents,
+Vu la loi n° 2001-65 du 10 juillet 2001, relative aux établissements de crédit telle que modifiée et complétée par la loi n° 2006-19 du 2 mai 2006 et notamment son article 3l quarter,
+Vu l’avis du ministre des finances,
+Vu l’avis du gouverneur de la banque centrale de Tunisie,
+Vu l’avis du tribunal administratif.
+Décrète :
+=== Section 2 ===
+Lorsque la médiation bancaire est exercée par une personne morale, les personnes physiques qui exercent la médiation bancaire doivent remplir les conditions prévues aux articles 3 et 4 du présent décret.
+=== Section 3 ===
+=== Section 4 ===
+L’établissement de crédit doit informer sans délai la banque centrale de la désignation du médiateur bancaire. La banque centrale de Tunisie peut s’opposer à cette désignation dans un délai d’un mois à partir de la date d’information.
+=== Section 5 ===
+=== Section 6 ===
+=== Section 7 ===
+=== Section 8 ===
+Il est interdit au médiateur de représenter l’une des parties devant la justice à propos du litige.
+=== Section 9 ===
+Tunis, le 10 juillet 2006. Zine El Abidine Ben Ali
+=== Section 10 ===
+Par décret n° 2006-1882 du 10 juillet 2006.
+Monsieur Ammar Aloui, administrateur en chef et secrétaire permanent de la commission économique financière et de la conjoncture, est chargé des fonctions de directeur général d’administration centrale au conseil économique et social.
+=== Section 11 ===
+Par décret n° 2006-1883 du 10 juillet 2006.
+Monsieur Mohamed Amairi, professeur principal de l’enseignement secondaire, est chargé des fonctions de sous-directeur des systèmes informatiques à la direction de l’organisation, des méthodes et de l’informatique à l’école nationale d’administration.
+=== Section 12 ===
+Par décret n° 2006-1884 du 10 juillet 2006.
+Mademoiselle Mejda Jerbi, conseiller des services publics, est chargée des fonctions de chef de service d’administration centrale à la direction générale de la privatisation au Premier ministère.
+=== Section 13 ===
+Par décret n° 2006-1885 du 10 juillet 2006.
+Monsieur Anis Chaâri, conseiller des services publics, est chargé des fonctions de chef de service d’administration centrale à la direction générale de la privatisation au Premier ministère.
+=== Section 14 ===
+Par décret n° 2006-1886 du 10 juillet 2006.
+Mademoiselle Wafa Nasri, conseiller des services publics, est chargée des fonctions de chef de service d’administration centrale à la commission supérieure des marchés au Premier ministère.
+=== Section 15 ===
+Par décret n° 2006-1887 du 10 juillet 2006.
+Monsieur Mounir Maâroufi, conseiller des services publics, est chargé des fonctions de chef de service d’administration centrale à la commission supérieure des marchés au Premier ministère.
+=== Section 16 ===
+Par décret n° 2006-1888 du 10 juillet 2006.
+Madame Wafa Belghith épouse Nabli, conseiller des services publics, est chargée des fonctions de chef de service d’administration centrale à la direction générale de contrôle des dépenses publiques au Premier ministère.
+=== Section 17 ===
+Par décret n° 2006-1889 du 10 juillet 2006.
+Madame Mariem Elhoussine, conseiller des services publics, est chargée des fonctions de chef de service de la recherche au centre de recherches et des études administratives à l’école nationale d’administration.
+MINISTERE DES AFFAIRES ETRANGERES
+=== Section 18 ===
+Décret n° 2006-1890 du 10 juillet 2006, portant ratification d’un accord entre le gouvernement de la République Tunisienne et le gouvernement de la République Togolaise dans le domaine de la coopération entre les agences de
 

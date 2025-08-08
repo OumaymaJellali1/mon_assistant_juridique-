@@ -1,80 +1,72 @@
-=== CHUNK 1 | PDF: 20241204_LC_Italie_55M_fr.pdf | Page: -1 | Titre_Gemma: Veuillez me fournir le texte juridique ! Je ne peux pas vous donner de titre sans le texte. ===
+=== CHUNK 1 | PDF: 20241204_LC_Italie_55M_fr.pdf | Page: -1 | Titre_Gemma: **Ligne de crédit italienne de 55 millions d'euros** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
 Section : Non spécifié
 Sous-section : Non spécifié
 Article : Non spécifié
-Voici le texte juridique découpé en sections de taille raisonnable, avec des paragraphes distincts et un séparateur :
+## Découpage du texte juridique : Ligne de crédit italienne de 55 millions d’euros
+Voici le texte juridique découpé en sections de taille raisonnable, respectant les paragraphes et utilisant le séparateur indiqué.
 
-=== CHUNK 2 | PDF: 20241204_LC_Italie_55M_fr.pdf | Page: -1 | Titre_Gemma: **Ligne de crédit pour PME tunisiennes** ===
+=== CHUNK 2 | PDF: 20241204_LC_Italie_55M_fr.pdf | Page: -1 | Titre_Gemma: **Ligne de crédit pour PME tunisiennes : 55 millions d'euros** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
 Section : Non spécifié
 Sous-section : Non spécifié
 Article : Non spécifié
-**1. Objet de la Ligne de Crédit**
+**1. Objet et Critères d’éligibilité**
 Une ligne de crédit italienne de 55 millions d’euros est mise à la disposition des petites et moyennes entreprises (PME) du secteur privé tunisien.
-
-=== CHUNK 3 | PDF: 20241204_LC_Italie_55M_fr.pdf | Page: -1 | Titre_Gemma: **Éligibilité des PME à une Ligne de Crédit** ===
-Loi : Non spécifié
-Chapitre : Non spécifié
-Titre : Non spécifié
-Section : Non spécifié
-Sous-section : Non spécifié
-Article : Non spécifié
-**2. Critères d’Éligibilité des PME**
-Bénéficier des ressources de la ligne de crédit est possible pour toute PME privée (existante ou à créer), résidente de droit tunisien telle que définie par les dispositions du décret n°2017-389 du 09 mars 2017, relatif aux incitations financières au profit des investissements réalisés dans le cadre de la loi de l’investissement.
+Peut bénéficier des ressources de la ligne de crédit susvisée, toute PME privée (existante ou à créer), résidente de droit tunisien telle que définie par les dispositions du décret n°2017-389 du 09 mars 2017, relatif aux incitations financières au profit des investissements réalisés dans le cadre de la loi de l’investissement.
 On entend par PME toute entreprise au sens de l’article 3 de la loi de l’investissement et dont le volume d’investissement ne dépasse pas quinze (15) millions de dinars y compris les investissements d’extension et le fonds de roulement.
-La PME bénéficiaire doit être obligatoirement en règle avec la législation tunisienne en matière environnementale, fiscale et sociale.
+La PME bénéficiaire des ressources de cette ligne de crédit doit être obligatoirement en règle avec la législation tunisienne en matière environnementale, fiscale et sociale.
 
-=== CHUNK 4 | PDF: 20241204_LC_Italie_55M_fr.pdf | Page: -1 | Titre_Gemma: Financement d'équipement et restructuration financière. ===
+=== CHUNK 3 | PDF: 20241204_LC_Italie_55M_fr.pdf | Page: -1 | Titre_Gemma: Financement d'équipements et restructuration financière. ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
 Section : Non spécifié
 Sous-section : Non spécifié
 Article : Non spécifié
-**3. Opérations et Secteurs Éligibles au Financement**
+**2. Opérations et Secteurs Éligibles au Financement**
 Les ressources de la présente ligne de crédit sont destinées à des crédits de moyen et long termes pour le financement :
 *   De l’acquisition des biens d’équipements productifs neufs et de services (ingénierie, transport, assurance, installation, formation, assistance technique) connexes aux équipements d’origine italienne ainsi que pour l’acquisition de licences et brevets industriels également d’origine italienne ;
 *   De l’acquisition des biens d’équipements productifs neufs et de services (ingénierie, transport, assurance, installation, formation, assistance technique) connexes aux équipements d’origine tunisienne sans l’intermédiation d’entreprises italiennes, dans la limite de 35% du montant total de cette ligne de crédit ;
 *   Des opérations de restructuration financière, pour un montant maximum de 5 millions d’euros, destinées : au fonds de roulement, au rééchelonnement de la dette bancaire pour les tranches de crédit non remboursées depuis douze (12) mois et aux prêts participatifs affectés exclusivement à l’augmentation du capital.
 Chaque financement individuel, même réparti sur plusieurs contrats doit :
-*   Être entre un minimum de EUR 55.000,00 (Cinquante Cinq Mille Euros) et un maximum de EUR 2.500.000,00 (Deux millions Cinq Cent Mille Euros) pour les crédits d’investissement.
-*   Être inférieur ou égal à EUR 200.000,00 (Deux Cent Mille Euros) pour chacune des trois typologies des crédits destinés à la restructuration financière : fonds de roulement, rééchelonnement de la dette bancaire et prêts participatifs affectés exclusivement à l’augmentation du capital.
+*   Entre un minimum de EUR 55.000,00 (Cinquante Cinq Mille Euros) et un maximum de EUR 2.500.000,00 (Deux millions Cinq Cent Mille Euros) pour les crédits d’investissement.
+*   Inférieur ou égal à EUR 200.000,00 (Deux Cent Mille Euros) pour chacune des trois typologies des crédits destinés à la restructuration financière : fonds de roulement, rééchelonnement de la dette bancaire et prêts participatifs affectés exclusivement à l’augmentation du capital.
 Les secteurs éligibles au financement dans le cadre de cette ligne de crédit sont les secteurs :
 *   De l’industrie ;
 *   De l’agriculture, de la pêche et de sylviculture ;
 *   Des services (à l’exception des services financiers, commerciaux et touristiques) ;
 *   Et les activités touristiques telles que l’agritourisme, les pensions familiales, les hôtels et les activités entrepreneuriales liées au tourisme éco-culturel.
 
-=== CHUNK 5 | PDF: 20241204_LC_Italie_55M_fr.pdf | Page: -1 | Titre_Gemma: **Conditions des Prêts aux PME** ===
+=== CHUNK 4 | PDF: 20241204_LC_Italie_55M_fr.pdf | Page: -1 | Titre_Gemma: **Taux d'Intérêt et Durée de Remboursement des Crédits Rétrocédés** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
 Section : Non spécifié
 Sous-section : Non spécifié
 Article : Non spécifié
-**4. Conditions de Rétrocession**
-Les prêts sont accordés par les banques aux PME selon les conditions suivantes :
-*   Le taux d’intérêt à appliquer ne doit pas dépasser 2,5 % l’an pour les crédits rétrocédés en Euro.
-*   Le taux d’intérêt à appliquer ne doit pas dépasser 6,5 % l’an pour les crédits rétrocédés en Dinar Tunisien.
+**3. Conditions de Rétrocession et Modalités de Remboursement**
+Le taux d’intérêt à appliquer ne doit pas dépasser 2,5 % l’an pour les crédits rétrocédés en Euro.
+Le taux d’intérêt à appliquer ne doit pas dépasser 6,5 % l’an pour les crédits rétrocédés en Dinar Tunisien.
 La durée de remboursement maximale est de :
 *   Dix (10) ans dont trois (3) ans de grâce au maximum pour les crédits d’investissement ;
 *   Dix (10) ans dont deux (2) ans de grâce au maximum pour les crédits de rééchelonnement de la dette ;
 *   Sept (7) ans dont deux (2) ans de grâce pour les crédits de fonds de roulement ;
 *   Sept (7) ans dont un (1) an de grâce au maximum pour les prêts participatifs.
 
-=== CHUNK 6 | PDF: 20241204_LC_Italie_55M_fr.pdf | Page: -1 | Titre_Gemma: **Imputation des Crédits d'Investissement et de Fonds de Roulement** ===
+=== CHUNK 5 | PDF: 20241204_LC_Italie_55M_fr.pdf | Page: -1 | Titre_Gemma: **Imputation et Décaissement des Fonds d'Investissement** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
 Section : Non spécifié
 Sous-section : Non spécifié
 Article : Non spécifié
-**5. Procédures d’Imputation**
+**4. Procédures d’Imputation et Décaissement des Fonds**
+**Procédure d’imputation :**
 Pour les crédits d’investissement, la banque ou la banque chef de file (pour le cas d’un Pool Bancaire) est appelée à :
 *   Analyser le projet d’investissement élaboré et présenté par la PME ;
 *   Instruire et constituer les dossiers afférents aux demandes d’imputation ;
@@ -82,17 +74,12 @@ Pour les crédits d’investissement, la banque ou la banque chef de file (pour 
 L’accord d’imputation, une fois reçu de l’AICS, est notifié par la Banque Centrale de Tunisie à la banque.
 Pour les crédits de fonds de roulement, de rééchelonnement de la dette bancaire et les prêts participatifs, la banque est appelée à :
 *   Analyser la demande de la PME et donner, le cas échéant, son accord de principe à l’octroi du crédit.
-*   Présenter la demande d’imputation dudit crédit, accompagnée par un dossier à l’Agence Italienne pour la Coopération au Développement (AICS) conformément à l’annexe I de la présente note avec copie à la Banque Centrale de Tunisie.
+*   Présenter la demande d’imputation dudit crédit, accompagnée par un dossier à l’Agence Italienne
+pour la Coopération au Développement (AICS)
+conformément à l’annexe I de la présente note avec copie à la Banque Centrale
+de Tunisie.
 L’accord d’imputation, une fois reçu de l’AICS, est notifié par la Banque Centrale de Tunisie à la banque.
-
-=== CHUNK 7 | PDF: 20241204_LC_Italie_55M_fr.pdf | Page: -1 | Titre_Gemma: **Décaissement des Fonds d'Investissement : Procédure et Conditions** ===
-Loi : Non spécifié
-Chapitre : Non spécifié
-Titre : Non spécifié
-Section : Non spécifié
-Sous-section : Non spécifié
-Article : Non spécifié
-**6. Modalités de Décaissement des Fonds**
+**Modalités de décaissement des fonds :**
 Pour les crédits d’investissement, la banque bénéficiaire doit transmettre à la Banque Centrale de Tunisie une demande de paiement en faveur de l’exportateur italien et/ou du fournisseur tunisien, indiquant les conditions de rétrocession et de dénouement de la transaction commerciale dont notamment :
 *   Les modalités de paiements.
 *   Les documents exigés pour chaque terme de paiement (facture, titre de transport, liste de colisage, caution bancaire, certificat d’origine, certificat EUR1…).

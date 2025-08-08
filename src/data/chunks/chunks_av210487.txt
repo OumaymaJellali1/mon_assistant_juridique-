@@ -1,95 +1,53 @@
-=== CHUNK 1 | PDF: av210487.pdf | Page: -1 | Titre_Gemma: **[Le titre du texte juridique]** ===
+=== CHUNK 1 | PDF: av210487.pdf | Page: -1 | Titre_Gemma: **Conditions d'Ouverture et de Fonctionnement des Comptes en Devises et Dinars Convertibles en Tunisie** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
 Section : Non spécifié
 Sous-section : Non spécifié
 Article : Non spécifié
-Voici le texte juridique découpé en plusieurs sections, avec des paragraphes distincts :
-
-=== CHUNK 2 | PDF: av210487.pdf | Page: -1 | Titre_Gemma: **Réglementation des comptes en devises et dinars convertibles pour résidents (1987)** ===
-Loi : Non spécifié
-Chapitre : Non spécifié
-Titre : Non spécifié
-Section : Non spécifié
-Sous-section : Non spécifié
-Article : Non spécifié
-**AVIS DE CHANGE FIXANT LES CONDITIONS D'OUVERTURE ET DE FONCTIONNEMENT DES COMPTES EN DEVISES ET DES COMPTES EN DINARS CONVERTIBLES DE RESIDENTS**
-(Publié au JORT du 21 avril 1987)
-Le présent avis, pris dans le cadre de l'article 25 du décret n° 77-608 du 27 juillet 1977, fixant les conditions d'application de la loi n° 76-18 du 21 janvier 1976 portant refonte et codification de la législation des changes et du commerce extérieur, tel que modifié par le décret n° 86-54 du 17 janvier 1986 et le décret n° 87-648 du 18 avril 1987, réglemente l'ouverture et le fonctionnement des comptes suivants :
-*   comptes spéciaux en devises et en dinars convertibles au nom de personnes résidentes pour leurs avoirs acquis régulièrement à l'étranger et dont la cession à la Banque Centrale de Tunisie n'est pas prescrite ;
-*   les comptes professionnels en devises et en dinars convertibles au nom de personnes résidentes pour les besoins de leur activité.
-Dautre part, le présent texte étend la possibilité d'ouverture des comptes spéciaux susvisés au profit des personnes physiques résidentes de nationalité étrangère. En effet ces dernières, libres au regard de la législation tunisienne des changes de toute obligation de déclaration au titre de leurs avoirs constitués à l'étranger sans aucun rapport avec leur situation en Tunisie, seraient ainsi incitées à conserver en Tunisie leurs disponibilités provenant des biens dont il s'agit.
-
-=== CHUNK 3 | PDF: av210487.pdf | Page: -1 | Titre_Gemma: **Comptes Spéciaux en Devises et Dinars Convertibles** ===
-Loi : Non spécifié
-Chapitre : Non spécifié
-Titre : Non spécifié
-Section : Non spécifié
-Sous-section : Non spécifié
-Article : Non spécifié
-**CHAPITRE PREMIER : Comptes spéciaux en devises et comptes spéciaux en dinars convertibles.**
-**I. - Conditions d'ouverture :**
+## Avis de Change - Conditions d'Ouverture et de Fonctionnement des Comptes en Devises et en Dinars Convertibles
+**A. Introduction**
+Le présent avis, pris dans le cadre de l'article 25 du décret n° 77-608 du 27 juillet 1977, qui fixe les conditions d'application de la loi n° 76-18 du 21 janvier 1976 portant refonte et codification de la législation des changes et du commerce extérieur, tel que modifié par les décrets n° 86-54 du 17 janvier 1986 et n° 87-648 du 18 avril 1987, réglemente l'ouverture et le fonctionnement des comptes suivants :
+*   Comptes spéciaux en devises et en dinars convertibles au nom de résidents pour leurs avoirs acquis régulièrement à l'étranger et dont la cession à la Banque Centrale de Tunisie n'est pas prescrite.
+*   Comptes professionnels en devises et en dinars convertibles au nom de personnes résidentes pour les besoins de leur activité.
+De plus, le présent texte étend la possibilité d'ouverture des comptes spéciaux susmentionnés au profit des personnes physiques résidentes de nationalité étrangère. Ces dernières, exemptées de toute obligation de déclaration au titre de leurs avoirs constitués à l'étranger sans rapport avec leur situation en Tunisie, seraient ainsi incitées à conserver en Tunisie leurs disponibilités provenant des biens dont il s'agit.
+**B. Chapitre Premier : Comptes Spéciaux en Devises et Comptes Spéciaux en Dinars Convertibles**
+**I. Conditions d'ouverture :**
 Les personnes physiques de nationalité tunisienne ou étrangère et les personnes morales étrangères pour leurs établissements en Tunisie ont la possibilité de se faire ouvrir auprès d'intermédiaires agréés, des comptes spéciaux en devises convertibles ou en dinars convertibles. L'ouverture de ces comptes est subordonnée à la seule condition de la justification de l'accomplissement auprès de la Banque Centrale de Tunisie de la déclaration prévue par les articles 16 et 18 du code des changes et du commerce extérieur et de l'article 16 de la loi n° 86-83 du 1er septembre 1986, portant loi de finances rectificative pour l'année 1986, sauf pour ce qui concerne les personnes physiques de nationalité étrangère non soumises à cette obligation.
 **II. Règles de fonctionnement**
-
-=== CHUNK 4 | PDF: av210487.pdf | Page: -1 | Titre_Gemma: **Crédits des Comptes Spéciaux en Devises Convertibles** ===
-Loi : Non spécifié
-Chapitre : Non spécifié
-Titre : Non spécifié
-Section : Non spécifié
-Sous-section : Non spécifié
-Article : Non spécifié
-**SECTION I : Comptes spéciaux en "devises convertibles"**
-**A. - Opérations au crédit :**
-1) Les comptes spéciaux en " devises convertibles " peuvent être crédités sans autorisation préalable :
-*   des versements de devises convertibles provenant des revenus ou produits des avoirs à l'étranger ainsi que des avoirs en devises à l'étranger déclarés à la Banque Centrale de Tunisie conformément aux articles 16 et 18 du code des changes et du commerce extérieur et l'article 16 de la loi n° 86-83 du 1er septembre 1986 portant loi de finances rectificative pour l'année 1986.
+**SECTION I : Comptes Spéciaux en "Devises Convertibles"**
+**A. Opérations au Crédit :**
+1.  Les comptes spéciaux en " devises convertibles " peuvent être crédités sans autorisation préalable :
+*   Des versements de devises convertibles provenant des revenus ou produits des avoirs à l'étranger ainsi que des avoirs en devises à l'étranger déclarés à la Banque Centrale de Tunisie conformément aux articles 16 et 18 du code des changes et du commerce extérieur et de l'article 16 de la loi n° 86-83 du 1er septembre 1986 portant loi de finances rectificative pour l'année 1986.
 *   Le versement des billets de banques étrangers est effectué au vu d'une déclaration d'importation visée par la douane.
-*   des sommes provenant de la clôture d'un compte étranger en " devises " ou en " dinars convertibles " du titulaire du compte.
-*   des sommes provenant d'un autre compte spécial en " devise " ou en " dinars convertibles ".
-*   des intérêts produits par les sommes déposées dans le compte si elles sont employées par l'intermédiaire agréé à un taux rémunérateur, dans les conditions fixées par circulaire de la Banque Centrale.
-2) Toute autre inscription au crédit du compte est soumise à l'autorisation de la Banque Centrale de Tunisie.
-**B. - Opérations au débit :**
-1) Les comptes spéciaux en " devises convertibles " peuvent être débités sans autorisation préalable :
-*   de la cession desdites devises à la Banque Centrale de Tunisie.
-*   pour tout règlement à l'étranger.
-*   pour la remise de toutes devises étrangères au titulaire du compte, pour effectuer un voyage à l'étranger.
-*   pour le crédit d'un autre compte spécial en devises ou en dinars convertibles.
-2) Toute autre opération effectuée au profit d'un résident est soumise à l'autorisation de la Banque Centrale de Tunisie étant entendu qu'en aucun cas le compte ne peut être rendu débiteur.
-
-=== CHUNK 5 | PDF: av210487.pdf | Page: -1 | Titre_Gemma: **Crédits des comptes spéciaux en dinars convertibles** ===
-Loi : Non spécifié
-Chapitre : Non spécifié
-Titre : Non spécifié
-Section : Non spécifié
-Sous-section : Non spécifié
-Article : Non spécifié
-**SECTION II : Comptes spéciaux en "dinars convertibles"**
-**A. - Opérations au crédit :**
-1) Les comptes spéciaux en " dinars convertibles " peuvent être crédités sans autorisation préalable :
-*   du produit en dinars de la cession à la Banque Centrale de Tunisie de devises convertibles provenant des revenus ou produits des avoirs à l'étranger déclarés à la Banque Centrale de Tunisie conformément aux articles 16 et 18 du code des changes et du commerce extérieur et de larticle 16 de la loi n° 86-83 du 1er septembre 1986 portant loi de finances rectificative pour lannée 1986.
-*   La cession des billets de banques étrangers est effectuée au vu d'une déclaration dimportation visée par la douane.
-*   des sommes provenant de la clôture dun compte étranger en devises ou en dinars convertibles du titulaire du compte.
-*   des sommes provenant dun autre compte spécial en devises ou en dinars convertibles.
-*   des intérêts produits par les sommes déposées dans le compte si elles sont employées par lintermédiaire agréé à un taux rémunérateur, dans les conditions fixées par circulaire de la Banque Centrale.
-2) Toute autre inscription au crédit du compte est soumise à lautorisation de la Banque Centrale de Tunisie.
-**B. - Opérations au débit :**
-1)Les comptes spéciaux en " dinars convertibles " peuvent être débités sans autorisation préalable :
-*   pour tout règlement en Tunisie;
-*   en vue de l'achat de toutes devises étrangères à la Banque Centrale de Tunisie pour :
-*   effectuer tout règlement à l'étranger.
-*   être remise au titulaire du compte pour effectuer un
-voyage à l'étranger;
-*   pour le crédit d'un compte spécial en devises ou en dinars convertibles.
-2) Toute opération de transfert ou de remise de devises effectuée au profit dun résident est soumise à lautorisation de la Banque Centrale de Tunisie, étant entendu quil ne peut être en aucun cas rendu débiteur.
-
-=== CHUNK 6 | PDF: av210487.pdf | Page: -1 | Titre_Gemma: **Comptes Professionnels en Devises** ===
-Loi : Non spécifié
-Chapitre : Non spécifié
-Titre : Non spécifié
-Section : Non spécifié
-Sous-section : Non spécifié
-Article : Non spécifié
-**CHAPITRE II : Comptes professionnels en devises ou comptes professionnels en dinars convertibles**
+*   Des sommes provenant de la clôture d'un compte étranger en " devises " ou en " dinars convertibles " du titulaire du compte.
+*   Des sommes provenant d'un autre compte spécial en " devise " ou en " dinars convertibles ".
+*   Des intérêts produits par les sommes déposées dans le compte si elles sont employées par l'intermédiaire agréé à un taux rémunérateur, dans les conditions fixées par circulaire de la Banque Centrale.
+2.  Toute autre inscription au crédit du compte est soumise à l'autorisation de la Banque Centrale de Tunisie.
+**B. Opérations au Débit :**
+1.  Les comptes spéciaux en " devises convertibles " peuvent être débités sans autorisation préalable :
+*   De la cession desdites devises à la Banque Centrale de Tunisie.
+*   Pour tout règlement à l'étranger.
+*   Pour la remise de toutes devises étrangères au titulaire du compte, pour effectuer un voyage à l'étranger.
+*   Pour le crédit d'un autre compte spécial en devises ou en dinars convertibles.
+2.  Toute autre opération effectuée au profit d'un résident est soumise à l'autorisation de la Banque Centrale de Tunisie étant entendu qu'en aucun cas le compte ne peut être rendu débiteur.
+**SECTION II : Comptes Spéciaux en "Dinars Convertibles"**
+**A. Opérations au Crédit :**
+1.  Les comptes spéciaux en " dinars convertibles " peuvent être crédités sans autorisation préalable :
+*   Du produit en dinars de la cession à la Banque Centrale de Tunisie de devises convertibles provenant des revenus ou produits des avoirs à l'étranger déclarés à la Banque Centrale de Tunisie conformément aux articles 16 et 18 du code des changes et du commerce extérieur et de larticle 16 de la loi n° 86-83 du 1er septembre 1986 portant loi de finances rectificative pour lannée 1986.
+*   La cession des billets de banques étrangers est effectuée au vu d'une déclaration d'importation visée par la douane.
+*   Des sommes provenant de la clôture dun compte étranger en devises ou en dinars convertibles du titulaire du compte.
+*   Des sommes provenant dun autre compte spécial en devises ou en dinars convertibles.
+*   Des intérêts produits par les sommes déposées dans le compte si elles sont employées par lintermédiaire agréé à un taux rémunérateur, dans les conditions fixées par circulaire de la Banque Centrale.
+2.  Toute autre inscription au crédit du compte est soumise à lautorisation de la Banque Centrale de Tunisie.
+**B. Opérations au Débit :**
+1.  Les comptes spéciaux en " dinars convertibles " peuvent être débités sans autorisation préalable :
+*   Pour tout règlement en Tunisie;
+*   En vue de l'achat de toutes devises étrangères à la Banque Centrale de Tunisie pour :
+*   Effectuer tout règlement à l'étranger.
+*   Être remise au titulaire du compte pour effectuer un voyage à l'étranger;
+*   Pour le crédit d'un compte spécial en devises ou en dinars convertibles.
+2.  Toute opération de transfert ou de remise de devises effectuée au profit dun résident est soumise à lautorisation de la Banque Centrale de Tunisie, étant entendu quil ne peut être en aucun cas rendu débiteur.
+**Chapitre II : Comptes Professionnels en Devises ou Comptes Professionnels en Dinars Convertibles**
 (*) Voir Circulaire de la BCT aux I.A. n° 93-14 du 15/9/1993.
 

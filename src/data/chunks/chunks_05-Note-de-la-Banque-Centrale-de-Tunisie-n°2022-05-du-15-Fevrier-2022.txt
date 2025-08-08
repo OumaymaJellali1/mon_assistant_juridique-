@@ -1,4 +1,4 @@
-=== CHUNK 1 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 6 | Titre_Gemma: **Définition des termes clés du RTGS Elyssa** ===
+=== CHUNK 1 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 6 | Titre_Gemma: **Définitions des termes clés du système RTGS Elyssa** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -60,7 +60,7 @@ aux dispositions des présentes conditions. Une copie de cette
 convention doit être adressée par les parties concernées à la BCT
 pour approbation et ce, un mois avant sa date de prise d’effet.
 
-=== CHUNK 2 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 8 | Titre_Gemma: **Transmissions et Représentation des Opérations** ===
+=== CHUNK 2 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 8 | Titre_Gemma: **Transfert des Opérations et Responsabilité du Règlement** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -74,7 +74,7 @@ responsable de leur règlement sur ses propres comptes.
 4.2. Un sous-participant ne peut être représenté que par un seul
 participant direct.
 
-=== CHUNK 3 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 8 | Titre_Gemma: **Lien technique sans compte à Elyssa-RTGS** ===
+=== CHUNK 3 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 8 | Titre_Gemma: **Lien technique et compte pivot avec Elyssa-RTGS.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -91,7 +91,7 @@ compte pivot à Elyssa-RTGS, dont la position doit être soldée à
 chaque fois que l’opération de règlement des soldes qui le
 concerne est effectuée.
 
-=== CHUNK 4 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 9 | Titre_Gemma: **Changement du régime de participation - Accord de la BCT** ===
+=== CHUNK 4 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 9 | Titre_Gemma: **Changement du régime de participation : Accord de la BCT** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE II : CONDITIONS DE LA PARTICIPATION A ELYSSA- RTGS
 Titre : Non spécifié
@@ -131,7 +131,7 @@ fonctionnement, surveillé et assuré la sécurité de l’infrastructure
 informatique nécessaire conformément aux spécifications
 techniques pour se connecter au système ou au réseau de la BCT.
 
-=== CHUNK 6 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 10 | Titre_Gemma: **Statuts des participants à Elyssa-RTGS** ===
+=== CHUNK 6 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 10 | Titre_Gemma: **Statuts des Participants à Elyssa-RTGS** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE II : CONDITIONS DE LA PARTICIPATION A ELYSSA- RTGS
 Titre : Non spécifié
@@ -164,7 +164,7 @@ peut pas être réactivé.
 rapporté aux autres Participants par un message en fonction de la
 configuration de leurs profils de notification
 
-=== CHUNK 7 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 10 | Titre_Gemma: **Refus d'adhésion et conditions de participation à Elyssa-RTGS** ===
+=== CHUNK 7 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 10 | Titre_Gemma: **Conditions d'adhésion et exclusion d'Elyssa-RTGS** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE II : CONDITIONS DE LA PARTICIPATION A ELYSSA- RTGS
 Titre : Non spécifié
@@ -198,7 +198,7 @@ paiement ou objet de procédures de dissolution et de
 liquidation telles que prévues par les dispositions de la loi n°
 2016-48 relative aux banques et aux établissement financiers.
 
-=== CHUNK 8 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 11 | Titre_Gemma: **Comptes de Règlement dans Elyssa-RTGS** ===
+=== CHUNK 8 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 11 | Titre_Gemma: **Comptes de règlement et autres comptes dans Elyssa-RTGS** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE PREMIER : SERVICES FOURNIS PAR ELYSSA-RTGS
 Titre : TITRE II : FONCTIONNEMENT DE ELYSSA-RTGS
@@ -245,7 +245,7 @@ les motifs dudit changement.
 10.11. La clôture d’un compte de règlement n’est possible que si le
 solde du compte est nul.
 
-=== CHUNK 9 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 13 | Titre_Gemma: **Elyssa-RTGS : Règles de fonctionnement et transactions.** ===
+=== CHUNK 9 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 13 | Titre_Gemma: **Elyssa-RTGS : Règlement et Opérations Bancaires** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE PREMIER : SERVICES FOURNIS PAR ELYSSA-RTGS
 Titre : TITRE II : FONCTIONNEMENT DE ELYSSA-RTGS
@@ -337,7 +337,7 @@ RTGS accepte la création de ces nouvelles opérations ainsi que
 leurs niveaux de priorité et leur imputation sur son compte de
 règlement.
 
-=== CHUNK 10 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 15 | Titre_Gemma: **Suivi des Opérations et Informations en Temps Réel sur Elyssa-RTGS** ===
+=== CHUNK 10 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 15 | Titre_Gemma: **Suivi des Opérations Elyssa-RTGS** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE II : REGLES DE GESTION DE ELYSSA-RTGS
 Titre : TITRE II : FONCTIONNEMENT DE ELYSSA-RTGS
@@ -363,7 +363,7 @@ journée.
 RTGS des demandes d’extraits de compte en cours de journée et
 recevoir la réponse en temps réel.
 
-=== CHUNK 11 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 16 | Titre_Gemma: **Horaires d'échange Elyssa-RTGS** ===
+=== CHUNK 11 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 16 | Titre_Gemma: **Horaires et Organisation des Échanges Elyssa-RTGS** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE II : REGLES DE GESTION DE ELYSSA-RTGS
 Titre : TITRE II : FONCTIONNEMENT DE ELYSSA-RTGS
@@ -387,7 +387,7 @@ jours ouvrés et non ouvrés. La BCT peut adapter ce calendrier à
 tout moment. Les participants sont informés des changements du
 calendrier.
 
-=== CHUNK 12 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 16 | Titre_Gemma: **Gestion des paiements dans Elyssa-RTGS** ===
+=== CHUNK 12 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 16 | Titre_Gemma: **Gestion des paiements et priorités dans Elyssa-RTGS** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE III : LIQUIDITES INTRAJOURALIERES FOURNIES DANS LE CADRE DE ELYSSA-RTGS
 Titre : TITRE II : FONCTIONNEMENT DE ELYSSA-RTGS
@@ -451,7 +451,7 @@ devises, ou autres),
 mode de la liquidité intrajournalière à adopter ainsi que tout
 changement de ce mode.
 
-=== CHUNK 14 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 18 | Titre_Gemma: **Représentation pour Accès aux Avances Intrajournalières** ===
+=== CHUNK 14 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 18 | Titre_Gemma: **Représentation pour l'accès aux avances intrajournalières à Elyssa-RTGS** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE III : LIQUIDITES INTRAJOURALIERES FOURNIES DANS LE CADRE DE ELYSSA-RTGS
 Titre : TITRE II : FONCTIONNEMENT DE ELYSSA-RTGS
@@ -536,7 +536,7 @@ remboursées par le rachat à titre définitif par la BCT des titres mis
 en pension et ce, conformément à la réglementation en vigueur en
 la matière.
 
-=== CHUNK 17 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 20 | Titre_Gemma: **Refinancement d'urgence par pensions intrajournalières** ===
+=== CHUNK 17 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 20 | Titre_Gemma: **Pensions Intrajournalières en Cas de Liquidité** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE III : LIQUIDITES INTRAJOURALIERES FOURNIES DANS LE CADRE DE ELYSSA-RTGS
 Titre : TITRE II : FONCTIONNEMENT DE ELYSSA-RTGS
@@ -599,7 +599,7 @@ remboursées par le rachat à titre définitif par la BCT des titres mis
 en pension et ce, conformément à la réglementation en vigueur en
 la matière.
 
-=== CHUNK 19 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 21 | Titre_Gemma: **Livraison contre paiement (LcP) et services d'Elyssa-RTGS** ===
+=== CHUNK 19 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 21 | Titre_Gemma: **Livraison contre Paiement (LcP) : Conditions et Modèles Acceptés par Elyssa-RTGS** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE IV : OBLIGATIONS DES PARTICIPANTS A ELYSSA-RTGS
 Titre : TITRE II : FONCTIONNEMENT DE ELYSSA-RTGS
@@ -629,7 +629,7 @@ Open market basées sur les titres négociables (achat/vente
 ferme de titres) et les opérations REPO (pensions livrées sur 7
 jours ou plus) sont traitées et réglées en mode LcP.
 
-=== CHUNK 20 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 22 | Titre_Gemma: **Conformité aux Règles et Spécifications d'Elyssa-RTGS** ===
+=== CHUNK 20 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 22 | Titre_Gemma: **Conformité réglementaire et exigences d'Elyssa-RTGS** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE IV : OBLIGATIONS DES PARTICIPANTS A ELYSSA-RTGS
 Titre : TITRE II : FONCTIONNEMENT DE ELYSSA-RTGS
@@ -660,7 +660,7 @@ crédit de son compte de règlement à Elyssa-RTGS.
 pour la prise en charge d’opérations d’un participant pour éviter
 les cas de blocage et par conséquent le risque systémique.
 
-=== CHUNK 21 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 22 | Titre_Gemma: **Responsabilité et gestion de la liquidité.** ===
+=== CHUNK 21 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 22 | Titre_Gemma: **Responsabilité et gestion de la liquidité des participants.** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE IV : OBLIGATIONS DES PARTICIPANTS A ELYSSA-RTGS
 Titre : TITRE II : FONCTIONNEMENT DE ELYSSA-RTGS
@@ -700,7 +700,7 @@ file d’attente jusqu’à la fin de la journée.
 les liquidités intrajournalières accordées par la BCT soit par des
 pensions livrées intrajournalières ou par des avances intrajournalières.
 
-=== CHUNK 22 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 23 | Titre_Gemma: **Confidentialité des Informations** ===
+=== CHUNK 22 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 23 | Titre_Gemma: **Obligation de confidentialité** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE IV : OBLIGATIONS DES PARTICIPANTS A ELYSSA-RTGS
 Titre : TITRE II : FONCTIONNEMENT DE ELYSSA-RTGS
@@ -735,7 +735,7 @@ reporting pour s’assurer du respect des présentes conditions et
 exigences et notamment les mesures prises pour la gestion des
 risques opérationnels, de liquidité intrajournalières et de crédit.
 
-=== CHUNK 24 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 24 | Titre_Gemma: **Défaut Opérationnel et Préparation aux Risques Opérationnels** ===
+=== CHUNK 24 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 24 | Titre_Gemma: **Défaut Opérationnel et Préparation aux Risques** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE V : GESTION DES DEFAUTS
 Titre : TITRE II : FONCTIONNEMENT DE ELYSSA-RTGS
@@ -792,7 +792,7 @@ qu’elle juge utiles et sécurisées de la défaillance de la plateforme
 et/ou un évènement extérieur exceptionnel ainsi que des
 traitements nécessaires à l’effet.
 
-=== CHUNK 25 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 25 | Titre_Gemma: **Surveillance et gestion des files d'attente et liquidités** ===
+=== CHUNK 25 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 25 | Titre_Gemma: **Surveillance et gestion des blocages de files d'attente** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE VI : TARIFICATION DANS LE CADRE DE ELYSSA-RTGS
 Titre : TITRE II : FONCTIONNEMENT DE ELYSSA-RTGS
@@ -816,7 +816,7 @@ prévue par la loi n° 2016-48 relative aux banques et
 établissements financiers et compte tenu des dispositions de cette
 loi.
 
-=== CHUNK 26 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 26 | Titre_Gemma: **Facturation des services Elyssa-RTGS** ===
+=== CHUNK 26 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 26 | Titre_Gemma: **Frais et Tarification de Elyssa-RTGS** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE VI : TARIFICATION DANS LE CADRE DE ELYSSA-RTGS
 Titre : TITRE II : FONCTIONNEMENT DE ELYSSA-RTGS
@@ -854,7 +854,7 @@ mensuellement.
 des messages envoyés à Elyssa-RTGS en son nom par le
 participant direct qui le représente.
 
-=== CHUNK 28 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 27 | Titre_Gemma: **Répartition des frais d'infrastructure** ===
+=== CHUNK 28 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 27 | Titre_Gemma: **Répartition des frais d'utilisation de l'infrastructure** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE VI : TARIFICATION DANS LE CADRE DE ELYSSA-RTGS
 Titre : TITRE II : FONCTIONNEMENT DE ELYSSA-RTGS
@@ -871,7 +871,7 @@ de l’infrastructure est calculée sur la base du coût de
 l’infrastructure et du flux des messages envoyés au système par
 chaque participant.
 
-=== CHUNK 29 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 27 | Titre_Gemma: **Frais de messages Elyssa-RTGS** ===
+=== CHUNK 29 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 27 | Titre_Gemma: **Frais de messages Elyssa-RTGS : Paiement et Autorisation** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE VI : TARIFICATION DANS LE CADRE DE ELYSSA-RTGS
 Titre : TITRE II : FONCTIONNEMENT DE ELYSSA-RTGS
@@ -885,7 +885,7 @@ le réseau SWIFT.
 mensuellement à concurrence des frais des messages payés à sa
 place à la société SWIFT.
 
-=== CHUNK 30 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 27 | Titre_Gemma: **Modifications et Non-Cession des Conditions d'Utilisation** ===
+=== CHUNK 30 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 27 | Titre_Gemma: **Modifications des Conditions d'Utilisation** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE VI : TARIFICATION DANS LE CADRE DE ELYSSA-RTGS
 Titre : TITRE III : DISPOSITIONS DIVERSES
@@ -945,7 +945,7 @@ Brut en Temps Réel et leurs obligations pour le règlement efficace et
 sécurisé des soldes de compensation et ce, dans le respect de la
 réglementation en vigueur.
 
-=== CHUNK 32 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 32 | Titre_Gemma: **Définitions des termes clés dans les conditions d'utilisation d'Elyssa-RTGS** ===
+=== CHUNK 32 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 32 | Titre_Gemma: **Définitions des termes clés relatifs à Elyssa-RTGS** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE VI : TARIFICATION DANS LE CADRE DE ELYSSA-RTGS
 Titre : TITRE III : DISPOSITIONS DIVERSES
@@ -986,7 +986,7 @@ doit transmettre l’ensemble de ses opérations vers un
 participant direct qui est responsable de leur règlement sur ses
 propres comptes.
 
-=== CHUNK 33 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 34 | Titre_Gemma: **Rôles des participants à Elyssa-RTGS** ===
+=== CHUNK 33 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 34 | Titre_Gemma: **Rôles dans Elyssa-RTGS** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE VI : TARIFICATION DANS LE CADRE DE ELYSSA-RTGS
 Titre : TITRE III : DISPOSITIONS DIVERSES
@@ -1000,7 +1000,7 @@ participant technique.
 participant technique tel que défini par l’article premier des
 présentes conditions.
 
-=== CHUNK 34 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 34 | Titre_Gemma: **Adhésion à Elyssa-RTGS : Conditions d'accès et exigences techniques** ===
+=== CHUNK 34 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 34 | Titre_Gemma: **Adhésion et conditions d'accès à Elyssa-RTGS** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE II : SERVICES FOURNIS PAR ELYSSA-RTGS
 Titre : TITRE III : DISPOSITIONS DIVERSES
@@ -1018,7 +1018,7 @@ fonctionnement, surveillé et assuré la sécurité de l’infrastructure
 informatique nécessaire conformément aux spécifications
 techniques pour se connecter au système ou au réseau de la BCT.
 
-=== CHUNK 35 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 34 | Titre_Gemma: **Elyssa-RTGS : Gestion des soldes et comptes** ===
+=== CHUNK 35 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 34 | Titre_Gemma: **Soldes et comptes au sein d'Elyssa-RTGS** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE II : SERVICES FOURNIS PAR ELYSSA-RTGS
 Titre : TITRE III : DISPOSITIONS DIVERSES
@@ -1038,7 +1038,7 @@ la BCT d’un compte pivot à Elyssa-RTGS, dont la position doit être
 soldée à chaque fois que l’opération de déversement des soldes qui
 le concerne est effectuée.
 
-=== CHUNK 36 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 34 | Titre_Gemma: **Règles d'imputation des soldes de compensation** ===
+=== CHUNK 36 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 34 | Titre_Gemma: **Règles d'Imputation des Soldes de Compensation** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE II : SERVICES FOURNIS PAR ELYSSA-RTGS
 Titre : TITRE III : DISPOSITIONS DIVERSES
@@ -1072,7 +1072,7 @@ accepte la création de ces nouvelles opérations ainsi que leurs
 niveaux de priorité et leur imputation sur son compte de
 règlement.
 
-=== CHUNK 37 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 35 | Titre_Gemma: **Plateforme Technique d'Échange de Données** ===
+=== CHUNK 37 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 35 | Titre_Gemma: Plateforme technique d'échange de messages de la BCT. ===
 Loi : Non spécifié
 Chapitre : CHAPITRE III : REGLES DE GESTION DE ELYSSA-RTGS
 Titre : TITRE III : DISPOSITIONS DIVERSES
@@ -1104,7 +1104,7 @@ de sa réception par le nœud central de ELYSSA-RTGS.
 8.4. ELYSSA-RTGS comprend un plan de gestion flexible des priorités
 qui peuvent aller jusqu’à 100 niveaux.
 
-=== CHUNK 39 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 36 | Titre_Gemma: **Horaires et Opérations de la Journée d'Échange ELYSSA-RTGS** ===
+=== CHUNK 39 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 36 | Titre_Gemma: **Horaires et Plages d'Échange ELYSSA-RTGS** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE IV : LIQUIDITES INTRAJOURALIERES FOURNIES DANS LE CADRE DE ELYSSA-RTGS
 Titre : TITRE III : DISPOSITIONS DIVERSES
@@ -1128,7 +1128,7 @@ jours ouvrés et non ouvrés. La BCT peut adapter ce calendrier à
 tout moment. Les systèmes exogènes restent informés des
 changements du calendrier.
 
-=== CHUNK 40 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 37 | Titre_Gemma: **Liquidités Intraday et Systèmes Exogènes** ===
+=== CHUNK 40 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 37 | Titre_Gemma: **Liquidités Intrajournalières et Systèmes Exogènes (ELYSSA-RTGS)** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE IV : LIQUIDITES INTRAJOURALIERES FOURNIES DANS LE CADRE DE ELYSSA-RTGS
 Titre : TITRE III : DISPOSITIONS DIVERSES
@@ -1165,7 +1165,7 @@ devises, ou autres),
 mode de la liquidité intrajournalière à adopter ainsi que tout
 changement de ce mode.
 
-=== CHUNK 42 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 37 | Titre_Gemma: **Accords de représentation pour avances intrajournalières dans Elyssa-RTGS** ===
+=== CHUNK 42 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 37 | Titre_Gemma: **Convention de Représentation pour Avances Intrajournalières** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE IV : LIQUIDITES INTRAJOURALIERES FOURNIES DANS LE CADRE DE ELYSSA-RTGS
 Titre : TITRE III : DISPOSITIONS DIVERSES
@@ -1228,7 +1228,7 @@ o Démobilisation des collatéraux ;
 o Revalorisation quotidienne des collatéraux (titres,
 créances, devises, …).
 
-=== CHUNK 44 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 39 | Titre_Gemma: **Refinancement des avances intrajournalières non remboursées** ===
+=== CHUNK 44 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 39 | Titre_Gemma: **Refinancement des Avances Intrajournalières Non Remboursées** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE IV : LIQUIDITES INTRAJOURALIERES FOURNIES DANS LE CADRE DE ELYSSA-RTGS
 Titre : TITRE III : DISPOSITIONS DIVERSES
@@ -1250,7 +1250,7 @@ remboursées par le rachat à titre définitif par la BCT des titres mis
 en pension et ce, conformément à la réglementation en vigueur en
 la matière.
 
-=== CHUNK 45 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 39 | Titre_Gemma: **Pensions livrées intrajournalières en cas de manque de liquidité** ===
+=== CHUNK 45 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 39 | Titre_Gemma: **Pensions Livrées Intrajournalières : Modalités et Conditions** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE IV : LIQUIDITES INTRAJOURALIERES FOURNIES DANS LE CADRE DE ELYSSA-RTGS
 Titre : TITRE III : DISPOSITIONS DIVERSES
@@ -1349,7 +1349,7 @@ restitués au Bénéficiaire par TUNISIE CLEARING que sur instruction
 de la BCT (Elyssa-RTGS) et après remboursement des pensions
 livrées en question.
 
-=== CHUNK 48 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 42 | Titre_Gemma: **Conformité du Système Exogène à Elyssa-RTGS** ===
+=== CHUNK 48 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 42 | Titre_Gemma: **Conformité du système exogène à Elyssa-RTGS** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE V : OBLIGATIONS DES SYSTEMES EXOGENES
 Titre : TITRE III : DISPOSITIONS DIVERSES
@@ -1368,7 +1368,7 @@ l’annexe III des présentes conditions.
 18.3. Le système exogène doit respecter toutes les exigences de
 sécurité de Elyssa-RTGS.
 
-=== CHUNK 49 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 42 | Titre_Gemma: **Exigences pour les Systèmes Exogènes** ===
+=== CHUNK 49 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 42 | Titre_Gemma: **Exigences de Continuité des Paiements** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE V : OBLIGATIONS DES SYSTEMES EXOGENES
 Titre : TITRE III : DISPOSITIONS DIVERSES
@@ -1381,7 +1381,7 @@ et éviter les rejets des messages envoyés.
 19.2. Le système exogène doit se doter d’un PCA formalisé et
 régulièrement testé pour assurer la continuité des paiements.
 
-=== CHUNK 50 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 42 | Titre_Gemma: **Confidentialité des informations** ===
+=== CHUNK 50 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 42 | Titre_Gemma: **Confidentialité des Informations** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE V : OBLIGATIONS DES SYSTEMES EXOGENES
 Titre : TITRE III : DISPOSITIONS DIVERSES
@@ -1393,7 +1393,7 @@ les informations, documents, méthodes, procédés et savoir-faire
 dont il aurait eu connaissance et qui lui auraient été
 communiqués.
 
-=== CHUNK 51 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 42 | Titre_Gemma: **Obligations de Reporting pour les Systèmes Exogènes** ===
+=== CHUNK 51 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 42 | Titre_Gemma: **Obligations de Reporting pour la BCT** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE VI : GESTION DES DEFAUTS
 Titre : TITRE III : DISPOSITIONS DIVERSES
@@ -1412,7 +1412,7 @@ reporting pour s’assurer du respect des présentes conditions et
 exigences et notamment les mesures prises pour la gestion des
 risques opérationnels, de liquidité intrajournalières et de crédit.
 
-=== CHUNK 52 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 43 | Titre_Gemma: **Défaut opérationnel et exigences de Elyssa-RTGS** ===
+=== CHUNK 52 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 43 | Titre_Gemma: **Défaut opérationnel des systèmes exogènes dans le cadre d'Elyssa-RTGS** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE VII : DISPOSITIONS DIVERSES
 Titre : TITRE III : DISPOSITIONS DIVERSES
@@ -1460,7 +1460,7 @@ voies qu’elle juge utiles et sécurisées de la défaillance de la
 plateforme et/ou un évènement extérieur exceptionnel ainsi que
 des traitements nécessaires à l’effet.
 
-=== CHUNK 53 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 45 | Titre_Gemma: **Modifications des conditions générales** ===
+=== CHUNK 53 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 45 | Titre_Gemma: **Modifications des Conditions d'Utilisation** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE VII : DISPOSITIONS DIVERSES
 Titre : TITRE III : DISPOSITIONS DIVERSES
@@ -1541,7 +1541,7 @@ En cas d’indisponibilité de la plateforme du Participant, ce
 dernier peut utiliser la plateforme disponible au niveau de la
 Salle de secours informatique de Elyssa-RTGS.
 
-=== CHUNK 57 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 33 | Titre_Gemma: **Règles de fonctionnement et conditions de paiement sur Elyssa-RTGS** ===
+=== CHUNK 57 | PDF: 05-Note-de-la-Banque-Centrale-de-Tunisie-n°2022-05-du-15-Fevrier-2022.pdf | Page: 33 | Titre_Gemma: **Elyssa-RTGS : Termes et Conditions Techniques** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié

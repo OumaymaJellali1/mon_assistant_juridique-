@@ -1,4 +1,4 @@
-=== CHUNK 1 | PDF: de77608.pdf | Page: 1 | Titre_Gemma: **Opérations de Change et Définition des Opérations Courantes** ===
+=== CHUNK 1 | PDF: de77608.pdf | Page: 1 | Titre_Gemma: **Opérations de Change et Définitions d'Opérations Courantes avec l'Étranger** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE  PREMIER DISPOSITIONS  GENERALES
 Titre : TITRE  II DISPOSITIONS RELATIVES AU CONTROLE DES CHANGES
@@ -188,7 +188,7 @@ délégué aux intermédiaires agréés  au titre de frais de
 séjour à l'étranger pour tourisme, affaires, scolarité,
 formation professionnelle, stage et soins.
 
-=== CHUNK 2 | PDF: de77608.pdf | Page: 2 | Titre_Gemma: **Importation et Exportation** ===
+=== CHUNK 2 | PDF: de77608.pdf | Page: 2 | Titre_Gemma: **Importation/Exportation** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE  PREMIER DISPOSITIONS  GENERALES
 Titre : TITRE  II DISPOSITIONS RELATIVES AU CONTROLE DES CHANGES
@@ -199,7 +199,7 @@ l'importation et l'exportation matérielle de toute valeur
 mobilière, de tout instrument de paiement et de tout
 titre de créance ou de propriété.
 
-=== CHUNK 3 | PDF: de77608.pdf | Page: 2 | Titre_Gemma: **Importation et Exportation de Monnaies Étrangères et Valeurs Mobilières** ===
+=== CHUNK 3 | PDF: de77608.pdf | Page: 2 | Titre_Gemma: **Importation et échange de devises en Tunisie** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE  2 DETENTION ET NEGOCIATION DES DEVISES ET DES VALEURS MOBILIERES ETRANGERES SITUEES EN TUNISIE
 Titre : TITRE  II DISPOSITIONS RELATIVES AU CONTROLE DES CHANGES
@@ -253,7 +253,7 @@ article aux obligations qui se rattachent au statut de
 résident.
 Paragraphe premier Détention des devises et des valeurs mobilières  étrangères
 
-=== CHUNK 4 | PDF: de77608.pdf | Page: 3 | Titre_Gemma: **Déclaration des avoirs en devises en Tunisie** ===
+=== CHUNK 4 | PDF: de77608.pdf | Page: 3 | Titre_Gemma: **Déclaration des avoirs en devises** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE  2 DETENTION ET NEGOCIATION DES DEVISES ET DES VALEURS MOBILIERES ETRANGERES SITUEES EN TUNISIE
 Titre : TITRE  II DISPOSITIONS RELATIVES AU CONTROLE DES CHANGES
@@ -272,7 +272,7 @@ pas aux devises cédées à la Banque Centrale en
 application de l'article 25 ci-dessous.
 Paragraphe 2 Opérations sur devises
 
-=== CHUNK 5 | PDF: de77608.pdf | Page: 3 | Titre_Gemma: **Titres de créance étrangers** ===
+=== CHUNK 5 | PDF: de77608.pdf | Page: 3 | Titre_Gemma: **Opérations sur Titres de Créance Étrangers** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE  2 DETENTION ET NEGOCIATION DES DEVISES ET DES VALEURS MOBILIERES ETRANGERES SITUEES EN TUNISIE
 Titre : TITRE  II DISPOSITIONS RELATIVES AU CONTROLE DES CHANGES
@@ -293,7 +293,7 @@ sont fixées par circulaire de la Banque Centrale de
 Tunisie.
 Paragraphe 3 Opérations sur valeurs étrangères
 
-=== CHUNK 6 | PDF: de77608.pdf | Page: 3 | Titre_Gemma: **Acquisition de valeurs mobilières étrangères en Tunisie** ===
+=== CHUNK 6 | PDF: de77608.pdf | Page: 3 | Titre_Gemma: **Acquisition de valeurs mobilières étrangères.** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE  3 REGIME DES AVOIRS ETRANGERS EN TUNISIE
 Titre : TITRE  II DISPOSITIONS RELATIVES AU CONTROLE DES CHANGES
@@ -304,7 +304,7 @@ acquisition à titre onéreux ou gratuit autrement que par
 dévolution héréditaire de valeurs mobilières étrangères
 détenues sur le territoire tunisien.
 
-=== CHUNK 7 | PDF: de77608.pdf | Page: 3 | Titre_Gemma: **Autorisation des opérations bancaires pour les non-résidents en Tunisie** ===
+=== CHUNK 7 | PDF: de77608.pdf | Page: 3 | Titre_Gemma: **Autorisation des opérations financières pour les non-résidents en Tunisie** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE  4
 Titre : TITRE  II DISPOSITIONS RELATIVES AU CONTROLE DES CHANGES
@@ -456,7 +456,7 @@ en ce qui concerne les valeurs mobilières conférant un
 droit de vote.
 REGIME DES AVOIRS TUNISIENS A L'ETRANGER
 
-=== CHUNK 8 | PDF: de77608.pdf | Page: 5 | Titre_Gemma: **Déclaration d'avoirs à l'étranger : seuil et obligations** ===
+=== CHUNK 8 | PDF: de77608.pdf | Page: 5 | Titre_Gemma: **Déclaration des avoirs à l'étranger : seuil et obligations** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE  4
 Titre : TITRE  II DISPOSITIONS RELATIVES AU CONTROLE DES CHANGES
@@ -479,7 +479,7 @@ D mais répartis entre deux ou plusieurs intermédiaires
 agréés en fractions ne dépassant pas le montant sus-
 indiqué.
 
-=== CHUNK 9 | PDF: de77608.pdf | Page: 5 | Titre_Gemma: **Actes et opérations liés aux avoirs à l'étranger (Article 16)** ===
+=== CHUNK 9 | PDF: de77608.pdf | Page: 5 | Titre_Gemma: **Transactions financières avec l'étranger : Définition des opérations soumises à l'article 16.** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE  4
 Titre : TITRE  II DISPOSITIONS RELATIVES AU CONTROLE DES CHANGES
@@ -502,7 +502,7 @@ exerçant en Tunisie, ou des valeurs mobilières
 précédemment déposées à l'étranger sous dossier d'un
 intermédiaire exerçant en Tunisie.
 
-=== CHUNK 10 | PDF: de77608.pdf | Page: 5 | Titre_Gemma: **Actes soumis à l'article 16 du Code des Changes et du Commerce Extérieur** ===
+=== CHUNK 10 | PDF: de77608.pdf | Page: 5 | Titre_Gemma: **Actes Financiers à l'Étranger : Obligations des Résidents et Établissements en Tunisie** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE 5 CESSIONS  OBLIGATOIRES  DE  DEVISES A LA BANQUE CENTRALE DE TUNISIE
 Titre : TITRE  II DISPOSITIONS RELATIVES AU CONTROLE DES CHANGES
@@ -598,7 +598,7 @@ tenue de les rétrocéder à la Banque Centrale de Tunisie,
 sous réserve du dernier paragraphe de l’article 25 ci-
 dessus.
 
-=== CHUNK 11 | PDF: de77608.pdf | Page: 6 | Titre_Gemma: **Autorisation des règlements internationaux** ===
+=== CHUNK 11 | PDF: de77608.pdf | Page: 6 | Titre_Gemma: **Autorisation des règlements internationaux en Tunisie** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE 6
 Titre : TITRE  II DISPOSITIONS RELATIVES AU CONTROLE DES CHANGES
@@ -638,7 +638,7 @@ payement consentis par les exportateurs à leurs clients
 étrangers.
 Modalités  d'exécution
 
-=== CHUNK 13 | PDF: de77608.pdf | Page: 6 | Titre_Gemma: **Règles de remboursement de dettes étrangères.** ===
+=== CHUNK 13 | PDF: de77608.pdf | Page: 6 | Titre_Gemma: **Règles de paiement des créances étrangères en Tunisie** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE 6
 Titre : TITRE  II DISPOSITIONS RELATIVES AU CONTROLE DES CHANGES
@@ -654,7 +654,7 @@ devises par cession au créancier non-résident ou à sa
 banque de devises dont l'acquisition a été préalablement
 autorisée .
 
-=== CHUNK 14 | PDF: de77608.pdf | Page: 6 | Titre_Gemma: **Opérations de change pour les étrangers en Tunisie** ===
+=== CHUNK 14 | PDF: de77608.pdf | Page: 6 | Titre_Gemma: **Rapatriement de devises par les étrangers en Tunisie** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE 6
 Titre : TITRE  II DISPOSITIONS RELATIVES AU CONTROLE DES CHANGES
@@ -670,7 +670,7 @@ devises, par rapatriement de devises en Tunisie et par
 leur cession à la Banque Centrale de Tunisie dans tous
 les cas où cette cession est prescrite.
 
-=== CHUNK 15 | PDF: de77608.pdf | Page: 6 | Titre_Gemma: **Opérations de change : Intermédiaires agréés requis.** ===
+=== CHUNK 15 | PDF: de77608.pdf | Page: 6 | Titre_Gemma: **Règlement des opérations de change avec des intermédiaires agréés.** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE 6
 Titre : TITRE  II DISPOSITIONS RELATIVES AU CONTROLE DES CHANGES
@@ -682,7 +682,7 @@ l'entremise des intermédiaires agréés (banques ou
 administration des Postes), selon des modalités fixées
 par un avis de change.
 
-=== CHUNK 16 | PDF: de77608.pdf | Page: 6 | Titre_Gemma: **Règlements exceptionnels** ===
+=== CHUNK 16 | PDF: de77608.pdf | Page: 6 | Titre_Gemma: **Règlements spécifiques internationaux** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE  7 CONTROLE DOUANIER DES CHANGES SECTION 1 EXPORTATION ET IMPORTATION MATERIELLES  DE VALEURS PAR LES VOYAGEURS
 Titre : TITRE  II DISPOSITIONS RELATIVES AU CONTROLE DES CHANGES
@@ -693,7 +693,7 @@ règlements entre la Tunisie et l'étranger effectués dans
 des conditions autres que celles qui sont prévues aux
 articles précédents.
 
-=== CHUNK 17 | PDF: de77608.pdf | Page: 6 | Titre_Gemma: **Déclaration et autorisation pour les objets précieux et titres lors de l'entrée/sortie de Tunisie.** ===
+=== CHUNK 17 | PDF: de77608.pdf | Page: 6 | Titre_Gemma: **Déclaration et autorisation de transport de matières précieuses et titres.** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE  7 CONTROLE DOUANIER DES CHANGES SECTION 1 EXPORTATION ET IMPORTATION MATERIELLES  DE VALEURS PAR LES VOYAGEURS
 Titre : TITRE  II DISPOSITIONS RELATIVES AU CONTROLE DES CHANGES
@@ -710,7 +710,7 @@ doivent d'autre part produire à ces services l'autorisation
 d'importation ou d'exportation qui a dû leur être
 délivrée, lorsqu'une telle autorisation est nécessaire.
 
-=== CHUNK 18 | PDF: de77608.pdf | Page: 7 | Titre_Gemma: **Importation/Exportation de valeurs mobilières pour transit tunisien.** ===
+=== CHUNK 18 | PDF: de77608.pdf | Page: 7 | Titre_Gemma: **Importation/Exportation de valeurs mobilières et or via la Tunisie pour les voyageurs.** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE  7 CONTROLE DOUANIER DES CHANGES SECTION 1 EXPORTATION ET IMPORTATION MATERIELLES  DE VALEURS PAR LES VOYAGEURS
 Titre : TITRE  II DISPOSITIONS RELATIVES AU CONTROLE DES CHANGES
@@ -727,7 +727,7 @@ rendant d'un pays étranger dans un autre, traversent sans
 y séjourner la Tunisie, à condition toutefois, que soit
 justifiée l'exportation à l'identique des valeurs importées.
 
-=== CHUNK 19 | PDF: de77608.pdf | Page: 7 | Titre_Gemma: **Obligation de Cession de Devises Étrangères en Tunisie** ===
+=== CHUNK 19 | PDF: de77608.pdf | Page: 7 | Titre_Gemma: **Obligation de conversion des devises étrangères en Tunisie.** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE  7 CONTROLE DOUANIER DES CHANGES SECTION 1 EXPORTATION ET IMPORTATION MATERIELLES  DE VALEURS PAR LES VOYAGEURS
 Titre : TITRE  II DISPOSITIONS RELATIVES AU CONTROLE DES CHANGES
@@ -758,7 +758,7 @@ conformément à l'article 14 ci-dessus et qu'ils n'ont pas
 encaissés ou n'ont encaissés que partiellement lors de
 leur séjour en Tunisie.
 
-=== CHUNK 21 | PDF: de77608.pdf | Page: 7 | Titre_Gemma: **Déclaration des instruments de paiement et titres à l'entrée et à la sortie de Tunisie.** ===
+=== CHUNK 21 | PDF: de77608.pdf | Page: 7 | Titre_Gemma: **Dépôt de documents financiers à la douane tunisienne.** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE  7 CONTROLE DOUANIER DES CHANGES SECTION 1 EXPORTATION ET IMPORTATION MATERIELLES  DE VALEURS PAR LES VOYAGEURS
 Titre : TITRE  II DISPOSITIONS RELATIVES AU CONTROLE DES CHANGES
@@ -775,7 +775,7 @@ vertu d'une autorisation particulière, sont constitués en
 dépôt dans la caisse des receveurs des douanes, sous
 réserve qu'ils aient été régulièrement déclarés.
 
-=== CHUNK 22 | PDF: de77608.pdf | Page: 7 | Titre_Gemma: **Restitution de dépôts en Tunisie** ===
+=== CHUNK 22 | PDF: de77608.pdf | Page: 7 | Titre_Gemma: **Restitution de biens en Tunisie** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE  7 CONTROLE DOUANIER DES CHANGES SECTION 1 EXPORTATION ET IMPORTATION MATERIELLES  DE VALEURS PAR LES VOYAGEURS
 Titre : TITRE  II DISPOSITIONS RELATIVES AU CONTROLE DES CHANGES
@@ -804,7 +804,7 @@ déposant lui-même lors de sa sortie en Tunisie, soit sur
 instruction écrite du déposant, à un mandataire non-
 résident.
 
-=== CHUNK 24 | PDF: de77608.pdf | Page: 7 | Titre_Gemma: **Exportation de matières d'or et titres par voie postale en Tunisie.** ===
+=== CHUNK 24 | PDF: de77608.pdf | Page: 7 | Titre_Gemma: **Exportation de matières d'or et titres par voie postale** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE  7 CONTROLE DOUANIER DES CHANGES SECTION 1 EXPORTATION ET IMPORTATION MATERIELLES  DE VALEURS PAR LES VOYAGEURS
 Titre : TITRE  II DISPOSITIONS RELATIVES AU CONTROLE DES CHANGES
@@ -825,7 +825,7 @@ et fermé en présence des représentants de celle-ci après
 vérification du contenu et présentation par l'expéditeur
 de son autorisation d'exportation.
 
-=== CHUNK 25 | PDF: de77608.pdf | Page: 7 | Titre_Gemma: **Importation de matières d'or et titres de créance en Tunisie** ===
+=== CHUNK 25 | PDF: de77608.pdf | Page: 7 | Titre_Gemma: **Importation de matières d'or et valeurs mobilières en Tunisie** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE  7 CONTROLE DOUANIER DES CHANGES SECTION 1 EXPORTATION ET IMPORTATION MATERIELLES  DE VALEURS PAR LES VOYAGEURS
 Titre : TITRE  II DISPOSITIONS RELATIVES AU CONTROLE DES CHANGES
@@ -845,7 +845,7 @@ de l'autorisation d'importation prévue à l'alinéa
 précédent. L'administration des douanes est habilitée à
 contrôler l'exécution de ces prescriptions.
 
-=== CHUNK 26 | PDF: de77608.pdf | Page: 7 | Titre_Gemma: **Fausses déclarations et évasion fiscale.** ===
+=== CHUNK 26 | PDF: de77608.pdf | Page: 7 | Titre_Gemma: **Sanctions pour fausses déclarations et évasion fiscale.** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE  7 CONTROLE DOUANIER DES CHANGES SECTION 1 EXPORTATION ET IMPORTATION MATERIELLES  DE VALEURS PAR LES VOYAGEURS
 Titre : TITRE  II DISPOSITIONS RELATIVES AU CONTROLE DES CHANGES
@@ -859,7 +859,7 @@ obligations instituées par le présent décret, sont
 passibles des pénalités prévues par le code des changes
 et du commerce extérieur.
 
-=== CHUNK 27 | PDF: de77608.pdf | Page: 7 | Titre_Gemma: **Utilisation irrégulière des devises allouées par la BCT** ===
+=== CHUNK 27 | PDF: de77608.pdf | Page: 7 | Titre_Gemma: **Utilisation irrégulière des devises allouées par la Banque Centrale de Tunisie.** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE  7 CONTROLE DOUANIER DES CHANGES SECTION 1 EXPORTATION ET IMPORTATION MATERIELLES  DE VALEURS PAR LES VOYAGEURS
 Titre : TITRE  II DISPOSITIONS RELATIVES AU CONTROLE DES CHANGES
@@ -877,7 +877,7 @@ utilisée de l'allocation qui lui avait été consentie.
 allouées par la Banque Centrale de Tunisie à d'autres
 fins que celles pour lesquelles elles ont été délivrées.
 
-=== CHUNK 28 | PDF: de77608.pdf | Page: 7 | Titre_Gemma: **Responsabilité des Autoriséants** ===
+=== CHUNK 28 | PDF: de77608.pdf | Page: 7 | Titre_Gemma: **Obligations de régularité et de communication.** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE UNIQUE DISPOSITIONS  DIVERSES
 Titre : TITRE  III
@@ -892,7 +892,7 @@ Ils sont tenus de fournir à ces autorités dans les
 conditions et aux dates fixées par celles-ci, un relevé de
 ces opérations ou autorisations.
 
-=== CHUNK 29 | PDF: de77608.pdf | Page: 8 | Titre_Gemma: **Obligations de déclaration et de contrôle des transactions en devises en Tunisie.** ===
+=== CHUNK 29 | PDF: de77608.pdf | Page: 8 | Titre_Gemma: **Obligation de déclaration et de présentation de comptabilité en matière de change.** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE UNIQUE DISPOSITIONS  DIVERSES
 Titre : TITRE  III
@@ -912,7 +912,7 @@ des Finances, à l'obligation de déclarer à la Banque
 Centrale de Tunisie les opérations effectuées par leur
 entremise et soumises à la réglementation des changes.
 
-=== CHUNK 30 | PDF: de77608.pdf | Page: 8 | Titre_Gemma: **Droit à l'obtention de concours publics.** ===
+=== CHUNK 30 | PDF: de77608.pdf | Page: 8 | Titre_Gemma: **Droit à la communication administrative.** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE UNIQUE DISPOSITIONS  DIVERSES
 Titre : TITRE  III
@@ -924,7 +924,7 @@ concours de toutes les administrations publiques et
 notamment de celles qui, au terme de la législation en
 vigueur, disposent du droit de communication.
 
-=== CHUNK 31 | PDF: de77608.pdf | Page: 8 | Titre_Gemma: **Application des lois existantes** ===
+=== CHUNK 31 | PDF: de77608.pdf | Page: 8 | Titre_Gemma: **Applicabilité des dispositions législatives.** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE UNIQUE DISPOSITIONS  DIVERSES
 Titre : TITRE  III
@@ -935,7 +935,7 @@ application des dispositions reprises ou abrogées par le
 présent texte continueront à être appliqués jusqu'à ce
 qu'ils soient remplacés par des textes de même objet.
 
-=== CHUNK 32 | PDF: de77608.pdf | Page: 8 | Titre_Gemma: **Abrogation de la Prohibition des Dinars en Billets de Banque** ===
+=== CHUNK 32 | PDF: de77608.pdf | Page: 8 | Titre_Gemma: Abrogation de la loi de 1976 sur les dinars. ===
 Loi : Non spécifié
 Chapitre : CHAPITRE UNIQUE DISPOSITIONS  DIVERSES
 Titre : TITRE  III

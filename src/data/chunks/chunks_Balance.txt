@@ -1,4 +1,4 @@
-=== CHUNK 1 | PDF: Balance.pdf | Page: 1 | Titre_Gemma: **Balance des paiements et position extérieure de la Tunisie - Décembre 2024** ===
+=== CHUNK 1 | PDF: Balance.pdf | Page: 1 | Titre_Gemma: **Balance des paiements de la Tunisie : Décembre 2024** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -965,7 +965,7 @@ fort ralentissement du secteur de la construction et de l'industrie manufacturi�
 en Italie, elle a accusé un fort ralentissement (+0,7% en 2023 contre +4,7% en 2022), sous l’effet de la
 3,5 3,4 3,5 3,4 3,3 3,8 3,6 2,9 -2,7 6,6 3,6 3,3 3,2 1,2 1,4 2,0 2,3 1,8 2,6 2,3 1,9 -4,0 6,0 2,9 1,7 1,8 5,4 5,0 4,7 4,3 4,4 4,8 4,7 3,7 -1,8 7,0 4,0 4,4 4,2 -6 -4 -2 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024* Monde Pays développés Pays émergents et en développement ( En %)
 
-=== CHUNK 3 | PDF: Balance.pdf | Page: 14 | Titre_Gemma: **Croissance Économique Mondiale : Prévisions FMI (2019-2024)** ===
+=== CHUNK 3 | PDF: Balance.pdf | Page: 14 | Titre_Gemma: **Croissance économique mondiale : Prévisions du FMI (2019-2024)** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -995,7 +995,7 @@ régionaux et la poursuite des tensions géopolitiques constituent des risques m
 commerciaux dans le monde.
 1 Perspectives de l’économie mondiale, octobre 2024.
 
-=== CHUNK 4 | PDF: Balance.pdf | Page: 15 | Titre_Gemma: **Baisse des Prix des Produits de Base en 2023** ===
+=== CHUNK 4 | PDF: Balance.pdf | Page: 15 | Titre_Gemma: **Baisse des prix internationaux des produits de base en 2023** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -1041,7 +1041,7 @@ solde courant a connu une amélioration notable, passant d’un déficit de 45 m
 1 Pour lutter contre l’inflation, la Réserve fédérale a relevé ses taux à onze reprises entre mars 2022 et juillet 2023.
 3,0 3,5 3,8 2,9 2,2 5,5 4,0 1,2 -8,5 10,8 5,7 0,8 3,1 -10 -5 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024* ( En %)
 
-=== CHUNK 5 | PDF: Balance.pdf | Page: 16 | Titre_Gemma: **Balance Courante des Principaux Économies en 2022-2023** ===
+=== CHUNK 5 | PDF: Balance.pdf | Page: 16 | Titre_Gemma: **Excédents et Déficits Commerciaux : Analyse de 2022-2023** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -1096,7 +1096,7 @@ dollars en 2023, soit 34,9% du total des IDE mondiaux (contre 426 milliards de d
 et 31,4% respectivement). En particulier, les IDE au profit des pays européens se sont notablement
 redressés pour s’établir à 16 milliards de dollars (contre des sorties nettes de 106 milliards de dollars
 
-=== CHUNK 6 | PDF: Balance.pdf | Page: 18 | Titre_Gemma: **Bourses mondiales en 2023 : Performances et tendances** ===
+=== CHUNK 6 | PDF: Balance.pdf | Page: 18 | Titre_Gemma: **Performance boursière mondiale en 2023** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -1191,7 +1191,7 @@ principal d'assurer la stabilité des prix.
 2 Compte tenu des traitements et des ajustements statistiques effectués sur les données douanières et ce, conformément aux
 exigences du MBP6 du FMI (reclassements et passage de la version FOB-CAF à FOB-FOB).
 
-=== CHUNK 8 | PDF: Balance.pdf | Page: 20 | Titre_Gemma: **Gestion des avoirs et endettement extérieur en 2023** ===
+=== CHUNK 8 | PDF: Balance.pdf | Page: 20 | Titre_Gemma: **Performance Financière et Dette Extérieure en 2023** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -1209,7 +1209,7 @@ extérieure à long terme (+34,4% en 2023). De son côté, le coefficient du ser
 LT en pourcentage des recettes courantes a progressé de 2,3 points de pourcentage pour se situer à 16,2%
 en 2023.
 
-=== CHUNK 9 | PDF: Balance.pdf | Page: 22 | Titre_Gemma: **Performance des paiements externes tunisiens en 2023** ===
+=== CHUNK 9 | PDF: Balance.pdf | Page: 22 | Titre_Gemma: **Situation des paiements extérieurs de la Tunisie en 2023** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -1224,7 +1224,7 @@ Exportations (FOB) 62,1 Mrds dinars (+7,9%) Importations (CAF) 79,1 Mrds dinars 
 1 Selon la méthodologie adoptée par l'Institut National de la Statistique dans ses publications relatives au commerce extérieur,
 conformément aux recommandations du manuel des statistiques du commerce international de marchandises (SCIM2010).
 
-=== CHUNK 10 | PDF: Balance.pdf | Page: 24 | Titre_Gemma: **Balance des paiements tunisienne : Évolution (2019-2023)** ===
+=== CHUNK 10 | PDF: Balance.pdf | Page: 24 | Titre_Gemma: **Balance des Paiements Tunisienne : Évolution (2019-2023)** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -1273,7 +1273,7 @@ de l'excédent de la balance des services (+21.220 MDT contre +16.839 MDT une an
 Toutefois, l’excédent de la balance des revenus (primaire et secondaire) s’est inscrit en repli (+3.396 MDT
 en 2023 contre +3.835 MDT une année auparavant).
 
-=== CHUNK 12 | PDF: Balance.pdf | Page: 27 | Titre_Gemma: **Évolution des échanges commerciaux tunisiens (2019-2023)** ===
+=== CHUNK 12 | PDF: Balance.pdf | Page: 27 | Titre_Gemma: **Évolution du commerce extérieur tunisien (2019-2023)** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -1298,7 +1298,7 @@ des ressources matérielles d’un pays en entrant sur son territoire économiqu
 "les biens à transformer avec ou sans changement de propriété".
 70,1 67,6 69,7 69,8 68,8 68,3 69,3 75,1 74,2 69,5 78,4 -60 -40 -20 -40000 -20000 20000 40000 60000 80000 100000 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 (En %) (En MDT) Exportations de biens Importations de biens Solde commercial Taux de couverture en %
 
-=== CHUNK 13 | PDF: Balance.pdf | Page: 28 | Titre_Gemma: **Balance Commerciale Tunisienne (2019-2023)** ===
+=== CHUNK 13 | PDF: Balance.pdf | Page: 28 | Titre_Gemma: **Balance Commerciale Tunisienne : Tendances et Analyse 2019-2023** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -1349,7 +1349,7 @@ Année 2022 217,2 239,9 227,7 182,6 181,8 196,1 194,2 Année 2023 200,6 231,5 17
 Année 2022 79,9 92,9 91,0 94,6 87,8 93,1 89,7 Année 2023 85,7 94,2 123,2 99,5 90,5 92,1 94,0 Evolution en % (23/22) 7,2 1,5 35,5 5,2 3,1 -1,0 4,7
 Source : BCT et INS
 
-=== CHUNK 15 | PDF: Balance.pdf | Page: 30 | Titre_Gemma: **Évolution des Exportations Tunisiennes par Secteur** ===
+=== CHUNK 15 | PDF: Balance.pdf | Page: 30 | Titre_Gemma: **Évolution des Exportations de la Tunisie par Secteur (2023)** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -1372,7 +1372,7 @@ marchés internationaux affectant notablement les ventes de D.A.P (-15,3%) et de
 (-46,9%). Pour les exportations du secteur de l’énergie, elles se sont repliées de 16,2% en relation avec
 la baisse des produits raffinés de pétrole (-29,5%).
 
-=== CHUNK 16 | PDF: Balance.pdf | Page: 31 | Titre_Gemma: **Évolution des échanges commerciaux tunisiens (2019-2023)** ===
+=== CHUNK 16 | PDF: Balance.pdf | Page: 31 | Titre_Gemma: **Évolution des échanges commerciaux de la Tunisie (2019-2023)** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -1437,7 +1437,7 @@ l’effet prix net positif estimé à 8.206 MDT résultant pour l’essentiel du
 Tableau 13 : Variation des échanges commerciaux par type d’effet en 2023 par rapport à 2022
 (En MDT) Flux Effet volume Effet prix Effet change Variation 2023/2022 Exportations 4.222 -1.061 1.359 4.520 Importations CAF 4.307 -9.266 1.317 -3.643 Solde -85 8.206 8.162 Source : INS
 
-=== CHUNK 18 | PDF: Balance.pdf | Page: 38 | Titre_Gemma: **Revenus du Travail et Transferts en Tunisie (2019-2023)** ===
+=== CHUNK 18 | PDF: Balance.pdf | Page: 38 | Titre_Gemma: **Revenus du travail et transferts en Tunisie (2019-2023)** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -1486,7 +1486,7 @@ celui des investissements directs étrangers s’est davantage creusé (-2.299 M
 De leur côté, les avoirs de réserve se sont nettement consolidés en 2023 (+3.371 MDT contre
 -460 MDT une année auparavant).
 
-=== CHUNK 20 | PDF: Balance.pdf | Page: 40 | Titre_Gemma: **IDE en Tunisie : Tendance et Montant en 2023** ===
+=== CHUNK 20 | PDF: Balance.pdf | Page: 40 | Titre_Gemma: **IDE en Tunisie : Analyse des Flux et des Passifs (2019-2023)** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -1552,7 +1552,7 @@ unité institutionnelle
 (3) Y compris les allocations de DTS (2.076 MDT).
 Electrique et Electronique 44% Agro-Alimentaire 6% Mécanique, métallique et métallurgique 17% Plasturgie 9% Textile et Habillement 9% Matériaux de Construction 3% Industries diverses 6% Cuir et Chaussures 3% Chimie et Caoutchouc 1% Industrie pharmaceutique 2%
 
-=== CHUNK 22 | PDF: Balance.pdf | Page: 43 | Titre_Gemma: **Balance des Paiements de la Tunisie (2022-2023)** ===
+=== CHUNK 22 | PDF: Balance.pdf | Page: 43 | Titre_Gemma: Balance des paiements de la Tunisie (2022-2023) ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -1579,7 +1579,7 @@ Biens et services des administrations publiques
 Sociétés financières, société non financières,
 ménages et ISBLSM 8.146,8 924,2 7.222,6 8.136,1 944,6 7.191,5 Transferts personnels 7.647,5 96,7 7.550,8 7.655,7 154,5 7.501,2 dont : Envois de fonds des travailleurs 7.279,3 61,0 7.218,3 7.551,5 128,3 7.423,2 Autres transferts courants 499,3 827,5 -328,2 480,4 790,1 -309,7 Primes d'assurance 180,6 540,4 -359,8 150,3 560,2 -409,9 Indemnités d'assurance 43,0 235,5 -192,5 42,1 200,3 -158,2 Autres 275,7 51,6 224,1 29,6 258,4 2. Compte de capital 1.661,2 37,1 1.624,1 1.213,1 35,5 1.177,6
 
-=== CHUNK 23 | PDF: Balance.pdf | Page: 44 | Titre_Gemma: **Performance des investissements de la Tunisie (2022-2023)** ===
+=== CHUNK 23 | PDF: Balance.pdf | Page: 44 | Titre_Gemma: **Évolution des Investissements et des Passifs de la Tunisian Bank (2022-2023)** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -1595,7 +1595,7 @@ Institutions de dépôts autres que la banque
 centrale 0,0 43,5 -43,5 0,0 49,1 -49,1 Administrations publiques 0,0 -1.317,3 1.317,3 0,0 -2.164,6 2.164,6 3.3. Dérivés financiers 0,0 0,0 0,0 0,0 0,0 0,0 3.4. Autres investissements 206,8 8.288,2 -8.081,4 688,2 5.282,9 -4.594,7 Autres participations 14,9 0,0 14,9 62,3 0,0 62,3 Numéraire et dépôts -127,7 618,7 -746,4 495,3 1.570,9 -1.075,6 Banque centrale 0,0 449,8 -449,8 0,0 249,1 -249,1 A court terme 0,0 382,9 -382,9 0,0 132,7 -132,7 A long terme 0,0 66,9 -66,9 0,0 116,4 -116,4 Institutions de dépôts autres que la banque centrale -127,7 168,9 -296,6 495,3 1.321,8 -826,5 A court terme -127,7 168,9 -296,6 495,3 1.321,8 -826,5 Administrations publiques 0,0 0,0 0,0 0,0 0,0 0,0 Autres secteurs 0,0 0,0 0,0 0,0 0,0 0,0 Prêts à long terme 0,0 3.095,5 -3.095,5 0,0 59,4 -59,4 Banque centrale 0,0 -27,7 27,7 0,0 -17,8 17,8 Institutions de dépôts autres que la banque centrale 0,0 -461,2 461,2 0,0 -469,0 469,0 Administrations publiques 0,0 4.082,1 -4.082,1 0,0 1.389,8 -1.389,8 Autres secteurs 0,0 -497,7 497,7 0,0 -843,6 843,6 Crédits commerciaux et avances à court terme 312,7 4.543,5 -4.230,8 141,7 3.603,5 -3.461,8 Banque centrale 0,0 0,0 0,0 0,0 0,0 0,0 Institutions de dépôts autres que la banque centrale 0,0 0,0 0,0 0,0 0,0 0,0 Administrations publiques 0,0 0,0 0,0 0,0 0,0 0,0 Autres secteurs 312,7 4.543,5 -4.230,8 141,7 3.603,5 -3.461,8 Autres comptes à recevoir/ payer-autres à court terme 6,9 30,5 -23,6 -11,1 49,1 -60,2 Banque centrale 2,9 4,4 -1,5 0,5 1,7 -1,2 Institutions de dépôts autres que la banque centrale 4,0 26,1 -22,1 -11,6 47,4 -59,0 Administrations publiques 0,0 0,0 0,0 0,0 0,0 0,0 Autres secteurs 0,0 0,0 0,0 0,0 0,0 0,0 Droits de tirage spéciaux 0,0 0,0 0,0 0,0 0,0 0,0 3.5. Avoirs de réserve -460,5 - -460,5 3.371,1 0,0 3.371,1 Or monétaire 45,6 - 45,6 100,2 0,0 100,2 Droits de tirage spéciaux -11,2 - -11,2 -121,1 0,0 -121,1 Position de réserve au FMI 26,5 - 26,5 -8,4 0,0 -8,4 Autres avoirs de réserve -521,4 - -521,4 3.400,4 0,0 3.400,4
 Crédits Débits Soldes Crédits Débits Soldes 4. Opérations d’ajustement, erreurs et omissions nettes 1.588,6 - 1.588,6 1.010,1 0,0 1.010,1
 
-=== CHUNK 24 | PDF: Balance.pdf | Page: 45 | Titre_Gemma: **Balance des paiements de la Tunisie (2020-2021)** ===
+=== CHUNK 24 | PDF: Balance.pdf | Page: 45 | Titre_Gemma: **Balance des paiements tunisienne (2020-2021)** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -1622,7 +1622,7 @@ Biens et services des administrations publiques
 Sociétés financières, société non financières,
 ménages et ISBLSM 5.485,7 489,3 4.996,4 7.912,7 783,1 7.129,6 Transferts personnels 5.105,1 46,8 5.058,3 7.395,5 61,5 7.334,0 dont : Envois de fonds des travailleurs 4.969,0 43,1 4.925,9 7.097,7 48,4 7.049,3 Autres transferts courants 380,6 442,5 -61,9 517,2 721,6 -204,4 Primes d'assurance 124,8 243,7 -118,9 172,1 462,8 -290,7 Indemnités d'assurance 42,3 182,1 -139,8 39,2 227,1 -187,9 Autres 213,5 16,7 196,8 305,9 31,7 274,2 2. Compte de capital 1.048,8 22,0 1.026,8 646,6 29,1 617,5
 
-=== CHUNK 25 | PDF: Balance.pdf | Page: 46 | Titre_Gemma: **Évolution des Paiements Externes de la Tunisie (2020-2021)** ===
+=== CHUNK 25 | PDF: Balance.pdf | Page: 46 | Titre_Gemma: **Performance des paiements externes de la Tunisie (2020-2021)** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -1638,7 +1638,7 @@ Institutions de dépôts autres que la banque
 centrale 0,0 65,8 -65,8 0,0 44,4 -44,4 Administrations publiques 0,0 -2.009,2 2.009,2 0,0 -3.472,0 3.472,0 3.3. Dérivés financiers 0,0 0,0 0,0 0,0 0,0 0,0 3.4. Autres investissements -534,5 8.266,3 -8.800,8 260,4 8.394,7 -8.134,3 Autres participations 11,4 0,0 11,4 53,4 0,0 53,4 Numéraire et dépôts -613,0 576,1 -1.189,1 406,2 2.265,4 -1.859,2 Banque centrale 0,0 857,7 -857,7 0,0 1.442,4 -1.442,4 A court terme 0,0 812,9 -812,9 0,0 -70,0 70,0 A long terme 0,0 44,8 -44,8 0,0 1.512,4 -1.512,4 Institutions de dépôts autres que la banque centrale -613,0 -281,6 -331,4 406,2 823,0 -416,8 A court terme -613,0 -281,6 -331,4 406,2 823,0 -416,8 Administrations publiques 0,0 0,0 0,0 0,0 0,0 0,0 Autres secteurs 0,0 0,0 0,0 0,0 0,0 0,0 Prêts à long terme 0,0 4.080,6 -4.080,6 0,0 701,8 -701,8 Banque centrale 0,0 102,9 -102,9 0,0 2,6 -2,6 Institutions de dépôts autres que la banque centrale 0,0 -227,3 227,3 0,0 -755,0 755,0 Administrations publiques 0,0 3.892,4 -3.892,4 0,0 2.443,0 -2.443,0 Autres secteurs 0,0 312,6 -312,6 0,0 -988,8 988,8 Crédits commerciaux et avances à court terme 77,8 3.522,8 -3.445,0 -191,2 3.386,2 -3.577,4 Banque centrale 0,0 0,0 0,0 0,0 0,0 0,0 Institutions de dépôts autres que la banque centrale 0,0 0,0 0,0 0,0 0,0 0,0 Administrations publiques 0,0 0,0 0,0 0,0 0,0 0,0 Autres secteurs 77,8 3.522,8 -3.445,0 -191,2 3.386,2 -3.577,4 Autres comptes à recevoir/ payer-autres à court terme -10,7 86,8 -97,5 -8,0 -34,3 26,3 Banque centrale -0,1 3,3 -3,4 0,0 0,7 -0,7 Institutions de dépôts autres que la banque centrale -10,6 83,5 -94,1 -8,0 -35,0 27,0 Administrations publiques 0,0 0,0 0,0 0,0 0,0 0,0 Autres secteurs 0,0 0,0 0,0 0,0 0,0 0,0 Droits de tirage spéciaux 0,0 0,0 0,0 0,0 2.075,6 -2.075,6 3.5. Avoirs de réserve 3.864,1 - 3.864,1 338,1 - 338,1 Or monétaire 105,8 - 105,8 22,4 - 22,4 Droits de tirage spéciaux 17,4 - 17,4 119,2 - 119,2 Position de réserve au FMI -23,8 - -23,8 -1,5 - -1,5 Autres avoirs de réserve 3.764,7 - 3.764,7 198,0 - 198,0
 Crédits Débits Soldes Crédits Débits Soldes 4. Opérations d’ajustement, erreurs et omissions nettes 1.617,7 - 1.617,7 1.369,4 - 1.369,4
 
-=== CHUNK 26 | PDF: Balance.pdf | Page: 47 | Titre_Gemma: **Évolution des crédits et débits des paiements extérieurs tunisiens (2020-2023)** ===
+=== CHUNK 26 | PDF: Balance.pdf | Page: 47 | Titre_Gemma: **Évolution des Paiements Externes de la Tunisie (2020-2023)** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -1698,7 +1698,7 @@ Institutions de dépôts autres que la banque centrale
 1 Compte tenu des intérêts courus et non encore échus.
 2 L’encaisse or a été réévaluée suivant le cours de l’or de fin de période de London fixing market.
 
-=== CHUNK 29 | PDF: Balance.pdf | Page: 53 | Titre_Gemma: **Position Extérieure Globale de la Tunisie (2020-2021)** ===
+=== CHUNK 29 | PDF: Balance.pdf | Page: 53 | Titre_Gemma: **Position Extérieure de la Tunisie (2020-2021)** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -1727,7 +1727,7 @@ Institutions de dépôts autres que la banque centrale
 1 Compte tenu des intérêts courus et non encore échus.
 2 L’encaisse or a été réévaluée suivant le cours de l’or de fin de période de London fixing market.
 
-=== CHUNK 30 | PDF: Balance.pdf | Page: 56 | Titre_Gemma: **Répartition de la Balance des Paiements de la Tunisie (2023)** ===
+=== CHUNK 30 | PDF: Balance.pdf | Page: 56 | Titre_Gemma: **Répartition des opérations de la Balance des Paiements tunisienne en 2023** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -1744,7 +1744,7 @@ Union européenne 10,8% Pays arabes 9,4% Autres pays 4,6% O.I 50,6% M.F2 24,6%
 Répartition géographique des principales opérations de la
 Balance des paiements de la Tunisie en 2023
 
-=== CHUNK 31 | PDF: Balance.pdf | Page: 59 | Titre_Gemma: **Évolution et Analyse de la Balance Commerciale Tunisienne** ===
+=== CHUNK 31 | PDF: Balance.pdf | Page: 59 | Titre_Gemma: **Balance commerciale tunisienne : évolution et répartition des échanges** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -1800,7 +1800,7 @@ des importations qui a culminé à 6,8 milliards de dinars alors que la valeur d
 pratiquement insignifiante (54 MDT seulement en 2023). L’augmentation des importations auprès de la
 Russie a concerné essentiellement les produits pétroliers raffinés (+270,2%) et les céréales (+355,5%).
 
-=== CHUNK 32 | PDF: Balance.pdf | Page: 60 | Titre_Gemma: **Balance commerciale : Analyse 2023** ===
+=== CHUNK 32 | PDF: Balance.pdf | Page: 60 | Titre_Gemma: **Balance Commerciale : Performance 2023 et Évolution par Pays** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -1857,7 +1857,7 @@ La balance des échanges commerciaux avec les pays arabes hors UMA a dégagé au
 2023 un déficit de 2.083 MDT en amélioration de 1.744 MDT ou 46% par rapport à 2022 et ce à la suite
 de la forte baisse des importations (-38,4%) en lien avec le repli des achats de l’Arabie Saoudite et des
 
-=== CHUNK 33 | PDF: Balance.pdf | Page: 61 | Titre_Gemma: **Répartition des paiements externes et du déficit commercial en 2023** ===
+=== CHUNK 33 | PDF: Balance.pdf | Page: 61 | Titre_Gemma: **Baisse des échanges commerciaux tunisiens en 2023** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -1911,7 +1911,7 @@ des entrées et des nuitées y afférentes (+73,9 % et 72,6% respectivement).
 1 Les frais de séjour en Tunisie des Tunisiens Résidents à l'Etranger sont intégrés dans la rubrique voyages à titre personnel
 (inclus auparavant au niveau des revenus de travail) et introduits dans pays de provenance.
 
-=== CHUNK 34 | PDF: Balance.pdf | Page: 71 | Titre_Gemma: **Échanges Commerciaux de la Tunisie : Analyse par Pays (2021-2023)** ===
+=== CHUNK 34 | PDF: Balance.pdf | Page: 71 | Titre_Gemma: **Répartition des échanges commerciaux tunisiens par pays (2021-2023)** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -1924,7 +1924,7 @@ Répartition géographique des échanges commerciaux de la Tunisie (Tableau 1/3)
 ALLEMAGNE 5969,8 7436,8 8162,6 4110,3 4637,2 5417,9 1859,4 2799,6 2744,7 AUTRICHE 271,3 337,7 485,1 297,4 323,3 349,8 -26,2 14,5 135,4 BELGIQUE 870,4 1055,7 1093,3 980,8 970,5 899,0 -110,3 85,1 194,3 BULGARIE 55,9 110,7 112,1 722,3 677,2 461,1 -666,4 -566,5 -349,0 ESPAGNE 1897,2 2581,2 3274,6 2644,3 3454,7 2918,3 -747,1 -873,5 356,3 FINLANDE 8,5 10,1 10,0 225,1 211,1 208,0 -216,6 -201,1 -198,0 FRANCE 11182,7 12752,8 14114,4 7183,0 8582,4 8260,4 3999,7 4170,5 5854,0 GRECE 175,9 202,6 280,9 1553,8 1498,5 701,2 -1377,9 -1295,9 -420,3 HONGRIE 136,3 120,4 147,6 244,1 275,7 324,4 -107,8 -155,2 -176,8 IRLANDE 218,1 315,4 355,3 118,9 135,0 190,8 99,2 180,3 164,5 ITALIE 8570,7 9679,1 11375,5 8478,6 12090,6 9990,6 92,1 -2411,5 1384,8 MALTE 293,7 635,5 462,7 98,6 142,8 708,9 195,1 492,7 -246,1 PAYS BAS 1208,3 1276,4 1418,3 706,7 692,0 807,4 501,7 584,4 610,8 PAYS BAS 1208,3 1276,4 1418,3 706,7 692,0 807,4 501,7 584,4 610,8 POLOGNE 445,8 597,4 633,1 402,7 522,4 513,0 43,0 75,0 120,1 PORTUGAL 249,3 284,9 306,6 491,7 588,0 545,8 -242,4 -303,1 -239,2 ROUMANIE 427,2 537,8 357,4 648,3 1110,8 559,6 -221,1 -573,0 -202,2 SLOVAQUIE 251,1 285,1 382,4 251,3 345,5 214,1 -0,2 -60,4 168,3 SUEDE 179,9 184,9 147,1 235,1 328,0 324,8 -55,2 -143,1 -177,6 REPUBLIQUE TCHEQUE 238,4 273,1 298,0 320,7 451,1 524,4 -82,3 -178,0 -226,4 AUTRES PAYS EUROPEENS 2301,5 3342,7 2820,7 10102,0 12797,2 14507,4 -7800,6 -9454,5 -11686,7 Part dans le total (%) 4,9 5,8 4,5 16,1 15,5 18,3 - - - DONT:
 AZERBAIDJAN 2,5 6,0 9,6 1911,9 1834,1 572,6 -1909,5 -1828,2 -563,0 ROYAUME UNI 760,6 1422,8 985,5 667,9 682,0 771,1 92,7 740,7 214,4
 
-=== CHUNK 35 | PDF: Balance.pdf | Page: 72 | Titre_Gemma: **Échanges commerciaux de la Tunisie (2021-2023) par pays** ===
+=== CHUNK 35 | PDF: Balance.pdf | Page: 72 | Titre_Gemma: **Répartition des échanges commerciaux tunisiens (2021-2023)** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -1938,7 +1938,7 @@ ALGERIE 661,2 1021,1 1230,8 2215,5 4929,5 5607,5 -1554,3 -3908,4 -4376,7 LIBYE 1
 ARABIE SAOUDITE 98,6 170,1 129,1 1309,7 2034,1 717,8 -1211,1 -1864,0 -588,7 BAHREIN 4,7 5,8 7,7 44,6 104,7 114,0 -40,0 -98,9 -106,3 EGYPTE 187,3 182,3 156,8 754,2 977,8 1010,3 -566,9 -795,4 -853,5 EMIRATS ARABES UNIS 265,7 382,8 335,1 475,5 1151,7 612,4 -209,8 -768,9 -277,3 OMAN 49,8 52,0 37,0 91,9 217,3 112,4 -42,0 -165,3 -75,4 QATAR 41,5 94,4 81,1 75,6 104,0 160,0 -34,2 -9,6 -78,9 PAYS D'ASIE, HORS ARABES 1560,5 2427,6 1770,8 10861,5 13996,1 13391,4 -9301,0 -11568,6 -11620,6 Part dans le total (%) 3,3 4,2 2,9 17,3 16,9 16,9 - - - DONT :
 CHINE CONTINENTALE 209,0 133,1 65,6 6534,4 8665,5 8483,9 -6325,5 -8532,5 -8418,3 COREE DU SUD 70,3 91,4 84,8 894,1 632,8 610,2 -823,8 -541,4 -525,4 INDE 478,2 944,8 816,4 1181,0 1651,0 1746,4 -702,9 -706,3 -930,1 JAPON 132,8 102,4 100,2 507,8 570,6 629,4 -375,0 -468,2 -529,2 TAIWAN 11,7 34,6 9,5 357,4 458,8 318,9 -345,8 -424,2 -309,4 THAILANDE 10,1 14,1 36,9 361,4 401,3 326,4 -351,3 -387,2 -289,5
 
-=== CHUNK 36 | PDF: Balance.pdf | Page: 73 | Titre_Gemma: **Échanges commerciaux tunisiens avec l'Afrique (2021-2023)** ===
+=== CHUNK 36 | PDF: Balance.pdf | Page: 73 | Titre_Gemma: **Échanges commerciaux de la Tunisie par pays (2021-2023)** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -1968,7 +1968,7 @@ ALGERIE 19,9 83,4 70,2 LIBYE 84,6 166,4 111,0 MAROC 24,4 50,0 36,2
 * Y compris la redevance-gaz perçue par l’Etat tunisien au titre du passage des gazoducs transcontinentaux reliant
 l’Algérie à l’Italie (728,4 MDT en 2021, 1.807,4 MDT en 2022 et 2.093,7 MDT en 2023).
 
-=== CHUNK 38 | PDF: Balance.pdf | Page: 75 | Titre_Gemma: **Répartition géographique des recettes de transport (2021-2023)** ===
+=== CHUNK 38 | PDF: Balance.pdf | Page: 75 | Titre_Gemma: Répartition géographique des recettes de transport (2021-2023) ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -1996,7 +1996,7 @@ ALLEMAGNE 291,4 306,7 460,4 BELGIQUE 95,1 149,0 254,7 ESPAGNE 148,8 187,6 196,3 
 RUSSIE 78,6 143,3 379,1 SUISSE 40,9 55,5 80,4 TURQUIE 235,8 328,1 373,1 UKRAINE 73,0 49,1 57,6 ROYAUME-UNI 108,1 158,4 309,0 PAYS ARABES 377,5 741,1 907,0 Part dans le total (%) 10,1 14,7 14,4 UMA 153,6 331,9 424,1 Part dans le total (%) 4,1 6,6 6,7 DONT:
 ALGERIE 113,4 253,8 316,4 LIBYE 11,1 28,7 18,6 MAROC 28,1 48,6 87,5
 
-=== CHUNK 40 | PDF: Balance.pdf | Page: 77 | Titre_Gemma: **Dépenses en Transport par Pays (2021-2023)** ===
+=== CHUNK 40 | PDF: Balance.pdf | Page: 77 | Titre_Gemma: **Dépenses en transports par pays (2021-2023)** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -2011,7 +2011,7 @@ EGYPTE 52,6 70,8 99,3 JORDANIE 6,7 17,1 32,1 AMERIQUE DU NORD 129,8 177,4 217,2 
 CANADA 24,7 17,8 29,5 ETATS UNIS D'AMERIQUE 105,1 159,6 187,7 AUTRES PAYS 801,1 996,7 986,2 Part dans le total (%) 21,4 19,6 15,6 DONT:
 ARGENTINE 26,1 39,7 13,6 BRESIL 43,2 59,0 78,5 CHINE CONTINENTALE 337,8 443,9 475,4 COREE DU SUD 46,5 32,3 33,9 INDE 60,6 84,2 97,0 INDONESIE 14,0 33,7 21,1 JAPON 29,3 32,1 41,2 SINGAPOUR 13,2 12,6 20,4 TOTAL 3739,3 5067,0 6316,7
 
-=== CHUNK 41 | PDF: Balance.pdf | Page: 78 | Titre_Gemma: **Répartition des recettes touristiques par pays (2021-2023)** ===
+=== CHUNK 41 | PDF: Balance.pdf | Page: 78 | Titre_Gemma: **Répartition des Recettes Touristiques par Pays (2021-2023)** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -2026,7 +2026,7 @@ ROYAUME-UNI 33,6 90,0 139,6 RUSSIE 211,5 34,1 55,7 SERBIE 3,0 8,5 18,9 SUISSE 43
 * Les frais de séjour en Tunisie des Tunisiens Résidents à l'Etranger sont intégrés dans la rubrique voyages à titre
 personnel (inclus auparavant au niveau des revenus du travail) et introduits dans les pays de provenance.
 
-=== CHUNK 42 | PDF: Balance.pdf | Page: 79 | Titre_Gemma: **Recettes Touristiques par Pays (2021-2023)** ===
+=== CHUNK 42 | PDF: Balance.pdf | Page: 79 | Titre_Gemma: **Répartition des recettes touristiques par pays (2021-2023)** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -2043,7 +2043,7 @@ CHINE CONTINENTALE 2,6 7,7 10,0 JAPON 3,0 8,4 10,0 TOTAL 2954,2 5420,1 6920,6
 * Les frais de séjour en Tunisie des Tunisiens Résidents à l'Etranger sont intégrés dans la rubrique voyages à titre
 personnel (inclus auparavant au niveau des revenus du travail) et introduits dans les pays de provenance.
 
-=== CHUNK 43 | PDF: Balance.pdf | Page: 84 | Titre_Gemma: Répartition géographique des revenus du travail en Europe (2021-2023) ===
+=== CHUNK 43 | PDF: Balance.pdf | Page: 84 | Titre_Gemma: **Répartition des revenus du travail par pays (2021-2023)** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -2106,7 +2106,7 @@ Répartition géographique des revenus des investissements (Débits) (Tableau 2/
 CHINE CONTINENTALE 7,5 12,9 16,9 ILES MAURICE 0,0 5,0 32,3 JAPON 20,8 28,6 19,1 ORGANISMES INTERNATIONAUX 713,6 902,6 1379,9 Part dans le total (%) 14,1 15,9 20,5 DONT:
 BAD 124,4 124,4 156,2 BEI 143,5 115,8 122,7 BID 35,1 38,2 59,6 BIRD 197,2 212,2 340,9 CEE 18,2 20,4 40,1 FADES 54,0 113,8 110,0 FMA 6,5 7,6 10,0 AFREXIMBANK 27,8 116,3 213,8 FMI 70,5 116,5 276, FIDA 1,4 1,6 5,0 AUTRES ORGANISMES 35,0 35,8 45,3 MARCHES FINANCIERS 826,7 752,7 755,6 Part dans le total (%) 16,4 13,3 11,2 TOTAL 5050,2 5680,4 6719,6
 
-=== CHUNK 47 | PDF: Balance.pdf | Page: 89 | Titre_Gemma: **Flux des IDE (Passifs) en Europe (2021-2023)** ===
+=== CHUNK 47 | PDF: Balance.pdf | Page: 89 | Titre_Gemma: **Répartition des IDE (Passifs) en Europe (2021-2023)** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -2120,7 +2120,7 @@ ALLEMAGNE 83,0 222,2 239,9 AUTRICHE 104,8 158,0 183,9 BELGIQUE 9,6 19,2 46,0 ESP
 NORVEGE 6,4 8,4 12,8 ROYAUME-UNI 146,6 77,0 39,7 SUISSE 33,6 55,1 47,1 TURQUIE 13,5 12,6 15,7 UKRAINE 20,8 47,6 54,8 PAYS ARABES 186,7 374,5 385,8 Part dans le total (%) 10,1 16,9 16,1 UMA 13,4 25,6 15,1 Part dans le total (%) 0,7 1,2 0,6 DONT:
 ALGERIE 0,5 8,7 2,9 LIBYE 7,2 16,8 11,4
 
-=== CHUNK 48 | PDF: Balance.pdf | Page: 90 | Titre_Gemma: **Flux d'IDE passifs par pays (2021-2023)** ===
+=== CHUNK 48 | PDF: Balance.pdf | Page: 90 | Titre_Gemma: **Flux d'IDE (Passifs) par Pays (2021-2023)** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -2146,7 +2146,7 @@ Répartition géographique des investissements directs des Tunisiens à l'étran
 (Actifs) (En MDT) PAYS 2021 2022 2023 TOTAL 97,6 165,0 124,3 DONT:
 ALGERIE 12,9 20,2 3,2 ALLEMAGNE 0,1 0,2 0,9 COTE D'IVOIRE 6,7 17,8 0,6 FRANCE 12,8 51,6 65,4 ILES MAURICE 4,9 2,3 0,3 LIBYE 1,8 5,7 9,7 LUXEMBOURG 4,7 10,8 0,4 MAROC 19,0 41,0 8,2 SENEGAL 3,4 3,2 0,6
 
-=== CHUNK 50 | PDF: Balance.pdf | Page: 92 | Titre_Gemma: Répartition géographique des emprunts extérieurs à long terme (2021-2023) ===
+=== CHUNK 50 | PDF: Balance.pdf | Page: 92 | Titre_Gemma: **Répartition des tirages sur emprunts extérieurs à Long Terme par pays (2021-2023)** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -2159,7 +2159,7 @@ Répartition géographique des tirages sur emprunts extérieurs à Long Terme1 p
 ALLEMAGNE 521,3 105,5 626,8 655,4 115,7 771,1 342,9 99,7 442,6 BELGIQUE 47,5 49,3 96,8 34,9 0,0 34,9 67,4 0,0 67,4 FRANCE 401,4 313,0 714,4 114,6 164,7 179,2 102,4 140,3 242,7 ITALIE 88,2 0,0 88,2 47,3 0,0 47,3 41,0 0,0 41,0 AUTRES PAYS EUROPEENS 56,7 0,0 56,7 312,8 0,0 312,8 144,9 0,0 144,9 TURQUIE 56,7 0,0 56,7 312,8 0,0 312,8 144,9 0,0 144,9 PAYS ARABES 945,7 0,0 945,7 696,5 615,7 1312,2 1440,5 22,8 1463,3 UMA 863,2 0,0 863,2 615,8 0,0 615,8 0,0 0,0 0,0 ALGERIE 863,2 0,0 863,2 614,0 0,0 614,0 0,0 0,0 0,0 PAYS DU GOLFE 82,5 0,0 82,5 80,7 615,7 696,4 1440,5 22,8 1463,3 ARABIE SAOUDITE 40,1 0,0 40,1 39,8 614,0 653,8 1354,7 0,0 1354,7 KOWEIT 41,4 0,0 41,4 65,6 1,7 47,3 85,8 22,8 108,6 AUTRES PAYS 148,2 77,6 225,8 108,7 65,6 174,3 593,6 35,8 629,4 JAPON 148,2 77,6 225,8 108,7 65,6 174,3 593,6 35,8 629,4
 1Y compris les titres de créance dus aux marchés financiers.
 
-=== CHUNK 51 | PDF: Balance.pdf | Page: 93 | Titre_Gemma: **Répartition géographique des emprunts extérieurs à long terme par secteur (2021-2023)** ===
+=== CHUNK 51 | PDF: Balance.pdf | Page: 93 | Titre_Gemma: **Répartition géographique des emprunts extérieurs à Long Terme par secteur emprunteur (2021-2023)** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -2192,7 +2192,7 @@ ALGERIE 66,6 5,6 0,0 0,0 73,8 14,7 0,0 0,0 74,2 20,3 0,0 0,0 PAYS DU GOLFE 399,9
 ARABIE SAOUDITE 369,2 46,1 109,2 14,6 407,1 41,7 120,2 12,1 416,9 33,5 241,8 27,0 AMERIQUE DU NORD 9,7 1,0 6,1 9,6 10,5 1,0 3,1 0,1 8,7 0,9 0,0 0,0 CANADA 6,2 0,0 0,0 0,0 6,5 0,0 0,0 0,0 4,5 0,0 0,0 0,0 ETATS UNIS D'AMERIQUE 3,5 1,0 6,1 9,6 4,0 1,0 3,1 0,1 4,2 0,9 0,0 0,0
 1Y compris les titres de créance dus aux marchés financiers.
 
-=== CHUNK 53 | PDF: Balance.pdf | Page: 95 | Titre_Gemma: **Répartition de la dette extérieure à long terme par secteur emprunteur (2021-2023)** ===
+=== CHUNK 53 | PDF: Balance.pdf | Page: 95 | Titre_Gemma: Répartition de la dette extérieure à long terme par secteur (2021-2023) ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -2209,7 +2209,7 @@ PAYS
 2023
 Administration Entreprises Administration Entreprises Administration Entreprises Principal Intérêt Principal Intérêt Principal Intérêt Principal Intérêt Principal Intérêt Principal Intérêt AUTRES PAYS 133,8 11,9 96,1 10,5 95,2 11,0 110,8 18,4 76,7 10,9 81,4 7,0 JAPON 130,4 11,7 71,7 7,2 91,9 10,9 84,6 15,5 76,7 10,9 66,0 4,6 ORGANISMES INTERNATIONAUX 1629,5 496,0 1502,9 227,2 1850,6 691,2 1600,3 211,4 3157,5 1112,4 1549,3 267,5 AFREXIMBANK 0,0 0,0 69,5 27,8 0,0 91,4 308,2 24,9 0,0 208,0 230,4 5,8 BAD 574,3 109,8 214,8 14,6 576,1 120,7 76,6 3,7 640,1 135,1 106,7 21,1 BANQUE MONDIALE 388,4 193,7 101,8 3,5 264,6 205,7 36,8 6,5 472,3 311,0 54,6 29,9 BEI 148,3 42,2 678,7 101,3 152,5 39,5 671,3 76,3 163,5 40,4 640,3 82,3 BERD 0,0 0,0 183,5 15,9 0,2 0,1 130,1 13,7 0,4 0,3 164,3 37,0 BID 12,2 7,1 108,7 28,0 12,6 7,9 140,1 30,3 9,2 8,2 179,6 51,4 FADES 85,9 34,4 58,5 19,6 196,0 76,5 117,9 37,3 214,3 76,2 148,7 33,8 FIDA 11,7 1,4 0,0 0,0 11,6 1,6 0,0 0,0 22,7 5,0 0,0 0,0 FMA 164,3 6,5 0,0 0,0 227,9 7,6 0,0 0,0 304,3 10,0 0,0 0,0 FMI 227,0 70,5 0,0 0,0 372,4 116,5 0,0 0,0 1306,0 276,3 0,0 0,0 AUTRES ORGANISMES 17,4 30,4 91,0 17,2 36,7 23,7 119,3 18,7 24,7 41,9 149,7 18,0 MARCHES FINANCIERS 3472,0 826,7 0,0 0,0 1317,3 752,7 0,0 0,0 2164,6 743,8 0,0 0,0 TOTAL 6139,1 1500,1 2606,1 367,8 4274,0 1618,6 2643,8 357,2 6538,2 2037,0 2757,3 430,5
 
-=== CHUNK 54 | PDF: Balance.pdf | Page: 98 | Titre_Gemma: **Répartition des règlements (transactions courantes) par devise (2019-2023)** ===
+=== CHUNK 54 | PDF: Balance.pdf | Page: 98 | Titre_Gemma: **Répartition des devises des règlements (2019-2023)** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -2256,7 +2256,7 @@ commerce international de marchandises (SCIM2010).
 en devises (avec rapatriement pour les exportations et avec transfert effectif de devises pour les
 importations).
 
-=== CHUNK 56 | PDF: Balance.pdf | Page: 100 | Titre_Gemma: **Répartition des recettes et flux financiers par devise (2019-2023)** ===
+=== CHUNK 56 | PDF: Balance.pdf | Page: 100 | Titre_Gemma: **Répartition des revenus et des flux financiers par devise (2019-2023)** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié

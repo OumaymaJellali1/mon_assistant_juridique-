@@ -1,18 +1,18 @@
-=== CHUNK 1 | PDF: 20231108_Autodeclaration_ligne_credit_IT.pdf | Page: -1 | Titre_Gemma: **Informations de base sur l'entreprise et le déclarant.** ===
+=== CHUNK 1 | PDF: 20231108_Autodeclaration_ligne_credit_IT.pdf | Page: -1 | Titre_Gemma: **Informations de l'entreprise et déclaration** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
 Section : Non spécifié
 Sous-section : Non spécifié
 Article : Non spécifié
-**1. Informations relatives à l'entreprise**
-Cette section vise à recueillir des informations de base sur l'entité soumettant l'autodéclaration.  Elle comprend les champs suivants :
-*   **Identifiant unique :** Un champ pour l'identification spécifique de l'entreprise.
-*   **Dénomination :** Le nom officiel de l'entreprise.
-*   **Nom et Prénom :** Le nom et prénom de la personne qui effectue la déclaration.
-*   **Fonction :** La fonction de la personne effectuant la déclaration au sein de l'entreprise.
+**1. Informations relatives à l’entreprise**
+Cette section permet de collecter les informations essentielles concernant l'entreprise soumise à l'autodéclaration. Elle comprend les champs suivants :
+*   Identifiant unique : Un identifiant spécifique attribué à l'entreprise.
+*   Dénomination : Le nom officiel de l'entreprise.
+*   Nom et Prénom : Le nom et le prénom de la personne qui fait la déclaration.
+*   Fonction : La fonction de la personne qui fait la déclaration au sein de l'entreprise.
 
-=== CHUNK 2 | PDF: 20231108_Autodeclaration_ligne_credit_IT.pdf | Page: -1 | Titre_Gemma: **Adhésion aux Principes de l'ESS (Loi 2020-30)** ===
+=== CHUNK 2 | PDF: 20231108_Autodeclaration_ligne_credit_IT.pdf | Page: -1 | Titre_Gemma: **Engagement de l'Entreprise envers les Principes de l'ESS (Loi 2020-30)** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -20,7 +20,7 @@ Section : Non spécifié
 Sous-section : Non spécifié
 Article : Non spécifié
 **2. Alignement aux principes de la Loi 2020-30 (Art.4)**
-Cette section est dédiée à la déclaration de l'adhésion de l'entreprise aux principes fondamentaux de l'Économie Sociale et Solidaire (ESS) tels que définis par la loi n°2020-30 du 30 juin 2020.  Elle énumère les principes suivants, demandant une déclaration explicite de leur adhésion :
+Cette section établit l'adhésion de l'entreprise aux principes clés de l'Economie Sociale et Solidaire (ESS) tels que définis par la loi n°2020-30 du 30 juin 2020. Elle présente une déclaration formelle de l'engagement de l'entreprise envers ces principes. Les principes énoncés sont les suivants :
 *   Priorité de l’Homme et de la finalité sociale sur le capital et le respect des règles de développement durable.
 *   Adhésion et retrait libre et volontaire sans discrimination.
 *   Gestion démocratique, transparente conformément aux règles de bonne gouvernance.
@@ -29,15 +29,15 @@ Cette section est dédiée à la déclaration de l'adhésion de l'entreprise aux
 *   Propriété collective indivisible.
 *   Indépendance de la gestion vis-à-vis des autorités publiques et des partis politiques.
 
-=== CHUNK 3 | PDF: 20231108_Autodeclaration_ligne_credit_IT.pdf | Page: -1 | Titre_Gemma: **Formalisation de la Déclaration** ===
+=== CHUNK 3 | PDF: 20231108_Autodeclaration_ligne_credit_IT.pdf | Page: -1 | Titre_Gemma: **Autodéclaration : Détails requis** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
 Section : Non spécifié
 Sous-section : Non spécifié
 Article : Non spécifié
-**3. Détails de la déclaration**
-Cette section demande les informations finales nécessaires à la formalisation de la déclaration.
-*   **Date et lieu :** La date et le lieu de la déclaration doivent être indiqués.
-*   **Signature et Cachet :** La déclaration doit être signée et accompagnée du cachet de l'entreprise, confirmant ainsi l'accord avec les principes énoncés.
+**3. Détails de l'Autodéclaration**
+Cette section contient les informations nécessaires à la finalisation de la déclaration. Elle inclut :
+*   Date et lieu : La date et le lieu de la signature de l'autodéclaration.
+*   Signature et Cachet : La signature de la personne qui fait la déclaration et le cachet de l'entreprise.
 

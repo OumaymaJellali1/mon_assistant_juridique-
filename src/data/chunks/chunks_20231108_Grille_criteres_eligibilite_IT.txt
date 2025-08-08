@@ -1,13 +1,13 @@
-=== CHUNK 1 | PDF: 20231108_Grille_criteres_eligibilite_IT.pdf | Page: -1 | Titre_Gemma: **Droit Général - Structure et Présentation** ===
+=== CHUNK 1 | PDF: 20231108_Grille_criteres_eligibilite_IT.pdf | Page: -1 | Titre_Gemma: **Non fourni. Veuillez fournir le texte juridique.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
 Section : Non spécifié
 Sous-section : Non spécifié
 Article : Non spécifié
-Voici le texte juridique découpé en sections de taille raisonnable, avec des paragraphes pour une meilleure lisibilité. J'ai conservé l'ordre d'apparition des éléments, et ai utilisé le séparateur requis.
+Voici le texte juridique découpé en sections de taille raisonnable, respectant les paragraphes et utilisant le séparateur indiqué.
 
-=== CHUNK 2 | PDF: 20231108_Grille_criteres_eligibilite_IT.pdf | Page: -1 | Titre_Gemma: **Réinjection des bénéfices et traçabilité pour la qualité et durabilité.** ===
+=== CHUNK 2 | PDF: 20231108_Grille_criteres_eligibilite_IT.pdf | Page: -1 | Titre_Gemma: **Réinjection des bénéfices et traçabilité pour la qualité et la durabilité** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -16,15 +16,15 @@ Sous-section : Non spécifié
 Article : Non spécifié
 **Dimension : Réinjection des bénéfices pour le développement de la qualité/durabilité de la production/de l'investissement**
 *   % du profit annuel réinvesti pour le développement de la qualité/durabilité de la production/de l'investissement
-*   Sources de vérification : Rapports financiers/Statuts
+*   Rapports financiers/Statuts
 *   Priorisation/utilisation des matières premières locales
 *   % d'utilisation de matières premières auto-produites ou produites par des opérateurs/fournisseurs locaux à proximité
-*   Sources de vérification : Descriptif du projet, factures achats, accords de fourniture
+*   Descriptif du projet, factures achats, accords de fourniture
 *   Traçabilité de la production
 *   Présence d'une étiquette claire qui fournit des informations sur l'origine des matériaux et sur les procédés de production
 *   Modèle de l'étiquette/Contenu de l'étiquette, Appellations d'origine contrôlée (AOC) et Indications de Provenance (IP)
 
-=== CHUNK 3 | PDF: 20231108_Grille_criteres_eligibilite_IT.pdf | Page: -1 | Titre_Gemma: **Mutualisation et Transparence dans la Chaîne de Valeur** ===
+=== CHUNK 3 | PDF: 20231108_Grille_criteres_eligibilite_IT.pdf | Page: -1 | Titre_Gemma: **Mutualisation et Transparence des Prix dans la Chaîne de Valeur** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -32,14 +32,13 @@ Section : Non spécifié
 Sous-section : Non spécifié
 Article : Non spécifié
 **Dimension : Mutualisation des moyens de production/transformation/commercialisation**
-*   Existence d'un mécanisme de mutualisation entre les membres de la chaîne (ex. Échanges de semences entre producteurs, achat collectif des matières premières, etc.)
-*   Sources de vérification : Descriptif du projet
-*   Affichage des prix
+*   Existence d'un mécanisme de mutualisation entre les membres de la chaîne (ex. Echanges de semences entre producteurs, achat collectif des matières premières, etc.)
+*   Descriptif du projet *   Affichage des prix
 *   Tous les prix sont fixés et affichés de manière transparente
-*   Sources de vérification : PV visites, photos, feedback des clients
+*   PV visites, photos, feedback des clients
 *   Répartition équitable des revenus au sein de la chaîne de valeur
 *   Niveau de rémunération des producteurs/fournisseurs supérieur aux standards minimums nationaux (SMIG, SMAG)
-*   Sources de vérification : Factures, reçus
+*   Factures, reçus
 *   Adhésion à des circuits de commerce équitable locaux ou internationaux
 *   Descriptif du projet, accords/contrats, labels
 *   Adhésion à des circuits courts avec un nombre limité d'intermédiaires
@@ -47,7 +46,7 @@ Article : Non spécifié
 *   Adhésion à une chaîne de distribution et de vente locale (Km 0)
 *   Descriptif du projet, accords/contrats
 
-=== CHUNK 4 | PDF: 20231108_Grille_criteres_eligibilite_IT.pdf | Page: -1 | Titre_Gemma: **Gouvernance et Transparence** ===
+=== CHUNK 4 | PDF: 20231108_Grille_criteres_eligibilite_IT.pdf | Page: -1 | Titre_Gemma: **Gouvernance et Transparence Organisationnelle** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -56,74 +55,107 @@ Sous-section : Non spécifié
 Article : Non spécifié
 **Dimension : Transparence**
 *   Existence d'un organigramme avec fonctions et responsabilités déjà établies
-*   Sources de vérification : Manuel des procédures/Statuts, modèle de gouvernance, modalités de prise de décision
+*   Manuel des procédures/Statuts, modèle de gouvernance, modalités de prise de décision
 *   Autonomie
 *   Niveau d'autonomie vis-à-vis des autorités publiques et des partis politiques en termes de gestion et de financement
-*   Sources de vérification : Statuts juridiques, bilans, auto-déclarations
+*   Statuts juridiques, bilans, auto-déclarations
 *   Inclusion
 *   Mesures mises en œuvre contre les discriminations et inégalités au sein de l'organisation/groupement
-*   Sources de vérification : Manuel des procédures/Code éthique
+*   Manuel des procédures/Code éthique
 *   Valeurs partagées entre les producteurs/travailleurs/adhérants
 *   Adoption et publication d'une charte de valeurs et de principes / règlement intérieur/code éthique
-*   Sources de vérification : Statuts juridiques/Code éthique signé
+*   Statuts juridiques/Code éthique signé
 *   Participation à la prise de décision
 *   Taux de participation des travailleurs/adhérants aux votes et aux rencontres stratégiques pour la prise de décision
-*   Sources de vérification : Statuts juridiques, PV réunions, listes de présence
+*   Statuts juridiques, PV réunions, listes de présence
 *   Représentativité dans le comité de gestion
 *   Niveau de représentativité au niveau du comité de gestion sur la base du sexe, âge, situation géographique, catégorie socio-professionnelle
-*   Sources de vérification : Statuts juridiques
-
-=== CHUNK 5 | PDF: 20231108_Grille_criteres_eligibilite_IT.pdf | Page: -1 | Titre_Gemma: **Partenariats et Engagement Social** ===
-Loi : Non spécifié
-Chapitre : Non spécifié
-Titre : Non spécifié
-Section : Non spécifié
-Sous-section : Non spécifié
-Article : Non spécifié
-**Dimension : Concertation externe et partenariats**
+*   Statuts juridiques
+*   Concertation externe et partenariats
 *   N. de conventions/accords signés avec d'autres parties prenantes
-*   Sources de vérification : Textes des conventions/accords
+*   Textes des conventions/accords
 *   Au moins 70% de contrats formalisés et avec couverture sociale (CNSS)
-*   Sources de vérification : Contrats, n° CNSS, reçus CNSS
+*   Contrats, n° CNSS, reçus CNSS
 *   Rémunération évolutive des associés/travailleurs supérieure aux standards minimums nationaux (SMIG, SMAG)
-*   Sources de vérification : Fiches de paie
+*   Fiches de paie
 *   Existence de clauses contractuelles ou accords extra-contractuels prévoyant des mécanismes de tutelle et de protection additionnelles en cas de vulnérabilité majeure
-*   Sources de vérification : Contrats, accords
+*   Contrats, accords
 *   Le statut de la société identifie la priorité de la personne et/ou la finalité sociale de l’entreprise. Les règles du développement durable sont mentionnées aussi
-*   Sources de vérification : Statuts juridiques
+*   Statuts juridiques
 *   N. d'emplois créés et maintenus dans le territoire
-*   Sources de vérification : Rapports narratifs rédigés par l'opérateur économique, contrats, fiches de paie
+*   Rapports narratifs rédigés par l'opérateur économique, contrats, fiches de paie
 *   N. de produits/services conçus et réalisés visant la préservation des communautés locales et de leurs savoir-faire
-*   Sources de vérification : Rapports narratifs rédigés par l'opérateur économique
+*   Rapports narratifs rédigés par l'opérateur économique
 *   Procédures claires relatives au recrutement et à l’évolution professionnelle
-*   Sources de vérification : Manuel des procédures
-*   50% ou plus d'employées femmes
-*   Sources de vérification : Rapports narratifs, contrats, fiches de paie
+*   Manuel des procédures *   50% ou plus d'employées femmes
+*   Rapports narratifs, contrats, fiches de paie
 *   50% ou plus d'employés jeunes (<35 ans)
-*   Sources de vérification : Rapports narratifs, contrats, fiches de paie
+*   Rapports narratifs, contrats, fiches de paie
 *   Existence de personnes à besoins spécifiques au sein de l'entreprise
-*   Sources de vérification : Rapports narratifs, contrats, fiches de paie
+*   Rapports narratifs, contrats, fiches de paie
 *   Impact écologique faible des procédés de production et emballage
 *   Certification ANPE ou autre
 *   Une partie du profit de l’entreprise est réinvestie dans des activités sociales, culturelles et environnementales
-*   Sources de vérification : Rapports financiers de la société
+*   Rapports financiers de la société
 *   N. de produits/services conçus et réalisés visant la préservation des ressources naturelles (faible consommation d'eau, utilisation des sources d'énergie renouvelables, etc.)
-*   Sources de vérification : Rapports narratifs de la société, contrats, factures/reçus
+*   Rapports narratifs de la société, contrats, factures/reçus
 *   Existence d'un plan de gestion et collecte des déchets et de mesures de prévention des risques environnementaux
-*   Sources de vérification : Plan/accords sanitaires
+*   Plan/accords sanitaires
+*   Grille des critères d'éligibilité des entreprises sociales et solidaires pour les PME
+*   (Chaque opérateur économique doit remplir au moins 1 indicateur pour chaque dimension)
 
-=== CHUNK 6 | PDF: 20231108_Grille_criteres_eligibilite_IT.pdf | Page: -1 | Titre_Gemma: **Critères d'Éligibilité pour les Entreprises Sociales et Solidaires** ===
+=== CHUNK 5 | PDF: 20231108_Grille_criteres_eligibilite_IT.pdf | Page: -1 | Titre_Gemma: **Gouvernance Économique Durable** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
 Section : Non spécifié
 Sous-section : Non spécifié
 Article : Non spécifié
-**Dimension : Gouvernance Économique, Sociale & Environnementale, Insertion socio-professionnelle, Tutelle de l'environnement et sauvegarde de ressources naturelles, Protection des droits socio-économiques et du savoir-faire local**
-*   Grille des critères d'éligibilité des entreprises sociales et solidaires pour les PME
-*   Sources de vérification : (Non spécifié, il faudrait voir la source de cette grille)
+**Dimension : Gouvernance Économique**
 *   Commercialisation équitable
 *   (mode de commercialisation en circuits courts, solidaire et équitable, ancré dans les relations sociales plutôt que guidé par la recherche du profit)
-*   Sources de vérification : (Non spécifié, il faudrait voir la source de cette indication)
-Cette division permet de structurer le texte juridique et de faciliter sa compréhension.  Chaque section est dédiée à un aspect spécifique et est accompagnée de suggestions de sources de vérification.  Il est important de noter que les sources de vérification sont parfois non spécifiées dans le texte original, ce qui nécessite une clarification lors de l'application de ces critères.
+*   Gouvernance Économique *   Economique *   Sociale & Environnementale *   Insertion socio- professionnelle
+*   Tutelle de l'environnement et sauvegarde de ressources naturelles
+*   Protection des droits socio-économiques et du savoir-faire local
+
+=== CHUNK 6 | PDF: 20231108_Grille_criteres_eligibilite_IT.pdf | Page: -1 | Titre_Gemma: **Engagement Social et Economique** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
+**Dimension : Inclusion**
+*   Concertation externe et partenariats
+*   N. de conventions/accords signés avec d'autres parties prenantes
+*   Textes des conventions/accords
+*   Au moins 70% de contrats formalisés et avec couverture sociale (CNSS)
+*   Contrats, n° CNSS, reçus CNSS
+*   Rémunération évolutive des associés/travailleurs supérieure aux standards minimums nationaux (SMIG, SMAG)
+*   Fiches de paie
+*   Existence de clauses contractuelles ou accords extra-contractuels prévoyant des mécanismes de tutelle et de protection additionnelles en cas de vulnérabilité majeure
+*   Contrats, accords
+*   Le statut de la société identifie la priorité de la personne et/ou la finalité sociale de l’entreprise. Les règles du développement durable sont mentionnées aussi
+*   Statuts juridiques
+*   N. d'emplois créés et maintenus dans le territoire
+*   Rapports narratifs rédigés par l'opérateur économique, contrats, fiches de paie
+*   N. de produits/services conçus et réalisés visant la préservation des communautés locales et de leurs savoir-faire
+*   Rapports narratifs rédigés par l'opérateur économique
+*   Procédures claires relatives au recrutement et à l’évolution professionnelle
+*   Manuel des procédures *   50% ou plus d'employées femmes
+*   Rapports narratifs, contrats, fiches de paie
+*   50% ou plus d'employés jeunes (<35 ans)
+*   Rapports narratifs, contrats, fiches de paie
+*   Existence de personnes à besoins spécifiques au sein de l'entreprise
+*   Rapports narratifs, contrats, fiches de paie
+*   Impact écologique faible des procédés de production et emballage
+*   Certification ANPE ou autre
+*   Une partie du profit de l’entreprise est réinvestie dans des activités sociales, culturelles et environnementales
+*   Rapports financiers de la société
+*   N. de produits/services conçus et réalisés visant la préservation des ressources naturelles (faible consommation d'eau, utilisation des sources d'énergie renouvelables, etc.)
+*   Rapports narratifs de la société, contrats, factures/reçus
+*   Existence d'un plan de gestion et collecte des déchets et de mesures de prévention des risques environnementaux
+*   Plan/accords sanitaires
+*   Grille des critères d'éligibilité des entreprises sociales et solidaires pour les PME
+*
 

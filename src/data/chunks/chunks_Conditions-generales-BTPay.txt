@@ -1,34 +1,35 @@
-=== CHUNK 1 | PDF: Conditions-generales-BTPay.pdf | Page: -1 | Titre_Gemma: Veuillez me fournir le texte juridique. Je ne peux pas proposer de titre sans le texte lui-même. ===
+=== CHUNK 1 | PDF: Conditions-generales-BTPay.pdf | Page: -1 | Titre_Gemma: Veuillez me fournir le texte juridique. Je ne peux pas générer un titre sans le contenu. Une fois que vous l'aurez fourni, je vous donnerai un titre clair, court et précis. ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
 Section : Non spécifié
 Sous-section : Non spécifié
 Article : Non spécifié
-Voici le texte juridique découpé en plusieurs sections, en respectant les paragraphes et en utilisant le séparateur demandé.
+Voici le texte juridique découpé en plusieurs sections de taille raisonnable, respectant les paragraphes et utilisant le séparateur indiqué :
 
-=== CHUNK 2 | PDF: Conditions-generales-BTPay.pdf | Page: -1 | Titre_Gemma: **Conditions Générales de l'Utilisation de BT MPay** ===
+=== CHUNK 2 | PDF: Conditions-generales-BTPay.pdf | Page: -1 | Titre_Gemma: **Conditions Générales du Service BT MPay** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
 Section : Non spécifié
 Sous-section : Non spécifié
 Article : Non spécifié
-**I. CONDITIONS GÉNÉRALES DE SOUSCRIPTION ET D’UTILISATION DU SERVICE BT MPAY**
+**I. CONDITIONS GENERALES DE SOUSCRIPTION ET D’UTILISATION DU SERVICE BT MPAY**
 Les présentes conditions générales sont relatives à l’ouverture d’un porte-monnaie électronique "Wallet" sur les livres de la BT et à l’utilisation du service de paiement mobile à partir de l’application "BT MPay".
-I.1. **DEFINITIONS**
-1.  **Wallet :** On entend par « Wallet » un moyen de paiement sous forme d’un porte-monnaie électronique mis par la BT à la disposition d’une personne physique lui permettant :
+I. DEFINITIONS
+1. Wallet : On entend par « Wallet » un moyen de paiement sous forme d’un porte-monnaie électronique mis par la BT à la disposition d’une personne physique lui permettant :
 - Le stockage de la monnaie électronique via des opérations de recharges
 - L’exécution des opérations de paiement via téléphone mobile pouvant inclure différentes technologies.
 Toute souscription au service de paiement mobile "BT MPay" donne lieu à l’ouverture :
 - D’une "Wallet" au nom de l’utilisateur ayant une codification spécifique composée de 19 chiffres : le « Numéro Wallet ».
 - D’un "Compte Wallet" ayant la même codification qu’un compte bancaire (RIB) et qui est utilisé, à titre exclusif, pour recevoir des virements bancaires et pour alimenter la wallet de l’utilisateur.
-2.  **Le "Compte Wallet" :** On entend par "Compte Wallet" un compte de dépôt associé à la wallet du souscripteur et ayant la même codification d’un compte bancaire (RIB).
+2. Le "Compte Wallet" : On entend par "Compte Wallet" un compte de dépôt associé à la wallet du souscripteur et ayant la même codification d’un compte bancaire (RIB).
 Le "Compte Wallet" est crédité, à titre exclusif, par des virements bancaires émanant des comptes bancaires ou dans d’autres banques.
 Le "Compte Wallet" est débité, à titre exclusif, pour alimenter la Wallet du souscripteur via l’application "BT MPay"
 Les opérations du débit sont plafonnées à un nombre d’opérations maximal et un seuil journalier qui sont fixés par la banque.
 Le "Compte Wallet" est un compte non-arrêtable et ne peut en aucun cas afficher un solde débiteur ou être utilisé pour des opérations bancaires classiques autres que celles précitées.
-3.  **BT MPay :** "BT MPay" est une application de paiement mobile offrant les services suivants (liste non exhaustive) :
+3. BT MPay
+"BT MPay" est une application de paiement mobile offrant les services suivants (liste non exhaustive) :
 ➢ Gestion de la "Wallet" et du "Compte Wallet"
 - Inscription client/activation du service.
 - Gestion de l’historique et disponibilité des informations.
@@ -43,31 +44,31 @@ Opérations de retrait - Cash Out agences (BT, Autres Banques) - Cash Out DAB (B
 - Paiement commerçant par scan QR code sur téléphone et TPE
 Cette fonctionnalité est accessible uniquement chez les commerçants acceptant le paiement mobile équipé d’un matériel adapté à l’acceptation de paiement mobile.
 - Paiement de services gouvernementaux et des facturiers (en fonction des accords existants).
-- L’application peut accéder aux contacts du téléphone après autorisation de l’utilisateur
-- L’application peut accéder aux images du téléphone après autorisation de l’utilisateur
-4.  **La Carte associée à l’application BT MPay :**
+L’application peut accéder aux contacts du téléphone après autorisation de l’utilisateur
+L’application peut accéder aux images du téléphone après autorisation de l’utilisateur
+4. La Carte associée à l’application BT MPay :
 L’utilisateur de l’application BT MPAY peut associer sa carte bancaire à ladite application et bénéficier à cet effet des services qui lui sont rattachés.
 On entend par "Carte Associée" la numérisation des données de la carte bancaire de l’utilisateur qui sera rattachée ou associée à l’application de paiement mobile.
 L’utilisateur peut modifier la carte bancaire associée à sa wallet via l’application BT MPAY. La carte associée doit obligatoirement être au nom de l’utilisateur.
 En présence d’opérations de paiement réalisées au travers de l’application BT MPAY, l’utilisateur à le choix d’utiliser sa wallet ou sa carte bancaire associée.
 Toute opération de paiement par carte bancaire est régie par les dispositions contractuelles conclues entre la BT et le porteur de la carte.
 Les Cartes pouvant être associées au service de paiement mobile BT MPAY sont les cartes bancaires nationales émises exclusivement par la BT.
-5.  **Le numéro de téléphone associé à la wallet**
+5. Le numéro de téléphone associé à la wallet
 - Client de la BT équipé d’une carte bancaire classique nationale
-Pour les clients équipés de cartes bancaires émises par la BT, le numéro de la ligne téléphonique associée à la wallet est celui déjà communiqué à la BT et rattaché à la carte bancaire, lequel numéro permettra son authentification par la BT pour l’inscription et l’activation du service BT MPAY.
+Pour les clients équipés de cartes bancaires émises par la BT, le numéro de la ligne téléphonique associée à la wallet est celui déjà communiqué à la BT et rattachée à la carte bancaire, lequel numéro permettra son authentification par la BT pour l’inscription et l’activation du service BT MPAY.
 - Client de la BT non équipé de carte bancaire
 Pour les clients non équipés de cartes bancaires adossées à des comptes du type dépôt à vue, le numéro de la ligne téléphonique associée à la wallet est celui communiqué lors de l’adhésion à ce service aux guichets de l’une des agences de la BT, lequel numéro permettra son authentification par la BT pour l’inscription et l’activation du service BT MPAY.
 En cas de changement de numéro de téléphone mobile associé au service, l’utilisateur devra communiquer le nouveau numéro à la BT qui se chargera de le modifier au niveau de sa base de données.
-6.  **L’inscription et l’activation du service BT MPay**
+6. L’inscription et l’activation du service BT MPay
 Pour pouvoir disposer du service de paiement mobile :
 - Les clients équipés de cartes bancaires émises par la BT doivent télécharger l’application BT MPAY sur leurs téléphones mobiles compatibles et finaliser l’inscription et l’activation du service de paiement mobile en ligne en poursuivant les différentes étapes y afférentes.
 - Les clients non équipés de cartes bancaires émises par la BT adossées à des comptes du type dépôt à vue, doivent dans une 1ère étape adhérer au service de paiement mobile dans l’une des agences BT et télécharger l’application BT MPAY sur leurs téléphones mobiles compatibles et finaliser l’inscription et l’activation du service de paiement mobile.
 La préinscription au service de paiement mobile est conclue à distance via l’application BT MPAY. Le service de paiement mobile est activé sous réserve de :
 - La signature par l’utilisateur du contrat de souscription au sein de l’agence
 - La bonne fin de l’authentification de l’utilisateur en tant que souscripteur au service de paiement mobile et titulaire de la carte bancaire associée le cas échéant.
-- L’acceptation lors de la souscription au niveau de l’application par l’utilisateur des présentes conditions générales d’utilisation de l’application paiement mobile ;
+- L’acceptation lors de la souscription au niveau de l’application par l’utilisateur des présentes conditions générales d’utilisation de l’application paiement mobile.
 
-=== CHUNK 3 | PDF: Conditions-generales-BTPay.pdf | Page: -1 | Titre_Gemma: **Conditions d'utilisation du service BT MPAY** ===
+=== CHUNK 3 | PDF: Conditions-generales-BTPay.pdf | Page: -1 | Titre_Gemma: **Durée et Résiliation du Service BT MPAY** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -75,18 +76,19 @@ Section : Non spécifié
 Sous-section : Non spécifié
 Article : Non spécifié
 **II. CONDITIONS D’UTILISATION DU SERVICE BT MPAY**
-**Durée, renouvellement et résiliation du Service**
+Durée, renouvellement et résiliation du Service
 Le Service comporte une durée de validité d’un an à partir de l’activation du Service, renouvelable par tacite reconduction.
 La résiliation du Service est gratuite et peut être demandée à tout moment par le Client auprès de son agence ou en ligne dans la rubrique de l’application prévue à cet effet.
-1.  **Le Code confidentiel**
+1. Le Code confidentiel
 Après avoir téléchargé l’application BT MPAY, un code confidentiel est choisi par le Client au moment de l’inscription et de l’activation du service de paiement en ligne. Ce code confidentiel est ainsi enregistré instantanément via le numéro de téléphone, et l’application est installée sur l’appareil du Client.
 En cas de changement d’appareil, l’application se désactive concomitamment. Le Client devra télécharger à nouveau l’application sur son nouvel appareil. Ce procédé garantit le caractère confidentiel du code secret.
 Ce code est nécessaire pour l’utilisation du Service, notamment pour accéder à l’application et effectuer des paiements.
-2.  **L’utilisation du code confidentiel**
+2. L’utilisation du code confidentiel
 Le code confidentiel doit être tenu secret dans l’intérêt de l’utilisateur. Ainsi, l’utilisateur doit prendre toutes les mesures propres à assurer la sécurité de l’utilisation du service et du code confidentiel.
 Il doit donc mémoriser et tenir confidentiel son code et ne pas le communiquer à une tierce personne, et ne pas le saisir sur un document ou sur un appareil.
 Toute imprudence à cet égard ne saurait engager la responsabilité de la Banque.
-3.  **Utilisation du Service BT MPAY**
-Le Service est strictement personnel et nominatif. Il n’est donc pas cessible sous peine de résiliation. Le titulaire du service est personnellement responsable de l’utilisation du service rattaché à son compte ou à sa carte bancaire.
-L’utilisateur est tenu, préalablement à chaque paiement effectué au moyen du Service, de s’assurer de l’existence d
+3. Utilisation du Service BT MPAY
+Le Service est strictement personnel et nominatif. Il n’est donc pas cessible sous peine de résiliation. Le titulaire du Service est personnellement responsable de l’utilisation du service rattaché à son compte ou à sa carte bancaire.
+L’utilisateur est tenu, préalablement à chaque paiement effectué au moyen du Service, de s’assurer de l’existence d’une provision suffisante sur son wallet ou sur sa carte bancaire associée. Dans le cas où le solde du wallet ou de la carte bancaire associée, utilisé pour le règlement des transactions, est insuffisant, le paiement est automatiquement rejeté.
+Le Client autorise expressément la Banque à débiter le compte bancaire auquel est rattachée la carte pour tout paiement initié à
 

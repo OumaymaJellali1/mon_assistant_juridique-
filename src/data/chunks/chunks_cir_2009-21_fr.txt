@@ -1,4 +1,4 @@
-=== CHUNK 1 | PDF: cir_2009-21_fr.pdf | Page: 1 | Titre_Gemma: **Allocation Touristique : Modification et Montants** ===
+=== CHUNK 1 | PDF: cir_2009-21_fr.pdf | Page: 1 | Titre_Gemma: **Allocation Touristique : Modification des Montants** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -24,7 +24,7 @@ l’allocation touristique (montant, pays de destination, année civile…). Ell
 mensuels des allocations touristiques prévus par l’article 27 de la présente
 circulaire .
 
-=== CHUNK 2 | PDF: cir_2009-21_fr.pdf | Page: 2 | Titre_Gemma: **Abrogation et remplacement de la circulaire 2007-04.** ===
+=== CHUNK 2 | PDF: cir_2009-21_fr.pdf | Page: 2 | Titre_Gemma: **Abrogation et remplacement de la circulaire 2007-04** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -34,7 +34,7 @@ Article : Article 2 : Les annexes n°s 2, 3 et 4 à la circulaire aux Intermédi
 2007-04 du 9 février 2007 sont abrogées et remplacées par les annexes jointes
 à la présente circulaire.
 
-=== CHUNK 3 | PDF: cir_2009-21_fr.pdf | Page: 2 | Titre_Gemma: **Déclaration du Gouverneur** ===
+=== CHUNK 3 | PDF: cir_2009-21_fr.pdf | Page: 2 | Titre_Gemma: **Déclaration du Gouverneur Taoufik Baccar** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -44,7 +44,7 @@ Article : Article 3  : La présente circulaire entre en vigueur à compter du 1e
 LE GOUVERNEUR
 Taoufik BACCAR
 
-=== CHUNK 4 | PDF: cir_2009-21_fr.pdf | Page: 3 | Titre_Gemma: **Formulaire d'Autorisation de Sortie pour Intermédiaires Agrés** ===
+=== CHUNK 4 | PDF: cir_2009-21_fr.pdf | Page: 3 | Titre_Gemma: **Formulaire d'Autorisation de Sortie pour Intermédiaires Agrées** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -112,7 +112,7 @@ RAISON SOCIALE DE L’INTERMEDIAIRE AGREE
 (2) Inscrire le n° de la Carte d'Identité Nationale ou de la Carte de Séjour
 selon que le bénéficiaire est de nationalité tunisienne ou étrangère.
 
-=== CHUNK 5 | PDF: cir_2009-21_fr.pdf | Page: 4 | Titre_Gemma: **Formulaire d'Autorisation de Sortie pour Intermédiaires Agrée (2009)** ===
+=== CHUNK 5 | PDF: cir_2009-21_fr.pdf | Page: 4 | Titre_Gemma: **Formulaire d'Autorisation de Sortie pour Intermédiaires Agrées** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -177,7 +177,7 @@ FEUILLET DESTINE A L'INTERMEDIAIRE AGREE.
 (2) Inscrire le n° de la Carte d'Identité Nationale ou de la Carte de Séjour
 selon que le bénéficiaire est de nationalité tunisienne ou étrangère.
 
-=== CHUNK 6 | PDF: cir_2009-21_fr.pdf | Page: 5 | Titre_Gemma: **Formulaire d'Autorisation de Sortie - Intermédiaires Agrés** ===
+=== CHUNK 6 | PDF: cir_2009-21_fr.pdf | Page: 5 | Titre_Gemma: **Formulaire d'Autorisation de Sortie pour Intermédiaires Agrées** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié

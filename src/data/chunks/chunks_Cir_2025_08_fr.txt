@@ -1,4 +1,4 @@
-=== CHUNK 1 | PDF: Cir_2025_08_fr.pdf | Page: 2 | Titre_Gemma: **Établissements Financiers (hors établissements de paiement)** ===
+=== CHUNK 1 | PDF: Cir_2025_08_fr.pdf | Page: 2 | Titre_Gemma: **Établissements financiers (hors établissements de paiement)** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -8,7 +8,7 @@ Article : Article premier : La présente circulaire s’applique aux banques et 
 établissements financiers au sens de la loi n°2016-48 susvisée, à l’exception des
 établissements de paiement.
 
-=== CHUNK 2 | PDF: Cir_2025_08_fr.pdf | Page: 2 | Titre_Gemma: **Préparation à la mise en œuvre des réformes prudentielles et normatives.** ===
+=== CHUNK 2 | PDF: Cir_2025_08_fr.pdf | Page: 2 | Titre_Gemma: **Préparation aux Réformes Prudentielles et Normatives** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -22,7 +22,7 @@ de Tunisie susvisée et portant sur les composantes suivantes :
 • Les nouvelles règles de classification et de couverture des expositions.
 • Le guide d’application de la norme IFRS 9.
 
-=== CHUNK 3 | PDF: Cir_2025_08_fr.pdf | Page: 2 | Titre_Gemma: **Plan d'action des réformes prudentielles et normatives** ===
+=== CHUNK 3 | PDF: Cir_2025_08_fr.pdf | Page: 2 | Titre_Gemma: **Plan de Réformes Prudentielles et Normatives** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -54,7 +54,7 @@ Le plan stratégique et opérationnel susvisé doit être adapté à la taille d
 l’établissement, à son profil de risque ainsi qu’à la nature et à la complexité de
 ses activités et de ses opérations.
 
-=== CHUNK 4 | PDF: Cir_2025_08_fr.pdf | Page: 3 | Titre_Gemma: **Pilotage du projet** ===
+=== CHUNK 4 | PDF: Cir_2025_08_fr.pdf | Page: 3 | Titre_Gemma: **Pilotage et Suivi du Projet** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -69,7 +69,7 @@ dans l’exercice de cette mission, chacun dans le cadre de ses attributions. Il
 assurent, de manière coordonnée, le suivi des travaux du comité de pilotage visé
 à l’article 5 de la présente circulaire.
 
-=== CHUNK 5 | PDF: Cir_2025_08_fr.pdf | Page: 3 | Titre_Gemma: **Comité de pilotage des réformes prudentielles** ===
+=== CHUNK 5 | PDF: Cir_2025_08_fr.pdf | Page: 3 | Titre_Gemma: **Comité de Pilotage des Réformes Prudentielles** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -89,7 +89,7 @@ de support impliquées dans le projet ;
 • de la communication d’un reporting régulier aux comités des risques et
 d’audit.
 
-=== CHUNK 6 | PDF: Cir_2025_08_fr.pdf | Page: 3 | Titre_Gemma: **Gouvernance des données pour la conformité réglementaire.** ===
+=== CHUNK 6 | PDF: Cir_2025_08_fr.pdf | Page: 3 | Titre_Gemma: **Gouvernance des données pour les calculs prudenciels** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié

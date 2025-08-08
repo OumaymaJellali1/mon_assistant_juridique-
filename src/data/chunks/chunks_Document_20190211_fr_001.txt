@@ -1,19 +1,11 @@
-=== CHUNK 1 | PDF: Document_20190211_fr_001.pdf | Page: -1 | Titre_Gemma: Sans le texte juridique, je ne peux pas fournir de titre. Veuillez me fournir le texte juridique pour que je puisse le résumer de manière concise et précise. ===
+=== CHUNK 1 | PDF: Document_20190211_fr_001.pdf | Page: -1 | Titre_Gemma: **Autorisation d'Apport en Nature à une Société Tunisienne** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
 Section : Non spécifié
 Sous-section : Non spécifié
 Article : Non spécifié
-Voici le texte juridique découpé en sections, respectant les paragraphes et en utilisant le séparateur demandé :
-
-=== CHUNK 2 | PDF: Document_20190211_fr_001.pdf | Page: -1 | Titre_Gemma: **Apports en Nature à Capital de Sociétés Tunisiennes** ===
-Loi : Non spécifié
-Chapitre : Non spécifié
-Titre : Non spécifié
-Section : Non spécifié
-Sous-section : Non spécifié
-Article : Non spécifié
+Voici le texte juridique découpé en sections de taille raisonnable, respectant les paragraphes. J'ai conservé la numérotation et le titre de chaque section pour référence.
 **FICHE 1 : APPORT EN NATURE AU CAPITAL DE SOCIÉTÉS ÉTABLIES EN TUNISIE**
 Une demande d’autorisation sur formulaire N°2, en quatre exemplaires dûment visés, au titre de cette demande ;
 - Copie du dossier juridique de la société « XYZ » (statuts dûment enregistrés, déclaration d’exercice ou tout document équivalent délivré par les autorités compétentes pour l’exercice de l’activité en Tunisie, Carte SINDA, Extrait du Registre de Commerce, etc.) ;
@@ -22,61 +14,29 @@ Une demande d’autorisation sur formulaire N°2, en quatre exemplaires dûment 
 - Toutes pièces se rapportant à l’apport en nature au capital de la société « XYZ » (Rapport du Commissaire aux apports, dûment certifié, Rapport d’expertise du matériel auprès du CETIME, facture proforma, etc.) ;
 - États financiers de la société « XYZ » au titre de l’exercice N (précédant la date de l’opération d’augmentation du capital), dûment certifiés, accompagnés des notes et les déclarations fiscales y afférentes;
 La Banque Centrale de Tunisie se réserve toutefois le droit de demander des précisions ou des documents supplémentaires qu’elle juge nécessaires pour l’instruction de chaque demande.
-
-=== CHUNK 3 | PDF: Document_20190211_fr_001.pdf | Page: -1 | Titre_Gemma: **Demande d'autorisation d'investissement étranger** ===
-Loi : Non spécifié
-Chapitre : Non spécifié
-Titre : Non spécifié
-Section : Non spécifié
-Sous-section : Non spécifié
-Article : Non spécifié
 **FICHE 2 : INVESTISSEMENTS DE RESIDENTS A L’ETRANGER**
 Une demande d’autorisation sur formulaire N°2, en quatre exemplaires dûment visés, au titre de la demande ;
 - Copie du dossier juridique de la société résidente « XYZ » (statuts dûment enregistrés, déclaration d’exercice ou tout document équivalent délivré par les autorités compétentes pour l’exercice de l’activité en Tunisie, Carte SINDA, Extrait du Registre de Commerce, etc.) ;
 - Copie des fiches d’investissement ou des Attestations Bancaires d’Investissement justifiant le financement en devises de la participation non-résidente éventuelle au capital de la société « XYZ » au moyen d’une importation de devises établies conformément aux dispositions de la circulaire N°2018-14 du 26/12/2018 ;
 - États financiers de la société « XYZ » au titre de l’exercice N, dûment certifiés conformes aux écritures comptables, accompagnés des notes explicatives et de sa déclaration fiscale définitive correspondante, dûment visée par l’Administration Fiscale ;
 - Projet des statuts des entités à créer à l’étranger (cas de filiales ou de sociétés en partenariat avec des résidents du pays d’implantation) ou copie du projet du contrat de location (cas de bureaux ou succursales) ;
-- Étude de faisabilité ou Plan d’Affaires (Business Plan) au titre de l’investissement envisagé faisant ressortir son impact sur les entrées en devises de la société résidente (exportations, dividendes, etc.) ;
+- Étude de faisabilité ou Plan d’Affaires (Business Plan) au titre de l’investissement envisagé faisant ressortir son impact sur les entrées en devises de la société résidente concernée (exportations, dividendes, etc.) ;
 La Banque Centrale de Tunisie se réserve toutefois le droit de demander des précisions ou des documents supplémentaires qu’elle juge nécessaires pour l’instruction de chaque demande.
-
-=== CHUNK 4 | PDF: Document_20190211_fr_001.pdf | Page: -1 | Titre_Gemma: **Garantie de Transfert d'Immobilier en Tunisie pour Acquéreur Étranger** ===
-Loi : Non spécifié
-Chapitre : Non spécifié
-Titre : Non spécifié
-Section : Non spécifié
-Sous-section : Non spécifié
-Article : Non spécifié
-**FICHE 3 : GARANTIE DE TRANSFERT AU PROFIT D’UN TUNISIEN NON RESIDENT ACQUEREUR DE UN BIEN IMMEUBLE EN TUNISIE**
+**FICHE 3 : GARANTIE DE TRANSFERT AU PROFIT D’UN TUNISIEN NON RESIDENT ACQUEREUR D’UN BIEN IMMEUBLE EN TUNISIE**
 Une demande au nom de monsieur le Gouverneur de la Banque Centrale de Tunisie pour la garantie de transfert ;
 - Toutes pièces justifiant la résidence de la personne acquéreuse à l’étranger au moment de l’acquisition du bien immeuble en question ainsi que sa résidence actuelle (copie, en entier de son/ ses passeport(s), accompagnée(s), le cas échéant, de toutes pièces délivrées par les autorités municipales ou préfectorales compétentes se rapportant à sa résidence notamment un certificat de résidence, copie de sa carte de séjour, etc…) ;
-- Copie du contrat de vente, dûment signé par les parties contractantes et enregistré à la Recette des Finances en Tunisie ;
+- Copie du contrat de vente, dûment signé par les parties contractantes et enregistré à la Recette des Finances en Tunisie;
 - Autorisation du Gouverneur de la région où est situé le bien immeuble en question ;
 - Certificat de propriété du bien immeuble établi au nom du nouvel acquéreur ;
 - Une attestation de régularisation de la situation fiscale ou d’exonération des revenus, établie au nom du vendeur, conformément à l’article 112 du Code des Droits et Procédures Fiscaux ;
 Toutes pièces se rapportant à l’origine des fonds logés dans le compte d’attente du vendeur, objet de la demande de transfert ;
 Les relevés des comptes d’attente ouverts au nom de chacun des bénéficiaires des fonds établis à une date récente.
-
-=== CHUNK 5 | PDF: Document_20190211_fr_001.pdf | Page: -1 | Titre_Gemma: **Acquisition de Bien Immobilier en Tunisie par Non-Résidents Étrangers : Accord de Principe** ===
-Loi : Non spécifié
-Chapitre : Non spécifié
-Titre : Non spécifié
-Section : Non spécifié
-Sous-section : Non spécifié
-Article : Non spécifié
 **FICHE 4 : ACCORD DE PRINCIPE POUR L’ACQUISITION PAR DES PERSONNES PHYSIQUES OU MORALES NON RESIDENTES ESTRANGERES D’UN BIEN IMMEUBLE SITUE EN TUNISIE**
 Une demande, au nom de monsieur le Gouverneur de la Banque Centrale de Tunisie pour l’acquisition et / ou la garantie de transfert ;
 - une copie de la réservation éventuelle du bien à acquérir ;
 - Toutes pièces justifiant la résidence à l’étranger de l’acquéreur si il est une personne physique (copie en entier de son passeport accompagné, le cas échéant, de toutes pièces délivrées par les autorités municipales ou préfectorales compétentes se rapportant à sa résidence notamment un certificat de résidence, copie de sa carte de séjour, etc);
 - Copie du dossier juridique de l’acquéreur si il est une personne morale non-résidente établie en Tunisie (statuts dûment enregistrés, déclaration d’exercice ou tout document équivalent délivré par les autorités compétentes pour l’exercice de l’activité en Tunisie, Carte SINDA, Extrait du Registre de Commerce, etc.) accompagnée d’une copie des fiches d’investissement ou des Attestations Bancaires d’Investissement justifiant le financement en devises de la participation non-résidente au moyen d’une importation de devises établies conformément aux dispositions de la circulaire N°2018-14 du 26/12/2018 ;
 La Banque Centrale de Tunisie se réserve toutefois le droit de demander des précisions ou des documents supplémentaires qu’elle juge nécessaires pour l’instruction de chaque demande.
-
-=== CHUNK 6 | PDF: Document_20190211_fr_001.pdf | Page: -1 | Titre_Gemma: **Demande de Transfert d'Avoirs en Tunisie** ===
-Loi : Non spécifié
-Chapitre : Non spécifié
-Titre : Non spécifié
-Section : Non spécifié
-Sous-section : Non spécifié
-Article : Non spécifié
 **FICHE 5 : TRANSFERT D’AVOIRS CONSTITUES EN TUNISIE**
 Une demande sur formulaire FI dûment établie en quatre exemplaires originaux (une demande par bénéficiaire) ;
 - Toutes pièces justifiant la résidence à l’étranger de la personne bénéficiaire des fonds ( copie, en entier de son passeport en cours de validité , accompagnée , le cas échéant, de toutes pièces délivrées par les autorités municipales ou préfectorales compétentes se rapportant à sa résidence notamment un certificat de résidence, copie de sa carte de séjour, etc);
@@ -84,18 +44,10 @@ Une demande sur formulaire FI dûment établie en quatre exemplaires originaux (
 - Une déclaration sur l’honneur, établie au nom du vendeur, dont la signature est légalisée, certifiant qu’il n’a plus aucune dette en Tunisie;
 - Attestation de régularisation de la situation fiscale ou d’exonération des revenus établie au nom du bénéficiaire des fonds conformément à l’article 112 du code des droits et procédures fiscaux, et ce pour tout règlement en devises en Tunisie ou à l’étranger en faveur de non-résidents ;
 - Toutes pièces se rapportant à l’origine des fonds logés dans le compte d’attente du vendeur, objet de la demande de transfert ;
-Les relevés des comptes d’attente ouverts au nom de chacun des bénéficiaires des fonds établis à une date récente.
-
-=== CHUNK 7 | PDF: Document_20190211_fr_001.pdf | Page: -1 | Titre_Gemma: **Demande de Crédit d'Investissement en Devises** ===
-Loi : Non spécifié
-Chapitre : Non spécifié
-Titre : Non spécifié
-Section : Non spécifié
-Sous-section : Non spécifié
-Article : Non spécifié
+- Les relevés des comptes d’attente ouverts au nom de chacun des bénéficiaires des fonds établis à une date récente.
 **FICHE 6 : CREDITS D’INVESTISSEMENT EN DEVISES OU EN DINARS TUNISIENS ACCORDES AU PROFIT DE SOCIETES NON RESIDENTES ETABLIES EN TUNISIE PAR DES BANQUES RESIDENTES**
 Une demande sur formulaire FII dûment établie par le bailleur de fonds en quatre exemplaires originaux ;
 - Objet du crédit accompagné de toutes pièces fixant les conditions financières du crédit, avec précision des ressources sur lesquelles le crédit en devises sera imputé (Marché Monétaire en Devises ou ligne de crédit extérieure);
 - Etats financiers de la société non résidente emprunteuse au titre des trois derniers exercices, dûment certifiés conformes aux écritures comptables, accompagnés des notes explicatives et des déclarations fiscales y afférentes, dûment visées par l’Administration Fiscale,
-- Business plan ;
+- Business plan ; - Copie du
 

@@ -1,4 +1,4 @@
-=== CHUNK 1 | PDF: circulaire-fr-1.pdf | Page: 2 | Titre_Gemma: **Lutte contre le blanchiment d'argent et le financement du terrorisme : Obligations des établissements financiers agréés.** ===
+=== CHUNK 1 | PDF: circulaire-fr-1.pdf | Page: 2 | Titre_Gemma: **Lutte contre le blanchiment d'argent et le financement du terrorisme : Réglementation des établissements financiers** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -11,7 +11,7 @@ Elle fixe les mesures à prendre et les procédures à mettre en place par les
 établissements assujettis en matière de lutte contre le blanchiment d’argent et le
 financement du terrorisme.
 
-=== CHUNK 2 | PDF: circulaire-fr-1.pdf | Page: 2 | Titre_Gemma: **Définitions des termes clés : Actionnaire important, Bénéficiaire effectif, Personnes Politiquement Exposées** ===
+=== CHUNK 2 | PDF: circulaire-fr-1.pdf | Page: 2 | Titre_Gemma: **Définitions clés : Actionnaire important, Bénéficiaire effectif, et Personnes Politiquement Exposées** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -98,7 +98,7 @@ opérations
 établissements assujettis doivent accomplir les diligences et observer les mesures de
 vigilance prévues par la présente circulaire.
 
-=== CHUNK 4 | PDF: circulaire-fr-1.pdf | Page: 4 | Titre_Gemma: **Gestion des Risques de Blanchiment et Financement du Terrorisme** ===
+=== CHUNK 4 | PDF: circulaire-fr-1.pdf | Page: 4 | Titre_Gemma: **Gestion des Risques de Blanchiment et de Financement du Terrorisme** ===
 Loi : Non spécifié
 Chapitre : Chapitre I : Mesures de vigilance générale
 Titre : Non spécifié
@@ -308,7 +308,7 @@ appliquent des mesures supplémentaires appropriées afin de gérer adéquatemen
 risques de blanchiment d’argent et de financement du terrorisme et doivent en
 informer la Banque Centrale de Tunisie.
 
-=== CHUNK 5 | PDF: circulaire-fr-1.pdf | Page: 11 | Titre_Gemma: **Obligations de groupe en matière de lutte contre le blanchiment d'argent et le financement du terrorisme.** ===
+=== CHUNK 5 | PDF: circulaire-fr-1.pdf | Page: 11 | Titre_Gemma: **Lutte contre le Blanchiment d'Argent et le Financement du Terrorisme pour les Groupes** ===
 Loi : Non spécifié
 Chapitre : Chapitre I : Mesures de vigilance générale
 Titre : Non spécifié
@@ -344,7 +344,7 @@ régulier, de la mise à jour et de la pertinence des documents, données ou inf
 collectées lors de l’accomplissement du devoir de vigilance relatif à la connaissance
 de la clientèle.
 
-=== CHUNK 7 | PDF: circulaire-fr-1.pdf | Page: 11 | Titre_Gemma: **Examen des clients.** ===
+=== CHUNK 7 | PDF: circulaire-fr-1.pdf | Page: 11 | Titre_Gemma: **Examen des clients : Prise en compte des demandes de renseignements.** ===
 Loi : Non spécifié
 Chapitre : Chapitre II: Mesures de vigilance renforcée
 Titre : Non spécifié
@@ -385,7 +385,7 @@ aux comptes de la banque correspondante et que le correspondant est en mesure de
 fournir les informations pertinentes s’y rapportant à la demande ; et
 - fixer, par écrit, les obligations respectives des deux parties.
 
-=== CHUNK 9 | PDF: circulaire-fr-1.pdf | Page: 12 | Titre_Gemma: **Obligations de vigilance et de contrôle sur les clients politiquement exposés.** ===
+=== CHUNK 9 | PDF: circulaire-fr-1.pdf | Page: 12 | Titre_Gemma: **Due Diligence sur les Clients Étrangers et Personnes Politiquement Exposées** ===
 Loi : Non spécifié
 Chapitre : Chapitre II: Mesures de vigilance renforcée
 Titre : Non spécifié
@@ -416,7 +416,7 @@ Est considérée comme personne ayant des rapports avec les personnes susvisées
 toute personne physique connue comme entretenant avec celles-ci des liens d’affaires
 étroits.
 
-=== CHUNK 10 | PDF: circulaire-fr-1.pdf | Page: 13 | Titre_Gemma: **Vigilance renforcée : Associations et clients à risque** ===
+=== CHUNK 10 | PDF: circulaire-fr-1.pdf | Page: 13 | Titre_Gemma: **Vigilance renforcée : Associations et Clients à Risque** ===
 Loi : Non spécifié
 Chapitre : Chapitre II: Mesures de vigilance renforcée
 Titre : Non spécifié
@@ -431,7 +431,7 @@ filtrage de la clientèle, et
 - des clients jugés à risque élevé par référence à l’évaluation nationale des risques de
 blanchiment d’argent et de financement du terrorisme.
 
-=== CHUNK 11 | PDF: circulaire-fr-1.pdf | Page: 13 | Titre_Gemma: **Obligations de vigilance renforcée envers les pays à risque.** ===
+=== CHUNK 11 | PDF: circulaire-fr-1.pdf | Page: 13 | Titre_Gemma: **Obligations de vigilance renforcée en cas de risque élevé** ===
 Loi : Non spécifié
 Chapitre : Chapitre II: Mesures de vigilance renforcée
 Titre : Non spécifié
@@ -478,7 +478,7 @@ GAFI signalés dans ses déclarations relatives à « l’amélioration de la co
 normes de lutte contre le blanchiment d’argent et de financement du terrorisme dans
 le monde : un processus permanent ».
 
-=== CHUNK 12 | PDF: circulaire-fr-1.pdf | Page: 15 | Titre_Gemma: **Gestion des risques liés aux nouvelles technologies et blanchiment d'argent.** ===
+=== CHUNK 12 | PDF: circulaire-fr-1.pdf | Page: 15 | Titre_Gemma: **Gestion des risques liés aux nouvelles technologies et blanchiment d'argent** ===
 Loi : Non spécifié
 Chapitre : Chapitre II: Mesures de vigilance renforcée
 Titre : Non spécifié
@@ -501,7 +501,7 @@ prendre les mesures appropriées pour gérer et atténuer ces risques ainsi que 
 risques spécifiques liés aux relations d’affaires et aux transactions qui n’impliquent
 pas la présence physique des parties.
 
-=== CHUNK 13 | PDF: circulaire-fr-1.pdf | Page: 15 | Titre_Gemma: **Vigilance renforcée sur les opérations suspectes** ===
+=== CHUNK 13 | PDF: circulaire-fr-1.pdf | Page: 15 | Titre_Gemma: **Vigilance renforcée sur les opérations suspectes.** ===
 Loi : Non spécifié
 Chapitre : Chapitre III : des mesures de vigilance spécifique à l’égard
 Titre : Non spécifié
@@ -577,7 +577,7 @@ aux mesures de vigilance à l’égard des clients et des opérations prévues p
 présente circulaire et que les informations obtenues lors de cette vérification ont été
 conservées conformément à l'article 51 ci-après.
 
-=== CHUNK 16 | PDF: circulaire-fr-1.pdf | Page: 17 | Titre_Gemma: **Informations incomplètes dans les fonds internationaux** ===
+=== CHUNK 16 | PDF: circulaire-fr-1.pdf | Page: 17 | Titre_Gemma: **Manque d'informations dans les fonds internationaux** ===
 Loi : Non spécifié
 Chapitre : Chapitre III : des mesures de vigilance spécifique à l’égard
 Titre : Non spécifié
@@ -587,7 +587,7 @@ Article : Article 25: L’établissement du donneur d'ordre doit refuser d’ex�
 international de fonds dont les informations requises ne sont pas complètes ou font
 défaut.
 
-=== CHUNK 17 | PDF: circulaire-fr-1.pdf | Page: 17 | Titre_Gemma: **Dispense d'informations sur le donneur d'ordre pour les lots multiples.** ===
+=== CHUNK 17 | PDF: circulaire-fr-1.pdf | Page: 17 | Titre_Gemma: **Dispense d'informations sur le donneur d'ordre pour les lots.** ===
 Loi : Non spécifié
 Chapitre : Chapitre III : des mesures de vigilance spécifique à l’égard
 Titre : Non spécifié
@@ -602,7 +602,7 @@ et que le lot comporte les informations requises et exactes sur le donneur d’o
 ainsi que des informations complètes sur les bénéficiaires et que le parcours de ces
 informations puisse être entièrement reconstitué dans le pays de réception.
 
-=== CHUNK 18 | PDF: circulaire-fr-1.pdf | Page: 17 | Titre_Gemma: **Accès aux informations financières - Article 23** ===
+=== CHUNK 18 | PDF: circulaire-fr-1.pdf | Page: 17 | Titre_Gemma: **Accès aux documents bancaires : Délai et conditions.** ===
 Loi : Non spécifié
 Chapitre : Chapitre III : des mesures de vigilance spécifique à l’égard
 Titre : Non spécifié
@@ -620,7 +620,7 @@ Dans ce cas, l’établissement du donneur d’ordre inclut seulement le numéro
 compte ou un numéro de référence unique d’opération permettant de reconstituer le
 parcours de l’opération jusqu’au donneur d’ordre ou au bénéficiaire.
 
-=== CHUNK 19 | PDF: circulaire-fr-1.pdf | Page: 18 | Titre_Gemma: **Conservation des informations sur les virements transfrontaliers** ===
+=== CHUNK 19 | PDF: circulaire-fr-1.pdf | Page: 18 | Titre_Gemma: **Responsabilité de conservation des informations sur les virements transfrontaliers.** ===
 Loi : Non spécifié
 Chapitre : Chapitre III : des mesures de vigilance spécifique à l’égard
 Titre : Non spécifié
@@ -636,7 +636,7 @@ correspondant, la banque intermédiaire est tenue de conserver pendant au moins 
 ans les informations reçues de l’établissement du donneur d’ordre ou d’une autre
 banque intermédiaire.
 
-=== CHUNK 20 | PDF: circulaire-fr-1.pdf | Page: 18 | Titre_Gemma: **Vérification des informations de virement.** ===
+=== CHUNK 20 | PDF: circulaire-fr-1.pdf | Page: 18 | Titre_Gemma: **Vérification des données de virement** ===
 Loi : Non spécifié
 Chapitre : Chapitre III : des mesures de vigilance spécifique à l’égard
 Titre : Non spécifié
@@ -649,7 +649,7 @@ devant comporter les informations sur le donneur d'ordre et le bénéficiaire on
 complétés à l'aide de caractères ou d'éléments admissibles conformément aux
 conventions de ce système.
 
-=== CHUNK 21 | PDF: circulaire-fr-1.pdf | Page: 18 | Titre_Gemma: **Gestion des virements en cas d'informations manquantes ou incomplètes.** ===
+=== CHUNK 21 | PDF: circulaire-fr-1.pdf | Page: 18 | Titre_Gemma: **Gestion des défauts d'informations dans les virements** ===
 Loi : Non spécifié
 Chapitre : Chapitre III : des mesures de vigilance spécifique à l’égard
 Titre : Non spécifié
@@ -663,7 +663,7 @@ sont incomplètes ou que les champs concernant ces informations n'ont pas été
 complétés à l'aide de caractères ou d'éléments admissibles conformément aux
 conventions du système de messagerie ou du système de paiement.
 
-=== CHUNK 22 | PDF: circulaire-fr-1.pdf | Page: 18 | Titre_Gemma: **Mesures en cas d'omission de données bancaires.** ===
+=== CHUNK 22 | PDF: circulaire-fr-1.pdf | Page: 18 | Titre_Gemma: **Mesures de la banque intermédiaire en cas d'omission d'informations** ===
 Loi : Non spécifié
 Chapitre : Chapitre III : des mesures de vigilance spécifique à l’égard
 Titre : Non spécifié
@@ -678,7 +678,7 @@ relation d'affaires avec celui-ci ou d'y mettre fin.
 La banque intermédiaire doit déclarer à la Banque Centrale de Tunisie cette omission
 ainsi que les mesures prises.
 
-=== CHUNK 23 | PDF: circulaire-fr-1.pdf | Page: 19 | Titre_Gemma: **Déclaration de transactions suspectes.** ===
+=== CHUNK 23 | PDF: circulaire-fr-1.pdf | Page: 19 | Titre_Gemma: **Déclaration de virements suspects.** ===
 Loi : Non spécifié
 Chapitre : Chapitre III : des mesures de vigilance spécifique à l’égard
 Titre : Non spécifié
@@ -689,7 +689,7 @@ manquantes ou incomplètes sur le donneur d'ordre ou sur le bénéficiaire si le
 virement de fonds, ou toute transaction qui s'y rattache, présente un caractère suspect
 et doit être déclaré(e) à la CTAF.
 
-=== CHUNK 24 | PDF: circulaire-fr-1.pdf | Page: 19 | Titre_Gemma: **Vérification des champs d'identification lors d'un virement.** ===
+=== CHUNK 24 | PDF: circulaire-fr-1.pdf | Page: 19 | Titre_Gemma: **Vérification de la complétion des champs d'information dans les systèmes Swift et paiement.** ===
 Loi : Non spécifié
 Chapitre : Chapitre III : des mesures de vigilance spécifique à l’égard
 Titre : Non spécifié
@@ -702,7 +702,7 @@ contenir les informations sur le donneur d'ordre et le bénéficiaire ont été 
 l'aide de caractères ou d'éléments admissibles conformément aux conventions de ce
 système.
 
-=== CHUNK 25 | PDF: circulaire-fr-1.pdf | Page: 19 | Titre_Gemma: **Vérification de l'identité des bénéficiaires.** ===
+=== CHUNK 25 | PDF: circulaire-fr-1.pdf | Page: 19 | Titre_Gemma: **Vérification de l'identité des bénéficiaires** ===
 Loi : Non spécifié
 Chapitre : Chapitre III : des mesures de vigilance spécifique à l’égard
 Titre : Non spécifié
@@ -717,7 +717,7 @@ documents, de données ou de renseignements obtenus d'une source fiable.
 L’établissement du bénéficiaire doit conserver les informations sur le bénéficiaire
 conformément à l'article 51 de la présente circulaire.
 
-=== CHUNK 26 | PDF: circulaire-fr-1.pdf | Page: 19 | Titre_Gemma: **Identification des bénéficiaires de virements non qualifiés** ===
+=== CHUNK 26 | PDF: circulaire-fr-1.pdf | Page: 19 | Titre_Gemma: **Virements en devises : Informations bénéficiaire (montant > 1000 dinars)** ===
 Loi : Non spécifié
 Chapitre : Chapitre III : des mesures de vigilance spécifique à l’égard
 Titre : Non spécifié
@@ -732,7 +732,7 @@ a) effectue le versement des fonds en espèces
 b) ait des motifs raisonnables de suspecter des actes de blanchiment d’argent ou de
 financement du terrorisme.
 
-=== CHUNK 27 | PDF: circulaire-fr-1.pdf | Page: 20 | Titre_Gemma: **Gestion des virements : Procédure basée sur le risque** ===
+=== CHUNK 27 | PDF: circulaire-fr-1.pdf | Page: 20 | Titre_Gemma: **Gestion des virements en cas de défaut d'informations.** ===
 Loi : Non spécifié
 Chapitre : Chapitre III : des mesures de vigilance spécifique à l’égard
 Titre : Non spécifié
@@ -767,7 +767,7 @@ ou d'y mettre fin.
 L’établissement du bénéficiaire déclare à la Banque Centrale de Tunisie cette
 omission et les mesures prises à cet égard.
 
-=== CHUNK 29 | PDF: circulaire-fr-1.pdf | Page: 20 | Titre_Gemma: **Contrôle des virements électroniques liés au terrorisme et au financement d'armes.** ===
+=== CHUNK 29 | PDF: circulaire-fr-1.pdf | Page: 20 | Titre_Gemma: **Obligations de déclaration et de gel des fonds en cas de suspicion de financement terroriste.** ===
 Loi : Non spécifié
 Chapitre : Chapitre IV: Des interdictions
 Titre : Non spécifié
@@ -786,7 +786,7 @@ les diligences nécessaires à observer par la banque du donneur d’ordre.
 A cet effet, elles doivent accéder à toutes les informations sur le donneur d’ordre afin
 de déterminer si une déclaration d’opération suspecte doit être effectuée.
 
-=== CHUNK 30 | PDF: circulaire-fr-1.pdf | Page: 21 | Titre_Gemma: **Refus de compte en cas de données insuffisantes ou suspectes.** ===
+=== CHUNK 30 | PDF: circulaire-fr-1.pdf | Page: 21 | Titre_Gemma: **Refus de Service et Déclaration de Soupçon** ===
 Loi : Non spécifié
 Chapitre : Chapitre IV: Des interdictions
 Titre : Non spécifié
@@ -798,7 +798,7 @@ insuffisantes ou sont manifestement fictives, ils doivent s’abstenir d’ouvri
 de nouer ou de continuer la relation d’affaires ou d’effectuer l’opération ou la
 transaction et envisager de faire une déclaration de soupçon.
 
-=== CHUNK 31 | PDF: circulaire-fr-1.pdf | Page: 21 | Titre_Gemma: **Correspondance Bancaire Transfrontalière** ===
+=== CHUNK 31 | PDF: circulaire-fr-1.pdf | Page: 21 | Titre_Gemma: Correspondance Bancaire Transfrontalière ===
 Loi : Non spécifié
 Chapitre : Chapitre IV: Des interdictions
 Titre : Non spécifié
@@ -807,7 +807,7 @@ Sous-section : Non spécifié
 Article : Article 40: Les établissements assujettis doivent refuser de nouer ou de poursuivre
 une relation de correspondant bancaire transfrontalier avec une banque fictive.
 
-=== CHUNK 32 | PDF: circulaire-fr-1.pdf | Page: 21 | Titre_Gemma: **Banques fictives et organismes financiers étrangers.** ===
+=== CHUNK 32 | PDF: circulaire-fr-1.pdf | Page: 21 | Titre_Gemma: **Autorisation de banques fictives par des organismes financiers étrangers.** ===
 Loi : Non spécifié
 Chapitre : Chapitre IV: Des interdictions
 Titre : Non spécifié
@@ -826,7 +826,7 @@ Sous-section : Non spécifié
 Article : Article 42: Abrogé par circulaire n°2018-09 du 18 octobre 2018
 
 
-=== CHUNK 34 | PDF: circulaire-fr-1.pdf | Page: 21 | Titre_Gemma: **Comptes fictifs** ===
+=== CHUNK 34 | PDF: circulaire-fr-1.pdf | Page: 21 | Titre_Gemma: **Comptes Fictifs** ===
 Loi : Non spécifié
 Chapitre : Chapitre IV: Des interdictions
 Titre : Non spécifié
@@ -835,7 +835,7 @@ Sous-section : Non spécifié
 Article : Article 43: Les établissements assujettis ne doivent ni tenir de comptes anonymes ni
 de comptes sous des noms fictifs.
 
-=== CHUNK 35 | PDF: circulaire-fr-1.pdf | Page: 21 | Titre_Gemma: **Contrôle interne : Lutte contre le blanchiment et le financement du terrorisme** ===
+=== CHUNK 35 | PDF: circulaire-fr-1.pdf | Page: 21 | Titre_Gemma: **Contrôle interne en matière de lutte contre le blanchiment d'argent et le financement du terrorisme.** ===
 Loi : Non spécifié
 Chapitre : Chapitre I : Des règles de contrôle interne pour la gestion du risque de
 Titre : Non spécifié
@@ -870,7 +870,7 @@ Les procédures internes doivent être examinées et validées par le comité d�
 approuvées par le conseil d’administration ou le conseil de surveillance de
 l’établissement assujetti.
 
-=== CHUNK 36 | PDF: circulaire-fr-1.pdf | Page: 22 | Titre_Gemma: **Gestion des risques de blanchiment d'argent et financement du terrorisme.** ===
+=== CHUNK 36 | PDF: circulaire-fr-1.pdf | Page: 22 | Titre_Gemma: **Gestion des Risques de Blanchiment et de Financement du Terrorisme** ===
 Loi : Non spécifié
 Chapitre : Chapitre I : Des règles de contrôle interne pour la gestion du risque de
 Titre : Non spécifié
@@ -894,7 +894,7 @@ crimes de financement de la prolifération d’armes de destruction massive est 
 déclarer tous les biens gelés ainsi que les mesures prises à l’autorité compétente
 conformément aux dispositions légales en vigueur.
 
-=== CHUNK 37 | PDF: circulaire-fr-1.pdf | Page: 23 | Titre_Gemma: **Système d'Information de Lutte Contre le Blanchiment d'Argent (LCB)** ===
+=== CHUNK 37 | PDF: circulaire-fr-1.pdf | Page: 23 | Titre_Gemma: **Système d'Information pour la Lutte Contre le Blanchiment d'Argent et le Financement du Terrorisme** ===
 Loi : Non spécifié
 Chapitre : Chapitre I : Des règles de contrôle interne pour la gestion du risque de
 Titre : Non spécifié
@@ -937,7 +937,7 @@ l’objet d’un examen périodique de son efficacité en vue de l’adapter en 
 nature et de l’évolution de l’activité de l’établissement et de l’environnement légal et
 réglementaire.
 
-=== CHUNK 40 | PDF: circulaire-fr-1.pdf | Page: 23 | Titre_Gemma: **Contrôle interne du risque de blanchiment d'argent : obligations et procédures d'audit** ===
+=== CHUNK 40 | PDF: circulaire-fr-1.pdf | Page: 23 | Titre_Gemma: **Contrôle interne et Audit du Risque de Blanchiment d'Argent** ===
 Loi : Non spécifié
 Chapitre : Chapitre I : Des règles de contrôle interne pour la gestion du risque de
 Titre : Non spécifié
@@ -971,7 +971,7 @@ requis, les informations demandées par toute autorité habilitée, à sa demand
 compris les informations sur la propriété légale, les bénéficiaires effectifs et les
 informations bancaires.
 
-=== CHUNK 41 | PDF: circulaire-fr-1.pdf | Page: 24 | Titre_Gemma: **Déontologie et déclaration de soupçon : règles pour les établissements de crédit.** ===
+=== CHUNK 41 | PDF: circulaire-fr-1.pdf | Page: 24 | Titre_Gemma: **Déontologie et Déclaration de Soupçon : Règles des Établissements de Crédit** ===
 Loi : Non spécifié
 Chapitre : Chapitre I : Des règles de contrôle interne pour la gestion du risque de
 Titre : Non spécifié
@@ -985,7 +985,7 @@ Ces règles font partie intégrante du Code déontologique prévu par l’articl
 circulaire n°2011-06 relative au renforcement des règles de bonne gouvernance dans
 les établissements de crédit.
 
-=== CHUNK 42 | PDF: circulaire-fr-1.pdf | Page: 24 | Titre_Gemma: **Contrôle interne du risque de blanchiment d'argent : Obligation des Commissaires aux Comptes** ===
+=== CHUNK 42 | PDF: circulaire-fr-1.pdf | Page: 24 | Titre_Gemma: **Évaluation du Contrôle Interne au Risque de Blanchiment d'Argent** ===
 Loi : Non spécifié
 Chapitre : Chapitre I : Des règles de contrôle interne pour la gestion du risque de
 Titre : Non spécifié
@@ -1004,7 +1004,7 @@ blanchiment d’argent notamment en matière de son efficacité et de son adéqu
 avec le degré d’exposition de l’établissement à ce risque en rapport avec la nature, le
 volume et la complexité de son activité.
 
-=== CHUNK 43 | PDF: circulaire-fr-1.pdf | Page: 25 | Titre_Gemma: **Diffusion des procédures anti-blanchiment.** ===
+=== CHUNK 43 | PDF: circulaire-fr-1.pdf | Page: 25 | Titre_Gemma: **Diffusion des procédures de lutte contre le blanchiment d'argent.** ===
 Loi : Non spécifié
 Chapitre : Chapitre I : Des règles de contrôle interne pour la gestion du risque de
 Titre : Non spécifié
@@ -1016,7 +1016,7 @@ financement du terrorisme, prévues par l’article 44 de la présente circulair
 être portées à la connaissance du personnel en contact avec la clientèle ainsi que tout
 le personnel concerné.
 
-=== CHUNK 44 | PDF: circulaire-fr-1.pdf | Page: 25 | Titre_Gemma: Formation Continue Obligatoire Lutte Contre le Blanchiment et le Financement du Terrorisme. ===
+=== CHUNK 44 | PDF: circulaire-fr-1.pdf | Page: 25 | Titre_Gemma: **Formation continue anti-blanchiment et lutte contre le terrorisme** ===
 Loi : Non spécifié
 Chapitre : Chapitre II: De la déclaration de soupçon
 Titre : Non spécifié
@@ -1031,7 +1031,7 @@ réglementation en la matière et notamment les obligations relatives au devoir 
 vigilance à l’égard des clients et des opérations et de déclaration des opérations et des
 transactions suspectes.
 
-=== CHUNK 45 | PDF: circulaire-fr-1.pdf | Page: 25 | Titre_Gemma: **Conformité et contrôle : Exigences pour l'organe et les agents.** ===
+=== CHUNK 45 | PDF: circulaire-fr-1.pdf | Page: 25 | Titre_Gemma: **Conformité et Contrôle : Exigences pour l'Organisme de Conformité** ===
 Loi : Non spécifié
 Chapitre : Chapitre III : De l’information de la Banque Centrale de Tunisie
 Titre : Non spécifié
@@ -1090,7 +1090,7 @@ clôturé; et
 nature d’opération et par catégorie de clientèle (personnes physiques et personnes
 morales)
 
-=== CHUNK 47 | PDF: circulaire-fr-1.pdf | Page: 27 | Titre_Gemma: **Obligations de vigilance et de reporting financier - Banque Centrale de Tunisie** ===
+=== CHUNK 47 | PDF: circulaire-fr-1.pdf | Page: 27 | Titre_Gemma: **Obligations de Rapport sur la Vigilance et l'Évaluation des Risques de Blanchiment d'Argent** ===
 Loi : Non spécifié
 Chapitre : Chapitre III : De l’information de la Banque Centrale de Tunisie
 Titre : Non spécifié
@@ -1106,7 +1106,7 @@ terrorisme visé dans l’article 4 du titre premier de la présente circulaire 
 communiqué à la Banque Centrale de Tunisie avant fin septembre 2018. Toute mise à
 jour de ce rapport doit également être communiquée à la Banque Centrale de Tunisie.
 
-=== CHUNK 48 | PDF: circulaire-fr-1.pdf | Page: 27 | Titre_Gemma: **Sanctions disciplinaires en cas de manquement réglementaire** ===
+=== CHUNK 48 | PDF: circulaire-fr-1.pdf | Page: 27 | Titre_Gemma: **Sanctions pour manquements aux obligations réglementaires.** ===
 Loi : Non spécifié
 Chapitre : Chapitre III : De l’information de la Banque Centrale de Tunisie
 Titre : Non spécifié
@@ -1117,7 +1117,7 @@ Tout manquement aux obligations prévues par la présente circulaire expose
 l’établissement contrevenant aux sanctions disciplinaires prévues par la loi n°2016-48
 relative aux banques et aux établissements financiers.
 
-=== CHUNK 49 | PDF: circulaire-fr-1.pdf | Page: 27 | Titre_Gemma: **Conformité aux dispositions du chapitre III : Délai de 6 mois** ===
+=== CHUNK 49 | PDF: circulaire-fr-1.pdf | Page: 27 | Titre_Gemma: **Conformité réglementaire : Délai de 6 mois** ===
 Loi : Non spécifié
 Chapitre : Chapitre III : De l’information de la Banque Centrale de Tunisie
 Titre : Non spécifié
@@ -1127,7 +1127,7 @@ Article : Article 62 :
 Les établissements assujettis disposent d’un délai de 6 mois pour se conformer aux
 dispositions du chapitre III du
 
-=== CHUNK 50 | PDF: circulaire-fr-1.pdf | Page: 27 | Titre_Gemma: **Abrogation de la circulaire n°2013-15 : Nouvelles exigences de transparence.** ===
+=== CHUNK 50 | PDF: circulaire-fr-1.pdf | Page: 27 | Titre_Gemma: **Abrogation de la circulaire n°2013-15 sur le blanchiment d'argent.** ===
 Loi : Non spécifié
 Chapitre : Chapitre III : De l’information de la Banque Centrale de Tunisie
 Titre : Non spécifié
@@ -1274,7 +1274,7 @@ les rapports des commissaires aux comptes
 - Identité du ou des bénéficiaires effectifs.
 III- Pour les associations - Nom de l’association
 
-=== CHUNK 52 | PDF: circulaire-fr-1.pdf | Page: 30 | Titre_Gemma: **Questionnaire d'informations sur un établissement bancaire transfrontalier.** ===
+=== CHUNK 52 | PDF: circulaire-fr-1.pdf | Page: 30 | Titre_Gemma: **Questionnaire d'informations bancaires transfrontalières** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -1304,7 +1304,7 @@ Si vous avez répondu par « oui » veuillez indiquer :
 6) Quels sont les types de clientèle ?
 II- Renseignement relatifs aux lois, règles et procédures:
 
-=== CHUNK 53 | PDF: circulaire-fr-1.pdf | Page: 34 | Titre_Gemma: **Opérations en Espèces à Risque** ===
+=== CHUNK 53 | PDF: circulaire-fr-1.pdf | Page: 34 | Titre_Gemma: **Opérations en Espèces à Surveiller** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -1352,7 +1352,7 @@ et/ou sans rapport avec l’activité économique du client ;
 - Transfert de fonds inhabituel ou sans justification économique apparente en provenance ou à
 destination de pays étrangers ;
 
-=== CHUNK 54 | PDF: circulaire-fr-1.pdf | Page: 36 | Titre_Gemma: **Statistiques des déclarations à la CTAF (Annexe 5)** ===
+=== CHUNK 54 | PDF: circulaire-fr-1.pdf | Page: 36 | Titre_Gemma: **Statistiques des déclarations à la CTAF à la clôture de l'exercice** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié

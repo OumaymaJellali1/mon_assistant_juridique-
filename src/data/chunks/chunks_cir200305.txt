@@ -30,7 +30,7 @@ Intermédiaire Agréé à exercer  la sous-délégation de
 change dans le cadre de son activité conformément à la
 réglementation en vigueur
 
-=== CHUNK 3 | PDF: cir200305.pdf | Page: 1 | Titre_Gemma: **Procédure d'obtention de l'autorisation de change en dinar convertible.** ===
+=== CHUNK 3 | PDF: cir200305.pdf | Page: 1 | Titre_Gemma: **Procédure pour l'obtention d'un agrément de change en dinar convertible.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -65,7 +65,7 @@ valeur  en dinars des devises qui lui sont cédées par le
 sous-délégataire de change au titre de l’année civile
 précédente.
 
-=== CHUNK 4 | PDF: cir200305.pdf | Page: 1 | Titre_Gemma: **Prise en compte des devises cédées et des participations au capital par les Intermédiaires Agréés.** ===
+=== CHUNK 4 | PDF: cir200305.pdf | Page: 1 | Titre_Gemma: **Prise en compte de commissions et de participations au capital.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -103,7 +103,7 @@ convertibles.
 Toute autre opération au crédit du compte est soumise
 à autorisation de la Banque Centrale de Tunisie.
 
-=== CHUNK 5 | PDF: cir200305.pdf | Page: 1 | Titre_Gemma: **Débit du compte bancaire pour opérations à l'étranger.** ===
+=== CHUNK 5 | PDF: cir200305.pdf | Page: 1 | Titre_Gemma: **Débit du Compte pour Transactions Étrangères** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -133,7 +133,7 @@ Toute autre opération au débit du compte est
 soumise à autorisation de la Banque Centrale de
 Tunisie.
 
-=== CHUNK 6 | PDF: cir200305.pdf | Page: 2 | Titre_Gemma: **Non-responsabilité de la modification.** ===
+=== CHUNK 6 | PDF: cir200305.pdf | Page: 2 | Titre_Gemma: **Non-responsabilité du changement.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -142,7 +142,7 @@ Sous-section : Non spécifié
 Article : Article 6 : Le compte « sous-délégataire de
 change » ne peut en aucun cas être rendu débiteur.
 
-=== CHUNK 7 | PDF: cir200305.pdf | Page: 2 | Titre_Gemma: **Un seul compte sous-délégataire en dinar convertible.** ===
+=== CHUNK 7 | PDF: cir200305.pdf | Page: 2 | Titre_Gemma: **Un seul compte sous-délégataire de change.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -152,7 +152,7 @@ Article : Article 7 : Une même personne physique ne peut
 être titulaire que d’un seul « compte sous-délégataire
 de change en dinar convertible ».
 
-=== CHUNK 8 | PDF: cir200305.pdf | Page: 2 | Titre_Gemma: **Déclaration des avoirs à l'étranger pour les sous-délégataires de change.** ===
+=== CHUNK 8 | PDF: cir200305.pdf | Page: 2 | Titre_Gemma: **Déclaration des avoirs étrangers pour les sous-délégataires de change.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -165,7 +165,7 @@ de déclarer à la Banque Centrale de Tunisie tous ses
 avoirs acquis à l’étranger par le débit de ce compte,
 conformément à l’article 16 du code des changes.
 
-=== CHUNK 9 | PDF: cir200305.pdf | Page: 2 | Titre_Gemma: **Établissement des "Délégataires de Change"** ===
+=== CHUNK 9 | PDF: cir200305.pdf | Page: 2 | Titre_Gemma: **Établissement des délégataires de change** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -176,7 +176,7 @@ délégataires de change » ouverts auprès des
 Intermédiaires Agréés sont établis conformément au
 dessin d’enregistrement objet de l’annexe n° 1.
 
-=== CHUNK 10 | PDF: cir200305.pdf | Page: 2 | Titre_Gemma: **Déclaration Trimestrielle des Délégataires de Change** ===
+=== CHUNK 10 | PDF: cir200305.pdf | Page: 2 | Titre_Gemma: **Déclaration des opérations de change trimestrielles** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -197,7 +197,7 @@ d’un bordereau précisant la période à laquelle ils se
 rattachent, visés par un représentant de l’Intermédiaire
 Agréé dûment habilité à cet effet.
 
-=== CHUNK 11 | PDF: cir200305.pdf | Page: 2 | Titre_Gemma: **Délais et modalités d'enregistrement des mouvements de comptes** ===
+=== CHUNK 11 | PDF: cir200305.pdf | Page: 2 | Titre_Gemma: **Délais et Modalités d'Enregistrement des Mouvements Bancaires** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -231,7 +231,7 @@ bénéficiaire pour les opérations au débit du
 compte A Nom du bénéficiaire Indiquer le nom et le prénom du bénéficiaire X Filler Zone non utilisée
 *A : Alphabétique, X : Alphanumérique, N : Numérique.
 
-=== CHUNK 12 | PDF: cir200305.pdf | Page: 3 | Titre_Gemma: **Enregistrement des Extraits Trimestriels des Comptes Sous-Délégataires de Change en Dinar Convertible** ===
+=== CHUNK 12 | PDF: cir200305.pdf | Page: 3 | Titre_Gemma: **Enregistrement des Extraits Trimestriels des Comptes Sous-Délegataires de Change (Dinar Convertible)** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -281,7 +281,7 @@ JJMMAAAA la date de l’autorisation F2 de
 la BCT
 *A : Alphabétique, X : Alphanumérique, N : Numérique.
 
-=== CHUNK 13 | PDF: cir200305.pdf | Page: 5 | Titre_Gemma: **Spécifications de la disquette (MS/DOS)** ===
+=== CHUNK 13 | PDF: cir200305.pdf | Page: 5 | Titre_Gemma: **Spécifications du support informatique - Disquette** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié

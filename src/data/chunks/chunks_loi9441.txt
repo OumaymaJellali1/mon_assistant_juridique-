@@ -1,26 +1,72 @@
-=== CHUNK 1 | PDF: loi9441.pdf | Page: -1 | Titre_Gemma: **Lois Tunisiennes de 1994 : Ratification d'un Accord de Prêt et Approbation d'un Avenant** ===
+=== CHUNK 1 | PDF: loi9441.pdf | Page: -1 | Titre_Gemma: **Loi de ratification d'un accord de prêt (Loi n° 94-39 du 7 mars 1994)** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
 Section : Non spécifié
 Sous-section : Non spécifié
 Article : Non spécifié
-Voici le texte juridique découpé en sections, respectant les paragraphes et le séparateur demandé :
-**Section 1 : Loi n° 94-39 du 7 mars 1994, portant ratification d'un accord de prêt**
-Le texte commence par l'introduction de la loi n° 94-39 du 7 mars 1994, qui vise à ratifier un accord de prêt conclu entre le Gouvernement de la République Tunisienne et la Banque Africaine de Développement. Cet accord a pour but de financer le projet d'aménagement de l'Oued Barbara. La loi est promulguée par le Président de la République et est publiée au Journal Officiel.
-**Section 2 : Loi n° 94-40 du 7 mars 1994, portant approbation d'un avenant à la convention "Zarat"**
-Cette loi approuve l'avenant n° 1 à la convention "Zarat", qui modifie la convention initiale signée en 1990 et approuvée en 1991. Cette convention concerne un permis dit "Zarat". La loi est promulguée par le Président de la République et publiée au Journal Officiel.
-**Section 3 : Loi n° 94-41 du 7 mars 1994, relative au Commerce Extérieur**
-Cette loi établit le régime du commerce extérieur applicable aux opérations d'importation et d'exportation.  Elle définit les produits soumis à un régime de liberté, les produits exclus de ce régime, et les modalités d'importation et d'exportation pour les produits exclus. Elle prévoit également des contrôles techniques pour les importations et exportations, et une défense contre les pratiques déloyales à l'importation (dumping et subventions). La loi contient des dispositions sur les procédures d'enquête, le réexamen des décisions et la création d'un Conseil National du Commerce Extérieur.
-**Section 4 : Loi n° 94-42 du 7 mars 1994, fixant le régime applicable à l'exercice des activités des sociétés de commerce international**
-Cette loi fixe les dispositions relatives à l'exercice des activités des sociétés de commerce international.  Elle définit les sociétés de commerce international, les activités autorisées, les obligations de déclaration, et les conditions de capital minimum. La loi établit également un Conseil National du Commerce Extérieur pour promouvoir les exportations et améliorer la balance commerciale.
-**Informations complémentaires:**
-*   Chaque section contient des informations sur la loi, son adoption par la Chambre des Députés, et la promulgation par le Président de la République.
-*   Les références à des travaux préparatoires (travaux préparatoires) indiquent les discussions et les votes effectués par la Chambre des Députés.
-*   Les dates de promulgation et de publication au Journal Officiel sont précisées.
-*   Les termes techniques et les références légales sont utilisés.
-*   Les sections sont séparées par des titres et des séparateurs clairs.
-*   Les numéros de loi sont conservés pour la référence.
-*   Les paragraphes de chaque section ont été conservés pour une lecture plus fluide.
-*   Les sections sont organisées de manière logique, en commençant par la ratification d'un accord de prêt, puis en abordant des sujets liés au commerce extérieur et enfin, aux sociétés de commerce international.
+## Découpage du Texte Juridique
+Voici le texte juridique découpé en sections de taille raisonnable, respectant les paragraphes. Chaque section est précédée d'un séparateur.
+**Loi n° 94-39 du 7 mars 1994, portant ratification d'un accord de prêt**
+
+=== CHUNK 2 | PDF: loi9441.pdf | Page: -1 | Titre_Gemma: **Ratification du prêt entre la Tunisie et la Banque Africaine de Développement** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
+**Article unique : Ratification de l'accord de prêt**
+Est ratifié l'accord annexé à la présente loi, conclu le 12 mai 1993 entre le Gouvernement de la République Tunisienne et la Banque Africaine de Développement, et relatif à l'octroi à la Tunisie d'un prêt d'un montant de soixante deux millions trois cent mille (62 300 000) Unités de Compte pour la contribution au financement du projet d'aménagement de l'Oued Barbara.
+La présente loi sera publiée au Journal Officiel de la République Tunisienne et exécutée comme loi de l'Etat.
+**Source :** Travaux préparatoires. Discussion et adoption par la chambre des députés dans sa séance du 22 février 1994.
+
+=== CHUNK 3 | PDF: loi9441.pdf | Page: -1 | Titre_Gemma: **Approbation de l'Avenant n° 1 à la Convention "Zarat"** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
+**Loi n° 94-40 du 7 mars 1994, portant approbation de l'avenant n° 1**
+Est approuvé l'avenant n° 1, annexé à la présente loi, signé à Tunis le 3 novembre 1993 et modifiant la convention et ses annexes signées le 5 avril 1990 approuvées par la loi n° 91-7 du 11 février 1991 et portant le permis dit permis "Zarat".
+La présente loi sera publiée au Journal Officiel de la République Tunisienne et exécutée comme loi de l'Etat.
+**Source :** Travaux préparatoires. Discussion et adoption par la chambre des députés dans sa séance du 22 février 1994.
+
+=== CHUNK 4 | PDF: loi9441.pdf | Page: -1 | Titre_Gemma: **Loi sur le Commerce Extérieur (1994)** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
+**Loi n° 94-41 du 7 mars 1994, relative au Commerce Extérieur**
+La présente loi a pour objet de définir le régime du commerce Extérieur applicable aux opérations d'importation et d'exportation des marchandises désignées ci-après par le terme : produits.
+**Chapitre I : Du régime des importations et des exportations des produits**
+*   **Article 2 :** Les importations et les exportations de produits sont libres à l'exception des produits assujettis aux restrictions prévues par la loi.
+*   **Article 3 :** Sont exclus du régime de la liberté de commerce extérieur tous les produits touchant à la sécurité, à l'ordre public, à l'hygiène, à la santé, à la morale, à la protection de la faune et de la flore et au patrimoine culturel. La liste des produits visés au présent article sera fixée par décret.
+*   **Article 4 :** Sauf le cas d'opérations occasionnelles sans caractère commercial, les importations et les exportations de produits sont réalisées par les personnes physiques ou morales dont l'activité implique l'utilisation, la production ou la vente des produits importés ou exportés et qui exercent conformément à la réglementation régissant leurs activités en Tunisie.
+*   **Article 5 :** Les produits exclus du régime de la liberté sont importés ou exportés en vertu d'autorisations d'importation et d'exportation accordées par le Ministre chargé du Commerce.
+*   **Article 6 :** Les modalités relatives à la réalisation des opérations d'importation et d'exportation sont fixées par décret.
+*   **Article 7 :** Les opérations d'importation et d'exportation sont soumises à l'application des procédures et modalités de réglement prévues par la législation de change en vigueur.
+**Chapitre II : Du contrôle technique des importations et des exportations**
+*   **Article 8 :** Les produits importés peuvent être soumis à un contrôle technique de conformité aux normes ou réglementations techniques nationales ou aux normes internationales ou, le cas échéant, aux conditions particulières convenues entre le fournisseur et l'importateur dans la mesure où ces spécifications ne sont pas contraires aux normes nationales et internationales et à l'intérêt du consommateur.
+*   **Article 9 :** Les produits exportés peuvent être soumis à un contrôle technique de conformité aux normes ou réglementations techniques nationales ou aux normes internationales en vigueur, ou aux spécifications techniques applicables dans le pays importateur, et le cas échéant, aux conditions spéciales prévues entre l'exportateur et le client dans la mesure où ces conditions ne sont pas contraires aux normes nationales et internationales et à l'intérêt des consommateurs.
+*   **Article 10 :** Les contrôles techniques à l'importation et à l'exportation tels que prévus par les articles 8 et 9 sont effectués sans préjudice de la réglementation relative aux contrôles spécifiques, notamment vétérinaires, phytosanitaires exercés par les services compétents de l'Administration.
+*   **Article 11 :** Les modalités de contrôle technique ainsi que les organismes habilités à l'exercer sont fixées par décret pris sur proposition du Ministre Chargé du Commerce. Les produits soumis au contrôle technique sont fixés par arrêté du Ministre chargé du Commerce.
+**Chapitre III : De la défense contre les pratiques déloyales à l'importation**
+**Section I : De l'institution des droits compensateurs**
+*   **Article 12 :** Est réputée pratique déloyale à l'importation toute opération d'importation de produits faisant l'objet de dumping ou de subvention qui lors de sa mise à la consommation cause ou menace de causer un préjudice important à une production nationale similaire, ou retarde sensiblement la création ou le développement d'une production nationale similaire.
+*   **Article 13 :** Est considéré comme faisant l'objet :
+*   d'un dumping, tout produit dont le prix à l'exportation vers la Tunisie est inférieur à sa valeur normale ou à celle d'un produit similaire constatée au cours d'opérations commerciales normales dans le pays d'exportation ou d'origine.
+*   d'une subvention, tout produit qui a bénéficié dans le pays d'exportation ou d'origine d'une prime directe ou indirecte à la production, à la transformation, à l'exportation ou au transport.
+*   **Article 14 :** Un droit compensateur à l'importation peut être institué, sur tout produit faisant l'objet d'un dumping ou d'une subvention. Le montant de ce droit ne peut dépasser la marge de dumping ou le montant de la subvention. Les droits compensateurs définitifs et provisoires sont établis par arrêté du Ministre des Finances sur proposition du Ministre chargé du Commerce. Ces droits sont recouvrés comme en matière de droits de douane.
+*   **Article 15 :** Lorsqu'il ressort d'un examen préliminaire qu'un produit importé présente des indices de dumping ou de subvention qui causent ou menacent de causer un préjudice important à une production nationale similaire, sa mise à la consommation sur le marché tunisien peut être subordonnée au dépôt d'une garantie égale à la marge de dumping ou au montant de la subvention, et ce, à titre de droit compensateur provisoire. Le droit compensateur provisoire est valable pour une période maximale de quatre mois à partir de sa mise en application. Toutefois, le Ministre des Finances peut, sur proposition du Ministre chargé du Commerce, le proroger d'une période supplémentaire de deux mois.
+*   **Article 16 :** Lorsqu'un droit compensateur provisoire n'a pas été institué sur des importations de produits faisant l'objet d'un dumping ou d'une subvention et mise à la consommation et que le préjudice ou la menace de préjudice engendré par lesdites importations a été établi définitivement, le Ministre des Finances peut, sur proposition du Ministre chargé du Commerce, instituer par application des dispositions de l'article 15 susvisé un droit compensateur sur lesdites importations avec effet rétroactif, à condition qu'une période de quatre-vingt-dix jours n'ait pas été écoulée depuis la date de déclaration desdits produits en douane pour leur mise à la consommation.
+*   **Article 17 :** La régularisation de la garantie du droit compensateur provisoire prévue à l'article 15 de la présente loi est, selon le cas, effectuée comme suit :
+*   si le droit compensateur définitif est égal au droit provisoire objet de la garantie déposée, celle-ci sera définitivement recouvrée,
+*   si le droit compensateur définitif est supérieur au droit provisoire objet de la garantie déposée, la différence sera recouverte,
+*   si le droit compensateur définitif est inférieur au droit provisoire objet de la garantie déposée, le montant en excédent sera remboursé.
+*   **Article 18 :** En cas de non-respect des engagements offerts, l'exportateur et les importateurs du produit faisant l'objet d'une enquête peuvent être informés du déroulement et des résultats de celle-ci.
+*   Toutefois, l'information fournie
 

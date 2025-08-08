@@ -7,7 +7,7 @@ Sous-section : Non spécifié
 Article : Article premier : Est supprimé  le quatrième tiret  du
 
 
-=== CHUNK 2 | PDF: Cir_201508_fr.pdf | Page: 2 | Titre_Gemma: **Frais de scolarité à l'étranger : Bénéficiaires (Circulaire n°93-10)** ===
+=== CHUNK 2 | PDF: Cir_201508_fr.pdf | Page: 2 | Titre_Gemma: **Frais de scolarité pour les étudiants à l'étranger (Circulaire n°93-10)** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -19,7 +19,7 @@ des transferts à titre de frais de scolarité) de la circulaire n°93-10 du 8 s
 1993 relative aux transferts à titre de frais de scolarité au profit des étudiants à
 l’étranger.
 
-=== CHUNK 3 | PDF: Cir_201508_fr.pdf | Page: 2 | Titre_Gemma: **Allocations aux frais de scolarité : Montants maximums (2014-2015)** ===
+=== CHUNK 3 | PDF: Cir_201508_fr.pdf | Page: 2 | Titre_Gemma: **Allocations aux frais de scolarité (2014-2015)** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié

@@ -1,45 +1,36 @@
-=== CHUNK 1 | PDF: cir8605.pdf | Page: -1 | Titre_Gemma: **Circulaire 86-05 : Change Manuel des Banques Non Résidentes** ===
+=== CHUNK 1 | PDF: cir8605.pdf | Page: -1 | Titre_Gemma: **Extension des activités bancaires pour les banques non résidentes (loi 85-108)** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
 Section : Non spécifié
 Sous-section : Non spécifié
 Article : Non spécifié
-**1. Introduction et Objet de la Circulaire**
-La présente circulaire, numéro 86-05, a été émise le 25 février 1986 à Tunis. Elle a pour objet de préciser les modalités de l'opération de change manuel autorisée aux banques non résidentes en vertu de la loi n° 85-108 du 6 décembre 1985. Cette loi a élargi le champ d'activité de ces institutions financières en leur accordant la possibilité d'assurer le change manuel pour leurs clients non résidents, dans les limites définies par la Banque Centrale de Tunisie.
+**1. Objet de la Circulaire**
+La présente circulaire, numéro 86-05, a pour objet d'informer les banques non résidentes de l'extension de leur domaine d'activité suite à la loi n° 85-108 du 6 Décembre 1985. Cette loi a élargi les activités des institutions financières et bancaires travaillant avec des non-résidents, en leur autorisant à assurer le change manuel au profit de leur clientèle non résidente, dans les conditions établies par la Banque Centrale de Tunisie.
 
-=== CHUNK 2 | PDF: cir8605.pdf | Page: -1 | Titre_Gemma: **Change Manuel pour Clients Non Résidents** ===
+=== CHUNK 2 | PDF: cir8605.pdf | Page: -1 | Titre_Gemma: **Change Manuel : Autorisation et Gestion de l'Encaisse** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
 Section : Non spécifié
 Sous-section : Non spécifié
 Article : Non spécifié
-**2. Le Change Manuel : Autorisation et Ressources**
-En application de l'article 6 de la loi n° 85-108, les banques non résidentes sont autorisées à effectuer des opérations de change manuel au profit de leurs clients non résidents détenteurs de comptes en devises. Elles peuvent détenir une encaisse composée de dinars et de devises. Cette encaisse est financée par :
-*   Des cessions de devises à la Banque Centrale de Tunisie.
-*   Le débit d'un compte étranger en dinars convertibles.
-*   Les dinars rétrocédés par les clients non résidents, dans le respect de la réglementation des changes.
-Les devises sont alimentées par l'acquisition de billets de banque étrangers auprès de la Banque Centrale de Tunisie ou de la clientèle non résidente de la banque.
+**2. Change Manuel – Autorisation et Maintien de la Tranche de Caisse**
+En vertu de l'article 6 de la loi n° 85-108, les banques non résidentes sont habilitées à effectuer des opérations de change manuel en faveur de leurs clients non-résidents titulaires de comptes en devises ouverts sur leurs livres.  Elles sont autorisées à détenir une encaisse en dinars et en devises, alimentée par les mécanismes suivants :
+*   **Dinars:** Cessions de devises à la Banque Centrale de Tunisie, débit d'un compte étranger en dinars convertibles, ou dinars rétrocédés par leurs clients non-résidents, dans le respect de la réglementation des changes.
+*   **Devises:** Acquisitions de billets de banque étrangers auprès de la Banque Centrale de Tunisie ou de la clientèle non résidente de la banque.
+Chaque opération de change manuel de devises en dinars doit impliquer la création d'un bordereau de change en double exemplaire (conformément au modèle en annexe I). Le premier exemplaire doit être remis au client et le second conservé par la banque.
 
-=== CHUNK 3 | PDF: cir8605.pdf | Page: -1 | Titre_Gemma: **Bordereau de Change Manuel en Dinars** ===
+=== CHUNK 3 | PDF: cir8605.pdf | Page: -1 | Titre_Gemma: **Traitement des Billets de Banque en Devises pour Banques Non Résidantes** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
 Section : Non spécifié
 Sous-section : Non spécifié
 Article : Non spécifié
-**3. Procédure pour le Change Manuel de Devises en Dinars**
-Toute opération de change manuel de devises en dinars doit être accompagnée de la production d'un bordereau de change en double exemplaire, conforme au modèle en annexe I. Le bordereau doit être remis au client et le exemplaire du duplicata doit être conservé par la banque.
-
-=== CHUNK 4 | PDF: cir8605.pdf | Page: -1 | Titre_Gemma: **Opérations de Billets de Banque en Devises pour Banques Non Résidantes** ===
-Loi : Non spécifié
-Chapitre : Non spécifié
-Titre : Non spécifié
-Section : Non spécifié
-Sous-section : Non spécifié
-Article : Non spécifié
-**4. Crédit et Débit en Billets de Banque des Comptes en Devises**
-a) **Crédit:** Les banques non résidentes peuvent inscrire au crédit des comptes en devises ouverts sur leurs livres les billets de banque étrangers importés par leurs clients non résidents. Le versement de ces billets est prouvé par une déclaration d'importation originale visée par la douane, que la banque doit conserver.
-b) **Débit:** Chaque opération de débit en billets de banque d'un compte en devises ouvert sur les livres d'une banque non résidente doit être accompagnée de la délivrance d'un bordereau de vente de devises, en double exemplaire, conforme au modèle en annexe II. Le bordereau doit être remis au client et le exemplaire du duplicata doit être conservé par la banque.
+**3. Crédit et Débit de Billets de Banque dans les Comptes en Devises**
+**a) Crédit:**
+Les banques non résidentes sont autorisées à inscrire au crédit des comptes en devises ouverts sur leurs livres les billets de banque étrangers importés au nom de non-résidents. Le versement de ces billets est justifié par une déclaration d'importation en original visée par la douane, que la banque doit conserver.
+**b) Débit:**
+Chaque opération de débit en billets de banque d'un compte en devises ouvert sur les livres d'une banque non résidente doit donner lieu à la délivrance d'un bordereau de vente de devises (conformément au modèle en annexe II). Le premier exemplaire doit être remis au client et le second conservé par la banque.
 

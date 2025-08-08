@@ -1,4 +1,4 @@
-=== CHUNK 1 | PDF: cir 21 2011.pdf | Page: 2 | Titre_Gemma: **Compte en Dinar Tunisien de Non-Résident Libyen** ===
+=== CHUNK 1 | PDF: cir 21 2011.pdf | Page: 2 | Titre_Gemma: **Compte en dinar tunisien de non-résident libyen** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -9,7 +9,7 @@ peuvent se faire ouvrir librement sur les livres des Intermédiaires Agréés de
 en dinar tunisien. Les disponibilités de ce compte, libellé « compte en dinar tunisien de
 non résident libyen », sont utilisées en Tunisie.
 
-=== CHUNK 2 | PDF: cir 21 2011.pdf | Page: 2 | Titre_Gemma: **Production de pièces d'identité et de statut auprès de l'Intermédiaire Agréé.** ===
+=== CHUNK 2 | PDF: cir 21 2011.pdf | Page: 2 | Titre_Gemma: **Obligation de présentation de pièces d'identité et de résidence.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -22,7 +22,7 @@ nationalité.
 L’Intermédiaire Agréé est tenu de conserver une copie des pièces prévues à
 l’alinéa premier du présent article.
 
-=== CHUNK 3 | PDF: cir 21 2011.pdf | Page: 2 | Titre_Gemma: **Crédits de comptes bancaires non résidents en Tunisie** ===
+=== CHUNK 3 | PDF: cir 21 2011.pdf | Page: 2 | Titre_Gemma: **Crédits de compte pour non-résidents en Tunisie** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -44,7 +44,7 @@ du produit des placements des sommes logées dans le compte dans les
 conditions fixées par la Banque Centrale de Tunisie pour les comptes en
 dinar.
 
-=== CHUNK 4 | PDF: cir 21 2011.pdf | Page: 2 | Titre_Gemma: **Débit libre en dinar tunisien.** ===
+=== CHUNK 4 | PDF: cir 21 2011.pdf | Page: 2 | Titre_Gemma: **Débits en dinar tunisien** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -58,7 +58,7 @@ physique  non résidente de nationalité libyenne,
 -
 le placement en dinar conformément à la réglementation en vigueur.
 
-=== CHUNK 5 | PDF: cir 21 2011.pdf | Page: 3 | Titre_Gemma: **Autorisation de la Banque Centrale de Tunisie** ===
+=== CHUNK 5 | PDF: cir 21 2011.pdf | Page: 3 | Titre_Gemma: **Autorisation de la Banque Centrale** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -77,7 +77,7 @@ Sous-section : Non spécifié
 Article : Article 6 : Le solde de ce  compte ne peut en aucun cas être rendu débiteur.
 
 
-=== CHUNK 7 | PDF: cir 21 2011.pdf | Page: 3 | Titre_Gemma: **Déclaration des comptes de Centrale de Tunisie (SED) - Relevés "Compte en dinar tunisien de non-résident libyen"** ===
+=== CHUNK 7 | PDF: cir 21 2011.pdf | Page: 3 | Titre_Gemma: **Délais et Format des Extraits de Comptes - Centrale de Tunisie** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -100,7 +100,7 @@ Longueur d’enregistrement : 128 caractères
 Nom du fichier : DUNL001R avec suffixe « TXT »
 - Fichier : ASCII
 
-=== CHUNK 8 | PDF: cir 21 2011.pdf | Page: 3 | Titre_Gemma: **Délai de réception des extraits bancaires papier** ===
+=== CHUNK 8 | PDF: cir 21 2011.pdf | Page: 3 | Titre_Gemma: **Acceptation temporaire des relevés de compte papier** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié

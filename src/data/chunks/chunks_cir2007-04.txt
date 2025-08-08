@@ -44,7 +44,7 @@ janvier –   31 décembre).
 Les enfants de moins de dix (10)(1) ans peuvent obtenir
 une allocation de trois mille dinars ( 3.000 D ) par année civile.
 
-=== CHUNK 4 | PDF: cir2007-04.pdf | Page: 1 | Titre_Gemma: **Allocation familiale pour économies sur salaires** ===
+=== CHUNK 4 | PDF: cir2007-04.pdf | Page: 1 | Titre_Gemma: **Allocation Familiale pour Économies sur Salaires** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -58,7 +58,7 @@ montant de cette allocation est fixé à mille cinq cent dinars
 (1.500 D) par année civile pour leurs enfants de moins de dix
 (10) ans.(1)
 
-=== CHUNK 5 | PDF: cir2007-04.pdf | Page: 1 | Titre_Gemma: **Demande de Prêts Complémentaires** ===
+=== CHUNK 5 | PDF: cir2007-04.pdf | Page: 1 | Titre_Gemma: **Demande de Crédit Supplémentaire** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -72,7 +72,7 @@ l’obtention de montants complémentaires.
 (1) Ainsi modifié par circulaire aux Intermédiaires Agrées
 n°2009-21 du 13-11-2009.
 
-=== CHUNK 6 | PDF: cir2007-04.pdf | Page: 1 | Titre_Gemma: **Report de l'Allocation** ===
+=== CHUNK 6 | PDF: cir2007-04.pdf | Page: 1 | Titre_Gemma: **Report de l'allocation : Restriction** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -127,7 +127,7 @@ mentionnant en outre la durée de la mission et le
 numéro du passeport spécial du voyageur.
 A – Transferts en espèces ou par chèques
 
-=== CHUNK 10 | PDF: cir2007-04.pdf | Page: 1 | Titre_Gemma: **Paiement par espèces ou chèque.** ===
+=== CHUNK 10 | PDF: cir2007-04.pdf | Page: 1 | Titre_Gemma: **Paiement par espèces ou chèque** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -139,7 +139,7 @@ par l’Intermédiaire Agréé des formules «A», «B» et
 «C» conformément aux modèles objet des annexes à la
 présente circulaire n°s 2, 3 et 4.
 
-=== CHUNK 11 | PDF: cir2007-04.pdf | Page: 1 | Titre_Gemma: **Autorisation de transport des moyens de paiement** ===
+=== CHUNK 11 | PDF: cir2007-04.pdf | Page: 1 | Titre_Gemma: **Autorisation d'exportation de moyens de paiement** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -155,7 +155,7 @@ de paiement (espèces ou chèques) délivrés par
 l’Intermédiaire Agréé ; elle est remise aux services des
 douanes à la sortie du territoire tunisien.
 
-=== CHUNK 12 | PDF: cir2007-04.pdf | Page: 2 | Titre_Gemma: **Remplissage et retrait des formules d'allocation touristique.** ===
+=== CHUNK 12 | PDF: cir2007-04.pdf | Page: 2 | Titre_Gemma: **Remplissage et dépôt de formulaire d'allocation touristique.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -177,7 +177,7 @@ par la Banque Centrale de Tunisie.
 c) retirer la formule «B» et la conserver à la disposition de la
 Banque Centrale de Tunisie pour les besoins de contrôle.
 
-=== CHUNK 13 | PDF: cir2007-04.pdf | Page: 2 | Titre_Gemma: **Rétrocession et renouvellement d'autorisation d'exportation de devises et de chèques.** ===
+=== CHUNK 13 | PDF: cir2007-04.pdf | Page: 2 | Titre_Gemma: **Rétrocession et renouvellement d'autorisation d'exportation de devises.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -207,7 +207,7 @@ sept (7) jours ouvrables qui suivent la date du retour inscrite
 par la police des frontières sur le passeport de l’intéressé.  Il en
 est de même pour les chèques délivrés et non utilisés.
 
-=== CHUNK 15 | PDF: cir2007-04.pdf | Page: 2 | Titre_Gemma: **Rétrocession de devises et formalités spécifiques** ===
+=== CHUNK 15 | PDF: cir2007-04.pdf | Page: 2 | Titre_Gemma: **Rétrocession de devises : Conditions et Délais** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -224,7 +224,7 @@ délais sur présentation de tout document portant la date du
 retour (coupon de billets de transport, ordre de mission…).
 B – Transferts par carte de paiement internationale
 
-=== CHUNK 16 | PDF: cir2007-04.pdf | Page: 2 | Titre_Gemma: **Rétrocession et annulation des allocations touristiques.** ===
+=== CHUNK 16 | PDF: cir2007-04.pdf | Page: 2 | Titre_Gemma: **Rétrocession des devises et annulation des droits d'allocation touristique.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -251,7 +251,7 @@ inscrire sur la page du passeport ayant servi à
 l’annotation du montant délivré par carte, les
 droits non utilisés.
 
-=== CHUNK 17 | PDF: cir2007-04.pdf | Page: 2 | Titre_Gemma: **Rapatriement et rétrocession d'une allocation en espèces.** ===
+=== CHUNK 17 | PDF: cir2007-04.pdf | Page: 2 | Titre_Gemma: **Rapatriement et rétrocession d'une allocation internationale.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -268,7 +268,7 @@ l’annotation de la délivrance de l’allocation, la
 rétrocession effectuée et les droits encore inscrits sur la
 carte.
 
-=== CHUNK 18 | PDF: cir2007-04.pdf | Page: 2 | Titre_Gemma: **Mise à jour des droits sur carte de paiement : Obligation auprès de l'Intermédiaire Agréé.** ===
+=== CHUNK 18 | PDF: cir2007-04.pdf | Page: 2 | Titre_Gemma: **Gestion des droits en espèces/chèques sur carte internationale.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -283,7 +283,7 @@ passeport le montant délivré en espèces ou par chèques
 et procède en conséquence à la mise à jour des droits
 inscrits sur la carte.
 
-=== CHUNK 19 | PDF: cir2007-04.pdf | Page: 2 | Titre_Gemma: **Obligation de mentionner les droits restants sur la carte.** ===
+=== CHUNK 19 | PDF: cir2007-04.pdf | Page: 2 | Titre_Gemma: **Droits Restants sur Carte: Obligation d'Information** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -294,7 +294,7 @@ paiement internationale, l’Intermédiaire Agréé est tenu
 de mentionner sur le passeport les droits encore inscrits
 sur la carte.
 
-=== CHUNK 20 | PDF: cir2007-04.pdf | Page: 2 | Titre_Gemma: **Conditions d'obtention de l'allocation** ===
+=== CHUNK 20 | PDF: cir2007-04.pdf | Page: 2 | Titre_Gemma: **Exigences pour l'Allocation** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -308,7 +308,7 @@ demander la carte d’identité nationale aux personnes de
 nationalité tunisienne et la carte de séjour aux
 personnes de nationalité étrangère.
 
-=== CHUNK 21 | PDF: cir2007-04.pdf | Page: 2 | Titre_Gemma: Passeport périmé et franchissement de frontière. ===
+=== CHUNK 21 | PDF: cir2007-04.pdf | Page: 2 | Titre_Gemma: **Passeport périmé et franchissement de frontière** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -321,7 +321,7 @@ de la frontière du pays de destination n’est pas
 subordonné à la production d’un passeport en cours de
 validité.
 
-=== CHUNK 22 | PDF: cir2007-04.pdf | Page: 2 | Titre_Gemma: **Déclaration de nationalité étrangère pour allocations touristiques** ===
+=== CHUNK 22 | PDF: cir2007-04.pdf | Page: 2 | Titre_Gemma: **Déclaration d'honneur des ressortissants étrangers pour allocations touristiques.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -349,7 +349,7 @@ Article : Article 23 : La carte de paiement internationale ne peut être
 utilisée à partir de la Tunisie que pour des  réservations
 d’hôtels à l’étranger.
 
-=== CHUNK 24 | PDF: cir2007-04.pdf | Page: 3 | Titre_Gemma: **Frais de transfert internationaux** ===
+=== CHUNK 24 | PDF: cir2007-04.pdf | Page: 3 | Titre_Gemma: **Frais de paiement international et droits de transfert.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -359,7 +359,7 @@ Article : Article 24 : Les frais découlant de l’utilisation de la carte de
 paiement internationale sont facturés et payés en dinars en sus
 des droits à transfert au titre de l’allocation touristique.
 
-=== CHUNK 25 | PDF: cir2007-04.pdf | Page: 3 | Titre_Gemma: **Rétrocédation à un Intermédiaire Agréé (Décembre)** ===
+=== CHUNK 25 | PDF: cir2007-04.pdf | Page: 3 | Titre_Gemma: **Rétrocédation à l'Intermédiaire Agréé (Décembre)** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -370,7 +370,7 @@ lui a été délivrée au cours du mois de Décembre doit la
 rétrocéder à un Intermédiaire Agréé s’il n’a pas voyagé au plus
 tard le 31 du même mois.
 
-=== CHUNK 26 | PDF: cir2007-04.pdf | Page: 3 | Titre_Gemma: **Sanctions pour infractions à la circulaire de la BCT.** ===
+=== CHUNK 26 | PDF: cir2007-04.pdf | Page: 3 | Titre_Gemma: **Responsabilité des auteurs d'infractions à la circulaire.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -381,7 +381,7 @@ la Banque Centrale de Tunisie les auteurs d’infractions ou
 tentatives d’infraction à la présente circulaire.
 de Tunisie
 
-=== CHUNK 27 | PDF: cir2007-04.pdf | Page: 3 | Titre_Gemma: **Déclarations mensuelles sur les allocations touristiques et rétrocession de devises.** ===
+=== CHUNK 27 | PDF: cir2007-04.pdf | Page: 3 | Titre_Gemma: **Déclarations mensuelles sur les allocations touristiques et rétrocession de devises** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -412,7 +412,7 @@ reprenant leur contenu et d’un bordereau indiquant la période y
 afférente, dûment datés et visés par un représentant de
 l’intermédiaire agréé habilité à cet effet.
 
-=== CHUNK 28 | PDF: cir2007-04.pdf | Page: 3 | Titre_Gemma: **Délai de remise des états mensuels aux Intermédiaires Agrées** ===
+=== CHUNK 28 | PDF: cir2007-04.pdf | Page: 3 | Titre_Gemma: **Délais de remise des états mensuels aux Intermédiaires Agrées** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -470,7 +470,7 @@ l'obtention effective de l'Allocation à la suite de fausses déclarations.
 PARTIE RESERVEE A L'INTERME-DIAIRE AGREE TUNIS, LE
 SIGNATURE
 
-=== CHUNK 32 | PDF: cir2007-04.pdf | Page: 5 | Titre_Gemma: **Autorisation de Sortie pour Intermédiaire Agrée** ===
+=== CHUNK 32 | PDF: cir2007-04.pdf | Page: 5 | Titre_Gemma: **Autorisation de Sortie pour Intermédiaires Agréés** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -519,7 +519,7 @@ RAISON SOCIALE DE L’INTERMEDIAIRE AGREE (1) Cocher la case correspondante ;
 selon que le bénéficiaire est de nationalité tunisienne ou étrangère.
 (3) Modifié par Circulaire aux I.A n° 2009-21 du 13/11/2009.
 
-=== CHUNK 33 | PDF: cir2007-04.pdf | Page: 6 | Titre_Gemma: **Formulaire d'Autorisation de Sortie pour Intermédiaires Agrée** ===
+=== CHUNK 33 | PDF: cir2007-04.pdf | Page: 6 | Titre_Gemma: **Formulaire d'autorisation de sortie pour intermédiaires agréés** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -669,7 +669,7 @@ CACHET ET SIGNATURE AUTORISEE.
 (4) Mettre :  1 pour les allocations délivrées en espèces, 2 pour les allocations délivrés par chèques
 et 3 pour les allocations délivrées par Cartes de Paiement Internationales.
 
-=== CHUNK 36 | PDF: cir2007-04.pdf | Page: 9 | Titre_Gemma: **Rapport des Retrocessions d'Allocations Touristiques** ===
+=== CHUNK 36 | PDF: cir2007-04.pdf | Page: 9 | Titre_Gemma: **Rétrocession des allocations touristiques - Annexe N°6** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -696,7 +696,7 @@ CACHET ET SIGNATURE AUTORISEE.
 (2) N° de la CIN, CS, ou du Passeport pour les bénéficiaires ne disposant pas de CIN
 (3)  En cas de rétrocession suite à une annulation de voyage apposer la lettre « A ».
 
-=== CHUNK 37 | PDF: cir2007-04.pdf | Page: 10 | Titre_Gemma: **Utilisation des cartes de paiement international pour les allocations touristiques** ===
+=== CHUNK 37 | PDF: cir2007-04.pdf | Page: 10 | Titre_Gemma: **Rapport d'utilisation des cartes de paiement pour allocations touristiques (2007)** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié

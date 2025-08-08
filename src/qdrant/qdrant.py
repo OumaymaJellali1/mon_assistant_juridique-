@@ -1,4 +1,3 @@
-
 import os
 import re
 import time
@@ -7,14 +6,18 @@ import fitz  # PyMuPDF
 import google.generativeai as genai
 import uuid
 from tqdm import tqdm
-from typing import List, Dict, Tuple, Optional
-
-from src.config import settings
-from src.prompts.legal_prompts import get_title_prompt, get_split_prompt
+from typing import List, Dict, Tuple, Optional, Any
+from langchain_google_genai import ChatGoogleGenerativeAI
+from langchain.storage import LocalFileStore
+from langchain.embeddings import CacheBackedEmbeddings
 from sentence_transformers import SentenceTransformer
 from qdrant_client import QdrantClient
 from qdrant_client.models import VectorParams, Distance, PointStruct
-
+from src.config import settings
+from src.prompts.legal_prompts import get_title_prompt, get_split_prompt
+from langchain_core.documents import Document
+from src.qdrant.qdrant_client import QdrantClientWrapper
+from qdrant_client.http.models import PointStruct
 
 class CacheManager:
     """Gère le cache des titres générés"""
@@ -48,7 +51,55 @@ class TextProcessor:
     @staticmethod
     def truncate_text(text: str, max_chars: int = settings.MAX_TITLE_CHARS) -> str:
         return text[:max_chars] + " [...]" if len(text) > max_chars else text
+    #amelioration a tester au lieu de la fct precedente
+    """ @staticmethod
+    def truncate_text(text: str, max_chars: int = settings.MAX_TITLE_CHARS) -> str:
+    """
+    #Tronque intelligemment le texte en préservant:
+    #- Les phrases complètes
+    #- Les éléments juridiques critiques
+    #- La structure des articles
+    """
+    # Cas simple : texte suffisamment court
+    if len(text) <= max_chars:
+        return text
     
+    # Préserver les structures juridiques importantes
+    patterns = [
+        r"(ARTICLE\s[^\n]+)",
+        r"(ALINÉA\s\d+)",
+        r"(https?://\S+)",  # URLs
+        r"(L\.\s?\d+-\d+)",  # Références légales
+    ]
+    
+    preserved_elements = []
+    for pattern in patterns:
+        for match in re.finditer(pattern, text):
+            if match.start() < max_chars:
+                preserved_elements.append(match.group(0))
+    
+    # Trouver une coupure naturelle
+    last_boundary = max(
+        text.rfind('.', 0, max_chars),
+        text.rfind(';', 0, max_chars),
+        text.rfind('\n\n', 0, max_chars),  # Paragraphes
+        text.rfind(' - ', 0, max_chars)     # Tirets juridiques
+    )
+    
+    # Déterminer le point de coupure
+    if last_boundary > 0.7 * max_chars:  # Au moins 70% du texte préservé
+        truncated = text[:last_boundary + 1]
+    else:
+        # Fallback: troncature simple mais avec indicateur clair
+        truncated = text[:max_chars]
+    
+    # Ajouter les éléments préservés
+    if preserved_elements:
+        truncated += "\n\n[ÉLÉMENTS CLÉS CONSERVÉS]:\n- " + "\n- ".join(preserved_elements)
+    
+    return truncated + " [...]" """
+
+
     @staticmethod
     def remove_isolated_numbers(text: str) -> str:
         lines = text.splitlines()
@@ -232,11 +283,17 @@ class HierarchyExtractor:
 
 class GemmaManager:
     """Classe pour gérer les interactions avec Gemma/Gemini"""
-    
     def __init__(self):
-        genai.configure(api_key=settings.GEMINI_API_KEY)
-        self.model = genai.GenerativeModel(settings.GEMMA_MODEL)
-        self.cache_manager = CacheManager()
+      genai.configure(api_key=settings.GEMINI_API_KEY)
+      self.model = genai.GenerativeModel(settings.GEMMA_MODEL)
+      self.cache_manager = CacheManager()
+      self.langchain_llm = ChatGoogleGenerativeAI(
+        model=settings.GEMMA_MODEL,
+        google_api_key=settings.GEMINI_API_KEY,
+        temperature=0.3,
+        convert_system_message_to_human=True
+     )
+
     
     @staticmethod
     def clean_title(raw_title: str) -> str:
@@ -379,7 +436,7 @@ class PDFProcessor:
                 chunk_id += 1
             
             # Traitement des annexes et tableaux
-            for label, page_num, content in table_annex_chunks:
+            for page_num, content in table_annex_chunks:
                 cleaned = self.text_processor.clean_text(content)
                 title = self.gemma_manager.generate_title(cleaned)
                 
@@ -398,8 +455,16 @@ class EmbeddingGenerator:
     """Classe pour générer les embeddings"""
     
     def __init__(self, model_name: str = settings.EMBEDDING_MODEL):
+        self.model_name = model_name                 # <--- Sauvegarder le nom du modèle
         self.model = SentenceTransformer(model_name)
-    
+        
+        fs = LocalFileStore("./cache/embeddings")
+        self.cached_embedder = CacheBackedEmbeddings.from_bytes_store(
+            self.model,
+            fs,
+            namespace=self.model_name                 # <--- Utiliser l’attribut défini juste au-dessus
+        )
+
     @staticmethod
     def parse_chunks_file(file_path: str) -> List[Tuple[Dict, str]]:
         with open(file_path, "r", encoding="utf-8") as f:
@@ -475,33 +540,98 @@ class QdrantIndexer:
         )
         print("Tous les vecteurs ont été indexés dans Qdrant.")
 
-
+"""
 class DocumentRetriever:
-    """Classe pour récupérer des documents"""
-    
-    def __init__(self, qdrant_client: QdrantClient, embedder: SentenceTransformer):
+
+    def __init__(self, qdrant_client: QdrantClientWrapper, embedder: SentenceTransformer):
         self.qdrant_client = qdrant_client
         self.embedder = embedder
+
+    def retrieve_documents(self, question: str, top_k: int = 20) -> List[Document]:
+        if isinstance(question, list):
+            question = " ".join(question)
+        
+        embedded_question = self.embedder.encode(question).tolist()
+
+        #  Utilise la méthode définie dans QdrantClientWrapper
+        results = self.qdrant_client.query(embedded_question, top_k=top_k)
+
+        documents = []
+        seen_keys = set()
+
+        for hit in results:  #  results est une liste de PointStruct
+            payload = hit.payload
+            texte = payload.get('Article') or payload.get('titre_gemma') or ''
+            texte = texte.strip()
+            if not texte:
+                continue
+
+            unique_key = f"{payload.get('pdf','unknown')}_{payload.get('page','N/A')}_{texte[:100]}"
+            if unique_key in seen_keys:
+                continue
+            seen_keys.add(unique_key)
+
+            documents.append(
+                Document(
+                    page_content=texte,
+                    metadata={
+                        "source": payload.get("pdf", "unknown"),
+                        "page": payload.get("page", "N/A"),
+                        **{k: v for k, v in payload.items() if k not in ["Article", "titre_gemma"]}
+                    }
+                )
+            )
+
+        return documents
+        """
+
+class DocumentRetriever:
+
+ def __init__(self, qdrant_client: QdrantClientWrapper, embedder: SentenceTransformer):
+        self.qdrant_client = qdrant_client
+        self.embedder = embedder
+
+ def retrieve_documents(self, question: str, top_k: int = 20) -> List[Document]:
+    if isinstance(question, list):
+        question = " ".join(question)
     
-    def retrieve_documents(self, question: str, top_k: int = 30) -> List[Dict]:
-        embedded_question = self.embedder.encode(question)
-        points = self.qdrant_client.query(embedded_question, top_k=top_k)
-        seen = set()
-        contexts = []
+    try:
+        # Encodage de la question
+        embedded_question = self.embedder.encode(question).tolist()
         
-        for hit in points:
-            ctx = hit.payload
-            page = ctx.get('page', 'N/A')
-            if page == -1:
-                continue
-            texte = ctx.get('Article') or ctx.get('titre_gemma')
-            if not texte or not texte.strip():
-                continue
-            unique_key = f"{page}_{ctx.get('pdf', 'unknown')}_{texte.strip()[:100]}"
-            if unique_key not in seen:
-                seen.add(unique_key)
-                contexts.append(ctx)
-        
-        return contexts
+        results = self.qdrant_client.query(embedded_question, top_k=top_k)
 
+        documents = []
+        seen_keys = set()
 
+        for hit in results: 
+            payload = hit.payload
+            texte = payload.get('Article') or payload.get('titre_gemma') or ''
+            texte = texte.strip()
+            if not texte:
+                continue
+
+            unique_key = f"{payload.get('pdf','unknown')}_{payload.get('page','N/A')}_{texte[:100]}"
+            if unique_key in seen_keys:
+                continue
+            seen_keys.add(unique_key)
+
+            page_number = payload.get('page') or payload.get('page_number', 'N/A')
+            
+            documents.append(
+                Document(
+                    page_content=texte,
+                    metadata={
+                        "source": payload.get("pdf", "unknown"),
+                        "page": page_number,
+                        "page_number": page_number,
+                        "titre_gemma": payload.get("titre_gemma", ""),
+                        **{k: v for k, v in payload.items() if k not in ["Article", "titre_gemma", "pdf", "page", "page_number"]}
+                    }
+                )
+            )
+
+        return documents
+    except Exception as e:
+        print(f"Error in document retrieval: {str(e)}")
+        return []

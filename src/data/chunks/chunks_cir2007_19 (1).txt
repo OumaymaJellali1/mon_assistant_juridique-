@@ -1,4 +1,4 @@
-=== CHUNK 1 | PDF: cir2007_19 (1).pdf | Page: 2 | Titre_Gemma: **Comptes spéciaux en devises et dinars convertibles (Loi n° 2007-41)** ===
+=== CHUNK 1 | PDF: cir2007_19 (1).pdf | Page: 2 | Titre_Gemma: **Comptes Spéciaux (Loi 2007-41) : Devises et Dinars Convertibles** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -21,7 +21,7 @@ tunisiennes et les personnes morales étrangères pour leurs établissements en 
 bénéficiant de l’amnistie accordée par la loi n° 2007-41 du 25 juin 2007 portant
 amnistie d’infractions de change et fiscales.
 
-=== CHUNK 3 | PDF: cir2007_19 (1).pdf | Page: 2 | Titre_Gemma: **Conversion de dinars tunisiens : Déclaration d'avoirs à l'étranger.** ===
+=== CHUNK 3 | PDF: cir2007_19 (1).pdf | Page: 2 | Titre_Gemma: **Conversion de dinars : Déclaration des avoirs à l'étranger.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -67,7 +67,7 @@ des devises, leur montant et la date de leur remise.
 A – Comptes spéciaux « loi n° 2007-41 »  en devises convertibles :
 1°) Opérations au crédit :
 
-=== CHUNK 4 | PDF: cir2007_19 (1).pdf | Page: 3 | Titre_Gemma: **Libération de crédits en devises** ===
+=== CHUNK 4 | PDF: cir2007_19 (1).pdf | Page: 3 | Titre_Gemma: **Libération de fonds en devises : conditions de crédibilité** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -94,7 +94,7 @@ Toute autre opération au crédit du compte est soumise à autorisation de la
 Banque Centrale de Tunisie.
 2°) Opérations au débit :
 
-=== CHUNK 5 | PDF: cir2007_19 (1).pdf | Page: 4 | Titre_Gemma: **Comptes Spéciaux en Devises et Dinars Convertibles** ===
+=== CHUNK 5 | PDF: cir2007_19 (1).pdf | Page: 4 | Titre_Gemma: **Transactions en devises et paiements à l'étranger** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -118,7 +118,7 @@ Il est entendu qu’en aucun cas le compte ne peut être rendu débiteur.
 B – Comptes spéciaux « loi n° 2007-41 »  en dinars convertibles
 1°) Opérations au crédit :
 
-=== CHUNK 6 | PDF: cir2007_19 (1).pdf | Page: 5 | Titre_Gemma: **Libération de crédits de change** ===
+=== CHUNK 6 | PDF: cir2007_19 (1).pdf | Page: 5 | Titre_Gemma: **Libération de fonds en devises convertibles** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -146,7 +146,7 @@ Toute autre opération au crédit du compte est soumise à autorisation de la
 Banque Centrale de Tunisie.
 2°) Opérations au débit :
 
-=== CHUNK 7 | PDF: cir2007_19 (1).pdf | Page: 5 | Titre_Gemma: **Débit Libre pour Transactions en Devises** ===
+=== CHUNK 7 | PDF: cir2007_19 (1).pdf | Page: 5 | Titre_Gemma: **Débit libre pour opérations en devises et transferts.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -169,7 +169,7 @@ l’étranger représentés ou non par des titres.
 convertibles.
 Il est entendu qu’en aucun cas le compte ne peut être rendu débiteur.
 
-=== CHUNK 8 | PDF: cir2007_19 (1).pdf | Page: 6 | Titre_Gemma: **Obligation de déclaration des dinars convertibles.** ===
+=== CHUNK 8 | PDF: cir2007_19 (1).pdf | Page: 6 | Titre_Gemma: **Obligation de déclaration des avoirs et des reçus pour les dinars convertibles.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -181,7 +181,7 @@ et à communication à celle-ci, sous pli confidentiel, soit de la déclaration 
 l’Intermédiaire Agréé en est le dépositaire, soit d’une copie du reçu visé à  l’alinéa 2
 de l’article 3, selon le cas.
 
-=== CHUNK 9 | PDF: cir2007_19 (1).pdf | Page: 6 | Titre_Gemma: **Limitation de l'utilisation des devises convertibles pour les transferts à l'étranger** ===
+=== CHUNK 9 | PDF: cir2007_19 (1).pdf | Page: 6 | Titre_Gemma: **Limitation des transferts en devises convertibles** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -193,7 +193,7 @@ delà de 20 % pour des transferts à l’étranger dans les conditions visées a
 et 7  jusqu’à l’expiration d’un délai de 6 mois à compter de la date de leur
 inscription au crédit du compte.
 
-=== CHUNK 10 | PDF: cir2007_19 (1).pdf | Page: 7 | Titre_Gemma: **Déclaration des devises étrangères en Tunisie** ===
+=== CHUNK 10 | PDF: cir2007_19 (1).pdf | Page: 7 | Titre_Gemma: **Déclaration des devises à la BCT (Loi n° 2007-41)** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -203,7 +203,7 @@ Article : Article 10 :  Les avoirs acquis à l’étranger par débit des compte
 « loi n° 2007-41 »  en devises ou en dinars convertibles doivent être déclarés à la
 Banque Centrale de Tunisie conformément à l’article 16 du code des changes.
 
-=== CHUNK 11 | PDF: cir2007_19 (1).pdf | Page: 7 | Titre_Gemma: Notification du Gouverneur Taoufik Baccar ===
+=== CHUNK 11 | PDF: cir2007_19 (1).pdf | Page: 7 | Titre_Gemma: **Notification du Gouverneur** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié

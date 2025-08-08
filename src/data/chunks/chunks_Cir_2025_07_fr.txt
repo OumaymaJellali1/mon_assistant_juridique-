@@ -1,31 +1,33 @@
-=== CHUNK 1 | PDF: Cir_2025_07_fr.pdf | Page: -1 | Titre_Gemma: **Circulaire aux Banques N° 2025-07 : Réglementation des Conditions de Banque** ===
+=== CHUNK 1 | PDF: Cir_2025_07_fr.pdf | Page: -1 | Titre_Gemma: **Circulaire de la Banque Centrale de Tunisie : Réglementation des Conditions de Banque (2025-07)** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
 Section : Non spécifié
 Sous-section : Non spécifié
-Article : Article 2 - La présente circulaire entre en vigueur à compter du 1er avril 2025.
+Article : Non spécifié
 === Section 1 ===
-**Contexte et Justification**
+**Date et Objet de la Circulaire**
 Tunis, le 07 avril 2025
 CIRCULAIRE AUX BANQUES N° 2025-07
 Objet : Réglementation des conditions de banque.
-Le Gouverneur de la Banque Centrale de Tunisie,
-Vu la loi n°2016-35 du 25 avril 2016 portant fixation du statut de la Banque Centrale de Tunisie,
-Vu la loi n°2016-48 du 11 juillet 2016 relative aux banques et aux établissements financiers,
-Vu la circulaire aux banques n°86-42 du 1er décembre 1986 relative à la règlementation des conditions de banque, telle que modifiée par les textes subséquents et notamment son article 8,
-Vu la circulaire aux banques n° 91-22 du 17 décembre 1991 portant réglementation des conditions de banque, telle que modifiée et complétée par les textes subséquents et notamment son article 36,
-Vu la délibération du Conseil d’Administration de la Banque Centrale de Tunisie en date du 26 mars 2025,
-Vu l’avis du comité de contrôle de la conformité n°2025-07 du 3 avril 2025, tel que prévu par l’article 42 de la loi n°2016-35 du 25 avril 2016 portant fixation du statut de la Banque centrale de Tunisie.
 === Section 2 ===
-**Décision**
-Décide :
+**Justification de la Circulaire**
+Le Gouverneur de la Banque Centrale de Tunisie, motivé par plusieurs références légales et circulaires antérieures, décide de prendre cette circulaire.  Les justifications invoquées sont les suivantes :
+*   Vu la loi n°2016-35 du 25 avril 2016 portant fixation du statut de la Banque Centrale de Tunisie.
+*   Vu la loi n°2016-48 du 11 juillet 2016 relative aux banques et aux établissements financiers.
+*   Vu la circulaire aux banques n°86-42 du 1er décembre 1986 relative à la règlementation des conditions de banque, telle que modifiée par les textes subséquents et notamment son article 8.
+*   Vu la circulaire aux banques n° 91-22 du 17 décembre 1991 portant réglementation des conditions de banque, telle que modifiée et complétée par les textes subséquents et notamment son article 36.
+*   Vu la délibération du Conseil d’Administration de la Banque Centrale de Tunisie en date du 26 mars 2025.
+*   Vu l’avis du comité de contrôle de la conformité n°2025-07 du 3 avril 2025, tel que prévu par l’article 42 de la loi n°2016-35 du 25 avril 2016 portant fixation du statut de la Banque centrale de Tunisie.
 === Section 3 ===
-**Article Remplacé**
+**Décision Principale - Abrogation et Modification de l'Article 36**
+La circulaire décide de modifier l'article 36 de la circulaire n°91-22 du 17 décembre 1991.  Plus précisément :
+*   Les dispositions de l'alinéa premier de l'article 36 de la circulaire n°91-22 du 17 décembre 1991 sont abrogées.
+*   Ces dispositions sont remplacées par un nouveau texte qui fixe le taux de rémunération de l’épargne (TRE) à un taux annuel de 6,5%.
 === Section 4 ===
-**Date d'entrée en vigueur**
+**Entrée en Vigueur de la Circulaire**
+La présente circulaire entre en vigueur à compter du 1er avril 2025.
 === Section 5 ===
-**Signature**
-Le Gouverneur,
-Fethi Zouhaier NOURI
+**Signataire**
+Le Gouverneur de la Banque Centrale de Tunisie, Fethi Zouhaier NOURI, est le signataire de la circulaire.
 

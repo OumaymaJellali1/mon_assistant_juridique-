@@ -1,42 +1,52 @@
-=== CHUNK 1 | PDF: avis01.pdf | Page: -1 | Titre_Gemma: **Consultation publique : Nouvelle norme des comptes de l'État (flux de trésorerie)** ===
+=== CHUNK 1 | PDF: avis01.pdf | Page: -1 | Titre_Gemma: **Consultation sur la norme des comptes de l'État : Flux de trésorerie** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
 Section : Non spécifié
 Sous-section : Non spécifié
 Article : Non spécifié
-**1. Objet de l'avis de consultation publique**
-Le Secrétariat Général du Conseil National des Normes des Comptes Publics (CNNCP) organise une consultation publique concernant le projet de la norme des comptes de l'État intitulée : « L'état des flux de trésorerie ».
+**1. Objet de l'Avis de Consultation**
+Le présent avis concerne une consultation publique concernant le projet de la norme des comptes de l'État : « L’état des flux de trésorerie ».
 
-=== CHUNK 2 | PDF: avis01.pdf | Page: -1 | Titre_Gemma: **Consultation Publique : Dates** ===
+=== CHUNK 2 | PDF: avis01.pdf | Page: -1 | Titre_Gemma: **Consultation Publique du CNNCP** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
 Section : Non spécifié
 Sous-section : Non spécifié
 Article : Non spécifié
-**2. Dates de la consultation publique**
-La consultation publique est ouverte du 03 mars 2025 au 02 avril 2025.
+**2. Organisation de la Consultation**
+Le Secrétariat Général du Conseil National des Normes des Comptes Publics (CNNCP) organise cette consultation publique.
 
-=== CHUNK 3 | PDF: avis01.pdf | Page: -1 | Titre_Gemma: **Soumission d'avis sur le projet de norme** ===
+=== CHUNK 3 | PDF: avis01.pdf | Page: -1 | Titre_Gemma: **Dates de la Consultation** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
 Section : Non spécifié
 Sous-section : Non spécifié
 Article : Non spécifié
-**3. Participants et modalités de participation**
-Le Secrétariat Général du CNNCP invite les parties prenantes à soumettre leurs avis sur le projet de la norme. Les avis doivent être formulés en répondant au questionnaire fourni et transmis par courrier à l'adresse suivante : Conseil National des Normes des Comptes Publics (CNNCP) - 16 rue du Canada, 1002 Tunis, ou par voie électronique à l'adresse sg.cnncp@finances.tn.
+**3. Dates de la Consultation**
+La consultation publique débutera le 03 mars 2025 et se terminera le 02 avril 2025.
 
-=== CHUNK 4 | PDF: avis01.pdf | Page: -1 | Titre_Gemma: **Accès aux documents normatifs** ===
+=== CHUNK 4 | PDF: avis01.pdf | Page: -1 | Titre_Gemma: **Transmission des Avis** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
 Section : Non spécifié
 Sous-section : Non spécifié
 Article : Non spécifié
-**4. Accès aux documents**
-Les parties intéressées peuvent consulter et télécharger le projet de la norme ainsi que la note de présentation et le questionnaire via les liens suivants :
-* Projet de la norme : « L'état des flux de trésorerie » : [Cliquer ici]
-* Note de présentation et questionnaire : [Cliquer ici]
+**4. Adresses pour la Transmission des Avis**
+Les parties prenantes sont invitées à formuler leurs avis en répondant au questionnaire et en transmettant leurs commentaires et suggestions par l'un des modes suivants :
+*   Par courrier à l'adresse : Conseil National des Normes des Comptes Publics (CNNCP)- 16 rue du canada, 1002 Tunis
+*   Par voie électronique à l'adresse : sg.cnncp@finances.tn
+
+=== CHUNK 5 | PDF: avis01.pdf | Page: -1 | Titre_Gemma: **Accès aux Documents Normatifs** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
+**5. Accès aux Documents**
+Il est possible de consulter et de télécharger le projet de la norme des comptes de l'État : « L’état des flux de trésorerie » et la note de présentation ainsi que le questionnaire via les liens suivants : [Cliquer ici] et [Cliquer ici].
 

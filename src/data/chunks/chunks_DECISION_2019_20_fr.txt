@@ -1,53 +1,88 @@
-=== CHUNK 1 | PDF: DECISION_2019_20_fr.pdf | Page: -1 | Titre_Gemma: Veuillez me fournir le texte juridique. Je ne peux pas formuler un titre clair, court et précis sans le contenu. ===
+=== CHUNK 1 | PDF: DECISION_2019_20_fr.pdf | Page: -1 | Titre_Gemma: **Décision de la Commission d'Agrément 2019-20 : Procédures de Dépôt des Demandes d'Agrément** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
 Section : Non spécifié
 Sous-section : Non spécifié
-Article : Non spécifié
-Voici le texte juridique découpé en sections, respectant les paragraphes et utilisant le séparateur indiqué.
+Article : Article 5 (alinéa 2 nouveau ) – Pour l’exercice de l’activité d’un établissement de paiement au sens des articles 10, 20 et 28 de la loi n° 2016-48 du 11 juillet 2016 relative aux banques et établissements financiers, le requérant doit fournir les renseignements et documents prévus à l’annexe 9 joint à la présente décision.
+Voici le texte juridique découpé en sections de taille raisonnable, avec des paragraphes :
+=== Section 1 ===
+**Décision de la commission d’agréments n° 2019-20 du 19 novembre 2019 complétant la décision de la commission d’agréments n° 2017-04 du 31 juillet 2017 relative aux procédures de dépôt des demandes d’agrément**
+La commission d’agréments,
+Vu la loi n°2016-48 du 11 juillet 2016 relative aux banques et aux établissements financiers et notamment ses articles 28 et 36,
+Vu la décision de la commission d’agréments n° 2017-01 du 12 avril 2017 portant fixation du règlement intérieur de la commission d’agréments,
+Vu la décision de la commission d’agréments n°2017-04 du 31 juillet 2017 relative aux procédures de dépôt des demandes d’agrément,
+Et en concertation avec la banque centrale de Tunisie conformément aux dispositions de l’article 28 de la loi n° 2016-48 du 11 juillet 2016 relative aux banques et aux établissements financiers, approuve dans sa réunion du 19 novembre 2019, les renseignements et documents requis pour l’instruction des demandes d’agrément pour l’exercice d’activité d’établissement de paiement,
+Décide :
+=== Section 2 ===
+**Objectif de l'Activité et Services Proposés**
+La commission d’agréments exige que le requérant définisse clairement les services qu’il compte offrir.  Ces services sont classés en deux catégories : l’activité principale et l’activité accessoire.
+**Activité principale :**
+*   Ouverture de comptes de paiement de niveaux 1, 2 et 3
+*   Versements et retraits en espèces *   Prélèvements *   Opérations de paiement en espèces *   Opérations de transfert de fonds
+*   Opérations de paiement par tout moyen de communication à distance, y compris les opérations de paiement électronique
+*   Commercialisation des moyens de monnaie électroniques prépayés émis par les banques ou la poste Tunisienne.
+**Activité accessoire :**
+*   L’activité de change manuel conformément à la règlementation de change en vigueur.
+=== Section 3 ===
+**Présentation de l'Établissement de Paiement: Stratégie et Modèle d'Affaires**
+Le requérant doit fournir des informations détaillées sur sa vision et son plan d’action.
+*   **Lettre d’intention:**  Indiquant les raisons et les motivations de la demande d’agrément.
+*   **Stratégie de développement:** Modèle d’affaires cible, choix et objectifs stratégiques, description des domaines d’activité, secteurs économiques et clientèle cibles.
+*   **Étude de marché:** Analyse de l’environnement économique et financier et positionnement cible sur le marché.
+*   **Politique commerciale:** Orientation stratégique, produits, clientèle cible, secteurs d’activité et canaux de distribution.
+*   **Politique de tarification:** Positionnement par rapport à la concurrence et structure de coûts.
+*   **Politique financière globale:** Sources et conditions de financement.
+*   **Politique de gestion de trésorerie:** Couverture en permanence des besoins de liquidité.
+*   **Note stratégique opérationnelle:** Pilotage stratégique et opérationnel, organisation, planning et feuille de route de l’établissement de paiement.
+=== Section 4 ===
+**Plan d’Affaires sur 5 ans**
+Le requérant doit présenter un plan d’affaires détaillé.
+*   **Hypothèses clés:** Et leur impact sur les projections financières (indicateurs d’activité et de rentabilité).
+*   **États financiers prévisionnels:** Sur une période de 5 ans, avec détail des postes et utilisation de scénarios (optimiste, neutre et pessimiste).
+*   **Business plan chiffré:** Sous format Excel.
+=== Section 5 ===
+**Recours aux Réseaux d'Agents de Paiement**
+Le requérant doit décrire en détail la manière dont il compte utiliser des agents de paiement.
+*   **Politique de recours aux agents:** Sélection, responsabilités et obligations des parties, modalités de gestion et de suivi des activités, formation en lutte contre le terrorisme et le blanchiment d’argent, procédures de contrôle, nombre et profil des agents (personnes physiques ou morales, secteurs d’activité ciblés, localisations géographiques), services de paiement concernés.
+*   **Circuits de gestion du cash.**
+*   **Projet de convention de compte de paiement agent:**  Informations sur les services fournis par les agents, responsabilité légale et financière, obligations de l’établissement de paiement en matière de formation, procédures, documents, moyens techniques, modalités de contrôle, rémunération et interdiction de délégation.
+=== Section 6 ===
+**Moyens Humains : Évolution de l'Effectif et Masse Salariale**
+Présentation de l’évolution envisagée de l’effectif sur 5 ans et de la masse salariale correspondante.
+=== Section 7 ===
+**Moyens Techniques et Informatiques**
+Description de l'infrastructure informatique et des mesures de sécurité.
+*   **Architecture technique:** Détail de l’environnement informatique, description du dispositif de gouvernance du système d’information et de la sécurité informatique (respect des réglementations en matière de protection des données), description des systèmes d’information déployés.
+*   **Externalisation:** Identification des prestataires et description de leur activité.
+*   **Sécurité des moyens techniques:** Procédures et outils de sécurité informatiques (accès aux données et aux systèmes, sécurité des réseaux, sauvegarde, archivage), informations sur l’hébergement des plateformes informatiques et des datacenters (localisation géographique, niveau de certification sécurités physiques, contrôles des locaux d’hébergement), inventaire des mécanismes de contrôle et de sécurité, description des moyens mis en place pour détecter, analyser, corriger, anticiper et empêcher les incidents de production.
+=== Section 8 ===
+**Plan de Continuité des Activités (PCA)**
+Un rapport détaillé est requis.
+*   **Identification des activités essentielles:** Objectifs de reprise (calendrier prévisionnel, étapes clés, actifs prioritaires, délais maximaux d’indisponibilité, pertes de données maximales admissibles).
+*   **Moyens mis en œuvre:** Pour garantir la continuité de service en cas d’interruption (failles dans les systèmes clés, perte de données clés, inaccessibilité des locaux, perte de personnes clés).
+*   **Fréquence des tests:** Du plan de continuité d’activité de récupération et communication des résultats.
+*   **Mesures d’atténuation des risques:** En cas de résiliation du contrat de prestation des services de paiement, pour garantir l’exécution des opérations de paiement en attente et la résiliation des contrats en cours.
+=== Section 9 ===
+**Services de Paiement Fournis à la Clientèle**
+Description des services et de leurs caractéristiques.
+*   **Caractéristiques et fonctionnement des services de paiement:**
+*   Décrire les cinématiques des services (création de compte utilisateur, recueil et contrôle des données du client, création et mise à disposition d’un instrument de paiement à la clientèle, utilisation de l’instrument de paiement, exécution des opérations de paiement, recueil des transactions, présentation au règlement, contestation d’opération de paiement, etc.).
+*   Décrire les caractéristiques techniques de chaque service.
+*   Joindre un schéma des flux financiers de chaque service.
+*   **Sécurité des services de paiement fournis:**
+*   Présenter les normes et mesures de sécurité appliquées à chaque service.
+*   Présenter les systèmes de monitoring et de gestion de fraude (interne et externe).
+*   Présenter les procédures d’authentification du client.
+*   Présenter les types de connexion autorisés avec l’environnement externe et les mesures de sécurité afférentes.
+=== Section 10 ===
+**Dispositif de Gouvernance et d’Organisation**
+Description de la structure organisationnelle et de ses composantes.
+*   **Mode de gouvernance cible:** Direction générale et conseil d’administration ou directoire et conseil de surveillance.
+*   **Composition envisagée du conseil d’administration ou du conseil de surveillance:** et des différents comités émanant de ces organes (notamment le comité spécialisé d’audit et des risques).
+*
 
-=== CHUNK 2 | PDF: DECISION_2019_20_fr.pdf | Page: -1 | Titre_Gemma: **Approbation des procédures d'agrément pour établissements de paiement.** ===
-Loi : Non spécifié
-Chapitre : Non spécifié
-Titre : Non spécifié
-Section : Non spécifié
-Sous-section : Non spécifié
-Article : Non spécifié
-**Section 1 : Introduction et Décision**
-La commission d’agréments,  Vu la loi n°2016-48 du 11 juillet 2016 relative aux banques et aux établissements financiers et notamment ses articles 28 et 36,  Vu la décision de la commission d’agréments n° 2017-01 du 12 avril 2017 portant fixation du règlement intérieur de la commission d’agréments,  Vu la décision de la commission d’agréments n°2017-04 du 31 juillet 2017 relative aux procédures de dépôt des demandes d’agrément,  Et en concertation avec la banque centrale de Tunisie conformément aux dispositions de l’article 28 de la loi n° 2016-48 du 11 juillet 2016 relative aux banques et aux établissements financiers, approuve dans sa réunion du 19 novembre 2019, les renseignements et documents requis pour l’instruction des demandes d’agrément pour l’exercice d’activité d’établissement de paiement.  Décide :  Article Premier- Est ajouté à l’article 5 de la décision de la commission d’agréments n°2017-04 du 31 juillet 2017 relative aux procédures de dépôt des demandes d’agrément, un alinéa deuxième ainsi qu’il suit :  Article 5 (alinéa 2 nouveau ) – Pour l’exercice de l’activité d’un établissement de paiement au sens des articles 10, 20 et 28 de la loi n° 2016-48 du 11 juillet 2016 relative aux banques et établissements financiers, le requérant doit fournir les renseignements et documents prévus à l’annexe 9 joint à la présente décision.
-
-=== CHUNK 3 | PDF: DECISION_2019_20_fr.pdf | Page: -1 | Titre_Gemma: **Services et Présentation de l'Établissement de Paiement** ===
-Loi : Non spécifié
-Chapitre : Non spécifié
-Titre : Non spécifié
-Section : Non spécifié
-Sous-section : Non spécifié
-Article : Non spécifié
-**Section 2 :  Services Fournis et Présentation de l'Établissement**
-Le requérant est appelé à sélectionner les services à fournir à partir de la liste suivante et à décrire le processus de réalisation de chaque service :  A titre d’activité principale :  L’ouverture de comptes de paiement de niveaux 1, 2 et 3  Les versements et les retraits en espèces,  Les prélèvements,  Les opérations de paiement en espèces,  Les opérations de transfert de fonds,  La réalisation d’opérations de paiement par tout moyen de communication à distance, y compris les opérations de paiement électronique,  La commercialisation des moyens de monnaie électroniques prépayés, émis par les banques ou la poste Tunisienne.  A titre d’activité accessoire :  L’activité de change manuel conformément à la règlementation de change en vigueur.  La présentation de l’établissement de paiement: stratégie et modèle d’affaires  4.1. Une lettre d’intention signée par le requérant indiquant les raisons et les motivations de la demande d’agrément.  4.2. La stratégie de développement de l’établissement de paiement à créer, modèle d’affaires cible conformément au principe de spécialisation de l’établissement de paiement :choix et objectifs stratégiques, description des domaines d’activité, secteurs économiques et clientèle cibles.  4.3. L’étude de marché et de l’environnement économique et financier de l’établissement de paiement à créer et son positionnement cible sur le marché et les diverses lignes de métiers.  4.4. La politique commerciale traduisant les orientations stratégiques : produits, clientèle cible, secteurs d’activité et canaux de distribution.  4.5. La politique de tarification des services et positionnement l’établissement de paiement par rapport à la concurrence et la structure de coûts.  4.6. La politique financière globale pour financer l’établissement de paiement à créer et soutenir le développement de l’activité : principales sources et conditions de financement en termes de coût et de maturité  4.7. La politique de gestion de trésorerie permettant la couverture en permanence des besoins de liquidité  4.8. Une note retraçant le pilotage stratégique et opérationnel, l’organisation, le planning et la feuille de route de l’établissement de paiement à créer.
-
-=== CHUNK 4 | PDF: DECISION_2019_20_fr.pdf | Page: -1 | Titre_Gemma: **Plan d'affaires et Gouvernance Financière** ===
-Loi : Non spécifié
-Chapitre : Non spécifié
-Titre : Non spécifié
-Section : Non spécifié
-Sous-section : Non spécifié
-Article : Non spécifié
-**Section 3 :  Plan d'affaires, Agents de Paiement et Gouvernance**
-Plan d’affaires sur 5 ans  5.1. Les hypothèses clés retenues pour la conception du plan d’affaires et leurs impacts potentiels sur les projections financières sous forme d’indicateurs d’activité et de rentabilité sur une période de 5 ans.  5.2. Les états financiers prévisionnels sur une période de 5 ans ainsi que le détail des principaux postes de ces états avec recours à la méthode de scénarios (optimiste, neutre et pessimiste)  5.3. Joindre le business plan chiffré sous format Excel.  Le recours aux réseaux d’agents de paiement  6.1. Une note décrivant la politique de recours aux agents de paiement qui couvre notamment la politique de sélection, les responsabilités et obligations des parties, les modalités de gestion et de suivi des activités des agents, la formation dans le domaine de la lutte contre le terrorisme et la répression du blanchiment d’argent et dans le domaine technique, les procédures de contrôle et le nombre et le profil de ces agents (personnes physiques ou morales, leurs secteurs d’activité ciblés et leurs localisations géographiques…) et les services de paiement concernés  6.2. Les circuits de gestion du cash ;  Un projet de convention de compte de paiement agent à conclure avec les agents de paiement (les agents de paiement principaux et détaillants) comportant notamment les informations suivantes :  6.3.1. Les services de paiement fournis par les agents de paiement ;  6.3.2. La responsabilité légale et financière des agents de paiement ;  6.3.3. Les obligations de l’établissement de paiement vis-à-vis des agents de paiement en matière de formation, de mise en place des procédures, documents, supports et moyens techniques nécessaires à la fourniture des services de paiement pour lesquels ils sont mandatés ;  6.3.4. Les modalités de contrôle effectuées par l’établissement de paiement sur les agents de paiement ;  6.3.5. Les modalités de rémunération des services fournis par les agents de paiement pour le compte de l’établissement de paiement ;  6.3.6. L’interdiction pour un agent de paiement principal ou un agent de paiement détaillant de déléguer ou céder son mandat à un autre agent de paiement ou à toute autre personne.
-
-=== CHUNK 5 | PDF: DECISION_2019_20_fr.pdf | Page: -1 | Titre_Gemma: **Planification des Ressources Humaines et Techniques** ===
-Loi : Non spécifié
-Chapitre : Non spécifié
-Titre : Non spécifié
-Section : Non spécifié
-Sous-section : Non spécifié
-Article : Non spécifié
-**Section 4 :  Ressources Humaines, Techniques et Continuité des Activités**
-Moyens humains : évolution de l’effectif envisagé et la masse salariale correspondante sur 5 ans.  Moyens techniques et informatiques  8.1. Architecture technique mise en œuvre    Architecture technique détaillée de l’environnement informatique utilisé pour la prestation du service de paiement;    Description du dispositif de gouvernance du système d’information et de la sécurité informatique respectant la réglementation en vigueur en matière de protection des données à caractère personnel    Description des systèmes d’information déployés au niveau des agents pour assurer les prestations des services de paiement et s’assurer de la traçabilité des opérations de paiement enregistrées ;    Organisation de l’externalisation : identification des prestataires, description précise de l’activité assurée par le prestataire.  8.2. Sécurité des moyens techniques    Décrire les procédures et outils de sécurité informatiques (accès aux données et aux systèmes, sécurité des réseaux, pistes d’audit, sauvegarde, archivage…), afin de garantir la confidentialité, l’intégrité de l’information, la disponibilité des services et la traçabilité;    Fournir les informations relatives à l’hébergement des plateformes informatiques et des datacenter (localisation géographique, niveau de certification sécurités physiques, de contrôles des locaux d’hébergement …) ;    Inventaire des mécanismes de contrôle et de sécurité liés aux services fournis, couvrant l’authentification des intervenants (entre autres le donneur d’ordre et le bénéficiaire), la séparation de fonctions, l’intégrité des données et des flux tant techniques que financiers, avec indication de leur fréquence ;    Description des moyens mis en place pour détecter, analyser, corriger, anticiper et empêcher les incidents de production.  Plan de continuité des activités (PCA)  Un rapport sur le plan de continuité d’activité, contenant les informations suivantes :  9.1.Une identification des activités essentielles, assorties des objectifs de reprise comprenant entre autres un calendrier prévisionnel de reprise avec les étapes clefs, les actifs prioritaires à sauvegarder, les délais maximaux admissibles d’indisponibilité ainsi que les pertes de données maximales admissibles;  9.2. Les moyens mis en œuvre pour garantir la continuité dans le cas d’interruption de service tel que des failles dans les systèmes clefs, la perte de données clefs, l’inaccessibilité des locaux, la perte de personnes clefs;  9.3. La fréquence à laquelle le requérant testera son plan de continuité d’activité de récupération en cas de sinistre, communiquant également le résultat de ces tests et indiquant la manière dont les résultats des tests seront pris en compte ;  9.4. Une
-
-=== CHUNK 6 | PDF: DECISION_2019_20_fr.pdf | Page: 2 | Titre_Gemma: **Procédure d'agrément pour établissement de paiement : Informations sur l'actionnariat** ===
+=== CHUNK 2 | PDF: DECISION_2019_20_fr.pdf | Page: 2 | Titre_Gemma: **Agrément d'établissement de paiement : Informations sur l'actionnariat** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié

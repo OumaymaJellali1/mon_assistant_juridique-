@@ -1,13 +1,13 @@
-=== CHUNK 1 | PDF: CIRCULAIRE AUX INTERMEDIAIRES AGREES.pdf | Page: -1 | Titre_Gemma: **Absence de texte juridique fourni. Veuillez fournir le texte juridique pour que je puisse vous donner un titre approprié.** ===
+=== CHUNK 1 | PDF: CIRCULAIRE AUX INTERMEDIAIRES AGREES.pdf | Page: -1 | Titre_Gemma: **Absence de texte juridique fourni. Veuillez fournir le texte juridique pour que je puisse formuler un titre.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
 Section : Non spécifié
 Sous-section : Non spécifié
 Article : Non spécifié
-Voici le texte juridique découpé en sections de taille raisonnable, avec des paragraphes :
+Voici le texte juridique découpé en sections de taille raisonnable, avec les paragraphes respectés et le séparateur utilisé :
 
-=== CHUNK 2 | PDF: CIRCULAIRE AUX INTERMEDIAIRES AGREES.pdf | Page: -1 | Titre_Gemma: **Comptes professionnels en devises et dinars convertibles** ===
+=== CHUNK 2 | PDF: CIRCULAIRE AUX INTERMEDIAIRES AGREES.pdf | Page: -1 | Titre_Gemma: **Comptes professionnels en devises/dinars convertibles** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -15,23 +15,28 @@ Section : Non spécifié
 Sous-section : Non spécifié
 Article : Non spécifié
 **OBJET : Conditions d'ouverture et de fonctionnement des comptes professionnels en devises ou en dinars convertibles.**
-La présente circulaire a pour objet de fixer les conditions d'ouverture et de fonctionnement des comptes professionnels en devises ou en dinars convertibles qui peuvent être ouverts aux personnes physiques et morales résidantes.
+La présente circulaire a pour objet de fixer les conditions d'ouverture et de fonctionnement des comptes professionnels en devises ou en dinars convertibles qui peuvent être ouverts aux personnes physiques et morales résidentes.
 
-=== CHUNK 3 | PDF: CIRCULAIRE AUX INTERMEDIAIRES AGREES.pdf | Page: -1 | Titre_Gemma: **Comptes Professionnels en Devises : Conditions d'Ouverture et de Fonctionnement** ===
+=== CHUNK 3 | PDF: CIRCULAIRE AUX INTERMEDIAIRES AGREES.pdf | Page: -1 | Titre_Gemma: **Comptes Professionnels en Devises en Tunisie** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
 Section : Non spécifié
 Sous-section : Non spécifié
 Article : Non spécifié
-**SECTION 1 : LES COMPTES PROFESSIONNELS EN DEVISES**
+**LES COMPTES PROFESSIONNELS EN DEVISES**
 I - **CONDITIONS D'OUVERTURE :**
 Toute personne physique résidente et toute personne morale tunisienne ou étrangère pour ses établissements en Tunisie ayant des ressources en devises peuvent pour les besoins de leur activité se faire ouvrir librement auprès d'un Intermédiaire Agréé des comptes professionnels en devises tenus en une monnaie convertible cotée par la Banque Centrale de Tunisie. Ces comptes permettent essentiellement à leurs titulaires de se prémunir contre les risques de change.
 II - **CONDITIONS DE FONCTIONNEMENT :**
 A) **Opérations au crédit**
 1°) Ces comptes peuvent être crédités sans autorisation préalable :
 a)1 - de 100% des devises provenant des exportations de l'entreprise résidente titulaire du compte ainsi que des emprunts en devises contractés par ladite entreprise conformément à la réglementation des changes en vigueur. Le crédit du compte ne peut intervenir qu'après nivellement et lors de la cession sur le marché des changes de la part cessible des recettes d'exportation et du montant des emprunts susvisés ;
-Le versement de billets de banque étrangers est effectué au vu d'une copie de la déclaration d'importation de devises accompagnée de l'original. Après apposition de son visa et mention du montant réglé en devises sur les deux documents, l'Intermédiaire Agréé domiciliataire restitue l'original à son titulaire. L’opération d’inscription au crédit du compte doit avoir lieu au vu des documents appropriés (contrats, factures définitives, factures pro forma, notes d’honoraires).
+Le versement de billets de banque étrangers est effectué au vu d'une copie de la déclaration d'importation de devises accompagnée de l'original. Après apposition de son visa et mention du montant réglé en devises sur les deux documents, l'Intermédiaire Agréé domiciliataire restitue l'original à son titulaire. L’opération d’inscription au crédit du compte doit avoir lieu au vu des documents appropriés (contrats, factures définitives, factures pro forma, notes d’honoraires2.
+Ainsi modifié par circulaire aux I.A n°99-05 du 19 .04.1999, circulaire aux I.A n°2003-13 du 12.11.2003 et circulaire aux I.A n°2005-01 du 03.01.2005.
+2 Ainsi ajouté par Circulaire aux  I.A n°2012-08 du 15.06.2012
+b) - des intérêts produits par les sommes logées dans ces comptes dans les conditions fixées par la Banque Centrale de Tunisie ;
+c) - des virements d'un autre compte professionnel du même titulaire, tenu dans la même devise que le compte professionnel à créditer ;
+d) - des virements d'un autre compte professionnel du même titulaire tenu en une autre devise. Le crédit du compte doit intervenir au moment de l'utilisation des disponibilités provenant du compte débité pour le règlement des opérations prévues à l'alinéa a) du paragraphe B ci-dessous.
 2°) Toute autre inscription au crédit du compte est soumise à l'autorisation de la Banque Centrale de Tunisie. Il demeure par ailleurs entendu qu'aucune inscription au crédit du compte ne peut être réalisée après cession des devises à la Banque Centrale de Tunisie.
 B) **Opérations au débit**
 1°) Les comptes professionnels en devises peuvent être débités sans autorisation préalable pour:
@@ -41,37 +46,37 @@ c) - Le crédit d'un autre compte professionnel du même titulaire tenu dans la 
 d) - le crédit d'un autre compte professionnel tenu en une autre devise du même titulaire. Le débit du compte doit intervenir au moment de l'utilisation des disponibilités du compte crédité pour le règlement des opérations prévues à l'alinéa a) ci-dessus.
 e) - la cession des devises à la Banque Centrale de Tunisie.
 2°) Toute autre opération au débit notamment pour créditer le compte professionnel d'un autre titulaire, est soumise à l'autorisation préalable de la Banque Centrale de Tunisie étant entendu que le compte ne peut être en aucun cas rendu débiteur.
-C) **Utilisation en priorité des disponibilités des comptes professionnels en devises**
+C) **Utilisation en priorité des disponibilités des comptes professionnels en devises3**
 Les titulaires des comptes professionnels en devises devront pour le règlement de leurs dépenses en devises, utiliser en priorité et sous leur responsabilité, les disponibilités de leurs comptes et ne doivent y maintenir que les montants dont ils ont effectivement besoin. Tout excédent doit faire l’objet de cession contre dinar sur le marché des changes.
-D) **Recours au marché des changes en cas de disponibilités en comptes**
+D) **Recours au marché des changes en cas de disponibilités en comptes 4**
 L’Intermédiaire Agréé ne doit procéder à la vente de devises au comptant ou dans le cadre d’une opération de couverture en faveur d’un opérateur disposant de fonds dans son/ses compte(s) professionnels en devises ouvert(s) sur ses livres que jusqu’à concurrence du besoin de règlement non couvert par lesdits fonds.
 Etant entendu que les fonds en devises faisant l’objet de placement sont considérés comme des avoirs disponibles en comptes.
 A l’occasion de chaque vente de devises, l’Intermédiaire Agréé est tenu d’exiger de l’opérateur une déclaration sur l’honneur conformément au modèle prévu par l’annexe n°1 à la présente circulaire, certifiant qu’il ne dispose pas de fonds dans ses comptes professionnels en devises ouverts sur les livres d’autres Intermédiaires Agréés permettant l’exécution de l’opération en objet.
 
-=== CHUNK 4 | PDF: CIRCULAIRE AUX INTERMEDIAIRES AGREES.pdf | Page: -1 | Titre_Gemma: Comptes Professionnels en Dinars Convertibles en Tunisie. ===
+=== CHUNK 4 | PDF: CIRCULAIRE AUX INTERMEDIAIRES AGREES.pdf | Page: -1 | Titre_Gemma: **Comptes Professionnels en Dinars Convertibles en Tunisie** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
 Section : Non spécifié
 Sous-section : Non spécifié
 Article : Non spécifié
-**SECTION 2 : LES COMPTES PROFESSIONNELS EN DINARS CONVERTIBLES**
+**LES COMPTES PROFESSIONNELS EN DINARS CONVERTIBLES**
 I - **CONDITIONS D'OUVERTURE :**
 Toute personne physique résidente et toute personne morale étrangère pour ses établissements en Tunisie ayant des tunisienne ou recettes en devises ou en dinars convertibles peuvent être autorisées par la Banque Centrale de Tunisie à se faire ouvrir des comptes professionnels en dinars convertibles.
 II - **CONDITIONS DE FONCTIONNEMENT :**
 Le compte professionnel en dinars convertibles crédité à partir des ressources en devises ou en dinars convertibles de son titulaire fonctionnera selon les conditions fixées dans l'autorisation d'ouverture.
 
-=== CHUNK 5 | PDF: CIRCULAIRE AUX INTERMEDIAIRES AGREES.pdf | Page: -1 | Titre_Gemma: **Déclarations Obligatoires aux Intermédiaires Financiers - Banque Centrale de Tunisie** ===
+=== CHUNK 5 | PDF: CIRCULAIRE AUX INTERMEDIAIRES AGREES.pdf | Page: -1 | Titre_Gemma: **Déclarations des Intermédiaires Agréés à la Banque Centrale de Tunisie** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
 Section : Non spécifié
 Sous-section : Non spécifié
 Article : Non spécifié
-**SECTION 3 : COMMUNICATION A LA BANQUE CENTRALE DE TUNISIE**
+**COMMUNICATION A LA BANQUE CENTRALE DE TUNISIE**
 Les Intermédiaires Agréés adresseront à la Banque Centrale de Tunisie au plus tard un mois après la fin de chaque trimestre un état des comptes professionnels en devises ouverts sur leurs livres au cours dudit trimestre avec indication du nom ou de la raison sociale de leurs titulaires, du numéro du code en douane et, lorsqu'il s'agit d'une personne physique, du numéro de sa carte d'identité nationale et du code de la devise.
 Les Intermédiaires Agréés adresseront à la Banque Centrale de Tunisie au terme de chaque mois et au plus tard le 15 du mois suivant, via le SED (nom du fichier : ETATSCPD, format du fichier EXCEL.xls) :
--un état des soldes des «comptes professionnels en devises» ouverts sur leurs livres établi conformément à l’annexe II à la présente,
+- un état des soldes des «comptes professionnels en devises» ouverts sur leurs livres établi conformément à l’annexe II à la présente,
 - un état des ventes de devises contre dinar établi conformément à l’annexe III à la présente,
 - un état des encours de placement établi conformément à l’annexe IV à la présente.
 Sont abrogées toutes dispositions contraires ou faisant double emploi avec la présente circulaire qui entre en vigueur à compter de sa notification.

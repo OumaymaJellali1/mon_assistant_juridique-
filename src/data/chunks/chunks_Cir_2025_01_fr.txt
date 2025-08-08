@@ -7,7 +7,7 @@ Sous-section : Non spécifié
 Article : Article premier : L’annexe III à la circulaire n°91-24 susvisée est abrogée et remplacée
 par l’annexe 1 à la présente circulaire.
 
-=== CHUNK 2 | PDF: Cir_2025_01_fr.pdf | Page: 2 | Titre_Gemma: **Détermination de la provision collective - Centrale de Tunisie** ===
+=== CHUNK 2 | PDF: Cir_2025_01_fr.pdf | Page: 2 | Titre_Gemma: **Provision collective : Détermination des éléments** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -17,7 +17,7 @@ Article : Article 2 : Les banques et les établissements financiers sont tenus d
 Centrale de Tunisie les éléments de détermination de la provision collective
 conformément au modèle de l’annexe 2 à la présente circulaire.
 
-=== CHUNK 3 | PDF: Cir_2025_01_fr.pdf | Page: 2 | Titre_Gemma: **Crédits et Taux de Migration - Engagements Bancaires** ===
+=== CHUNK 3 | PDF: Cir_2025_01_fr.pdf | Page: 2 | Titre_Gemma: **Dispositions sur les Crédits de Banques et Taux de Migration** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -107,7 +107,7 @@ Provision collective globale : Somme des provisions collectives par groupe : ∑
 𝑃𝐶𝑔𝑖 =1
 Provision collective du groupe i : PCgi = Engts 0 et 1gix (TMMgi + Δgi )x TPgi
 
-=== CHUNK 4 | PDF: Cir_2025_01_fr.pdf | Page: 1 | Titre_Gemma: **Circulaire N°2025-01 : Division, Risque et Engagement** ===
+=== CHUNK 4 | PDF: Cir_2025_01_fr.pdf | Page: 1 | Titre_Gemma: **Circulaire de la Banque Centrale de Tunisie : Gestion des Risques et Suivi des Engagements Bancaires** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -138,7 +138,7 @@ Vu l’avis du Comité de Contrôle de la Conformité n°2025-01 du 28 janvier 2
 que prévu par l’article 42 de la loi n°2016-35 du 25 avril 2016, portant fixation du statut
 de la Banque Centrale de Tunisie. Décide :
 
-=== CHUNK 5 | PDF: Cir_2025_01_fr.pdf | Page: 3 | Titre_Gemma: **Méthodologie de Calcul des Provisions Collectives** ===
+=== CHUNK 5 | PDF: Cir_2025_01_fr.pdf | Page: 3 | Titre_Gemma: **Méthodologie de détermination des provisions collectives** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -173,7 +173,7 @@ Autres services y compris les agences de location de voitures
 Entreprises publiques opérant dans des secteurs concurrentiels
 - Autres organismes publics
 
-=== CHUNK 6 | PDF: Cir_2025_01_fr.pdf | Page: 7 | Titre_Gemma: **Provisions Collectives : Détermination des Engagements** ===
+=== CHUNK 6 | PDF: Cir_2025_01_fr.pdf | Page: 7 | Titre_Gemma: **Détermination des Provisions Collectives : Annexe 2 Circulaire 2025-01** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié

@@ -1,38 +1,25 @@
-=== CHUNK 1 | PDF: Conditions-BTKPAY.pdf | Page: -1 | Titre_Gemma: Veuillez me fournir le texte juridique. Sans le texte, je ne peux pas vous donner un titre clair, court et précis. ===
+=== CHUNK 1 | PDF: Conditions-BTKPAY.pdf | Page: -1 | Titre_Gemma: **Conditions Générales d'Utilisation du Wallet BTK Bank et de l'Application BTKPAY** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
 Section : Non spécifié
 Sous-section : Non spécifié
 Article : Non spécifié
-Voici le texte juridique découpé en plusieurs sections de taille raisonnable, respectant les paragraphes et utilisant le séparateur indiqué :
-
-=== CHUNK 2 | PDF: Conditions-BTKPAY.pdf | Page: -1 | Titre_Gemma: **Définitions du Wallet BTK BANK et du Service BTKPAY** ===
-Loi : Non spécifié
-Chapitre : Non spécifié
-Titre : Non spécifié
-Section : Non spécifié
-Sous-section : Non spécifié
-Article : Non spécifié
-**I- DEFINITIONS**
+Voici le texte juridique découpé en sections plus courtes, respectant les paragraphes et utilisant le séparateur indiqué.
+=== Section 1: Introduction et Définitions ===
+Les présentes conditions générales sont relatives à l’ouverture d’un porte-monnaie électronique "Wallet" dans les livres de la BTK BANK et à l’utilisation du service de paiement mobile à partir de l’application "BTKPAY".
+I-DEFINITIONS
 Le Wallet : un porte-monnaie électronique mis par la BTK BANK à la disposition de toute personne physique lui permettant :
-- Le stockage de la monnaie électronique via des opérations de recharges ;
-- L’exécution des opérations de paiement via téléphone mobile pouvant inclure différentes technologies.
+-Le stockage de la monnaie électronique via des opérations de recharges ;
+-L’exécution des opérations de paiement via téléphone mobile pouvant inclure différentes technologies.
 Toute souscription au service de paiement mobile "BTKPAY" donne lieu à l’ouverture :
-- D’un "Wallet" au nom de l’utilisateur ayant une codification spécifique composée de 19 chiffres (Numéro Wallet).
+-D’un "Wallet" au nom de l’utilisateur ayant une codification spécifique composée de 19 chiffres (Numéro Wallet).
 - La Carte Associée: la numérisation des données de la carte bancaire de l’utilisateur qui sera rattachée ou associée à l’application de paiement mobile.
-- Le Wallet par défaut : est parmi ceux dont dispose un client sur lequel sont versés automatiquement les fonds reçus ou provenant d’un transfert ou d’un paiement pour les commerçants acceptants. Tous les transferts mobiles seront reçus au niveau du Wallet par défaut sauf précision de la banque destinatrice du transfert. Le client peut détenir un ou plusieurs Wallet au sein du même établissement ou dans différents établissements.
-- BTKPAY : l’application de paiement mobile pour les clients BTK BANK.
-
-=== CHUNK 3 | PDF: Conditions-BTKPAY.pdf | Page: -1 | Titre_Gemma: **Fonctionnalités de l'Application BTKPAY** ===
-Loi : Non spécifié
-Chapitre : Non spécifié
-Titre : Non spécifié
-Section : Non spécifié
-Sous-section : Non spécifié
-Article : Non spécifié
-**II- FONCTIONNALITES DE L’APPLICATION ‘’BTKPAY’’**
-L’application "BTKPAY" offre : * Gestion du "Wallet"
+-Le Wallet par défaut : est parmi ceux dont dispose un client sur lequel sont versés automatiquement les fonds reçus ou provenant d’un transfert ou d’un paiement pour les commerçants acceptants. Tous les transferts mobiles seront reçus au niveau du Wallet par défaut sauf précision de la banque destinatrice du transfert. Le client peut détenir un ou plusieurs Wallet au sein du même établissement ou dans différents établissements.
+-BTKPAY : l’application de paiement mobile pour les clients BTK BANK.
+=== Section 2: Fonctionnalités de l'Application BTKPAY ===
+L’application "BTKPAY" offre :
+*Gestion du "Wallet"
 - Inscription client/activation du service ;
 - Gestion de l’historique et disponibilité des informations ;
 - Gestion du "Wallet" et de la carte bancaire associée (si elle existe) ;
@@ -45,17 +32,14 @@ L’application "BTKPAY" offre : * Gestion du "Wallet"
 - Cash Out agences (retrait auprès de BTK BANK ou autres Banques) ;
 - Cash Out DAB (retrait auprès des DAB BTK BANK ou DAB autres Banques) ;
 - Transfert d’argent vers un autre Wallet BTK BANK ou autres banques
-* Opérations de paiement
-- Paiement commerçant par scan QR code sur téléphone et TPE.
-Cette fonctionnalité est accessible uniquement chez les commerçants acceptant le paiement mobile équipé d’un matériel adapté à l’acceptation de paiement mobile
+*Opérations de paiement
+- Paiement commerçant par scan QR code sur téléphone et TPE. Cette fonctionnalité est accessible uniquement chez les commerçants acceptant le paiement mobile équipé d’un matériel adapté à l’acceptation de paiement mobile
 - Paiement de services gouvernementaux et des facturiers (en fonction des accords existants).
-La Carte associée à l’application BTKPAY : L’utilisateur de l’application BTKPAY peut associer sa carte bancaire classique à ladite application et bénéficie à cet effet des services qui lui sont rattachés.
-L’utilisateur peut modifier la carte bancaire associée à sa wallet via l’application BTKPAY.
-La carte associée doit obligatoirement être au nom de l’utilisateur.
+La Carte associée à l’application BTKPAY : L’utilisateur de l’application BTKPAY peut associer sa carte bancaire classique à ladite application et bénéficie à cet effet des services qui lui sont rattachés. L’utilisateur peut modifier la carte bancaire associée à sa wallet via l’application BTKPAY. La carte associée doit obligatoirement être au nom de l’utilisateur.
 Les Cartes pouvant être associées au service de paiement mobile BTKPAY sont les cartes bancaires classiques nationales émises exclusivement par la BTK BANK.
 Le numéro de téléphone associé au wallet Client de la BTK BANK équipé d’une carte bancaire classique nationale :
 Pour les clients équipés de cartes bancaires classiques émises par la BTK BANK, le numéro de la ligne téléphonique associée au wallet est celui déjà communiqué à la BTK BANK et rattachée à la carte bancaire, lequel numéro permettra son authentification par la BTK BANK pour l’inscription et l’activation du service BTKPAY.
-Pour les clients de la BTK BANK non équipés de carte bancaire classique adossée à un compte du type dépôt à vue de la BTK BANK, le numéro de la ligne téléphonique associée au wallet est celui communiqué lors de l’adhésion à ce service dans une des agences de la BTK BANK, lequel numéro permettra son authentification par la BTK BANK pour l’inscription et l’activation du service BTKPAY.
+Pour les clients de la BTK BANK non équipés de carte bancaire classique adossée à un compte du type dépôt à vue de la BTK BANK, le numéro de la ligne téléphonique associée au wallet est celui communiqué lors de l’adhésion à ce service dans l’une des agences de la BTK BANK, lequel numéro permettra son authentification par la BTK BANK pour l’inscription et l’activation du service BTKPAY.
 En cas de changement de numéro de téléphone mobile associé au service, l’utilisateur devra communiquer le nouveau numéro à la BTK BANK qui se chargera de le modifier au niveau de sa base de données.
 L’inscription et l’activation du service BTKPAY Pour pouvoir disposer du service de paiement mobile :
 -Les clients équipés de cartes bancaires classiques émises par la BTK BANK doivent télécharger l’application BTKPAY sur leurs téléphones mobiles compatibles et finaliser l’inscription et l’activation du service de paiement mobile en ligne en poursuivant les différentes étapes y afférentes.
@@ -63,22 +47,14 @@ L’inscription et l’activation du service BTKPAY Pour pouvoir disposer du ser
 L’activation au service de paiement mobile est conclue à distance via l’application BTKPAY et le service de paiement mobile est activé sous réserve de :
 -La bonne fin de l’authentification de l’utilisateur en tant que souscripteur au service de paiement mobile et titulaire de la carte bancaire associée le cas échéant.
 -L’acceptation par l’utilisateur des présentes conditions générales d’utilisation de l’application paiement mobile.
-
-=== CHUNK 4 | PDF: Conditions-BTKPAY.pdf | Page: -1 | Titre_Gemma: **Conditions d'utilisation du service BTKPAY** ===
-Loi : Non spécifié
-Chapitre : Non spécifié
-Titre : Non spécifié
-Section : Non spécifié
-Sous-section : Non spécifié
-Article : Non spécifié
-**III- CONDITIONS D’UTILISATION DU SERVICE BTKPAY**
+=== Section 3: Conditions d'Utilisation du Service BTKPAY ===
 Durée, renouvellement et résiliation du Service
 Le Service comporte une durée de validité d’un an à partir de l’activation du Service, renouvelable par tacite reconduction.
 La résiliation du Service est gratuite et peut être demandée à tout moment par le Client auprès de son agence par écrit et s’exécute dans un délai de 30 jours après dépôt de la demande.
 Le Code confidentiel
 Après avoir téléchargé l’application BTKPAY, un code confidentiel est choisi par le Client au moment de l’inscription et de l’activation du service de paiement en ligne.
 Ce code confidentiel est ainsi enregistré instantanément via le numéro de téléphone, et l’application est installée sur l’appareil téléphonique du Client.
-En cas de changement d’appareil, l’application se désactive simultanément, le Client devra re-télécharger l’application sur son nouvel appareil.
+En cas de perte ou de vol de l’appareil, l’application se désactive simultanément, le Client devra re-télécharger l’application sur son nouvel appareil.
 Ce procédé garantit le caractère confidentiel du code secret.
 Ce code est nécessaire pour l’utilisation du Service, notamment pour accéder à l’application et effectuer des paiements.
 L’utilisation du code confidentiel
@@ -92,11 +68,6 @@ Engagements de l’utilisateur Le Client s’engage à :
 -Tenir secret son code confidentiel ;
 -Ne pas mandater un tiers, pour effectuer une opération quelconque ;
 -En cas de perte ou vol de son téléphone ainsi que du code confidentiel, assumer l’entière responsabilité de l’usage abusif qui serait fait du Service jusqu’à ce que la BTK BANK aura été informée de la perte ou du vol par lettre signée du Client. De ce l’abonnement du client sera désactivé et les opérations ultérieures seront refusées.
-Opposition pour perte ou vol
-En cas de perte ou de vol du Téléphone, le Client doit immédiatement alerter et faire opposition par écrit auprès d’une agence BTK BANK.
-L’opposition sera réputée avoir été effectuée à la date de notification de la perte auprès de la Banque.
-Relevé des opérations
-L’application BTKPAY donne accès au client à la consultation de l’historique de ses opérations sur une durée de 30 Jours. Toutes les écritures découlant de l’utilisation du service figureront dans la rubrique historique de l’application téléchargée.
-Limitation de la responsabilité de la Banque
-La Banque ne saurait être tenue pour responsable
+Opposition pour perte ou vol : En cas de perte ou de vol du Téléphone, le Client doit immédiatement alerter et faire opposition par écrit auprès d’une agence BTK BANK. L’opposition sera réputée avoir été effectuée à la date de notification de la perte auprès de la Banque.
+Relevé des opérations l’application BTKPAY donne accès au client à la consultation de l’historique de ses opérations sur une durée de 30 Jours. Toutes les écritures découlant de l’
 

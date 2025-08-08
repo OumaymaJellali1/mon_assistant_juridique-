@@ -1,4 +1,4 @@
-=== CHUNK 1 | PDF: DECISION_20170731_fr.pdf | Page: 1 | Titre_Gemma: **Procédure d'agrément bancaire et financier** ===
+=== CHUNK 1 | PDF: DECISION_20170731_fr.pdf | Page: 1 | Titre_Gemma: **Procédure d'agrément : Décret de fixation** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -17,7 +17,7 @@ réservée à sa demande,
 3- Définit la procédure de demande d’agrément, les annexes et  les renseignements à fournir par catégorie
 d’agrément et les formulaires à remplir par le requérant.
 
-=== CHUNK 2 | PDF: DECISION_20170731_fr.pdf | Page: 1 | Titre_Gemma: **Agrément bancaire et commission d'agrément : Obligations légales.** ===
+=== CHUNK 2 | PDF: DECISION_20170731_fr.pdf | Page: 1 | Titre_Gemma: **Agrément bancaire obligatoire pour certaines activités.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -50,7 +50,7 @@ se charge d’instruire le dossier d’agrément. La Banque Centrale de Tunisie 
 des décisions de la commission d’agrément. En cas de refus, la Banque Centrale de Tunisie notifie au requérant les
 motifs de refus de la commission d’agrément.
 
-=== CHUNK 4 | PDF: DECISION_20170731_fr.pdf | Page: 2 | Titre_Gemma: **Agrément des opérations réglementées (Loi n° 2016-48)** ===
+=== CHUNK 4 | PDF: DECISION_20170731_fr.pdf | Page: 2 | Titre_Gemma: **Agrément des opérations requérant l'article 24 de la loi n° 2016-48** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -97,7 +97,7 @@ opérationnel selon les règles de bonne gouvernance.
 effectuer des visites sur place dans les locaux de l’établissement ayant obtenu un agrément de principe pour
 s’assurer du respect des conditions requises pour l’octroi de l’agrément définitif.
 
-=== CHUNK 5 | PDF: DECISION_20170731_fr.pdf | Page: 3 | Titre_Gemma: **Dossier d'agrément bancaire : Éléments requis** ===
+=== CHUNK 5 | PDF: DECISION_20170731_fr.pdf | Page: 3 | Titre_Gemma: **Dossier d'Agrément Bancaire : Éléments Requis** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -122,7 +122,7 @@ chaque type d’agrément.
 - Les formulaires no 3, 4 et 5 signés par les personnes concernées (telles que définies dans les annexes jointes
 à la présente décision).
 
-=== CHUNK 6 | PDF: DECISION_20170731_fr.pdf | Page: 3 | Titre_Gemma: **Délais d'instruction des demandes d'agrément** ===
+=== CHUNK 6 | PDF: DECISION_20170731_fr.pdf | Page: 3 | Titre_Gemma: **Délais d'agrément : Banque Centrale de Tunisie** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -153,7 +153,7 @@ compter de la date de leur réclamation par la Banque Centrale de Tunisie dans u
 - 3 mois pour les opérations prévues par l’article 24 de la loi no 2016-48.
 - 2 mois pour les opérations prévues par les articles 34 et 35 de la loi no 2016-48.
 
-=== CHUNK 7 | PDF: DECISION_20170731_fr.pdf | Page: 4 | Titre_Gemma: **Décision d'agrément bancaire - Détails requis** ===
+=== CHUNK 7 | PDF: DECISION_20170731_fr.pdf | Page: 4 | Titre_Gemma: **Décision d'agrément bancaire : Éléments requis** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -646,7 +646,7 @@ Signature
 4 Pour les personnes de nationalité étrangère
 5 Nom de l’établissement
 
-=== CHUNK 8 | PDF: DECISION_20170731_fr.pdf | Page: 5 | Titre_Gemma: **Agrément bancaire : Informations sur l'actionnariat** ===
+=== CHUNK 8 | PDF: DECISION_20170731_fr.pdf | Page: 5 | Titre_Gemma: **Demande d'agrément pour établissement financier : Informations sur l'actionnariat** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -690,7 +690,7 @@ de crédit, risque de liquidité, risque global de taux d’intérêt et risque 
 3. Dispositif de gouvernance et d’organisation
 - La politique générale de gouvernance et de transparence.
 
-=== CHUNK 9 | PDF: DECISION_20170731_fr.pdf | Page: 8 | Titre_Gemma: **Agrément pour changement de catégorie d'activité bancaire : Exigences** ===
+=== CHUNK 9 | PDF: DECISION_20170731_fr.pdf | Page: 8 | Titre_Gemma: **Agrément pour changement de catégorie d'activité bancaire** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -734,7 +734,7 @@ structure de coût.
 - La politique des risques liés à la stratégie, le modèle d’affaires et les opérations et services à exercer: risque
 de crédit, risque de liquidité, risque global de taux d’intérêt et risque de marché.
 
-=== CHUNK 10 | PDF: DECISION_20170731_fr.pdf | Page: 11 | Titre_Gemma: **Agrément de Fusion/Scission : Informations sur l'Actionnariat** ===
+=== CHUNK 10 | PDF: DECISION_20170731_fr.pdf | Page: 11 | Titre_Gemma: **Agrément de fusion/scission : Informations sur l'actionnariat** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -778,7 +778,7 @@ sources de financement et conditions de financement en termes de coût et de mat
 - La politique de tarification des produits et services et positionnement par rapport à la concurrence et la
 structure de coût.
 
-=== CHUNK 11 | PDF: DECISION_20170731_fr.pdf | Page: 14 | Titre_Gemma: **Agrément pour Cession d'Actif/Passif d'un Établissement Financier** ===
+=== CHUNK 11 | PDF: DECISION_20170731_fr.pdf | Page: 14 | Titre_Gemma: **Agrément pour cession d'actifs/passifs d'une banque : Exigences relatives à l'actionnariat.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -822,7 +822,7 @@ surveillance).
 comités émanant de ces organes (comité d’audit, comité des risques, comité de nomination et de rémunération).
 - Le pacte d’actionnaires, le cas échéant.
 
-=== CHUNK 12 | PDF: DECISION_20170731_fr.pdf | Page: 17 | Titre_Gemma: **Agrément pour la Réduction de Capital des Banques et Établissements Financiers** ===
+=== CHUNK 12 | PDF: DECISION_20170731_fr.pdf | Page: 17 | Titre_Gemma: **Agrément pour la réduction de capital bancaire : exigences documentaires** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -865,7 +865,7 @@ les dirigeants et les administrateurs.
 - L’organisation cible, la description des processus métiers, les moyens humains et techniques à mobiliser
 avec les curriculums vitae  des premiers responsables des fonctions :
 
-=== CHUNK 13 | PDF: DECISION_20170731_fr.pdf | Page: 19 | Titre_Gemma: **Agrément pour franchissement de seuil dans une banque ou établissement financier** ===
+=== CHUNK 13 | PDF: DECISION_20170731_fr.pdf | Page: 19 | Titre_Gemma: **Agrément pour Franchissement de Seuil dans un Établissement Financier** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -910,7 +910,7 @@ d’activité et canaux de distribution.
 - L’étude sur la nature et l’étendue des risques globaux auxquels est exposé l’établissement (risques
 financiers et stratégiques, risque de réputation et risque juridique)
 
-=== CHUNK 14 | PDF: DECISION_20170731_fr.pdf | Page: 22 | Titre_Gemma: **Agrément de l'Action de Concert entre Actionnaires d'une Banque ou d'un Établissement Financier** ===
+=== CHUNK 14 | PDF: DECISION_20170731_fr.pdf | Page: 22 | Titre_Gemma: **Agrément de l'Action de Concert Bancaire - Loi 2016-48** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -953,7 +953,7 @@ stratégiques, risque de réputation et risque juridique)
 - La politique de tarification des produits et services et positionnement par rapport à la concurrence et la
 structure de coût.
 
-=== CHUNK 15 | PDF: DECISION_20170731_fr.pdf | Page: 25 | Titre_Gemma: **Agrément pour le Changement d'Actionnaire de Référence dans les Banques et Établissements Financiers** ===
+=== CHUNK 15 | PDF: DECISION_20170731_fr.pdf | Page: 25 | Titre_Gemma: **Agrément pour le Changement d'Actionnaire dans les Banques et Établissements Financiers** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié

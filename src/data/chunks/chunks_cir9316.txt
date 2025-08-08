@@ -1,4 +1,4 @@
-=== CHUNK 1 | PDF: cir9316.pdf | Page: 1 | Titre_Gemma: **Domiciliation et Exécution des Transports d'Emprunts** ===
+=== CHUNK 1 | PDF: cir9316.pdf | Page: 1 | Titre_Gemma: **Domiciliation des dossiers d'emprunt et conditions de transfert.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -9,7 +9,7 @@ conformité avec l'article premier précité sont libres.
 II - DOMICILIATION DES DOSSIERS D'EMPRUNTS ET CONDITIONS D'EXECUTION DES
 TRANSFERTS :
 
-=== CHUNK 2 | PDF: cir9316.pdf | Page: 1 | Titre_Gemma: **Documents à Remettre à l'Intermédiaire Agréé** ===
+=== CHUNK 2 | PDF: cir9316.pdf | Page: 1 | Titre_Gemma: **Fourniture de documents pour un prêt** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -38,7 +38,7 @@ Article : Article 4 : En cas de crédit à taux variable, l'Intermédiaire Agré
 renouvellement de période d'intérêt, une confirmation du prêteur précisant la durée de la nouvelle
 période et le taux d'intérêt y relatif dont il vérifie l'exactitude.
 
-=== CHUNK 4 | PDF: cir9316.pdf | Page: 2 | Titre_Gemma: **Vérification et Exécution des Prêts et Crédits Fournisseurs** ===
+=== CHUNK 4 | PDF: cir9316.pdf | Page: 2 | Titre_Gemma: **Vérification et Exécution des Prêts et Crédits** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -55,7 +55,7 @@ Commerce Extérieur ayant servi à l'importation des fournitures. Les transferts
 remboursement du principal et le paiement des intérêts ainsi que sur toutes autres charges de
 prorogation ou de défaut de paiement conformément aux dispositions contractuelles.
 
-=== CHUNK 5 | PDF: cir9316.pdf | Page: 2 | Titre_Gemma: **Transfert et Remboursement des sommes garanties** ===
+=== CHUNK 5 | PDF: cir9316.pdf | Page: 2 | Titre_Gemma: **Transfert de fonds et remboursement d'emprunts.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -67,7 +67,7 @@ respect des termes desdites garanties.
 III - REMBOURSEMENT DES EMPRUNTS OBLIGATAIRES ET BONS A COURT TERME SOUSCRITS
 PAR DES NON-RESIDENTS AUPRES DES INSTITUTIONS RESIDENTES:
 
-=== CHUNK 6 | PDF: cir9316.pdf | Page: 2 | Titre_Gemma: **Conditions d'émission d'emprunts obligataires et bons à court terme pour non-résidents.** ===
+=== CHUNK 6 | PDF: cir9316.pdf | Page: 2 | Titre_Gemma: **Conditions de souscription d'emprunts obligataires et bons à court terme aux non-résidents** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -79,7 +79,7 @@ résidentes, au vu selon la nature du titre :
 - d'un récépissé de paiement des annuités échues délivré par la Trésorerie Générale de Tunisie ;
 - ou d'un avis de crédit émanant de l'organisme payeur.
 
-=== CHUNK 7 | PDF: cir9316.pdf | Page: 2 | Titre_Gemma: **Paiement des intérêts et communications à la B.C.T.** ===
+=== CHUNK 7 | PDF: cir9316.pdf | Page: 2 | Titre_Gemma: **Financement par Importation de Devises et Communication à la B.C.T.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -90,7 +90,7 @@ s'effectuer par l'Intermédiaire Agréé dans les mêmes conditions que celles r
 intérêts à condition de s'assurer au préalable que l'investissement en question ait été financé au moyen
 d'une importation de devises. IV - COMMUNICATIONS A LA B.C.T. :
 
-=== CHUNK 8 | PDF: cir9316.pdf | Page: 2 | Titre_Gemma: **Dépôt des conventions d'emprunt mensuelles** ===
+=== CHUNK 8 | PDF: cir9316.pdf | Page: 2 | Titre_Gemma: **Dépôt des Conventions d'Emprunt Mensuelles** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -101,7 +101,7 @@ Engagements et de la Coopération), au plus tard le 20 de chaque mois, copies de
 d'emprunt conclues conformément aux dispositions de l'Article 1 de la présente circulaire et domiciliées
 au cours du mois précédent.
 
-=== CHUNK 9 | PDF: cir9316.pdf | Page: 2 | Titre_Gemma: **Fiche d'Information à Adresser à la Banque Centrale de Tunisie** ===
+=== CHUNK 9 | PDF: cir9316.pdf | Page: 2 | Titre_Gemma: **Obligation de transmission d'informations à la BCT** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -112,7 +112,7 @@ Article : Article 10 : Pour chaque transfert entrant dans le cadre de la présen
 conformément à la réglementation en vigueur.
 V - DISPOSITIONS DIVERSES :
 
-=== CHUNK 10 | PDF: cir9316.pdf | Page: 2 | Titre_Gemma: **Circulaire sur la présentation des documents et annulation de dispositions antérieures** ===
+=== CHUNK 10 | PDF: cir9316.pdf | Page: 2 | Titre_Gemma: **Circulaire : Obligations de domiciliation et abrogation de dispositions antérieures.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié

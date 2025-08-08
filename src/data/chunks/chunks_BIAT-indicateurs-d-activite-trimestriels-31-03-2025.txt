@@ -1,46 +1,61 @@
-=== CHUNK 1 | PDF: BIAT-indicateurs-d-activite-trimestriels-31-03-2025.pdf | Page: -1 | Titre_Gemma: **Indicateurs d'activité de la BIAT - Premier trimestre 2025** ===
+=== CHUNK 1 | PDF: BIAT-indicateurs-d-activite-trimestriels-31-03-2025.pdf | Page: -1 | Titre_Gemma: Sans le texte juridique, je ne peux pas proposer un titre. ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
 Section : Non spécifié
 Sous-section : Non spécifié
 Article : Non spécifié
-## NOTES AUX INDICATEURS D’ACTIVITE DE LA BIAT AU 31/03/2025
-### I- BASES DE MESURE ET PRINCIPES COMPTABLES ADOPTES LORS DE L’ETABLISSEMENT DES INDICATEURS PUBLIES
+Voici le texte juridique découpé en plusieurs sections de taille raisonnable, avec des paragraphes :
+
+=== CHUNK 2 | PDF: BIAT-indicateurs-d-activite-trimestriels-31-03-2025.pdf | Page: -1 | Titre_Gemma: **Principes comptables appliqués à la publication des indicateurs bancaires** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
+**I- BASES DE MESURE ET PRINCIPES COMPTABLES ADOPTES LORS DE L’ETABLISSEMENT DES INDICATEURS PUBLIES.**
 Les présents indicateurs de la banque sont arrêtés en appliquant les principes et conventions comptables prévus par le décret n°96-2459 du 30-12-1996 portant approbation du cadre conceptuel de la comptabilité et des principes comptables prévus par les normes comptables sectorielles des établissements bancaires. Ces principes et conventions comptables concernent principalement les règles qui ont été appliquées pour la prise en compte des produits et des charges et les règles de conversion des opérations en devises.
-**1. Les règles de prise en compte des produits d’exploitation bancaire**
-Les intérêts, les produits assimilés et les commissions bancaires sont pris en compte dans le produit net bancaire de la période pour leurs montants se rapportant à la période relative au premier trimestre de l’année 2025. Ainsi, les produits qui ont été encaissés et qui concernent des périodes postérieures au 31-03-2025 ne sont pas pris en considération dans les produits d’exploitation bancaire de la période et ce, conformément aux dispositions prévues par les normes comptables. En revanche, les intérêts et commissions bancaires courus et non échus au 31-03-2025 sont inclus dans les produits d’exploitation bancaire de la période.
-En application des dispositions prévues aussi bien par la norme comptable sectorielle numéro 24 que par la circulaire n° 91-24 du 17-12-1991 de la Banque Centrale de Tunisie, les intérêts et produits assimilés exigibles au 31-03-2025 et non encaissés ou dont l’encaissement est douteux ne sont pas pris en considération dans le résultat et figurent au bilan sous forme d’agios réservés. Les intérêts et produits assimilés constatés en agios réservés au cours des exercices antérieurs et qui sont encaissés en 2025 sont en revanche inclus dans les produits d’exploitation bancaires arrêtés au 31-03-2025.
-**2. Les règles de prise en compte des charges**
+1. Les règles de prise en compte des produits d’exploitation bancaire
+Les intérêts, les produits assimilés et les commissions bancaires sont pris en compte dans le produit net bancaire de la période pour leurs montants se rapportant à la période relative au premier trimestre de l’année 2025. Ainsi, les produits qui ont été encaissés et qui concernent des périodes postérieures au 31-03-2025 ne sont pas pris en considération dans les produits d’exploitation bancaire de la période et ce, conformément aux dispositions prévues par les normes comptables. En revanche, les intérêts et commissions bancaires courus et non échus au 31-03-2025 sont inclus dans les produits d’exploitation bancaire de la période. En application des dispositions prévues aussi bien par la norme comptable sectorielle numéro 24 que par la circulaire n° 91-24 du 17-12-1991 de la Banque Centrale de Tunisie, les intérêts et produits assimilés exigibles au 31-03-2025 et non encaissés ou dont l’encaissement est douteux ne sont pas pris en considération dans le résultat et figurent au bilan sous forme d’agios réservés. Les intérêts et produits assimilés constatés en agios réservés au cours des exercices antérieurs et qui sont encaissés en 2025 sont en revanche inclus dans les produits d’exploitation bancaires arrêtés au 31-03-2025.
+2. Les règles de prise en compte des charges
 Les charges d’intérêts et les commissions encourues sont prises en compte pour leurs montants se rapportant au premier trimestre 2025. Ainsi, les charges qui ont été décaissées et qui concernent des périodes postérieures au 31-03-2025 sont constatées dans le bilan sous forme de comptes de régularisation.
-**3. Les règles de conversion des opérations en devises**
+3. Les règles de conversion des opérations en devises
 Conformément aux dispositions prévues par les normes comptables sectorielles des établissements bancaires, les indicateurs financiers sont arrêtés en tenant compte des créances et des dettes en devises et de la position de change en devises qui sont converties sur la base du dernier cours de change moyen de la BCT du mois de mars 2025. Les gains et pertes de change résultant de cette conversion sont pris en compte dans le résultat arrêté au 31/03/2025.
-**4. Présentation des Indicateurs Trimestriels**
+4. Présentation des Indicateurs Trimestriels
 Les indicateurs trimestriels arrêtés et publiés par la BIAT au titre du premier trimestre 2025, sont présentés conformément aux dispositions prévues par la loi n° 2005-96 du 18/10/2005 et de l’arrêté du Ministre des Finances du 12/07/2006 et comportent aussi bien les données relatives à l’année 2024 que celles relatives à l’année 2025. Les données relatives à l’année 2024 sont conformes à celles publiées en 2024 dans le cadre des Etats Financiers annuels de l’année 2024.
-### II- JUSTIFICATIONS DES ESTIMATIONS RETENUES
-**1. Les produits d’exploitation bancaire**
+
+=== CHUNK 3 | PDF: BIAT-indicateurs-d-activite-trimestriels-31-03-2025.pdf | Page: -1 | Titre_Gemma: **Estimations des produits et charges bancaires - T1 2025** ===
+Loi : Non spécifié
+Chapitre : Non spécifié
+Titre : Non spécifié
+Section : Non spécifié
+Sous-section : Non spécifié
+Article : Non spécifié
+**II- JUSTIFICATIONS DES ESTIMATIONS RETENUES**
+1. Les produits d’exploitation bancaire
 Les produits d’exploitation bancaire s’élèvent au titre du premier trimestre 2025 à 609.170mD. Ces produits d’exploitation bancaire sont composés des postes suivants :
 * Intérêts et revenus assimilés, * Commissions en produits,
 * Revenus du portefeuille titres commercial et opérations financières et revenus du portefeuille d’investissement,
 * Gains de change.
 Conformément aux dispositions prévues par les normes comptables sectorielles des établissements bancaires et par la circulaire n° 91-24 du 17-12-1991 de la Banque Centrale de Tunisie, ces produits d’exploitation bancaires sont présentés nets des agios réservés.
-**2. Les charges d’exploitation bancaire**
+2. Les charges d’exploitation bancaire
 Les charges d’exploitation bancaire totalisent 224.026 mD au titre du premier trimestre 2025. Ces charges d’exploitation bancaire sont composées des postes suivants :
 * Intérêts encourus et charges assimilées,
 * Commissions encourues, * Autres charges.
 Les intérêts encourus sont composés des intérêts sur comptes ordinaires, sur comptes d’emprunts interbancaires, sur dépôts de la clientèle, sur emprunts obligataires, subordonnés et sur ressources spéciales. Les commissions encourues sont composées des commissions sur opérations de trésorerie et interbancaires, des commissions sur opérations de la clientèle et des commissions sur prestations de services financiers.
-**3. La structure du portefeuille Titre commercial et d’investissement**
+3. La structure du portefeuille Titre commercial et d’investissement
 Ce poste comporte les encours du portefeuille titre commercial et du portefeuille titre d’investissement. Les encours du portefeuille titres d’investissement sont composés des titres d’investissement, des titres de participation, des titres des entreprises associées et coentreprises, des titres des entreprises liées et des fonds gérés à capital risque. Ces encours des titres sont présentés en brut c'à dire compte tenu des créances rattachées et compte non tenu des provisions constituées sur ces titres.
-**4. Les encours des crédits**
+4. Les encours des crédits
 Les encours des crédits de la clientèle sont composés des comptes débiteurs, des autres concours, des crédits sur ressources spéciales et des créances rattachées. Ces encours des crédits sont présentés nets des agios réservés et des provisions constituées.
-**5. Les encours des dépôts**
+5. Les encours des dépôts
 Ce poste est composé des dépôts à vue, des comptes d’épargne, des comptes à échéance, des bons à échéance et valeurs assimilées, des certificats de dépôt marché monétaire, des autres sommes dues à la clientèle et des dettes rattachées. Ces encours des dépôts sont majorés des dettes rattachées et diminués des créances rattachées sur ces dépôts.
-**6. Emprunts et ressources spéciales**
+6. Emprunts et ressources spéciales
 Les emprunts et ressources spéciales sont présentés compte tenu des dettes rattachées.
-**7. Capitaux propres**
+7. Capitaux propres
 Les capitaux propres au 31/12/2024 sont présentés avant affectation du résultat. Les résultats enregistrés par la BIAT au titre du premier trimestre 2024 et du premier trimestre 2025 ne sont pas inclus aux capitaux propres présentés aux mêmes dates.
 
-=== CHUNK 2 | PDF: BIAT-indicateurs-d-activite-trimestriels-31-03-2025.pdf | Page: 1 | Titre_Gemma: **Indicateurs d'Activité BIAT - 1er Trimestre 2025** ===
+=== CHUNK 4 | PDF: BIAT-indicateurs-d-activite-trimestriels-31-03-2025.pdf | Page: 1 | Titre_Gemma: **Indicateurs d'Activité BIAT - T1 2025** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -57,7 +72,7 @@ au 1er trimestre 2025. INDICATEURS D'ACTIVITE TRIMESTRIELS AU 31 MARS 2025
 et d'investissement et opérations financieres
 171 225 176,667 132 641 877,823 171 225 176,667 132 641 877,823 544 824 424,757 2- Charges d'exploitation bancaires 224 025 981,056 199 179 271,414 224 025 981,056 199 179 271,414 846 908 813,225 * Intérêts encourus 223 465 432,288 198 139 012,546 223 465 432,288 198 139 012,546 843 061 983,272 * Commissions encourues 560 548,768 1 040 258,868 560 548,768 1 040 258,868 3 846 829,953 * Autres charges 3- Produit net bancaire 385 144 423,882 367 386 017,472 385 144 423,882 367 386 017,472 1 479 714 580,812 4- Autres produits d'exploitation 2 990 942,496 3 120 494,715 2 990 942,496 3 120 494,715 12 772 634,079 5- Charges opératoires, dont: 172 845 343,755 148 981 467,883 172 845 343,755 148 981 467,883 664 558 771,868 * Frais de personnel 98 380 345,793 84 537 517,468 98 380 345,793 84 537 517,468 358 105 820,427 * charges générales d'exploitation 63 020 051,962 53 910 814,506 63 020 051,962 53 910 814,506 258 279 069,722 6- Structure du portefeuille : - - 6 495 209 078,825 4 931 236 879,767 6 136 665 262,642 * Portefeuille-titres commercial - - 34 001 245,049 29 683 916,554 18 253 976,717 * Portefeuille-titres d'investissement - - 6 461 207 833,776 4 901 552 963,213 6 118 411 285,925 7- Encours des crédits nets - - 12 839 052 161,856 12 185 667 469,847 12 806 867 639,139 8- Encours des dépôts, dont: - - 20 336 009 767,160 18 249 460 985,151 20 814 072 817,921 * Dépôts à vue - - 9 541 648 151,993 8 582 060 401,838 10 532 265 360,762 * Dépôts d'épargne - - 5 194 639 043,063 4 669 958 706,111 5 211 992 520,789 9- Emprunts et ressources spéciales - - 787 979 443,072 852 457 303,342 798 630 314,652 * Emprunt obligataire - - 0,000 0,000 0,000 * Emprunts subordonnés - - 708 974 928,817 774 208 655,119 718 093 994,519 * Ressources spéciales - - 79 004 514,255 78 248 648,223 80 536 320,133 10- Capitaux propres - - 2 226 615 429,063 2 082 277 817,476 2 226 391 374,715
 
-=== CHUNK 3 | PDF: BIAT-indicateurs-d-activite-trimestriels-31-03-2025.pdf | Page: 2 | Titre_Gemma: **Résultats Financiers BIAT - 1er Trimestre 2025** ===
+=== CHUNK 5 | PDF: BIAT-indicateurs-d-activite-trimestriels-31-03-2025.pdf | Page: 2 | Titre_Gemma: **Résultats Financiers du Premier Trimestre 2025 de la BIAT** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié

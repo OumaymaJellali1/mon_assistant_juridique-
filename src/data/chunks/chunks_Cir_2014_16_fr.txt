@@ -1,4 +1,4 @@
-=== CHUNK 1 | PDF: Cir_2014_16_fr.pdf | Page: 2 | Titre_Gemma: **Rétrocession et réattribution de devises non utilisées.** ===
+=== CHUNK 1 | PDF: Cir_2014_16_fr.pdf | Page: 2 | Titre_Gemma: **Rapatriement et réattribution de devises non utilisées** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -32,7 +32,7 @@ Lorsque la rétrocession porte sur un chèque non utilisé, l’Intermédiaire A
 doit exiger la présentation de tout document prouvant la date du retour (coupon
 de billets de transport, ordre de mission…) ».
 
-=== CHUNK 2 | PDF: Cir_2014_16_fr.pdf | Page: 3 | Titre_Gemma: **Rétrocession des allocations touristiques de décembre** ===
+=== CHUNK 2 | PDF: Cir_2014_16_fr.pdf | Page: 3 | Titre_Gemma: **Rétrocession des Allocations Touristiques Décembre** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -45,7 +45,7 @@ au cours du mois de Décembre doit, s’il n’a pas voyagé au plus tard le 31 
 même mois, la rétrocéder à un Intermédiaire Agréé dans le délai prévu à l’article
 13 de la présente circulaire ».
 
-=== CHUNK 3 | PDF: Cir_2014_16_fr.pdf | Page: 3 | Titre_Gemma: **Annexe** ===
+=== CHUNK 3 | PDF: Cir_2014_16_fr.pdf | Page: 3 | Titre_Gemma: **Nouvelles annexes** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -54,7 +54,7 @@ Sous-section : Non spécifié
 Article : Article 3 : les annexes n°s 2, 3, 4 et 6 à la circulaire n°2007-04 sus-visée sont
 remplacées par les quatre annexes jointes à la présente circulaire.
 
-=== CHUNK 4 | PDF: Cir_2014_16_fr.pdf | Page: 3 | Titre_Gemma: **Obligation de déclaration de devises pour les voyageurs tunisiens.** ===
+=== CHUNK 4 | PDF: Cir_2014_16_fr.pdf | Page: 3 | Titre_Gemma: **Obligation de déclaration de devises pour les voyageurs rentrant en Tunisie.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -67,7 +67,7 @@ Tunisie, n'ayant pas utilisé la totalité de l'allocation touristique échangé
 voulant bénéficier à nouveau du reliquat non consommé, de déclarer le montant
 des devises importé à la Douane".
 
-=== CHUNK 5 | PDF: Cir_2014_16_fr.pdf | Page: 3 | Titre_Gemma: **Décret du Gouverneur Chedly Ayari** ===
+=== CHUNK 5 | PDF: Cir_2014_16_fr.pdf | Page: 3 | Titre_Gemma: **Déclaration du Gouverneur Chedly Ayari** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -77,7 +77,7 @@ Article : Article 5 : La présente circulaire entre en vigueur à compter du 1er
 /_E GOUVERNEUR
 CHEDLY AYARI
 
-=== CHUNK 6 | PDF: Cir_2014_16_fr.pdf | Page: 4 | Titre_Gemma: **Formulaire d'Autorisation de Sortie pour Intermédiaire Agrée** ===
+=== CHUNK 6 | PDF: Cir_2014_16_fr.pdf | Page: 4 | Titre_Gemma: **Formulaire d'Autorisation de Sortie pour Intermédiaires Agrés** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -242,7 +242,7 @@ FEUILLET DESTINE A LA DOUANE
 (2) Inscrire le n° de la Carte d'Identité Nationale ou de la Carte de Séjour
 selon que le bénéficiaire est de nationalité tunisienne ou étrangère.
 
-=== CHUNK 9 | PDF: Cir_2014_16_fr.pdf | Page: 7 | Titre_Gemma: **Rétrocession d'allocations touristiques : Tableau des transactions** ===
+=== CHUNK 9 | PDF: Cir_2014_16_fr.pdf | Page: 7 | Titre_Gemma: **Rétrocessions en Espèces/Chèques d'Allocations Touristiques - Annexe N°6** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié

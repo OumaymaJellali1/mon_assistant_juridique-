@@ -1,4 +1,4 @@
-=== CHUNK 1 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 2 | Titre_Gemma: **Gouvernance des Banques et Établissements Financiers** ===
+=== CHUNK 1 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 2 | Titre_Gemma: **Gouvernance des institutions financières** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -17,7 +17,7 @@ assurer les conditions d’intégrité, d’honorabilité et de loyauté des mem
 l’organe d’administration, des dirigeants et des employés de la banque et de
 l’établissement financier.
 
-=== CHUNK 2 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 2 | Titre_Gemma: **Circulaire : Obligations des établissements financiers tunisiens** ===
+=== CHUNK 2 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 2 | Titre_Gemma: **Circulaire : Champ d'application et Obligations des Établissements Financiers** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -34,7 +34,7 @@ de Tunisie un rapport annuel portant notamment sur le cadre de gouvernance appli
 société-mère à la succursale ainsi que la politique et la stratégie de gestion des risques et de la
 conformité.  Ce rapport doit être visé par l’organe d’administration de la société mère.
 
-=== CHUNK 3 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 3 | Titre_Gemma: **Définitions clés : Appétence au risque, gouvernance et comités.** ===
+=== CHUNK 3 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 3 | Titre_Gemma: **Définitions clés : Appétence au risque, Gouvernance et Comités** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -84,7 +84,7 @@ réputation, de pertes financières ou de sanctions en raison de l’inobservati
 légales et réglementaires, des normes et pratiques applicables à ses activités, du non-respect de
 la politique interne ou du code de déontologie de l’établissement.
 
-=== CHUNK 4 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 4 | Titre_Gemma: **Principes de Gouvernance des Établissements** ===
+=== CHUNK 4 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 4 | Titre_Gemma: **Gouvernance des établissements : Principes clés** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -115,7 +115,7 @@ prenantes sur tous les sujets d’importance significative pour l’établisseme
 actionnariat, sa situation financière, ses performances, sa gouvernance, son profil de risque et
 sa conformité.
 
-=== CHUNK 5 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 5 | Titre_Gemma: **Fonctionnement de l'Organe d'Administration** ===
+=== CHUNK 5 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 5 | Titre_Gemma: **Fonctions de l'Organe d'Administration** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE PREMIER : DES RESPONSABILITES
 Titre : TITRE 2 : DE L’ORGANE D’ADMINISTRATION
@@ -149,7 +149,7 @@ la consécration d’une véritable culture d’entreprise valorisant le comport
 responsable et éthique ainsi que le respect des principes de la responsabilité sociétale
 et environnementale.
 
-=== CHUNK 6 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 5 | Titre_Gemma: **Stratégie et politiques d'intervention de l'établissement.** ===
+=== CHUNK 6 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 5 | Titre_Gemma: **Stratégie et Politiques de Développement de l'Établissement** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE PREMIER : DES RESPONSABILITES
 Titre : TITRE 2 : DE L’ORGANE D’ADMINISTRATION
@@ -215,7 +215,7 @@ ainsi que son respect et vérifie régulièrement sa pertinence.
 Le cadre de gouvernance doit être formalisé et consigné dans un code de gouvernance
 approuvé par l’organe d’administration et dûment signé et par l’ensemble de ses membres.
 
-=== CHUNK 9 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 7 | Titre_Gemma: **Surveillance de la gestion et définition d'indicateurs de performance.** ===
+=== CHUNK 9 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 7 | Titre_Gemma: **Surveillance de l'Efficacité de la Direction** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE PREMIER : DES RESPONSABILITES
 Titre : TITRE 2 : DE L’ORGANE D’ADMINISTRATION
@@ -231,7 +231,7 @@ Il définit, dans ce cadre, des indicateurs quantitatifs et qualitatifs de suivi
 l’établissement notamment en matière de solvabilité, de liquidité, de rentabilité et de
 conformité et de responsabilité sociétale et environnementale.
 
-=== CHUNK 10 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 7 | Titre_Gemma: **Politique de rémunération et de nomination des dirigeants bancaires islamiques.** ===
+=== CHUNK 10 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 7 | Titre_Gemma: **Politique de Rémunération et de Nomination au sein de l'Institution Bancaire Islamique** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE PREMIER : DES RESPONSABILITES
 Titre : TITRE 2 : DE L’ORGANE D’ADMINISTRATION
@@ -309,7 +309,7 @@ au sens de l’article 43 de la loi n°2016-48, et
 les modalités selon lesquelles l’organe d’administration traite les cas de non-respect
 de cette politique.
 
-=== CHUNK 13 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 8 | Titre_Gemma: **Code de Déontologie et Politiques d'Éthique Bancaire** ===
+=== CHUNK 13 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 8 | Titre_Gemma: **Code de Déontologie et Politiques Bancaires** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE PREMIER : DES RESPONSABILITES
 Titre : TITRE 2 : DE L’ORGANE D’ADMINISTRATION
@@ -331,7 +331,7 @@ information et une conduite commerciale dans leur intérêt, et
 les règles de conduite assurant la protection des données à caractère personnel ainsi
 qu’au respect du secret professionnel.
 
-=== CHUNK 14 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 9 | Titre_Gemma: **Responsabilités de l'organe d'administration en matière de conformité.** ===
+=== CHUNK 14 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 9 | Titre_Gemma: **Responsabilités de l'organe d'administration en matière de conformité** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE PREMIER : DES RESPONSABILITES
 Titre : TITRE 2 : DE L’ORGANE D’ADMINISTRATION
@@ -351,7 +351,7 @@ conformité, s’assurer de son bon fonctionnement et de l’adéquation de ses 
 évaluer au moins, annuellement, la gestion du risque de non-conformité par
 l’établissement.
 
-=== CHUNK 15 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 9 | Titre_Gemma: **Responsabilité Sociétale et Environnementale de l'Établissement** ===
+=== CHUNK 15 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 9 | Titre_Gemma: **Responsabilité Sociétale et Environnementale** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE PREMIER : DES RESPONSABILITES
 Titre : TITRE 2 : DE L’ORGANE D’ADMINISTRATION
@@ -365,7 +365,7 @@ Les actions entreprises dans le cadre de la responsabilité sociétale et enviro
 l’établissement sont consignées dans son rapport annuel qui prévoit notamment les projets
 financés et leurs impacts environnementaux et sociaux.
 
-=== CHUNK 16 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 9 | Titre_Gemma: **Politique de Signalement des Pratiques Douteuses** ===
+=== CHUNK 16 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 9 | Titre_Gemma: **Politique de signalement et de protection des dénonciations** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE PREMIER : DES RESPONSABILITES
 Titre : TITRE 2 : DE L’ORGANE D’ADMINISTRATION
@@ -438,7 +438,7 @@ L’organe d’administration doit comporter au moins deux membres indépendants
 membre représentant les petits actionnaires au sens de la réglementation relative au marché
 financier pour l’établissement coté à la Bourse des Valeurs Mobilières de Tunis.
 
-=== CHUNK 20 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 11 | Titre_Gemma: **Définition de Membre Indépendant de l'Administration** ===
+=== CHUNK 20 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 11 | Titre_Gemma: **Définition d'un membre indépendant de l'administration** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE II
 Titre : TITRE 2 : DE L’ORGANE D’ADMINISTRATION
@@ -476,7 +476,7 @@ ou non de la relation entretenue avec l’établissement. Les critères ayant se
 appréciation doivent être inclus dans le dossier de notification adressé à la Banque Centrale
 de Tunisie conformément à l’article 62 de la présente circulaire.
 
-=== CHUNK 21 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 12 | Titre_Gemma: **Réexamen annuel de l'évaluation de l'administrateur indépendant** ===
+=== CHUNK 21 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 12 | Titre_Gemma: **Révision annuelle de l'évaluation de l'administrateur indépendant.** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE II
 Titre : TITRE 2 : DE L’ORGANE D’ADMINISTRATION
@@ -499,7 +499,7 @@ L’administrateur indépendant doit, au cours de l’exercice de son mandat, av
 l’organe d’administration en cas de non-respect des conditions et des critères relatifs à son
 éligibilité.
 
-=== CHUNK 23 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 12 | Titre_Gemma: **Compétences des membres de l'organe d'administration.** ===
+=== CHUNK 23 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 12 | Titre_Gemma: **Compétences des Membres de l'Administration** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE II
 Titre : TITRE 2 : DE L’ORGANE D’ADMINISTRATION
@@ -512,7 +512,7 @@ bancaires, des systèmes de paiement, de la planification stratégique, de la go
 contrôle interne et de la gestion des risques, des systèmes d’information, de l'analyse financière
 et de la comptabilité.
 
-=== CHUNK 24 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 12 | Titre_Gemma: **Déclaration de conflits d'intérêts et obligations des administrateurs** ===
+=== CHUNK 24 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 12 | Titre_Gemma: **Déclaration sur conflits d'intérêts pour candidats et membres de l'organe d'administration.** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE II
 Titre : TITRE 2 : DE L’ORGANE D’ADMINISTRATION
@@ -574,7 +574,7 @@ la soumission de l’établissement aux dispositions des articles 100, 101 et 10
 loi n°2016-48, -
 l’établissement est de taille systémique au sens de l’article 69 de la loi n°2016-48.
 
-=== CHUNK 27 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 13 | Titre_Gemma: **Obligations des membres de l'organe d'administration** ===
+=== CHUNK 27 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 13 | Titre_Gemma: **Obligations des Membres de l'Organe d'Administration** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE II
 Titre : TITRE 2 : DE L’ORGANE D’ADMINISTRATION
@@ -592,7 +592,7 @@ s’assurer que l’ordre du jour de la réunion de l’organe d’administratio
 les questions importantes, -
 consacrer le temps nécessaire pour s’acquitter convenablement de leurs obligations.
 
-=== CHUNK 28 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 14 | Titre_Gemma: **Formation continue des membres de l'administration.** ===
+=== CHUNK 28 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 14 | Titre_Gemma: **Formation continue des administrateurs** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE III : DU ROLE DU PRESIDENT DE L’ORGANE
 Titre : TITRE 2 : DE L’ORGANE D’ADMINISTRATION
@@ -604,7 +604,7 @@ compétences généralisé à tous ses membres afin qu’ils s’acquittent plei
 missions.
 D’ADMINISTRATION
 
-=== CHUNK 29 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 14 | Titre_Gemma: **Supervision de l'organe d'administration** ===
+=== CHUNK 29 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 14 | Titre_Gemma: **Surveillance de l'organe d'administration** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE III : DU ROLE DU PRESIDENT DE L’ORGANE
 Titre : TITRE 2 : DE L’ORGANE D’ADMINISTRATION
@@ -648,7 +648,7 @@ Le président de l’organe d’administration est chargé également de s’ent
 que de besoin, avec les membres de l’organe d’administration, les membres de l’organe de
 direction et les principaux actionnaires au sens de la loi n°2016-48.
 
-=== CHUNK 31 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 15 | Titre_Gemma: **Présidence de l'Organe d'Administration** ===
+=== CHUNK 31 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 15 | Titre_Gemma: **Rôle du Président de l'Organe d'Administration** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE III : DU ROLE DU PRESIDENT DE L’ORGANE
 Titre : TITRE 2 : DE L’ORGANE D’ADMINISTRATION
@@ -660,7 +660,7 @@ Centrale de Tunisie pour les aspects relatifs à la gouvernance de l’établiss
 toute circonstance exceptionnelle susceptible d’entraver le fonctionnement de ses organes de
 gouvernance.
 
-=== CHUNK 32 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 15 | Titre_Gemma: **Qualités et expérience du président de l'organe d'administration.** ===
+=== CHUNK 32 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 15 | Titre_Gemma: **Profil du président de l'organe d'administration** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE III : DU ROLE DU PRESIDENT DE L’ORGANE
 Titre : TITRE 2 : DE L’ORGANE D’ADMINISTRATION
@@ -675,7 +675,7 @@ l’écoute et de la gestion des conflits.
 Le président de l’organe d’administration consacre le temps adéquat pour l’exercice de ses
 fonctions.
 
-=== CHUNK 33 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 15 | Titre_Gemma: **Obligation de Rapport du Président** ===
+=== CHUNK 33 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 15 | Titre_Gemma: **Obligation de production de rapports** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE III : DU ROLE DU PRESIDENT DE L’ORGANE
 Titre : TITRE 2 : DE L’ORGANE D’ADMINISTRATION
@@ -703,7 +703,7 @@ Le président de l’organe d’administration veille à ce que le procès-verba
 d’une manière fidèle et précise les discussions, les questions soulevées par les membres
 présents, les réserves émises et les décisions prises.
 
-=== CHUNK 35 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 16 | Titre_Gemma: **Mission des comités d'analyse et de contrôle** ===
+=== CHUNK 35 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 16 | Titre_Gemma: **Mission des Comités selon la Loi 2016-48** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE PREMIER : PRINCIPES GENERAUX
 Titre : TITRE III : DES COMITES EMANANT DE L’ORGANE D’ADMINISTRATION
@@ -746,7 +746,7 @@ Sous réserve des dispositions de l’article 55 de la loi n°2016-48, en cas de
 dans un comité, l’organe d’administration doit, dans les meilleurs délais, combler cette
 vacance.
 
-=== CHUNK 37 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 16 | Titre_Gemma: **Règles de fonctionnement des comités.** ===
+=== CHUNK 37 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 16 | Titre_Gemma: **Règles de fonctionnement des Comités** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE II : LE COMITE D’AUDIT
 Titre : TITRE III : DES COMITES EMANANT DE L’ORGANE D’ADMINISTRATION
@@ -778,7 +778,7 @@ collaboration afin de faciliter la prise de décision au niveau de l’organe d�
 comité des risques est tenu de remettre au comité d’audit les procès-verbaux de ses réunions
 en temps opportun.
 
-=== CHUNK 38 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 17 | Titre_Gemma: **Comité d'Audit : Fonctions et Responsabilités** ===
+=== CHUNK 38 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 17 | Titre_Gemma: **Comité d'Audit : Rôle et Responsabilités** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE II : LE COMITE D’AUDIT
 Titre : TITRE III : DES COMITES EMANANT DE L’ORGANE D’ADMINISTRATION
@@ -818,7 +818,7 @@ veiller à ce que la structure d’audit interne soit dotée de moyens humains e
 logistiques nécessaires pour s’acquitter efficacement et d’une manière indépendante
 de l’ensemble de ses missions.
 
-=== CHUNK 39 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 18 | Titre_Gemma: **Qualités et Organisation du Comité d'Audit** ===
+=== CHUNK 39 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 18 | Titre_Gemma: **Comité d'audit : Qualifications et Secrétariat** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE III : LE COMITE DES RISQUES
 Titre : TITRE III : DES COMITES EMANANT DE L’ORGANE D’ADMINISTRATION
@@ -833,7 +833,7 @@ la finance, de la comptabilité et de l’audit et qui soit adaptée à la compl
 l’établissement et à son profil de risque.
 Le secrétariat du comité est assuré par la structure chargée de la fonction d’audit interne.
 
-=== CHUNK 40 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 18 | Titre_Gemma: **Comité des Risques : Mission et Responsabilités** ===
+=== CHUNK 40 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 18 | Titre_Gemma: **Comité des risques : Mission et Responsabilités** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE III : LE COMITE DES RISQUES
 Titre : TITRE III : DES COMITES EMANANT DE L’ORGANE D’ADMINISTRATION
@@ -870,7 +870,7 @@ Il doit veiller à ce que la structure de gestion des risques soit dotée de moy
 logistiques nécessaires pour s’acquitter efficacement et d’une manière indépendante de
 l’ensemble de ses missions.
 
-=== CHUNK 41 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 19 | Titre_Gemma: **Comité des risques : Qualifications et Responsabilités** ===
+=== CHUNK 41 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 19 | Titre_Gemma: **Comité des Risques : Qualifications et Organisation** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE IV LE COMITE DE NOMINATION ET DE REMUNERATION
 Titre : TITRE III : DES COMITES EMANANT DE L’ORGANE D’ADMINISTRATION
@@ -885,7 +885,7 @@ l’établissement et à son profil de risque.
 Le secrétariat du comité des risques est assuré par la structure chargée de la fonction de
 gestion des risques au sein de l’établissement.
 
-=== CHUNK 42 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 19 | Titre_Gemma: **Comité de Nomination et Rémunération des Banques Islamiques** ===
+=== CHUNK 42 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 19 | Titre_Gemma: **Comité de Nomination et Rémunération Bancaire Islamique** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE IV LE COMITE DE NOMINATION ET DE REMUNERATION
 Titre : TITRE III : DES COMITES EMANANT DE L’ORGANE D’ADMINISTRATION
@@ -912,7 +912,7 @@ l’organe de direction et des fonctions de contrôle, et
 la conception de la méthodologie d’évaluation des travaux de l’organe
 d’administration et de ses comités.
 
-=== CHUNK 43 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 20 | Titre_Gemma: **Processus de Nomination et d'Évaluation des Cadres** ===
+=== CHUNK 43 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 20 | Titre_Gemma: **Processus de Nomination et d'Évaluation du Personnel Clé** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE IV LE COMITE DE NOMINATION ET DE REMUNERATION
 Titre : TITRE III : DES COMITES EMANANT DE L’ORGANE D’ADMINISTRATION
@@ -934,7 +934,7 @@ d’administration les situations de conflits d’intérêts émanant du process
 Le secrétariat du comité est assuré par la structure chargée de la gestion des ressources
 humaines.
 
-=== CHUNK 44 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 20 | Titre_Gemma: **Responsabilité du comité d'administration en matière de nomination et de rémunération.** ===
+=== CHUNK 44 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 20 | Titre_Gemma: **Responsabilité des organes d'administration en matière de nomination et de rémunération.** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE IV LE COMITE DE NOMINATION ET DE REMUNERATION
 Titre : TITRE III : DES COMITES EMANANT DE L’ORGANE D’ADMINISTRATION
@@ -945,7 +945,7 @@ Pour les établissements financiers n’ayant pas institué un comité de nomina
 rémunération, les obligations citées dans ce chapitre incombent systématiquement à l’organe
 d’administration.
 
-=== CHUNK 45 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 20 | Titre_Gemma: **Fonctions de l'Organe de Direction** ===
+=== CHUNK 45 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 20 | Titre_Gemma: **Gestion de l'établissement : Rôle et responsabilités de l'organe de direction.** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE IV LE COMITE DE NOMINATION ET DE REMUNERATION
 Titre : TITRE IV : DE L’ORGANE DE DIRECTION
@@ -989,7 +989,7 @@ veiller au respect du code de déontologie par l’ensemble du personnel et œuv
 l’adhésion effective du personnel aux principes d'éthique et de professionnalisme
 ainsi qu’à de saines pratiques en matière de gouvernance.
 
-=== CHUNK 46 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 21 | Titre_Gemma: **Obligation de notification des événements critiques.** ===
+=== CHUNK 46 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 21 | Titre_Gemma: **Obligation de notification des événements critiques** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE IV LE COMITE DE NOMINATION ET DE REMUNERATION
 Titre : TITRE IV : DE L’ORGANE DE DIRECTION
@@ -1005,7 +1005,7 @@ provoquer un dysfonctionnement du système de contrôle interne et augmenter les
 risques de non-conformité, -
 altérer la continuité des activités critiques.
 
-=== CHUNK 47 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 21 | Titre_Gemma: **Qualités et formation des dirigeants** ===
+=== CHUNK 47 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 21 | Titre_Gemma: **Qualités et Formation des Dirigeants** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE IV LE COMITE DE NOMINATION ET DE REMUNERATION
 Titre : TITRE IV : DE L’ORGANE DE DIRECTION
@@ -1017,7 +1017,7 @@ l’intégrité nécessaires à la gestion des activités de l’établissement.
 formation régulière afin d’approfondir leurs compétences et se tenir à jour des connaissances
 et évolutions dans leurs domaines de responsabilité.
 
-=== CHUNK 48 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 22 | Titre_Gemma: **Contrôle Interne et Gestion des Risques : Obligations de l'Administration** ===
+=== CHUNK 48 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 22 | Titre_Gemma: **Contrôle interne : Obligations de l'organe d'administration** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE PREMIER : DE LA FONCTION DE GESTION DES RISQUES
 Titre : TITRE IV : DE L’ORGANE DE DIRECTION
@@ -1065,7 +1065,7 @@ proposer des mesures adéquates pour atténuer les risques et tout fait pouvant 
 la solvabilité et la liquidité de l’établissement ainsi que les intérêts des parties
 prenantes.
 
-=== CHUNK 50 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 23 | Titre_Gemma: **Audit Interne : Assurance et Amélioration des Contrôles** ===
+=== CHUNK 50 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 23 | Titre_Gemma: **Audit Interne : Assurance et Contrôle** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE 3 : DE LA FONCTION DE CONTROLE DE LA CONFORMITE
 Titre : TITRE IV : DE L’ORGANE DE DIRECTION
@@ -1093,7 +1093,7 @@ La fonction d’audit interne doit communiquer aux responsables de la fonction d
 la conformité et de la fonction de gestion des risques, les dysfonctionnements relatifs au risque
 de non-conformité, relevés dans le cadre de ses missions de contrôle.
 
-=== CHUNK 51 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 23 | Titre_Gemma: **Fonction de Contrôle de Conformité : Rôle et Obligations** ===
+=== CHUNK 51 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 23 | Titre_Gemma: **Contrôle de Conformité : Rôle et Fonctions** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE 3 : DE LA FONCTION DE CONTROLE DE LA CONFORMITE
 Titre : TITRE IV : DE L’ORGANE DE DIRECTION
@@ -1123,7 +1123,7 @@ dysfonctionnements constatés au niveau des procédures ainsi que les mesures à
 pour pallier ces insuffisances, et
 - établir un rapport semestriel sur son activité qui doit être transmis au comité d’audit.
 
-=== CHUNK 52 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 24 | Titre_Gemma: **Gouvernance du Groupe : Risques et Échange d'Informations** ===
+=== CHUNK 52 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 24 | Titre_Gemma: **Gouvernance du groupe : Rôles et risques** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE 3 : DE LA FONCTION DE CONTROLE DE LA CONFORMITE
 Titre : TITRE VI : DE LA GOUVERNANCE AU SEIN DES GROUPES BANCAIRES
@@ -1142,7 +1142,7 @@ du groupe.
 A cet égard, il doit exercer une surveillance appropriée de ses filiales tout en respectant
 l'indépendance et l'autonomie de l’organe d’administration de chacune de ses filiales.
 
-=== CHUNK 53 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 24 | Titre_Gemma: **Gouvernance et Contrôle du Groupe** ===
+=== CHUNK 53 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 24 | Titre_Gemma: **Gouvernance et gestion des risques du groupe.** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE 3 : DE LA FONCTION DE CONTROLE DE LA CONFORMITE
 Titre : TITRE VI : DE LA GOUVERNANCE AU SEIN DES GROUPES BANCAIRES
@@ -1177,7 +1177,7 @@ vérifier qu’il existe des systèmes efficaces pour faciliter la communication
 d’informations entre les différentes entités, gérer les risques des différentes filiales ou
 entités du groupe et permettre une supervision efficace du groupe.
 
-=== CHUNK 54 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 25 | Titre_Gemma: **Contrôle de conformité des filiales à l'étranger.** ===
+=== CHUNK 54 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 25 | Titre_Gemma: **Contrôle de Conformité des Opérations des Filiales à l'Étranger** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE 3 : DE LA FONCTION DE CONTROLE DE LA CONFORMITE
 Titre : TITRE VI : DE LA GOUVERNANCE AU SEIN DES GROUPES BANCAIRES
@@ -1205,7 +1205,7 @@ cet effet toutes les mesures nécessaires pour conférer aux structures de gouve
 telles que visées par la loi n°2016-48 , l’indépendance et les moyens humains et financiers
 adéquats pour assurer leurs missions.
 
-=== CHUNK 56 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 25 | Titre_Gemma: **Fonctionnement et missions du comité de contrôle bancaire islamique.** ===
+=== CHUNK 56 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 25 | Titre_Gemma: **Fonctionnement et contrôle des normes bancaires islamiques** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE PREMIER : DU COMITE DE CONTROLE DE CONFORMITE DES NORMES BANCAIRES ISLAMIQUES
 Titre : TITRE VII : DES DISPOSITIONS DE GOUVERNANCE SPECIFIQUES AUX ETABLISSEMENTS EXERCANT DES OPERATIONS BANCAIRES ISLAMIQUES
@@ -1227,7 +1227,7 @@ islamiques et œuvrer à l’orienter durant l'exercice de ses fonctions, et
 -
 soumettre à l’organe d’administration un rapport annuel faisant état de ses travaux.
 
-=== CHUNK 57 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 26 | Titre_Gemma: **Comité de Contrôle de Conformité Bancaire Islamique** ===
+=== CHUNK 57 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 26 | Titre_Gemma: **Règlement du Comité de Contrôle des Normes Bancaires Islamiques** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE 2 : DE L’AUDITEUR DES OPERATIONS BANCAIRES ISLAMIQUES
 Titre : TITRE VII : DES DISPOSITIONS DE GOUVERNANCE SPECIFIQUES AUX ETABLISSEMENTS EXERCANT DES OPERATIONS BANCAIRES ISLAMIQUES
@@ -1248,7 +1248,7 @@ partage des voix, la voix du président de séance est prépondérante.
 Le secrétariat du comité de contrôle de conformité des normes bancaires islamiques est assuré
 par l’auditeur des opérations bancaires islamiques.
 
-=== CHUNK 58 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 26 | Titre_Gemma: **Auditeur des Opérations Bancaires Islamiques : Désignation et Missions** ===
+=== CHUNK 58 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 26 | Titre_Gemma: **Auditeur des opérations bancaires islamiques** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE 3 : DES DROITS DES TITULAIRES DES COMPTES
 Titre : TITRE VII : DES DISPOSITIONS DE GOUVERNANCE SPECIFIQUES AUX ETABLISSEMENTS EXERCANT DES OPERATIONS BANCAIRES ISLAMIQUES
@@ -1277,7 +1277,7 @@ L'auditeur des opérations bancaires islamiques doit justifier d’une expertise
 islamique.
 D’INVESTISSEMENT
 
-=== CHUNK 59 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 27 | Titre_Gemma: **Responsabilités de l'organe d'administration des banques islamiques en matière d'investissement et de surveillance des investissements.** ===
+=== CHUNK 59 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 27 | Titre_Gemma: **Responsabilités de l'administration des banques islamiques en matière d'investissement et de surveillance des investisseurs.** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE 4 : DES OBLIGATIONS DE L’ORGANE DE DIRECTION
 Titre : TITRE VII : DES DISPOSITIONS DE GOUVERNANCE SPECIFIQUES AUX ETABLISSEMENTS EXERCANT DES OPERATIONS BANCAIRES ISLAMIQUES
@@ -1296,7 +1296,7 @@ performance de leurs investissements et les risques associés ainsi que leur dro
 communication de manière adéquate et en temps utile des informations importantes
 et pertinentes sur lesdits comptes.
 
-=== CHUNK 60 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 27 | Titre_Gemma: **Obligations de l'organe de direction envers le comité de conformité bancaire islamique.** ===
+=== CHUNK 60 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 27 | Titre_Gemma: **Obligations de l'Organe de Direction envers le Comité de Contrôle de Conformité Bancaire Islamique** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE 4 : DES OBLIGATIONS DE L’ORGANE DE DIRECTION
 Titre : TITRE VII : DES DISPOSITIONS DE GOUVERNANCE SPECIFIQUES AUX ETABLISSEMENTS EXERCANT DES OPERATIONS BANCAIRES ISLAMIQUES
@@ -1329,7 +1329,7 @@ financiers et contrats, et -
 mettre en place un dispositif de contrôle permettant la détection précoce des situations
 de non-conformité par rapport aux normes bancaires islamiques.
 
-=== CHUNK 61 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 28 | Titre_Gemma: **Application des Principes de la Circulaire** ===
+=== CHUNK 61 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 28 | Titre_Gemma: **Application des principes de la circulaire.** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE 4 : DES OBLIGATIONS DE L’ORGANE DE DIRECTION
 Titre : TITRE VII : DES DISPOSITIONS DE GOUVERNANCE SPECIFIQUES AUX ETABLISSEMENTS EXERCANT DES OPERATIONS BANCAIRES ISLAMIQUES
@@ -1340,7 +1340,7 @@ L’organe de direction doit veiller à l’application des principes visés à 
 présente circulaire et à mettre en place les procédures et moyens adéquats nécessaires à cet
 effet.
 
-=== CHUNK 62 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 28 | Titre_Gemma: **Dossier de notification à la BCT : Exigences pour la nomination de nouveaux administrateurs.** ===
+=== CHUNK 62 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 28 | Titre_Gemma: **Notification à la Banque Centrale : Exigences du Dossier** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE PREMIER : DE L’INFORMATION A LA BANQUE CENTRALE DE TUNISIE
 Titre : TITRE VIII : DE LA COMMUNICATION DE L’INFORMATION ET DE LA RELATION AVEC LA BANQUE CENTRALE DE TUNISIE
@@ -1356,7 +1356,7 @@ renforcer la compétence collective des autres membres de l’organe d’adminis
 ou de l’organe de direction ainsi que son apport attendu afin de remédier aux
 éventuelles faiblesses ou défaillances relevées lors des récentes auto-évaluation.
 
-=== CHUNK 63 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 30 | Titre_Gemma: **Notification des membres du Comité de Contrôle de Conformité Bancaire Islamique** ===
+=== CHUNK 63 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 30 | Titre_Gemma: **Notification des changements dans le Comité de Contrôle de Conformité Bancaire Islamique** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE PREMIER : DE L’INFORMATION A LA BANQUE CENTRALE DE TUNISIE
 Titre : TITRE VIII : DE LA COMMUNICATION DE L’INFORMATION ET DE LA RELATION AVEC LA BANQUE CENTRALE DE TUNISIE
@@ -1369,7 +1369,7 @@ Tunisie.
 En cas de révocation de l’un des membres dudit comité, l’établissement informe la Banque
 Centrale de Tunisie des motifs inhérents.
 
-=== CHUNK 64 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 30 | Titre_Gemma: **Gouvernance de la BCT : Réunions avec les administrateurs indépendants** ===
+=== CHUNK 64 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 30 | Titre_Gemma: **Gouvernance de la BCT : Réunions avec les Administrateurs Indépendants** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE  2 : TRANSPARENCE ET COMMUNICATION DE L’INFORMATION
 Titre : TITRE VIII : DE LA COMMUNICATION DE L’INFORMATION ET DE LA RELATION AVEC LA BANQUE CENTRALE DE TUNISIE
@@ -1379,7 +1379,7 @@ Article : Article 67 :
 La Banque Centrale de Tunisie organise des réunions avec les administrateurs indépendants
 afin de s’enquérir de leur rôle dans la gouvernance de l’établissement.
 
-=== CHUNK 65 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 30 | Titre_Gemma: **Divulgation de l'Information** ===
+=== CHUNK 65 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 30 | Titre_Gemma: **Divulgation de l'information** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE  2 : TRANSPARENCE ET COMMUNICATION DE L’INFORMATION
 Titre : TITRE VIII : DE LA COMMUNICATION DE L’INFORMATION ET DE LA RELATION AVEC LA BANQUE CENTRALE DE TUNISIE
@@ -1391,7 +1391,7 @@ divulgation de l’information pour les parties prenantes qui doit assurer la co
 temps opportun d’informations fiables et pertinentes sur les aspects significatifs de l’activité
 de l’établissement.
 
-=== CHUNK 66 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 30 | Titre_Gemma: **Rapport Annuel de l'Organe d'Administration** ===
+=== CHUNK 66 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 30 | Titre_Gemma: **Rapport annuel de l'organe d'administration** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE  2 : TRANSPARENCE ET COMMUNICATION DE L’INFORMATION
 Titre : TITRE VIII : DE LA COMMUNICATION DE L’INFORMATION ET DE LA RELATION AVEC LA BANQUE CENTRALE DE TUNISIE
@@ -1444,7 +1444,7 @@ L’annexe I à la circulaire n°2017-06 relative au reporting comptable, pruden
 gouvernance, de contrôle interne et de gestion des risques » conformément à l’annexe 3 de la
 présente circulaire.
 
-=== CHUNK 68 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 31 | Titre_Gemma: **Abrogation et remplacement de circulaires antérieures – Nouvelle circulaire.** ===
+=== CHUNK 68 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 31 | Titre_Gemma: **Abrogation et remplacement de circulaires antérieures** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE  2 : TRANSPARENCE ET COMMUNICATION DE L’INFORMATION
 Titre : TITRE VIII : DE LA COMMUNICATION DE L’INFORMATION ET DE LA RELATION AVEC LA BANQUE CENTRALE DE TUNISIE
@@ -1545,7 +1545,7 @@ DR+45j XML
 Domai ne Code de la déclaration Intitulé de la déclaration EA Périodicité de déclaration Délai maximum de transmission Format /transmission SD4: Conformité RCONFA260010 Rapport d’activité de l’organe chargé du contrôle de la conformité au titre de l’exercice BR+BNR+EL+EF+ BA Annuelle DR+45j PDF RCONFA260020
 Rapport transmis par l’organe chargé du contrôle de la conformité au conseil d’administration BR+BNR+EL+EF+ BA Annuelle DR+45j PDF RCONFA260030 Politique de Conformité BR+BNR+EL+EF+ BA Annuelle DR+45j PDF RCONFA260040 Rapport transmis par l’organe chargé du contrôle de la conformité des Normes Bancaires Islamiques au conseil d’administration BEFI Annuelle DR+45j PDF
 
-=== CHUNK 69 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 29 | Titre_Gemma: **Dossier de Nomination : Pièces Requises** ===
+=== CHUNK 69 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 29 | Titre_Gemma: **Dossier de Nomination : Curriculum Vitae et Déclarations** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -1589,7 +1589,7 @@ L’établissement doit informer, sans délai, la Banque Centrale de Tunisie de 
 révocation ou de remplacement des premiers responsables des fonctions de contrôle ainsi que
 de l’auditeur des opérations bancaires islamiques et les motifs ayant présidé à cette décision.
 
-=== CHUNK 70 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 32 | Titre_Gemma: **Curriculum Vitae (CV)** ===
+=== CHUNK 70 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 32 | Titre_Gemma: **Curriculum Vitae** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -1606,7 +1606,7 @@ Intitulé diplôme Nom de l’établissement Date /durée Domaines d’études/O
 FORMATION PROFESSIONNELLE ET CERTIFICATS
 Formation Nom de l’établissement Date/durée Observations
 
-=== CHUNK 71 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 34 | Titre_Gemma: **Déclaration d'Honneur - Annexe 2, Circulaire n°2021-05** ===
+=== CHUNK 71 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 34 | Titre_Gemma: **Déclaration sur l'honneur - Absence de condamnations pénales** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -1645,7 +1645,7 @@ ses articles 46, 57 et 58
 Fait à………………, le ……………..……………….
 SIGNATURE
 
-=== CHUNK 72 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 35 | Titre_Gemma: **Annexe 3 : Reporting sur la Gouvernance et les Risques (Circulaire 2021-05)** ===
+=== CHUNK 72 | PDF: CIRCULAIRE AUX BANQUES ET AUX ETABLISSMENTS FINANCIERS N° 2021-05.pdf | Page: 35 | Titre_Gemma: **Reporting sur la Gouvernance et la Gestion des Risques à la Banque Centrale de Tunisie** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié

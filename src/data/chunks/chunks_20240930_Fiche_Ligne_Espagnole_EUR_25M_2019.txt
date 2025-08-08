@@ -1,4 +1,4 @@
-=== CHUNK 1 | PDF: 20240930_Fiche_Ligne_Espagnole_EUR_25M_2019.pdf | Page: -1 | Titre_Gemma: **Ligne de Crédit pour PME Tunisiennes et Sociétés Mixtes** ===
+=== CHUNK 1 | PDF: 20240930_Fiche_Ligne_Espagnole_EUR_25M_2019.pdf | Page: -1 | Titre_Gemma: **Ligne de crédit pour projets tunisiens/tuniso-espagnols** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -6,9 +6,9 @@ Section : Non spécifié
 Sous-section : Non spécifié
 Article : Non spécifié
 **1. Objet de la Ligne de Crédit**
-Une ligne de crédit d'un montant de 25 millions d'Euros est mise à disposition des petites et moyennes entreprises (PME) tunisiennes et des sociétés mixtes tuniso-espagnoles. Cette ligne de crédit est spécifiquement destinée à financer leurs besoins.
+Une ligne de crédit de 25 millions d’Euros est mise à la disposition des petits et moyens projets des opérateurs tunisiens et des sociétés mixtes tuniso-espagnoles.
 
-=== CHUNK 2 | PDF: 20240930_Fiche_Ligne_Espagnole_EUR_25M_2019.pdf | Page: -1 | Titre_Gemma: **Ligne de Crédit pour Importations et Dépenses Locales** ===
+=== CHUNK 2 | PDF: 20240930_Fiche_Ligne_Espagnole_EUR_25M_2019.pdf | Page: -1 | Titre_Gemma: **Ligne de crédit : Financement des Importations** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -16,19 +16,19 @@ Section : Non spécifié
 Sous-section : Non spécifié
 Article : Non spécifié
 **2. Financement et Conditions d'Utilisation**
-Cette ligne de crédit permet de financer à 100% les importations de biens et services d'origine espagnole.  Un financement jusqu'à 30% du montant des biens et services d'origine non espagnole, ainsi que des dépenses locales, est également possible.
+Cette ligne de crédit finance à 100% les importations de biens et services d’origine espagnole, et jusqu’à 30% du montant des biens et services d’origine non espagnole et des dépenses locales.
 
-=== CHUNK 3 | PDF: 20240930_Fiche_Ligne_Espagnole_EUR_25M_2019.pdf | Page: -1 | Titre_Gemma: **Taux d'intérêt des prêts PME** ===
+=== CHUNK 3 | PDF: 20240930_Fiche_Ligne_Espagnole_EUR_25M_2019.pdf | Page: -1 | Titre_Gemma: **Taux d'intérêt des prêts rétrocessionnés** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
 Section : Non spécifié
 Sous-section : Non spécifié
 Article : Non spécifié
-**3. Conditions de Rétrocession des Fonds**
-Les prêts accordés par les Intermédiaires Agréés aux PME sont soumis aux conditions suivantes :
-*   Un taux d'intérêt maximum de 4,25% l'an pour les rétrocessions en euros.
-*   Un taux d'intérêt maximum de 8,25% l'an pour les rétrocessions en dinar.
+**3. Conditions de Rétrocession des Prêts**
+Les prêts sont accordés par les Intermédiaires Agréés aux PME selon les conditions suivantes :
+* 4,25% l’an au maximum dans le cas d’une rétrocession en euro.
+* 8,25% l’an au maximum dans le cas d’une rétrocession en dinar.
 
 === CHUNK 4 | PDF: 20240930_Fiche_Ligne_Espagnole_EUR_25M_2019.pdf | Page: -1 | Titre_Gemma: **Remboursement et Frais** ===
 Loi : Non spécifié
@@ -38,16 +38,17 @@ Section : Non spécifié
 Sous-section : Non spécifié
 Article : Non spécifié
 **4. Remboursement et Prélèvements**
-Le remboursement du principal et des intérêts se fera sur une période de trente (30) semestrialités successives, bénéficiant d'un délai de grâce de cinq (5) ans. Les dates de remboursement seront établies à partir de la date d'imputation de chaque contrat commercial.
-Des commissions seront prélevées : une commission de 0,1% flat sur les montants utilisés chaque semestre, et une commission de 0,1% annuelle sur les montants non utilisés pendant la période d'utilisation de la ligne de crédit, à compter de la date d'imputation du contrat commercial.
+La durée de remboursement de chaque tirage se fera sur trente (30)semestrialités successives dont un délai de grâce de cinq (5) ans. Les dates de remboursement du principal et des intérêts seront fixées à partir de la date d’imputation de chaque contrat commercial.
+Une commission de 0,1% flat est due sur les montants utilisés au cours de chaque semestre. Une deuxième commission de 0,1% annuelle est due sur les montants non-utilisés pendant la période d’utilisation de la ligne de crédit et elle sera décomptée à partir de la date d’imputation du contrat commercial.
 
-=== CHUNK 5 | PDF: 20240930_Fiche_Ligne_Espagnole_EUR_25M_2019.pdf | Page: -1 | Titre_Gemma: **Dates Limites de la Ligne de Crédit** ===
+=== CHUNK 5 | PDF: 20240930_Fiche_Ligne_Espagnole_EUR_25M_2019.pdf | Page: -1 | Titre_Gemma: **Dates limites de la ligne de crédit** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
 Section : Non spécifié
 Sous-section : Non spécifié
 Article : Non spécifié
-**5. Dates Limites**
-La date limite d'utilisation de la ligne de crédit est fixée au 25 juillet 2026.  La date limite d'imputation est fixée au 25 juillet 2025.
+**5. Dates Limites d'Utilisation et d'Imputation**
+La date limite d’utilisation de cette ligne de crédit est fixée au 25 juillet 2026.
+La date limite d’imputation est fixée au 25 juillet 2025.
 

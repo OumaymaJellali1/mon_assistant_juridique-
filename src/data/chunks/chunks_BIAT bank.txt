@@ -1,140 +1,80 @@
-=== CHUNK 1 | PDF: BIAT bank.pdf | Page: -1 | Titre_Gemma: **Découpage de Texte Juridique** ===
+=== CHUNK 1 | PDF: BIAT bank.pdf | Page: -1 | Titre_Gemma: **Capacité de remboursement et crédit bancaire** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
 Section : Non spécifié
 Sous-section : Non spécifié
 Article : Non spécifié
-## Découpage du Texte Juridique
-Voici une découpe du texte en plusieurs sections, respectant les paragraphes et utilisant le séparateur demandé.
-
-=== CHUNK 2 | PDF: BIAT bank.pdf | Page: -1 | Titre_Gemma: **Capacité d'Emprunt et Salaires** ===
-Loi : Non spécifié
-Chapitre : Non spécifié
-Titre : Non spécifié
-Section : Non spécifié
-Sous-section : Non spécifié
-Article : Non spécifié
-**1. Salaires et Crédits Bancaires**
+Voici le texte juridique découpé en plusieurs sections de taille raisonnable, respectant les paragraphes et utilisant le séparateur demandé.
+=== Section 1: Salaire et Crédit===
 Si mon salaire est***,quelle est la valeur du credit que je peux obtenir?​
 Lors de l’étude d’un dossier de crédit, la banque doit évaluer votre solvabilité et votre capacité de remboursement, et ce tenant compte de votre capacité de remboursement. La capacité d’emprunt dépend de plusieurs facteurs, notamment, de votre niveau de salaire, de la nature du crédit que vous souhaitez contracter (personnel, immobilier, etc.), ainsi que de vos charges et engagements financiers actuels. Les banques appliquent une règle de capacité de remboursement, souvent fixée à un tiers du revenu mensuel et ce, dans la limite de 40 % du revenu net.
 Dès lors que vous contractez cet emprunt, vous vous engagez à le rembourser, selon un échéancier de remboursement comportant les mensualités, la durée, le taux...
 Nous tenons également à vous informer que chaque établissement de crédit se réserve le droit de décider d'accorder ou non un prêt, en fonction de ses propres critères d'évaluation.
 Nous vous recommandons de contacter le chargé de la clientèle auprès de votre agence bancaire qui joue le rôle de conseiller pour proposer le crédit qui convient le mieux à votre besoin et à votre situation financière actuelle et future.
-
-=== CHUNK 3 | PDF: BIAT bank.pdf | Page: -1 | Titre_Gemma: **Date d'opération vs. Date de valeur** ===
-Loi : Non spécifié
-Chapitre : Non spécifié
-Titre : Non spécifié
-Section : Non spécifié
-Sous-section : Non spécifié
-Article : Non spécifié
-**2. Dates Bancaires : Date d'Opération vs. Date de Valeur**
+=== Section 2: Dates de Référence dans les Opérations Bancaires===
 Quelle est la différence entre date valeur et date d’opération?
 La date d’opération correspond à la date à laquelle le paiement est effectué.
 La date de valeur ou comptable de l'opération est celle qui correspond à la date d’enregistrement de l’opération sur le compte bancaire. Dans certains cas, cette date peut être décalée lorsqu'une opération est parvenue trop tardivement à la banque pour pouvoir être enregistrée, par conséquent, la date de valeur appliquée est décalée.
-
-=== CHUNK 4 | PDF: BIAT bank.pdf | Page: -1 | Titre_Gemma: **Prélèvement Automatique des Échéances de Prêts** ===
-Loi : Non spécifié
-Chapitre : Non spécifié
-Titre : Non spécifié
-Section : Non spécifié
-Sous-section : Non spécifié
-Article : Non spécifié
-**3. Prélèvement des Échéances et Retards de Paiement**
+=== Section 3: Prélèvement et échéances de prêts===
 Pourquoi les banques prélèvent-elles l’échéance du prêt avant la date convenue et avant le versement du salaire ?
 Lorsque l’échéance coïncide avec un jour férié ou un weekend, la banque procède au blocage de la provision ou de la mensualité afin d’éviter tout risque d’impayé.
 Il est à préciser que les échéanciers sont fournis aux clients avant tout déblocage qui valide la date du remboursement. Le prélèvement se fait de façon automatique à la date prévue et la banque n’est pas responsable de tout retard dans le versement du salaire.
-
-=== CHUNK 5 | PDF: BIAT bank.pdf | Page: -1 | Titre_Gemma: **Billets Usés et DAB : Responsabilités et Précautions** ===
-Loi : Non spécifié
-Chapitre : Non spécifié
-Titre : Non spécifié
-Section : Non spécifié
-Sous-section : Non spécifié
-Article : Non spécifié
-**4. Distribution de Billets Usés et DAB**
+=== Section 4: Distribution de Cartes et Services Bancaires===
 Pourquoi le distributeur de la banque X nous fournit-il des billets de banque usés et déchirés?
 Les DABs sont alimentés par les fonds provenant des sociétés de transport des fonds. Il est d’usage que les agences conservent les billets en bon état pour les DABs afin d’éviter tout bourrage.
 Cependant, il est possible que certains billets légèrement usés ou abîmés glissent dans les DABs par inadvertance.
-
-=== CHUNK 6 | PDF: BIAT bank.pdf | Page: -1 | Titre_Gemma: **Report de Remboursement de Crédits : Modalités et Informations** ===
-Loi : Non spécifié
-Chapitre : Non spécifié
-Titre : Non spécifié
-Section : Non spécifié
-Sous-section : Non spécifié
-Article : Non spécifié
-**5. Renseignements sur les Modalités de Report de Remboursement**
 Comment se renseigner sur les modalités pratiques du report de remboursement des crédits?
 Hormis les reports des échéances de crédit dus à la pandémie du Covid-19 conformément aux circulaires de la BCT publiées en la matière, toute demande d’information est acheminée selon les canaux habituels, à savoir : courrier, mail, téléphone, agences, application mobile, centre de relation client, …etc. A signaler que cette action a été limitée dans le temps.
 Lors de ladite période, certaines banques de la place ont mis à la disposition de leur clientèle un numéro vert réservé exclusivement pour les renseigner sur les modalités pratiques du report de remboursement de leurs crédits.
-
-=== CHUNK 7 | PDF: BIAT bank.pdf | Page: -1 | Titre_Gemma: **Taux d'Intérêts des Crédits Immobiliers : Réglementation et Options** ===
-Loi : Non spécifié
-Chapitre : Non spécifié
-Titre : Non spécifié
-Section : Non spécifié
-Sous-section : Non spécifié
-Article : Non spécifié
-**6. Taux d'Intérêts : Fixes ou Variables et Tarification des Banques**
-Les taux d’intérêts sont-ils fixes ou variables pour les crédits immobiliers? Pourquoi certaines banques ne sont pas en mesure d’appliquer ce qui est convenu?
+=== Section 5: Taux d'Intérêts et Banques Islamiques===
+Les taux d’intérêts sont-ils fixes ou variables pour les crédits immobiliers?Pourquoi cetaines banques ne sont pas en mesure d’appiquer ce qui est convenu?
 Les crédits pour le financement de l’habitat ayant une durée initiale de plus de 15 ans doivent être assortis de taux d’intérêt fixe et ce, conformément aux dispositions de l’article 35 Ter de la circulaire de la BCT n°87-47 relative aux modalités d’octroi, de contrôle et de refinancement des crédits. Toutefois, les banques peuvent fixer librement les conditions des crédits pour le financement de l’habitat accordés dans le cadre de leurs produits d’épargnes logements.
 Pour les durées inférieures à 15 ans, chaque banque dispose de sa propre politique tarifaire, dont, certaines proposent au client de choisir entre un taux fixe ou variable.
-Est ce que la banque islamique prête à taux zéro?
-Les banques islamiques ne pratiquent pas de prêt à taux d'intérêt et ce, conformément aux principes de la charia qui interdisent le Riba. Elles offrent des produits et services financiers conformes à la Charia en utilisant des contrats alternatifs comme la Mourabaha, la Moudaraba ou Ijara. Ces modes de financement se basent sur le partage des profits et des pertes, la vente de biens ou la location. Toutefois, ces contrats de prêts ne sont pas à des taux zéro au sens traditionnel.
-Par ailleurs, elles ne peuvent offrir des produits tels que l'escompte, les facilités de caisse, le découvert ou les opérations de change à terme, ces pratiques étant également contraires aux principes de la charia.
-Ou se situent les banques islamiques par rapport aux autres banques conventionnelles en termes de tarification?
-Les banques islamiques proposent des conditions tarifaires spécifiques suivantes :
-- Un coût de financement fixe durant la période de financement quel que soit l'évaluation des taux du marché (ex : TMM)
-- Une utilisation de la notion de Marge de Profit annualisée pour faciliter au client l’appréciation de la charge de son financement.
-Il est important de noter que toutes les conditions offertes par les banques islamiques respectent la législation en vigueur et la Charia.
-Les banques universelles offrent des crédits à taux fixe qui peuvent être avantageuses. Il revient au client d’étudier et de comparer les offres de crédits.
-
-=== CHUNK 8 | PDF: BIAT bank.pdf | Page: -1 | Titre_Gemma: **Comptes Bancaires et Services Financiers** ===
-Loi : Non spécifié
-Chapitre : Non spécifié
-Titre : Non spécifié
-Section : Non spécifié
-Sous-section : Non spécifié
-Article : Non spécifié
-**7. Ouverture de Compte et Services Bancaires**
-L’ouverture d’un compte donne-t-elle droit automatiquement de disposer d’un carnet de chèque ou d’une carte?
-Les services financiers de base comprennent l’ouverture d’un compte courant ainsi que la mise à disposition d’une carte bancaire nationale.
-La délivrance de chéquier sur lesdits comptes est à la discrétion de la banque.
-Quels types de comptes bancaires destinés pour les tunisiens résidents à l’étranger?
-Les Tunisiens résidents à l'étranger ont la possibilité d’accéder à tous les types de comptes y compris les compte en dinars convertibles ou compte en devises.
 Est ce que les banques prêtent aux retraités?
 Les crédits aux retraités seniors sont proposés par la majorité des institutions financières compte tenu de leurs niveaux de revenu mensuel et de leur âge et de la possibilité d'apporter des garanties ou de souscrire à une assurance (les compagnies d’assurance peuvent imposer des restrictions liées à l’âge ce qui entraîne des coûts plus élevés pour les emprunteurs plus âgés).
 Quelle est la tarification pratiquée par les banques sur les retraits et paiements par cartes bancaires?
 Pour toute utilisation d’une carte bancaire nationale à l’échelle nationale :
 - Le paiement par carte bancaire au niveau des TPE ou en ligne est gratuit pour le titulaire de la carte ;
 - Les retraits sur les distributeurs de la banque du client sont gratuits
-- Les retraits déplacés, c'est-à-dire les retraits dans des distributeurs automatiques de billets (DAB) autres que ceux de la banque du client sont payants, une commission est prélevée par la banque du client.
+- Les retraits déplacés, c'est-à-dire les retraits dans des distributeurs automatiques de billets (DAB) autres que ceux de la banque du client, sont payants, une commission est prélevée par la banque du client.
 Pour toute utilisation d’une carte bancaire nationale à l’échelle internationale :
 - Les retraits et paiements par carte bancaire donnent lieu au prélèvement d’une commission par la banque du titulaire de la carte
+Pour toute utilisation d’une carte bancaire étrangère en Tunisie :
+- Les retraits sur DAB peuvent donner lieu au prélèvement d’une commission par les banques Tunisiennes ;
 - Les paiements au niveau des TPE ou en ligne ne donnent pas lieu au prélèvement d’une commission par les banques Tunisiennes.
-
-=== CHUNK 9 | PDF: BIAT bank.pdf | Page: -1 | Titre_Gemma: **Banque Offshore : Réclamations, Financement et Factoring** ===
-Loi : Non spécifié
-Chapitre : Non spécifié
-Titre : Non spécifié
-Section : Non spécifié
-Sous-section : Non spécifié
-Article : Non spécifié
-**8. Gestion des Réclamations Clients**
+=== Section 6: Réclamations Bancaires===
 Comment accéder et gérer un compte dans une banque offshore?
+Le compte peut être géré à distance via des services bancaires en ligne sécurisés, avec la possibilité d’effectuer des virements internationaux, de recevoir des paiements en devises.
+Quels sont les avantages des financements offerts par les établissements de leasing?
+• Solution de financement simple et rapide ;
+• Possibilité de financement intégral de l’investissement ;
+• Remboursement adapté à la situation du client ;
+• Fiscalité optimisée.
+Une societe récente(nouvellement créée)peut-elle avoir droit à un financement leasing?
+Une société nouvellement créée peut bénéficier d’un financement leasing mais sous réserve de présenter les garanties nécessaires exigées par le comité de financement.
+Est ce que le leasing peut financer un matériel d’occasion ?
+Le leasing peut financer un matériel d’occasion, à condition que l’âge du matériel ne dépasse pas deux ans en sus d’une expertise pour évaluer la valeur du bien.
+les biens immobiliers sont-ils financés par le leasing ?
+Le leasing finance seulement les biens immobiliers à usage professionnel.
+Comment ouvrir un wallet ?
+Il vous suffit de télécharger l’application gratuitement à partir de Google Play ou Apple Store:
+-Saisir votre Numéro GSM et votre Numéro de la Pièce d’identité.
+-Choisir votre nationalité dans la liste déroulante.
+-Saisir l’OTP de confirmation, reçu par sms.
+-Choisir le type de compte de paiement auquel souscrire (N1 plafonné à 500 TND ou N2 plafonné à 1000 TND).
+-Remplir le formulaire d’inscription. -Scanner votre pièce d’identité. -Prendre un selfie.
+-Accepter les conditions générales d’utilisation.
+-Se connecter avec le mot de passe provisoire que vous recevrez par SMS.
+-Modifier le mot de passe reçu par SMS par un mot de passe sécurisé.
 Comment recharger un wallet?
+Pour recharger un wallet, veuillez consulter un agent propre ou mandaté :
+Indiquez à l’agent votre numéro de téléphone mobile et le montant en espèces que vous souhaitez déposer.
+Présenter à l’agent votre document d’identité officiel.
+L’agent créditera votre compte en contrepartie du montant déposé en espèces.
+Vous recevrez une confirmation de l’opération.
+Votre solde sera mis à jour instantanément.
 Qu’est ce que le factoring?
-Quelles sont les différences entre l’activité du factoring et celle des banques?
-Un Tunisien Résident à l’Etranger pourrait-il avoir un financement immobilier auprès de Banque Zitouna? Si oui, quelles sont les modalités de règlement?
-
-=== CHUNK 10 | PDF: BIAT bank.pdf | Page: -1 | Titre_Gemma: Factoring et Financement Immobilier chez Banque Zitouna. ===
-Loi : Non spécifié
-Chapitre : Non spécifié
-Titre : Non spécifié
-Section : Non spécifié
-Sous-section : Non spécifié
-Article : Non spécifié
-**9. Factoring et Financement Immobilier à Banque Zitouna**
+Le factoring ou affacturage est un service financier qui permet à une entreprise de convertir ses créances clients en liquidités immédiates, dont le mode de fonctionnement est le suivant :
+1. Vente des créances : L'entreprise vend ses factures impayées
 

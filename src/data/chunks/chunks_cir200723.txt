@@ -1,4 +1,4 @@
-=== CHUNK 1 | PDF: cir200723.pdf | Page: 1 | Titre_Gemma: **Transferts de participations dans des sociétés non résidentes en Tunisie.** ===
+=== CHUNK 1 | PDF: cir200723.pdf | Page: 1 | Titre_Gemma: **Transferts de Participations : Modalités pour les Intermédiaires Agréés** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -12,7 +12,7 @@ lors de la constitution ou lors de l’augmentation de capital, soit par voie
 d’acquisition d’actions ou de parts sociales de ces sociétés.
 I – Réalisation des transferts :
 
-=== CHUNK 2 | PDF: cir200723.pdf | Page: 2 | Titre_Gemma: **Exigences relatives à la création de société non-résidente.** ===
+=== CHUNK 2 | PDF: cir200723.pdf | Page: 2 | Titre_Gemma: **Exigences relatives à la création d'une société non-résidente en Tunisie** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -68,7 +68,7 @@ activités à caractère financier  s’apparentant à celles des organismes vis
 bancaire justifiant le financement en devises de la participation non
 résidente.
 
-=== CHUNK 4 | PDF: cir200723.pdf | Page: 3 | Titre_Gemma: **Exigences pour les Intermédiaires Agréés lors d'augmentations de capital.** ===
+=== CHUNK 4 | PDF: cir200723.pdf | Page: 3 | Titre_Gemma: **Exigences des Intermédiaires Agréés pour les augmentations de capital.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -84,7 +84,7 @@ décidé l’augmentation du capital, dûment établi.
 établissant le financement  en devises de la participation non résidente
 à l’augmentation du capital.
 
-=== CHUNK 5 | PDF: cir200723.pdf | Page: 3 | Titre_Gemma: **Procédure de cession de parts sociales/actions : Documents requis** ===
+=== CHUNK 5 | PDF: cir200723.pdf | Page: 3 | Titre_Gemma: **Procédure de cession de titres : Pièces à fournir** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -132,7 +132,7 @@ d’un apport autre  qu’un apport en devises, tel qu’un apport en nature,
 est soumise à l’autorisation préalable de la Banque Centrale de
 Tunisie.
 
-=== CHUNK 7 | PDF: cir200723.pdf | Page: 4 | Titre_Gemma: **Transfert de produits de cession pour non-résidents en Tunisie : conditions de financement.** ===
+=== CHUNK 7 | PDF: cir200723.pdf | Page: 4 | Titre_Gemma: **Transfert de produits de cession pour non-résidents : conditions de financement.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -159,7 +159,7 @@ Par ailleurs et lorsque l’associé ou l’actionnaire est lui-même une socié
 Tunisie, l’Intermédiaire Agréé doit procéder aux vérifications nécessaires pour s’assurer de la
 régularité de la situation de cette société au regard de la législation en vigueur en Tunisie.
 
-=== CHUNK 8 | PDF: cir200723.pdf | Page: 5 | Titre_Gemma: **Paiement des prestations sociales en dinars intérieurs.** ===
+=== CHUNK 8 | PDF: cir200723.pdf | Page: 5 | Titre_Gemma: **Règlement des paiements sociaux en dinars.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -169,7 +169,7 @@ Article : Article 8 : Le règlement du prix d’acquisition d’actions ou de pa
 sociales par un résident auprès d’un autre résident doit avoir lieu en
 dinars intérieurs.
 
-=== CHUNK 9 | PDF: cir200723.pdf | Page: 5 | Titre_Gemma: **Autorisation de la BCT pour les changements de statut fiscal** ===
+=== CHUNK 9 | PDF: cir200723.pdf | Page: 5 | Titre_Gemma: **Autorisation préalable de la BCT pour les changements de statut de résident/non-résident.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -180,7 +180,7 @@ la société concernée de non résidente à résidente ou de résidente à
 non résidente demeure soumise à autorisation préalable de la Banque
 Centrale de Tunisie (4).
 
-=== CHUNK 10 | PDF: cir200723.pdf | Page: 5 | Titre_Gemma: **Rapatriement des revenus d'investissement étranger en Tunisie.** ===
+=== CHUNK 10 | PDF: cir200723.pdf | Page: 5 | Titre_Gemma: **Rapatriement des revenus d'investissement étranger en Tunisie** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -216,7 +216,7 @@ transferts exécutés, conforme au modèle objet de l’Annexe jointe
 sociales ou d’une augmentation de capital ayant pour effet  la réduction de la part détenue
 par des non résidents au moyen d’une importation de devises à moins de 66 % du capital.
 
-=== CHUNK 12 | PDF: cir200723.pdf | Page: 6 | Titre_Gemma: **Notification du Gouverneur** ===
+=== CHUNK 12 | PDF: cir200723.pdf | Page: 6 | Titre_Gemma: **Notification du Gouverneur Taoufik Baccar** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -227,7 +227,7 @@ date de sa notification.
 LE GOUVERNEUR
 TAOUFIK BACCAR
 
-=== CHUNK 13 | PDF: cir200723.pdf | Page: 7 | Titre_Gemma: **État des Transferts de Participation de Résidents à des Sociétés Non-Résidentes en Tunisie** ===
+=== CHUNK 13 | PDF: cir200723.pdf | Page: 7 | Titre_Gemma: **État des Transferts de Participation de Résidents dans des Sociétés Non-Résidentes en Tunisie** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié

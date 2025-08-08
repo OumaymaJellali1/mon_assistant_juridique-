@@ -1,4 +1,4 @@
-=== CHUNK 1 | PDF: loi7618.pdf | Page: 1 | Titre_Gemma: **Exceptions au Code [Nom du Code]** ===
+=== CHUNK 1 | PDF: loi7618.pdf | Page: 1 | Titre_Gemma: **Exceptions aux décrets relatifs aux avoirs étrangers en Tunisie** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -78,7 +78,7 @@ La Banque Centrale de Tunisie est chargée de
 l'application de la réglementation des changes
 conformément à ses statuts et à la présente loi.
 
-=== CHUNK 3 | PDF: loi7618.pdf | Page: 1 | Titre_Gemma: **Définition et Réglementation de l'Exportation de Capitaux** ===
+=== CHUNK 3 | PDF: loi7618.pdf | Page: 1 | Titre_Gemma: **Définition de l'Exportation de Capitaux en Tunisie** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -112,7 +112,7 @@ Tunisie aux intermédiaires agréés doivent être publiées
 au Journal Officiel de la République Tunisienne quand
 elles contiennent des dispositions concernant le public.
 
-=== CHUNK 5 | PDF: loi7618.pdf | Page: 2 | Titre_Gemma: **Importation/Exportation d'Or : Autorisation Banque Centrale** ===
+=== CHUNK 5 | PDF: loi7618.pdf | Page: 2 | Titre_Gemma: **Import/Export d'Or : Autorisation Banque Centrale de Tunisie** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -125,7 +125,7 @@ prohibées sauf autorisation conjointe de la Banque
 Centrale de Tunisie et du Ministère de l'Economie
 Nationale.
 
-=== CHUNK 6 | PDF: loi7618.pdf | Page: 2 | Titre_Gemma: **Définitions Juridiques** ===
+=== CHUNK 6 | PDF: loi7618.pdf | Page: 2 | Titre_Gemma: **Définitions : Lois et Matières d'Or** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : TITRE  II DEFINITIONS
@@ -241,7 +241,7 @@ mobilières conservés à l'étranger ainsi que, d'une façon
 générale, tous biens, droits et intérêts à l'étranger
 représentés ou non par des titres.
 
-=== CHUNK 7 | PDF: loi7618.pdf | Page: 3 | Titre_Gemma: **Dépos d'espèces étrangères en Tunisie** ===
+=== CHUNK 7 | PDF: loi7618.pdf | Page: 3 | Titre_Gemma: **Déposés de devises étrangères en Tunisie** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : TITRE  III DEPOTS DES DEVISES ET DES VALEURS MOBILIERES ETRANGERES CONSERVEES EN TUNISIE
@@ -267,7 +267,7 @@ ainsi déposées de l'obligation de cession des dites
 devises à la Banque Centrale de Tunisie dans tous les
 cas où cette cession est prescrite.
 
-=== CHUNK 9 | PDF: loi7618.pdf | Page: 3 | Titre_Gemma: **Conservation de devises et valeurs mobilières à l'étranger en Tunisie.** ===
+=== CHUNK 9 | PDF: loi7618.pdf | Page: 3 | Titre_Gemma: **Conservation de devises et valeurs mobilières à l'étranger en Tunisie** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : TITRE  III DEPOTS DES DEVISES ET DES VALEURS MOBILIERES ETRANGERES CONSERVEES EN TUNISIE
@@ -285,7 +285,7 @@ que cédées à la Banque Centrale de Tunisie ou
 réexportées.
 Valeurs mobilières  :
 
-=== CHUNK 10 | PDF: loi7618.pdf | Page: 3 | Titre_Gemma: **Dépose de valeurs mobilières étrangères en Tunisie** ===
+=== CHUNK 10 | PDF: loi7618.pdf | Page: 3 | Titre_Gemma: **Déposer les valeurs mobilières étrangères en Tunisie.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : TITRE  III DEPOTS DES DEVISES ET DES VALEURS MOBILIERES ETRANGERES CONSERVEES EN TUNISIE
@@ -297,7 +297,7 @@ des valeurs mobilières étrangères, ou des valeurs
 "assimilées", sont tenues de les déposer auprès d'un
 intermédiaire agréé.
 
-=== CHUNK 11 | PDF: loi7618.pdf | Page: 3 | Titre_Gemma: **Négociation des opérations de change** ===
+=== CHUNK 11 | PDF: loi7618.pdf | Page: 3 | Titre_Gemma: **Négociation des avoirs assimilés** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : TITRE  III DEPOTS DES DEVISES ET DES VALEURS MOBILIERES ETRANGERES CONSERVEES EN TUNISIE
@@ -334,7 +334,7 @@ des devises ou des valeurs mobilières étrangères ou
 dernier, le dépôt prévu par lesdits articles, à moins
 qu'elle n'ait elle-même la qualité d'intermédiaire agréé.
 
-=== CHUNK 14 | PDF: loi7618.pdf | Page: 3 | Titre_Gemma: **Autorisation de Déposés de Devises Étrangères** ===
+=== CHUNK 14 | PDF: loi7618.pdf | Page: 3 | Titre_Gemma: **Dépôt de devises et valeurs mobilières étrangères** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : TITRE  III DEPOTS DES DEVISES ET DES VALEURS MOBILIERES ETRANGERES CONSERVEES EN TUNISIE
@@ -348,7 +348,7 @@ catégories de devises ou de valeurs mobilières
 étrangères, ainsi que dans les cas particuliers où une
 telle mesure apparaît justifiée.
 
-=== CHUNK 15 | PDF: loi7618.pdf | Page: 3 | Titre_Gemma: **Réglementation des avoirs étrangers en Tunisie.** ===
+=== CHUNK 15 | PDF: loi7618.pdf | Page: 3 | Titre_Gemma: **Autorisation de Réglementation sur les Avoirs Étrangers en Tunisie** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : TITRE  IV DISPOSITIONS RELATIVES AUX AVOIRS ETRANGERS EN TUNISIE
@@ -360,7 +360,7 @@ de Tunisie pourront réglementer la constitution d'avoirs
 étrangers en Tunisie, ainsi que les actes de disposition
 portant sur des avoirs étrangers en Tunisie.
 
-=== CHUNK 16 | PDF: loi7618.pdf | Page: 4 | Titre_Gemma: **Réglementation des avoirs de personnes morales tunisiennes avec liens étrangers.** ===
+=== CHUNK 16 | PDF: loi7618.pdf | Page: 4 | Titre_Gemma: **Réglementation des avoirs de sociétés tunisiennes par des étrangers.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : TITRE  IV DISPOSITIONS RELATIVES AUX AVOIRS ETRANGERS EN TUNISIE
@@ -378,7 +378,7 @@ b) les actes de disposition portant sur les
 avoirs en Tunisie des personnes morales tunisiennes
 visées à l'alinéa a) ci-dessus.
 
-=== CHUNK 17 | PDF: loi7618.pdf | Page: 4 | Titre_Gemma: **Déclaration des Avoirs à l'Étranger en Tunisie** ===
+=== CHUNK 17 | PDF: loi7618.pdf | Page: 4 | Titre_Gemma: **Déclaration des avoirs à l'étranger en Tunisie** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE PREMIER RECENSEMENT  DES AVOIRS A L'ETRANGER
 Titre : TITRE  V
@@ -407,7 +407,7 @@ Les propriétaires d'avoirs conservés à l'étranger
 pour leur compte par des intermédiaires agréés en
 Tunisie ne sont pas tenus de les déclarer.
 
-=== CHUNK 18 | PDF: loi7618.pdf | Page: 4 | Titre_Gemma: **Déclaration d'avoirs à l'étranger en Tunisie** ===
+=== CHUNK 18 | PDF: loi7618.pdf | Page: 4 | Titre_Gemma: **Déclaration des avoirs à l'étranger en Tunisie** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE PREMIER RECENSEMENT  DES AVOIRS A L'ETRANGER
 Titre : TITRE  V
@@ -435,7 +435,7 @@ portent sur les avoirs à l'étranger possédés à la date du
 changement de la résidence ou de la création de
 l'établissement.
 
-=== CHUNK 19 | PDF: loi7618.pdf | Page: 4 | Titre_Gemma: **Rapatriement et régulation des avoirs tunisiens à l'étranger.** ===
+=== CHUNK 19 | PDF: loi7618.pdf | Page: 4 | Titre_Gemma: **Rapatriement et régulation de l'or et des valeurs à l'étranger.** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE  2 OBLIGATION DE RAPATRIEMENT DES REVENUS  ET PRODUITS A L'ETRANGER
 Titre : TITRE  V
@@ -468,7 +468,7 @@ marchandises à l'étranger, de la rémunération de
 services rendus à l'étranger et, d'une manière générale
 de tous revenus ou produits à l'étranger.
 
-=== CHUNK 21 | PDF: loi7618.pdf | Page: 4 | Titre_Gemma: **Dinar : Monnaie de Compte et de Règlement en Tunisie** ===
+=== CHUNK 21 | PDF: loi7618.pdf | Page: 4 | Titre_Gemma: **Le Dinar Tunisien : Monnaie de Compte et de Règlement** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE  2 OBLIGATION DE RAPATRIEMENT DES REVENUS  ET PRODUITS A L'ETRANGER
 Titre : TITRE  VI REGLEMENTS ENTRE RESIDENTS
@@ -488,7 +488,7 @@ septembre 1986).
 Le dinar doit être à la fois monnaie de compte et
 monnaie de règlement.
 
-=== CHUNK 22 | PDF: loi7618.pdf | Page: 5 | Titre_Gemma: **Infractions et Prescription en Droit des Changes** ===
+=== CHUNK 22 | PDF: loi7618.pdf | Page: 5 | Titre_Gemma: **Infractions et Prescription en Réglementation des Changes** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE  PREMIER DISPOSITIONS  GENERALES
 Titre : TITRE  VII REPRESSION DES INFRACTIONS A LA REGLEMENTATION DES CHANGES
@@ -509,7 +509,7 @@ partielle ou du retard apporté à l'exécution
 d'engagements souscrits à l'égard de la Banque Centrale
 de Tunisie en contre-partie de certaines des autorisations qu'elle délivre.
 
-=== CHUNK 23 | PDF: loi7618.pdf | Page: 5 | Titre_Gemma: **Élusion des obligations en matière de changes.** ===
+=== CHUNK 23 | PDF: loi7618.pdf | Page: 5 | Titre_Gemma: **Évasion de Réglementation des Changes** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE  2 CONSTATATION  DES  INFRACTIONS
 Titre : TITRE  VII REPRESSION DES INFRACTIONS A LA REGLEMENTATION DES CHANGES
@@ -539,7 +539,7 @@ Les procès-verbaux de constatation sont
 transmis au Ministère des Finances, qui saisit le parquet
 s'il le juge à propos.
 
-=== CHUNK 25 | PDF: loi7618.pdf | Page: 5 | Titre_Gemma: **Visites Domiciliaires** ===
+=== CHUNK 25 | PDF: loi7618.pdf | Page: 5 | Titre_Gemma: **Visites domiciliaires autorisées** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE  2 CONSTATATION  DES  INFRACTIONS
 Titre : TITRE  VII REPRESSION DES INFRACTIONS A LA REGLEMENTATION DES CHANGES
@@ -550,7 +550,7 @@ sont habilités à effectuer en tous lieux des visites
 domiciliaires dans les conditions prévues par l'article 53
 du Code des Douanes.
 
-=== CHUNK 26 | PDF: loi7618.pdf | Page: 5 | Titre_Gemma: **Accès aux informations pour le contrôle des changes.** ===
+=== CHUNK 26 | PDF: loi7618.pdf | Page: 5 | Titre_Gemma: **Accès aux Informations pour le Contrôle des Changes** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE  2 CONSTATATION  DES  INFRACTIONS
 Titre : TITRE  VII REPRESSION DES INFRACTIONS A LA REGLEMENTATION DES CHANGES
@@ -586,7 +586,7 @@ autorisée à soumettre au contrôle douanier, en vue de
 l'application de la réglementation des changes, les
 envois postaux tant à l'exportation qu'à l'importation.
 
-=== CHUNK 28 | PDF: loi7618.pdf | Page: 5 | Titre_Gemma: **Responsabilité et Secret Professionnel dans l'Application de la Réglementation des Changes.** ===
+=== CHUNK 28 | PDF: loi7618.pdf | Page: 5 | Titre_Gemma: **Responsabilité des fonctionnaires dans l'application de la réglementation des changes.** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE  3 POURSUITES  DES  INFRACTIONS
 Titre : TITRE  VII REPRESSION DES INFRACTIONS A LA REGLEMENTATION DES CHANGES
@@ -603,7 +603,7 @@ secret professionnel au juge d'instruction ou au tribunal
 qui les interroge sur les faits faisant l'objet de la plainte
 ou sur les faits connexes.
 
-=== CHUNK 29 | PDF: loi7618.pdf | Page: 5 | Titre_Gemma: **Pouvoirs de Réglementation des Changes** ===
+=== CHUNK 29 | PDF: loi7618.pdf | Page: 5 | Titre_Gemma: **Autorité de la Réglementation des Changes** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE  3 POURSUITES  DES  INFRACTIONS
 Titre : TITRE  VII REPRESSION DES INFRACTIONS A LA REGLEMENTATION DES CHANGES
@@ -614,7 +614,7 @@ réglementation des changes ne peut être exercée que sur
 la plainte du Ministre des Finances ou de son
 représentant habilité à cet effet. Les dispositions du
 
-=== CHUNK 30 | PDF: loi7618.pdf | Page: 5 | Titre_Gemma: **Droits du Ministère des Finances en cas d'infraction réglementaire.** ===
+=== CHUNK 30 | PDF: loi7618.pdf | Page: 5 | Titre_Gemma: **Application du Code des Douanes et Procédure Judiciaire** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE  3 POURSUITES  DES  INFRACTIONS
 Titre : TITRE  VII REPRESSION DES INFRACTIONS A LA REGLEMENTATION DES CHANGES
@@ -644,7 +644,7 @@ jugement définitif.
 Dans le second cas, la transaction laisse
 subsister les peines corporelles.
 
-=== CHUNK 32 | PDF: loi7618.pdf | Page: 6 | Titre_Gemma: **Confiscation du délit de change avant dépôt de plainte.** ===
+=== CHUNK 32 | PDF: loi7618.pdf | Page: 6 | Titre_Gemma: **Confiscation/Condamnation pécuniaire des changes avant dépôt de plainte.** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE  3 POURSUITES  DES  INFRACTIONS
 Titre : TITRE  VII REPRESSION DES INFRACTIONS A LA REGLEMENTATION DES CHANGES
@@ -661,7 +661,7 @@ confiscation du corps du délit ou, si celui-ci ne peut être
 saisi, une condamnation pécuniaire fixée conformément
 à l'article 36.
 
-=== CHUNK 33 | PDF: loi7618.pdf | Page: 6 | Titre_Gemma: **Responsabilité de la personne morale pour les infractions aux règles des changes** ===
+=== CHUNK 33 | PDF: loi7618.pdf | Page: 6 | Titre_Gemma: **Responsabilité de la personne morale pour les infractions aux régimes de change.** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE  3 POURSUITES  DES  INFRACTIONS
 Titre : TITRE  VII REPRESSION DES INFRACTIONS A LA REGLEMENTATION DES CHANGES
@@ -676,7 +676,7 @@ poursuites intentées contre ceux-ci, la personne morale
 elle-même pourra être poursuivie et frappée des peines
 pécuniaires prévues à la présente loi.
 
-=== CHUNK 34 | PDF: loi7618.pdf | Page: 6 | Titre_Gemma: **Infractions aux règles de change et autres législations.** ===
+=== CHUNK 34 | PDF: loi7618.pdf | Page: 6 | Titre_Gemma: **Infractions aux règles de change : implications douanières.** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE  4 PENALITES
 Titre : TITRE  VII REPRESSION DES INFRACTIONS A LA REGLEMENTATION DES CHANGES
@@ -691,7 +691,7 @@ poursuivies et réprimées comme en matière de douane
 ou conformément à la procédure prévue par la
 législation à laquelle il est porté atteinte.
 
-=== CHUNK 35 | PDF: loi7618.pdf | Page: 6 | Titre_Gemma: **Infractions de changes : Peines et Récidive** ===
+=== CHUNK 35 | PDF: loi7618.pdf | Page: 6 | Titre_Gemma: **Infractions aux changes : Peines et Récidive** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE  4 PENALITES
 Titre : TITRE  VII REPRESSION DES INFRACTIONS A LA REGLEMENTATION DES CHANGES
@@ -707,7 +707,7 @@ récidive, la peine d'emprisonnement peut être portée à
 dix ans et l'article 53 du Code Pénal n'est pas
 applicable.
 
-=== CHUNK 36 | PDF: loi7618.pdf | Page: 6 | Titre_Gemma: **Confiscation et Compensation du Corps du Délit** ===
+=== CHUNK 36 | PDF: loi7618.pdf | Page: 6 | Titre_Gemma: **Confiscation et condamnation pécuniaire des biens illicites** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE  5 RECOUVREMENT  DES  AMENDES
 Titre : TITRE  VII REPRESSION DES INFRACTIONS A LA REGLEMENTATION DES CHANGES
@@ -733,7 +733,7 @@ puisse ou non être représenté est constitué par
 l'ensemble des prestations fournies par chacune des
 parties, y compris la rémunération des services.
 
-=== CHUNK 37 | PDF: loi7618.pdf | Page: 6 | Titre_Gemma: **Confiscations et Condamnations Pénales** ===
+=== CHUNK 37 | PDF: loi7618.pdf | Page: 6 | Titre_Gemma: **Confiscations et condamnations pécuniaires** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE  5 RECOUVREMENT  DES  AMENDES
 Titre : TITRE  VII REPRESSION DES INFRACTIONS A LA REGLEMENTATION DES CHANGES
@@ -745,7 +745,7 @@ poursuivi, conformément à l'article 21 du Code Pénal, à
 l'encontre de tous les auteurs et complices de
 l'infraction.
 
-=== CHUNK 38 | PDF: loi7618.pdf | Page: 6 | Titre_Gemma: **Recouvrement des amendes et condamnations après décès.** ===
+=== CHUNK 38 | PDF: loi7618.pdf | Page: 6 | Titre_Gemma: **Recouvrement d'amendes et condamnations par la succession** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE  5 RECOUVREMENT  DES  AMENDES
 Titre : TITRE  VII REPRESSION DES INFRACTIONS A LA REGLEMENTATION DES CHANGES
@@ -759,7 +759,7 @@ prononcées contre lui, ou des transactions acceptées par
 lui, le recouvrement peut en être poursuivi contre la
 succession.
 
-=== CHUNK 39 | PDF: loi7618.pdf | Page: 6 | Titre_Gemma: **Répartition du produit des amendes et des transactions.** ===
+=== CHUNK 39 | PDF: loi7618.pdf | Page: 6 | Titre_Gemma: **Répartition des produits des amendes et confiscations.** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE  6 DISPOSITIONS  DIVERSES
 Titre : TITRE  VII REPRESSION DES INFRACTIONS A LA REGLEMENTATION DES CHANGES
@@ -777,7 +777,7 @@ des amendes et confiscations, ainsi que celui des
 transactions est réparti suivant les modalités fixées par
 le Ministre des Finances.
 
-=== CHUNK 40 | PDF: loi7618.pdf | Page: 6 | Titre_Gemma: **Infractions liées aux changes.** ===
+=== CHUNK 40 | PDF: loi7618.pdf | Page: 6 | Titre_Gemma: **Infraction à la réglementation des changes** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE  6 DISPOSITIONS  DIVERSES
 Titre : TITRE  VII REPRESSION DES INFRACTIONS A LA REGLEMENTATION DES CHANGES

@@ -1,4 +1,4 @@
-=== CHUNK 1 | PDF: cir9414.pdf | Page: 1 | Titre_Gemma: **Autorisation de la Banque Centrale pour la Domiciliation de Titres et de Factures à l'Exportation** ===
+=== CHUNK 1 | PDF: cir9414.pdf | Page: 1 | Titre_Gemma: **Autorisation de la Banque Centrale de Tunisie pour la domiciliation de titres et de documents commerciaux.** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -36,7 +36,7 @@ retourne les dossiers à l'Intermédiaire Agréé qui procède à
 leur instruction conformément à la procédure fixée par le
 décret n° 94-1743 sus-visé.
 
-=== CHUNK 2 | PDF: cir9414.pdf | Page: 1 | Titre_Gemma: **Vérification de la Conformité Légale des Importations** ===
+=== CHUNK 2 | PDF: cir9414.pdf | Page: 1 | Titre_Gemma: **Vérifications légales et conformité des importations** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -52,7 +52,7 @@ dispositions du décret n° 81-1596 du 24 novembre 1981
 fixant les conditions d'assurance des risques de transport
 des marchandises en provenance de l'étranger.
 
-=== CHUNK 3 | PDF: cir9414.pdf | Page: 1 | Titre_Gemma: **Changement de monnaie de règlement et autorisation de transactions commerciales.** ===
+=== CHUNK 3 | PDF: cir9414.pdf | Page: 1 | Titre_Gemma: **Changement de Monnaie de Règlement et Autorisations d'Importation** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE 2 RÈGLEMENT FINANCIER DES IMPORTATIONS
 Titre : Non spécifié
@@ -100,7 +100,7 @@ premier de cet article, n’est pas exigée pour le
 règlement d’acomptes relatifs à l’importation de
 produits liés  à la production.
 
-=== CHUNK 4 | PDF: cir9414.pdf | Page: 2 | Titre_Gemma: **Règlement des importations : Imputation douanière et transferts.** ===
+=== CHUNK 4 | PDF: cir9414.pdf | Page: 2 | Titre_Gemma: **Règlement des importations après imputation douanière.** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE 2 RÈGLEMENT FINANCIER DES IMPORTATIONS
 Titre : Non spécifié
@@ -114,7 +114,7 @@ L'Intermédiaire Agréé domiciliataire procède aux
 transferts dans la limite des imputations douanières et du
 montant des factures définitives visées par la douane.
 
-=== CHUNK 5 | PDF: cir9414.pdf | Page: 2 | Titre_Gemma: **Justification de l'expédition de marchandises vers la Tunisie** ===
+=== CHUNK 5 | PDF: cir9414.pdf | Page: 2 | Titre_Gemma: **Justification de l'expédition de marchandises en Tunisie** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE 2 RÈGLEMENT FINANCIER DES IMPORTATIONS
 Titre : Non spécifié
@@ -157,7 +157,7 @@ définitivement dû au fournisseur étranger, l'importateur est
 tenu de procéder au rapatriement du montant indûment
 transféré.
 
-=== CHUNK 6 | PDF: cir9414.pdf | Page: 2 | Titre_Gemma: **Réexportation et Perfectionnement Actif : Obligations de l'Importateur** ===
+=== CHUNK 6 | PDF: cir9414.pdf | Page: 2 | Titre_Gemma: **Réexportation de marchandises en Tunisie : Procédure et documentation** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE 3 RÈGLEMENT  DES  EXPORTATIONS
 Titre : Non spécifié
@@ -181,7 +181,7 @@ règlement, une copie de la facture définitive visée par la
 douane.
 A) Conditions de réalisation des ventes
 
-=== CHUNK 7 | PDF: cir9414.pdf | Page: 2 | Titre_Gemma: **Délai de paiement pour les ventes au comptant** ===
+=== CHUNK 7 | PDF: cir9414.pdf | Page: 2 | Titre_Gemma: **Délai de règlement pour les ventes au comptant.** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE 3 RÈGLEMENT  DES  EXPORTATIONS
 Titre : Non spécifié
@@ -193,7 +193,7 @@ Par vente au comptant il faut entendre les ventes qui
 sont réglées au plus tard 30 jours après la date
 d'expédition.
 
-=== CHUNK 8 | PDF: cir9414.pdf | Page: 2 | Titre_Gemma: **Délais de paiement et conditions pour les crédits d'exportation.** ===
+=== CHUNK 8 | PDF: cir9414.pdf | Page: 2 | Titre_Gemma: **Délai de paiement et conditions pour les lettres de crédit.** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE 3 RÈGLEMENT  DES  EXPORTATIONS
 Titre : Non spécifié
@@ -253,7 +253,7 @@ marchandise (facture définitive, document de transport...).
 Toute remise directe de ces documents au  client ou
 au transporteur est, par conséquent, interdite.
 
-=== CHUNK 10 | PDF: cir9414.pdf | Page: 3 | Titre_Gemma: **Règles de règlement et de rapatriement des exportations.** ===
+=== CHUNK 10 | PDF: cir9414.pdf | Page: 3 | Titre_Gemma: **Règles de paiement et rapatriement des exportations.** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE 3 RÈGLEMENT  DES  EXPORTATIONS
 Titre : Non spécifié
@@ -276,7 +276,7 @@ l'Intermédiaire Agréé restitue les originaux à leur titulaire.
 B)  Rapatriement du produit des exportations
 1°)  Règle générale :
 
-=== CHUNK 11 | PDF: cir9414.pdf | Page: 3 | Titre_Gemma: **Déclaration de valeur et de devises** ===
+=== CHUNK 11 | PDF: cir9414.pdf | Page: 3 | Titre_Gemma: **Déclaration de valeur et paiement.** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE 3 RÈGLEMENT  DES  EXPORTATIONS
 Titre : Non spécifié
@@ -288,7 +288,7 @@ indication des acomptes éventuellement perçus, du prix
 des matières premières importées le cas échéant sans
 paiement et du montant en devises à rapatrier.
 
-=== CHUNK 12 | PDF: cir9414.pdf | Page: 3 | Titre_Gemma: **Délai de paiement des exportations et interdiction du crédit** ===
+=== CHUNK 12 | PDF: cir9414.pdf | Page: 3 | Titre_Gemma: **Paiement des exportations : délai et interdiction de crédit.** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE 3 RÈGLEMENT  DES  EXPORTATIONS
 Titre : Non spécifié
@@ -307,7 +307,7 @@ de l'exportation des marchandises.
 en consignation:
 Ventes à prix imposé :
 
-=== CHUNK 13 | PDF: cir9414.pdf | Page: 3 | Titre_Gemma: **Délai de livraison des exportations** ===
+=== CHUNK 13 | PDF: cir9414.pdf | Page: 3 | Titre_Gemma: **Délai de réexportation des exportations** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE 3 RÈGLEMENT  DES  EXPORTATIONS
 Titre : Non spécifié
@@ -320,7 +320,7 @@ l'expédition ou à réimporter la marchandise dans le même
 délai.
 Ventes au mieux :
 
-=== CHUNK 14 | PDF: cir9414.pdf | Page: 3 | Titre_Gemma: **Rapatriement et remise du produit : délais et obligations** ===
+=== CHUNK 14 | PDF: cir9414.pdf | Page: 3 | Titre_Gemma: **Rapatriement et remise de la marchandise - Délai et procédure.** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE 3 RÈGLEMENT  DES  EXPORTATIONS
 Titre : Non spécifié
@@ -335,7 +335,7 @@ Agréé domiciliataire dans un délai de 3 semaines à
 compter de la date de la réception de la marchandise à
 l'étranger par le commissionnaire ou par le dépositaire.
 
-=== CHUNK 15 | PDF: cir9414.pdf | Page: 3 | Titre_Gemma: **Abrogation de dispositions antérieures** ===
+=== CHUNK 15 | PDF: cir9414.pdf | Page: 3 | Titre_Gemma: **Abrogation des dispositions antérieures** ===
 Loi : Non spécifié
 Chapitre : CHAPITRE 3 RÈGLEMENT  DES  EXPORTATIONS
 Titre : Non spécifié

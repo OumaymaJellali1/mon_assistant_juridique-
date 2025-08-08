@@ -1,4 +1,4 @@
-=== CHUNK 1 | PDF: cir2001-09.pdf | Page: 1 | Titre_Gemma: **Détachement de Fonds en Dinar Convertible** ===
+=== CHUNK 1 | PDF: cir2001-09.pdf | Page: 1 | Titre_Gemma: **Compte d'Exportation en Dinar Convertible** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -51,7 +51,7 @@ Toute autre opération au crédit du compte est soumise à
 l’autorisation de la Banque Centrale de Tunisie.
 b- Opérations au débit:
 
-=== CHUNK 3 | PDF: cir2001-09.pdf | Page: 1 | Titre_Gemma: **Utilisation du Dinar Convertible** ===
+=== CHUNK 3 | PDF: cir2001-09.pdf | Page: 1 | Titre_Gemma: **Débit du Dinar Convertible : Usage et Autorisation** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -75,7 +75,7 @@ Toute autre opération au débit du compte est soumise à
 l’autorisation de la Banque Centrale de Tunisie.
 Paragraphe 4: DISPOSITIONS DIVERSES
 
-=== CHUNK 4 | PDF: cir2001-09.pdf | Page: 1 | Titre_Gemma: **Dinar Convertible : Non-Débitabilité** ===
+=== CHUNK 4 | PDF: cir2001-09.pdf | Page: 1 | Titre_Gemma: **Dinar Convertible : Non-Responsabilité Débiteur** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -84,7 +84,7 @@ Sous-section : Non spécifié
 Article : Article 5 : Le compte spécial «Bénéfices Export» en
 dinar convertible ne peut être, en aucun cas, rendu débiteur.
 
-=== CHUNK 5 | PDF: cir2001-09.pdf | Page: 1 | Titre_Gemma: **Déclaration des avoirs à l'étranger pour les comptes "Bénéfices-Export"** ===
+=== CHUNK 5 | PDF: cir2001-09.pdf | Page: 1 | Titre_Gemma: **Déclaration des avoirs étrangers pour compte "Bénéfices-Export"** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -97,7 +97,7 @@ Tunisie tous ses avoirs à l’étranger acquis par débit du compte
 et ce, conformément à l’article 16 du code des changes et du
 commerce extérieur sus-visé.
 
-=== CHUNK 6 | PDF: cir2001-09.pdf | Page: 1 | Titre_Gemma: **Déclaration des comptes spéciaux "Bénéfices-Export"** ===
+=== CHUNK 6 | PDF: cir2001-09.pdf | Page: 1 | Titre_Gemma: **Déclaration des Bénéfices-Export : Obligations Mensuelles** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
@@ -112,7 +112,7 @@ aux dispositions du paragraphe V de la circulaire de la Banque
 Centrale de Tunisie aux Intermédiaires Agréés n°94-03 du
 1/02/1994.
 
-=== CHUNK 7 | PDF: cir2001-09.pdf | Page: 1 | Titre_Gemma: **Circulaire concernant les Intermédiaires Agréés (Tunisie)** ===
+=== CHUNK 7 | PDF: cir2001-09.pdf | Page: 1 | Titre_Gemma: **Circulaire sur les Intermédiaires Agréés (Tunisie)** ===
 Loi : Non spécifié
 Chapitre : Non spécifié
 Titre : Non spécifié
