@@ -137,6 +137,7 @@ class AgenticLegalChatbot:
         # Configuration de la mémoire
         self.memory = ConversationBufferWindowMemory(
             memory_key="chat_history",
+            output_key="output",
             k=5,
             return_messages=True,
             input_key="input"  
