@@ -2,7 +2,7 @@ import os
 import re
 import time
 import json
-import fitz  # PyMuPDF
+import fitz  
 import google.generativeai as genai
 import uuid
 from tqdm import tqdm
@@ -452,17 +452,20 @@ class PDFProcessor:
 
 
 class EmbeddingGenerator:
-    """Classe pour générer les embeddings"""
+    """Classe pour générer les embeddings """
     
-    def __init__(self, model_name: str = settings.EMBEDDING_MODEL):
-        self.model_name = model_name                 # <--- Sauvegarder le nom du modèle
+    def __init__(self, model_name: str = None):
+        if model_name is None:
+            model_name = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+        
+        self.model_name = model_name
         self.model = SentenceTransformer(model_name)
         
         fs = LocalFileStore("./cache/embeddings")
         self.cached_embedder = CacheBackedEmbeddings.from_bytes_store(
             self.model,
             fs,
-            namespace=self.model_name                 # <--- Utiliser l’attribut défini juste au-dessus
+            namespace=self.model_name                 
         )
 
     @staticmethod
@@ -502,7 +505,8 @@ class EmbeddingGenerator:
                     vector = self.model.encode(text)
                     all_vectors.append({
                         "metadata": metadata,
-                        "embedding": vector.tolist()
+                        "embedding": vector.tolist(),
+                        "text": text  
                     })
         
         os.makedirs(settings.EMBEDDINGS_FOLDER, exist_ok=True)
@@ -511,7 +515,7 @@ class EmbeddingGenerator:
 
 
 class QdrantIndexer:
-    """Classe pour indexer dans Qdrant"""
+    """CORRECTION PRINCIPALE ICI - Stocker le texte complet"""
     
     def __init__(self, host: str = settings.QDRANT_HOST, port: int = settings.QDRANT_PORT):
         self.client = QdrantClient(host=host, port=port)
@@ -525,24 +529,34 @@ class QdrantIndexer:
     def upload_vectors(self, collection_name: str = settings.QDRANT_COLLECTION) -> None:
         with open(settings.EMBEDDINGS_FILE, "r", encoding="utf-8") as f:
             data = json.load(f)
-        
+    
         points = []
         for item in data:
             point_id = str(uuid.uuid4())
             vector = item["embedding"]
-            payload = item["metadata"]
-            payload["page"] = int(payload["page"]) if payload["page"].isdigit() else payload["page"]
-            points.append(PointStruct(id=point_id, vector=vector, payload=payload))
-        
-        self.client.upsert(
-            collection_name=collection_name,
-            points=points
-        )
-        print("Tous les vecteurs ont été indexés dans Qdrant.")
+            
+            # CORRECTION MAJEURE : Stocker le texte complet, pas juste le titre
+            payload = {
+                # Toutes les métadonnées
+                **item["metadata"],
+                # LE TEXTE COMPLET QUI A ÉTÉ EMBEDDÉ
+                "content": item["text"],  # ← CHANGEMENT ICI
+                "page": int(item["metadata"]["page"]) if item["metadata"]["page"].isdigit() else item["metadata"]["page"]
+            }
+            
+            points.append(PointStruct(
+                id=point_id,
+                vector=vector,
+                payload=payload
+            ))
+    
+        self.client.upsert(collection_name=collection_name, points=points)
+        print(f"Indexation réussie de {len(points)} documents avec texte complet")
 
-"""
+
 class DocumentRetriever:
-
+    """SIMPLIFICATION MAJEURE - Plus besoin de fonction complexe"""
+    
     def __init__(self, qdrant_client: QdrantClientWrapper, embedder: SentenceTransformer):
         self.qdrant_client = qdrant_client
         self.embedder = embedder
@@ -551,87 +565,133 @@ class DocumentRetriever:
         if isinstance(question, list):
             question = " ".join(question)
         
-        embedded_question = self.embedder.encode(question).tolist()
-
-        #  Utilise la méthode définie dans QdrantClientWrapper
-        results = self.qdrant_client.query(embedded_question, top_k=top_k)
-
-        documents = []
-        seen_keys = set()
-
-        for hit in results:  #  results est une liste de PointStruct
-            payload = hit.payload
-            texte = payload.get('Article') or payload.get('titre_gemma') or ''
-            texte = texte.strip()
-            if not texte:
-                continue
-
-            unique_key = f"{payload.get('pdf','unknown')}_{payload.get('page','N/A')}_{texte[:100]}"
-            if unique_key in seen_keys:
-                continue
-            seen_keys.add(unique_key)
-
-            documents.append(
-                Document(
-                    page_content=texte,
+        try:
+            # Encoder la question
+            embedded_question = self.embedder.encode(question).tolist()
+            
+            # Rechercher dans Qdrant
+            results = self.qdrant_client.query(embedded_question, top_k=top_k)
+            
+            documents = []
+            seen_content_hashes = set()
+            
+            print(f"Nombre de résultats Qdrant: {len(results)}")
+            
+            for i, hit in enumerate(results):
+                payload = hit.payload
+                score = hit.score if hasattr(hit, 'score') else 0.0
+                
+                #  RÉCUPÉRATION DIRECTE DU CONTENU - Plus de fonction complexe !
+                content = payload.get("content", "").strip()
+                
+                # Validation basique
+                if not content or len(content) < 10:
+                    print(f"Document {i} ignoré: contenu vide ou trop court")
+                    continue
+                
+                # Déduplication basée sur le contenu
+                content_hash = hash(content[:200])
+                if content_hash in seen_content_hashes:
+                    print(f"Document {i} ignoré: contenu dupliqué")
+                    continue
+                seen_content_hashes.add(content_hash)
+                
+                #  CRÉATION DU DOCUMENT SIMPLIFIÉ
+                doc = Document(
+                    page_content=content,  # Le texte complet récupéré directement
                     metadata={
                         "source": payload.get("pdf", "unknown"),
                         "page": payload.get("page", "N/A"),
-                        **{k: v for k, v in payload.items() if k not in ["Article", "titre_gemma"]}
-                    }
-                )
-            )
-
-        return documents
-        """
-
-class DocumentRetriever:
-
- def __init__(self, qdrant_client: QdrantClientWrapper, embedder: SentenceTransformer):
-        self.qdrant_client = qdrant_client
-        self.embedder = embedder
-
- def retrieve_documents(self, question: str, top_k: int = 20) -> List[Document]:
-    if isinstance(question, list):
-        question = " ".join(question)
-    
-    try:
-        # Encodage de la question
-        embedded_question = self.embedder.encode(question).tolist()
-        
-        results = self.qdrant_client.query(embedded_question, top_k=top_k)
-
-        documents = []
-        seen_keys = set()
-
-        for hit in results: 
-            payload = hit.payload
-            texte = payload.get('Article') or payload.get('titre_gemma') or ''
-            texte = texte.strip()
-            if not texte:
-                continue
-
-            unique_key = f"{payload.get('pdf','unknown')}_{payload.get('page','N/A')}_{texte[:100]}"
-            if unique_key in seen_keys:
-                continue
-            seen_keys.add(unique_key)
-
-            page_number = payload.get('page') or payload.get('page_number', 'N/A')
-            
-            documents.append(
-                Document(
-                    page_content=texte,
-                    metadata={
-                        "source": payload.get("pdf", "unknown"),
-                        "page": page_number,
-                        "page_number": page_number,
+                        "chunk_id": payload.get("chunk_id", "unknown"),
                         "titre_gemma": payload.get("titre_gemma", ""),
-                        **{k: v for k, v in payload.items() if k not in ["Article", "titre_gemma", "pdf", "page", "page_number"]}
+                        "score": score,
+                        "rank": i + 1,
+                        # Toutes les autres métadonnées sauf content
+                        **{k: v for k, v in payload.items() 
+                           if k not in ["content", "pdf", "page", "chunk_id", "titre_gemma"]}
                     }
                 )
-            )
+                
+                documents.append(doc)
+                print(f" Document {i+1} ajouté - Score: {score:.3f}, Longueur: {len(content)} caractères")
 
+            print(f"Total final: {len(documents)} documents récupérés")
+            return documents
+            
+        except Exception as e:
+            print(f" Erreur de recherche: {str(e)}")
+            import traceback
+            traceback.print_exc()
+            return []
+    
+    
+    def retrieve_with_filters(self, question: str, pdf_filter: str = None, 
+                            page_filter: str = None, top_k: int = 20) -> List[Document]:
+        """Recherche avec filtres optionnels"""
+        if isinstance(question, list):
+            question = " ".join(question)
+        
+        try:
+            embedded_question = self.embedder.encode(question).tolist()
+            
+            # Construire les filtres Qdrant si nécessaires
+            query_filter = None
+            if pdf_filter or page_filter:
+                conditions = []
+                if pdf_filter:
+                    conditions.append({"key": "pdf", "match": {"value": pdf_filter}})
+                if page_filter:
+                    conditions.append({"key": "page", "match": {"value": page_filter}})
+                
+                if len(conditions) == 1:
+                    query_filter = conditions[0]
+                else:
+                    query_filter = {"must": conditions}
+            
+            # Recherche avec filtres
+            results = self.qdrant_client.query(
+                embedded_question, 
+                top_k=top_k,
+                query_filter=query_filter
+            )
+            
+            # Utiliser la même logique de traitement
+            return self._process_filtered_results(results)
+            
+        except Exception as e:
+            print(f" Erreur de recherche avec filtres: {str(e)}")
+            return []
+    
+    def _process_filtered_results(self, results) -> List[Document]:
+        """Traiter les résultats filtrés"""
+        documents = []
+        seen_content_hashes = set()
+        
+        for i, hit in enumerate(results):
+            payload = hit.payload
+            content = payload.get("content", "").strip()
+            
+            if not content or len(content) < 10:
+                continue
+            
+            content_hash = hash(content[:200])
+            if content_hash in seen_content_hashes:
+                continue
+            seen_content_hashes.add(content_hash)
+            
+            doc = Document(
+                page_content=content,
+                metadata={
+                    "source": payload.get("pdf", "unknown"),
+                    "page": payload.get("page", "N/A"),
+                    "chunk_id": payload.get("chunk_id", "unknown"),
+                    "titre_gemma": payload.get("titre_gemma", ""),
+                    "score": hit.score if hasattr(hit, 'score') else 0.0,
+                    "rank": i + 1,
+                    **{k: v for k, v in payload.items() 
+                       if k not in ["content", "pdf", "page", "chunk_id", "titre_gemma"]}
+                }
+            )
+            documents.append(doc)
+        
         return documents
-    except Exception as e:
-        print(f"Error in document retrieval: {str(e)}")
-        return []

@@ -6,6 +6,7 @@ def run_all():
     print("Étape 1 : Extraction des chunks depuis les PDFs")
     pdf_processor = PDFProcessor()
     pdf_processor.process_all_pdfs()
+    
     print("Étape 2 : Génération des embeddings")
     embedder = EmbeddingGenerator()
     embedder.generate_embeddings()

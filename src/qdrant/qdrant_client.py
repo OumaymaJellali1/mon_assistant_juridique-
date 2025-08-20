@@ -1,3 +1,4 @@
+
 from qdrant_client import QdrantClient
 from src.config.settings import QDRANT_HOST, QDRANT_PORT, QDRANT_COLLECTION
 
@@ -11,7 +12,7 @@ class QdrantClientWrapper:
             collection_name=self.collection_name,
             query=vector,
             limit=top_k,
-            with_payload=True
+            # with_payload=True
         )
         return results.points
     

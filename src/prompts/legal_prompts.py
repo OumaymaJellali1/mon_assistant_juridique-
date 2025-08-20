@@ -17,124 +17,185 @@ en respectant les paragraphes. Utilise ce séparateur :
 Texte :
 {text}
 """
+# === NOUVEAUX PROMPTS EXTRACTÉS ===
 
-def get_reformulate_query_prompt(original_query: str) -> str:
-    return f"""
-Reformule cette question juridique pour améliorer la recherche dans une base documentaire.
+def get_detection_prompt(question: str) -> str:
+    return f"""Analyze this user message and classify it into ONE category:
 
-IMPORTANT : 
-- Conserve le sens original
-- Utilise la même langue que la question
-- Ajoute des termes juridiques précis si nécessaire
+GREETING: "Hello", "Good morning", "Bonjour", "Hi", "Hey", "Salut", etc.
+THANKS: "Thank you", "Thanks", "Merci", "Thx", etc.  
+LEGAL_QUESTION: Any request for legal information, advice, clarification, or documents
+OTHER: Everything else (small talk, unclear messages)
 
-QUESTION ORIGINALE: {original_query}
+User message: "{question}"
 
-Réponds uniquement avec la requête reformulée.
-"""
+Respond with ONLY the category name: GREETING, THANKS, LEGAL_QUESTION, or OTHER"""
 
-def get_search_expander_prompt(original_query: str) -> str:
-    return f"""
-Génère 3 requêtes alternatives pour cette question juridique.
+def get_simple_response_prompt(message_type: str, question: str) -> str:
+    return f"""The user sent a {message_type} message: "{question}"
 
-IMPORTANT : 
-- Utilise la même langue que la question originale
-- Varie les angles d'approche
-- Inclus des termes juridiques connexes
+Generate an appropriate, brief, and friendly response:
 
-QUESTION: {original_query}
+- If GREETING: Welcome them warmly and offer legal assistance in their language
+- If THANKS: Acknowledge politely and invite more questions in their language  
+- If OTHER: Redirect politely to legal topics
 
-Format : Une requête par ligne, numérotée.
-"""
+Detect the user's language (French, English, Arabic, etc.) and respond in the SAME language.
+Keep it brief (2-3 sentences maximum) and professional."""
 
-def get_answer_synthesizer_prompt(question: str, context_str: str, history_str: str, lang: str = "auto") -> str:
-    return f"""
-Tu es un expert juridique qui répond à des questions avec précision et professionnalisme.
+def get_reformulation_prompt(query: str, previous_attempts: list = None) -> str:
+    previous_attempts = previous_attempts or []
+    
+    context_info = ""
+    if previous_attempts:
+        context_info = f"\n\nTentatives précédentes à éviter:\n" + "\n".join(f"- {attempt}" for attempt in previous_attempts)
+    
+    return f"""Tu es un expert en recherche juridique. Reformule cette question pour améliorer la recherche documentaire.
 
-=== CONSIGNES OBLIGATOIRES ===
-1. LANGUE :
-   - Réponds dans la même langue que la question
+INSTRUCTIONS:
+- Utilise des termes juridiques précis et variés
+- Préserve le sens exact de la question
+- Réponds dans la même langue que la question
+- Propose une approche différente des tentatives précédentes{context_info}
 
-2. STRUCTURE :
-   - Structure en points numérotés
-   - Sois concis mais complet
-   - Reste strictement dans le domaine juridique
+QUESTION ORIGINALE: {query}
 
-3. SOURCES :
-   - Format EXACT : [NOM COMPLET DU DOCUMENT, NUMÉRO DE PAGE PRÉCIS]
+Réponds uniquement avec UNE reformulation optimale."""
 
-4. PRÉCISION :
-   - Sois concis mais complet
-   - Uniquement des informations vérifiables dans le contexte fourni
-   - Pas de paraphrases approximatives
+def get_synthesis_prompt(question: str, context: str, sources: list = None) -> str:
+    sources = sources or []
+    
+    sources_info = ""
+    if sources:
+        sources_info = "\n\n=== INFORMATIONS SUR LES SOURCES ===\n"
+        for i, source in enumerate(sources, 1):
+            sources_info += f"{i}. {source.get('source', 'Inconnu')} (Page {source.get('page', 'N/A')}) - Qualité: {source.get('quality', 0):.2f}\n"
+    
+    return f"""Expert legal assistant.
 
-=== RÈGLES DE SORTIE ===
-1. Cette réponse est définitive.
-2. Ne pose pas de nouvelle question dans la réponse.
-3. Termine impérativement par :
-   Final Answer: <ta réponse complète ici>
+CRITICAL INSTRUCTION - READ FIRST:
+DETECT the user's query language and respond in EXACTLY that same language.
+Examples: User writes in english → You respond in english | French → You respond in French | User writes in Arabic → You respond in Arabic 
+This applies to EVERY word of your response. NO mixing languages.
 
-=== CONTEXTE DOCUMENTAIRE ===
-{context_str}
+LANGUAGE MATCHING:
+1. First, identify the query language
+2. Respond 100% in that detected language
+3. Use appropriate legal terminology for that language
+4. Maintain professional tone in that language
 
-=== QUESTION ===
-{question}
+MESSAGE TYPES:
+• Greeting → Polite response + offer help (SAME LANGUAGE AS GREETING)
+• Thanks → Acknowledgment + availability (SAME LANGUAGE AS THANKS)
+• Farewell → Polite closure + signal continued availability (SAME LANGUAGE AS FAREWELL)
+• Legal question → Complete structured response (SAME LANGUAGE AS QUESTION)
+• Other → Redirect to legal topics (SAME LANGUAGE AS MESSAGE)
 
-=== HISTORIQUE ===
-{history_str if history_str else "Aucun historique"}
+LEGAL RESPONSE STRUCTURE:
+1. **Main Response** (no inline citations)
+2. **Important Clarifications**
+3. **Special Cases** (if applicable)
+**Conclusion:** [Summary + limitations]
+**Sources:** [Document.pdf, Page XX]
 
-=== RÉPONSE ATTENDUE ===
-Donne la réponse finale selon les règles ci-dessus.
-"""
+RULES:
+- Response based ONLY on provided context
+- Citations ONLY at end of response
+- Professional tone adapted to language
+- Signal limitations/nuances
+- If insufficient context: clearly mention it
+- Never use external knowledge outside of the provided documents.
 
-def get_no_context_found_prompt(question: str, lang: str = "auto") -> str:
-    return f"""
-L'utilisateur a posé une question mais aucun document pertinent n'a été trouvé.
+QUESTION: {question}
+CONTEXT: {context}
+{sources_info}
 
-Question : "{question}"
+RESPONSE:"""
 
-Réponds dans la même langue que la question :
-1. Explique poliment qu'aucune information n'a été trouvée
-2. Suggeste de reformuler la question
-3. Propose éventuellement des pistes de recherche
-"""
+# Templates de prompts pour réutilisation
+DETECTION_PROMPT_TEMPLATE = PromptTemplate(
+    input_variables=["question"],
+    template="""Analyze this user message and classify it into ONE category:
 
-def get_react_agent_prompt() -> PromptTemplate:
-    """Prompt principal pour l'agent ReAct corrigé et format-safe"""
-    template = (
-        "Tu es un assistant juridique expert utilisant le framework ReAct. "
-        "Suis scrupuleusement ces instructions :\n\n"
-        "Outils disponibles :\n"
-        "{tools}\n\n"
-        "Noms des outils : {tool_names}\n\n"
-        "Instructions IMPÉRATIVES :\n"
-        "1. Format des actions :\n"
-        "   - Pour utiliser un outil, ÉCRIS EXACTEMENT ceci :\n"
-        "Action: nom_de_l_outil\n"
-        "Action Input: \"entrée\"\n"
-        "   - Ne modifie pas ce format\n"
-        "   - Ne mets rien d'autre dans l'action\n\n"
-        "2. Processus de raisonnement :\n"
-        "   - Analyse la langue de la question (réponds dans la même langue)\n"
-        "   - Identifie si c'est une question juridique ou une interaction sociale\n"
-        "   - Pour les questions juridiques :\n"
-        "     * Utilise d'abord 'query_reformulator' si besoin\n"
-        "     * Puis 'document_search' pour trouver des sources\n"
-        "     * Enfin 'answer_synthesizer' pour construire la réponse\n"
-        "   - Pour les salutations/remerciements : Réponse courte et courtoise\n\n"
-        "3. Règles de réponse :\n"
-        "   - Structure en points numérotés\n"
-        "   - Cite EXACTEMENT les sources [NOM COMPLET du document, NUMÉRO DE PAGE PRÉCIS]\n"
-        "   - Sois concis mais complet\n"
-        "   - Reste strictement dans le domaine juridique\n\n"
-        "Historique conversationnel :\n"
-        "{chat_history}\n\n"
-        "Input actuel : {input}\n\n"
-        "Processus de raisonnement (Thought/Action/Observation) :\n"
-        "{agent_scratchpad}"
-    )
+GREETING: "Hello", "Good morning", "Bonjour", "Hi", "Hey", "Salut", etc.
+THANKS: "Thank you", "Thanks", "Merci", "Thx", etc.  
+LEGAL_QUESTION: Any request for legal information, advice, clarification, or documents
+OTHER: Everything else (small talk, unclear messages)
 
-    return PromptTemplate(
-        template=template,
-        input_variables=["tools", "tool_names", "input", "agent_scratchpad", "chat_history"]
-    )
+User message: "{question}"
 
+Respond with ONLY the category name: GREETING, THANKS, LEGAL_QUESTION, or OTHER"""
+)
+
+SIMPLE_RESPONSE_TEMPLATE = PromptTemplate(
+    input_variables=["message_type", "question"],
+    template="""The user sent a {message_type} message: "{question}"
+
+Generate an appropriate, brief, and friendly response:
+
+- If GREETING: Welcome them warmly and offer legal assistance in their language
+- If THANKS: Acknowledge politely and invite more questions in their language  
+- If OTHER: Redirect politely to legal topics
+
+Detect the user's language (French, English, Arabic, etc.) and respond in the SAME language.
+Keep it brief (2-3 sentences maximum) and professional."""
+)
+
+REFORMULATION_TEMPLATE = PromptTemplate(
+    input_variables=["query", "previous_attempts"],
+    template="""Tu es un expert en recherche juridique. Reformule cette question pour améliorer la recherche documentaire.
+
+INSTRUCTIONS:
+- Utilise des termes juridiques précis et variés
+- Préserve le sens exact de la question
+- Réponds dans la même langue que la question
+- Propose une approche différente des tentatives précédentes{previous_attempts}
+
+QUESTION ORIGINALE: {query}
+
+Réponds uniquement avec UNE reformulation optimale."""
+)
+
+SYNTHESIS_TEMPLATE = PromptTemplate(
+    input_variables=["question", "context", "sources_info"],
+    template="""Expert legal assistant.
+
+CRITICAL INSTRUCTION - READ FIRST:
+DETECT the user's query language and respond in EXACTLY that same language.
+Examples: User writes in english → You respond in english | French → You respond in French | User writes in Arabic → You respond in Arabic 
+This applies to EVERY word of your response. NO mixing languages.
+
+LANGUAGE MATCHING:
+1. First, identify the query language
+2. Respond 100% in that detected language
+3. Use appropriate legal terminology for that language
+4. Maintain professional tone in that language
+
+MESSAGE TYPES:
+• Greeting → Polite response + offer help (SAME LANGUAGE AS GREETING)
+• Thanks → Acknowledgment + availability (SAME LANGUAGE AS THANKS)
+• Farewell → Polite closure + signal continued availability (SAME LANGUAGE AS FAREWELL)
+• Legal question → Complete structured response (SAME LANGUAGE AS QUESTION)
+• Other → Redirect to legal topics (SAME LANGUAGE AS MESSAGE)
+
+LEGAL RESPONSE STRUCTURE:
+1. **Main Response** (no inline citations)
+2. **Important Clarifications**
+3. **Special Cases** (if applicable)
+**Conclusion:** [Summary + limitations]
+**Sources:** [Document.pdf, Page XX]
+
+RULES:
+- Response based ONLY on provided context
+- Citations ONLY at end of response
+- Professional tone adapted to language
+- Signal limitations/nuances
+- If insufficient context: clearly mention it
+- Never use external knowledge outside of the provided documents.
+
+QUESTION: {question}
+CONTEXT: {context}
+{sources_info}
+
+RESPONSE:"""
+)
