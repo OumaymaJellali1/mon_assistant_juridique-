@@ -1,6 +1,6 @@
 import re
 import asyncio
-from typing import Any, Dict, List, Tuple, TypedDict, Annotated, Optional, AsyncIterator
+from typing import Any, Dict, List, Tuple, TypedDict, Annotated, Optional
 import operator
 from datetime import datetime
 
@@ -10,10 +10,10 @@ from langchain_core.messages import BaseMessage, HumanMessage, AIMessage
 from langchain_google_genai import ChatGoogleGenerativeAI
 
         
-from src.qdrant.qdrant_client import QdrantClientWrapper
-from src.qdrant.qdrant import DocumentRetriever
-from src.config import settings
-from src.prompts.legal_prompts import (
+from backend.src.qdrant.qdrant_client import QdrantClientWrapper
+from backend.src.qdrant.qdrant import DocumentRetriever
+from backend.src.config import settings
+from backend.src.prompts.legal_prompts import (
     get_detection_prompt,
     get_simple_response_prompt,
     get_reformulation_prompt,
@@ -620,7 +620,7 @@ class AdvancedLegalChatbot:
         
         # Si on n'a pas trouvé grand chose et qu'on peut encore essayer
         if not documents_found or quality_score < 0.3:
-            if iteration_count < 3:  # Maximum 3 tentatives
+            if iteration_count < 3:  
                 return "reformulate"
         
         # Si on a quelque chose de moyen, on essaye de synthétiser quand même
@@ -634,7 +634,6 @@ class AdvancedLegalChatbot:
         """Nettoie et améliore la réponse finale"""
         # Corrections de base
         response = re.sub(r"Page\s*-1", "Document", response)
-        response = re.sub(r"Document\s*(\d+)", r"Page \1", response)
         
         # Amélioration du formatage
         response = re.sub(r"\n{3,}", "\n\n", response)  # Pas plus de 2 retours à la ligne
@@ -649,7 +648,7 @@ class AdvancedLegalChatbot:
     # === Interface publique ===
     
     async def process_question_async(self, question: str, config: Optional[Dict] = None) -> str:
-        """Traite une question de manière asynchrone avec streaming"""
+        """Traite une question de manière asynchrone"""
         try:
             # Configuration par défaut
             config = config or {"configurable": {"thread_id": "default"}}
@@ -691,40 +690,6 @@ class AdvancedLegalChatbot:
         """Version synchrone du traitement"""
         return asyncio.run(self.process_question_async(question, config))
     
-    async def stream_processing(self, question: str, config: Optional[Dict] = None) -> AsyncIterator[str]:
-        """Stream le traitement en temps réel"""
-        config = config or {"configurable": {"thread_id": "stream"}}
-        
-        initial_state = AdvancedAgentState(
-            messages=[HumanMessage(content=question)],
-            question=question,
-            search_results="",
-            reformulated_queries=[],
-            final_answer="",
-            iteration_count=0,
-            documents_found=False,
-            search_quality_score=0.0,
-            error_messages=[],
-            processing_time=0.0,
-            confidence_score=0.0,
-            sources=[],
-            user_preferences={}
-        )
-        
-        async for event in self.graph.astream(initial_state, config):
-            for node_name, node_output in event.items():
-                if node_name != "__end__":
-                    # Extraire les messages pour le streaming
-                    messages = node_output.get("messages", [])
-                    if messages:
-                        last_message = messages[-1]
-                        if isinstance(last_message, AIMessage):
-                            yield f"[{node_name}] {last_message.content}\n"
-                
-                # Si c'est la réponse finale
-                if node_name == "finalize_response" and "final_answer" in node_output:
-                    yield f"\nRéponse finale:\n{node_output['final_answer']}"
-    
     def _save_to_history(self, question: str, answer: str, state: Dict) -> None:
         """Sauvegarde enrichie dans l'historique"""
         metrics = {
@@ -738,13 +703,12 @@ class AdvancedLegalChatbot:
         self.conversation_history.append((question, answer, metrics))
         self.performance_metrics.append(metrics)
     
-    # === Interface interactive avancée ===
+    # === Interface interactive simplifiée ===
     
     async def run_interactive_async(self):
-        """Mode interactif asynchrone avec streaming"""
+        """Mode interactif asynchrone"""
         print("Assistant Juridique LangGraph Avancé - Prêt!")
         print("Commandes spéciales:")
-        print("  'stream' + question : Affichage en temps réel")
         print("  'metrics' : Statistiques de performance")
         print("  'history' : Historique détaillé")
         print("  'export' : Exporter l'historique")
@@ -774,19 +738,7 @@ class AdvancedLegalChatbot:
                     self._export_history()
                     continue
                 
-                # Mode streaming
-                if user_input.lower().startswith('stream '):
-                    question = user_input[7:]  # Enlever 'stream '
-                    print(f"\nTraitement en streaming de: '{question}'")
-                    print("-" * 40)
-                    
-                    async for update in self.stream_processing(question):
-                        print(update, end='', flush=True)
-                    
-                    print("\n" + "-" * 60)
-                    continue
-                
-                # Mode normal
+                # Mode normal (unique option)
                 print(f"\nTraitement de: '{user_input}'")
                 response = await self.process_question_async(user_input)
                 print(f"\nRéponse:\n{response}")
@@ -881,5 +833,3 @@ class AdvancedLegalChatbot:
     def run_interactive(self):
         """Version synchrone du mode interactif"""
         asyncio.run(self.run_interactive_async())
-
-

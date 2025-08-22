@@ -6,17 +6,17 @@ import fitz
 import google.generativeai as genai
 import uuid
 from tqdm import tqdm
-from typing import List, Dict, Tuple, Optional, Any
+from typing import List, Dict, Tuple, Optional
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain.storage import LocalFileStore
 from langchain.embeddings import CacheBackedEmbeddings
 from sentence_transformers import SentenceTransformer
 from qdrant_client import QdrantClient
 from qdrant_client.models import VectorParams, Distance, PointStruct
-from src.config import settings
-from src.prompts.legal_prompts import get_title_prompt, get_split_prompt
+from backend.src.config import settings
+from backend.src.prompts.legal_prompts import get_title_prompt, get_split_prompt
 from langchain_core.documents import Document
-from src.qdrant.qdrant_client import QdrantClientWrapper
+from backend.src.qdrant.qdrant_client import QdrantClientWrapper
 from qdrant_client.http.models import PointStruct
 
 class CacheManager:
@@ -535,12 +535,9 @@ class QdrantIndexer:
             point_id = str(uuid.uuid4())
             vector = item["embedding"]
             
-            # CORRECTION MAJEURE : Stocker le texte complet, pas juste le titre
             payload = {
-                # Toutes les métadonnées
                 **item["metadata"],
-                # LE TEXTE COMPLET QUI A ÉTÉ EMBEDDÉ
-                "content": item["text"],  # ← CHANGEMENT ICI
+                "content": item["text"],  
                 "page": int(item["metadata"]["page"]) if item["metadata"]["page"].isdigit() else item["metadata"]["page"]
             }
             
@@ -555,7 +552,6 @@ class QdrantIndexer:
 
 
 class DocumentRetriever:
-    """SIMPLIFICATION MAJEURE - Plus besoin de fonction complexe"""
     
     def __init__(self, qdrant_client: QdrantClientWrapper, embedder: SentenceTransformer):
         self.qdrant_client = qdrant_client
@@ -566,10 +562,8 @@ class DocumentRetriever:
             question = " ".join(question)
         
         try:
-            # Encoder la question
             embedded_question = self.embedder.encode(question).tolist()
             
-            # Rechercher dans Qdrant
             results = self.qdrant_client.query(embedded_question, top_k=top_k)
             
             documents = []
@@ -581,24 +575,20 @@ class DocumentRetriever:
                 payload = hit.payload
                 score = hit.score if hasattr(hit, 'score') else 0.0
                 
-                #  RÉCUPÉRATION DIRECTE DU CONTENU - Plus de fonction complexe !
                 content = payload.get("content", "").strip()
                 
-                # Validation basique
                 if not content or len(content) < 10:
                     print(f"Document {i} ignoré: contenu vide ou trop court")
                     continue
                 
-                # Déduplication basée sur le contenu
                 content_hash = hash(content[:200])
                 if content_hash in seen_content_hashes:
                     print(f"Document {i} ignoré: contenu dupliqué")
                     continue
                 seen_content_hashes.add(content_hash)
                 
-                #  CRÉATION DU DOCUMENT SIMPLIFIÉ
                 doc = Document(
-                    page_content=content,  # Le texte complet récupéré directement
+                    page_content=content,  
                     metadata={
                         "source": payload.get("pdf", "unknown"),
                         "page": payload.get("page", "N/A"),
@@ -625,73 +615,5 @@ class DocumentRetriever:
             return []
     
     
-    def retrieve_with_filters(self, question: str, pdf_filter: str = None, 
-                            page_filter: str = None, top_k: int = 20) -> List[Document]:
-        """Recherche avec filtres optionnels"""
-        if isinstance(question, list):
-            question = " ".join(question)
-        
-        try:
-            embedded_question = self.embedder.encode(question).tolist()
-            
-            # Construire les filtres Qdrant si nécessaires
-            query_filter = None
-            if pdf_filter or page_filter:
-                conditions = []
-                if pdf_filter:
-                    conditions.append({"key": "pdf", "match": {"value": pdf_filter}})
-                if page_filter:
-                    conditions.append({"key": "page", "match": {"value": page_filter}})
-                
-                if len(conditions) == 1:
-                    query_filter = conditions[0]
-                else:
-                    query_filter = {"must": conditions}
-            
-            # Recherche avec filtres
-            results = self.qdrant_client.query(
-                embedded_question, 
-                top_k=top_k,
-                query_filter=query_filter
-            )
-            
-            # Utiliser la même logique de traitement
-            return self._process_filtered_results(results)
-            
-        except Exception as e:
-            print(f" Erreur de recherche avec filtres: {str(e)}")
-            return []
     
-    def _process_filtered_results(self, results) -> List[Document]:
-        """Traiter les résultats filtrés"""
-        documents = []
-        seen_content_hashes = set()
         
-        for i, hit in enumerate(results):
-            payload = hit.payload
-            content = payload.get("content", "").strip()
-            
-            if not content or len(content) < 10:
-                continue
-            
-            content_hash = hash(content[:200])
-            if content_hash in seen_content_hashes:
-                continue
-            seen_content_hashes.add(content_hash)
-            
-            doc = Document(
-                page_content=content,
-                metadata={
-                    "source": payload.get("pdf", "unknown"),
-                    "page": payload.get("page", "N/A"),
-                    "chunk_id": payload.get("chunk_id", "unknown"),
-                    "titre_gemma": payload.get("titre_gemma", ""),
-                    "score": hit.score if hasattr(hit, 'score') else 0.0,
-                    "rank": i + 1,
-                    **{k: v for k, v in payload.items() 
-                       if k not in ["content", "pdf", "page", "chunk_id", "titre_gemma"]}
-                }
-            )
-            documents.append(doc)
-        
-        return documents

@@ -17,7 +17,6 @@ en respectant les paragraphes. Utilise ce séparateur :
 Texte :
 {text}
 """
-# === NOUVEAUX PROMPTS EXTRACTÉS ===
 
 def get_detection_prompt(question: str) -> str:
     return f"""Analyze this user message and classify it into ONE category:

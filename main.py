@@ -1,4 +1,4 @@
-from src.assistants.legal_chatbot import AdvancedLegalChatbot
+from backend.src.assistants.legal_chatbot import AdvancedLegalChatbot
 import asyncio
 
 async def main_async():
