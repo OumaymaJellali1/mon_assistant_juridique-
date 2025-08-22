@@ -3,8 +3,8 @@ from typing import Dict, List, Optional
 from datetime import datetime
 import logging
 
-from backend.api.models import ChatRequest, ChatResponse, ChatMessage, ErrorResponse
-from backend.services.chat_bridge import chat_bridge
+from api.models import ChatRequest, ChatResponse, ChatMessage, ErrorResponse
+from services.chat_bridge import chat_bridge
 
 # Configuration du logging
 logger = logging.getLogger(__name__)

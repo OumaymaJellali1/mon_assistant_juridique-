@@ -3,7 +3,8 @@ import re
 import time
 import json
 import fitz  
-import google.generativeai as genai
+# import google.generativeai as genai
+# from langchain_google_genai import genai
 import uuid
 from tqdm import tqdm
 from typing import List, Dict, Tuple, Optional
@@ -13,10 +14,10 @@ from langchain.embeddings import CacheBackedEmbeddings
 from sentence_transformers import SentenceTransformer
 from qdrant_client import QdrantClient
 from qdrant_client.models import VectorParams, Distance, PointStruct
-from backend.src.config import settings
-from backend.src.prompts.legal_prompts import get_title_prompt, get_split_prompt
+from config import settings
+from prompts.legal_prompts import get_title_prompt, get_split_prompt
 from langchain_core.documents import Document
-from backend.src.qdrant.qdrant_client import QdrantClientWrapper
+from qdrant.qdrant_client import QdrantClientWrapper
 from qdrant_client.http.models import PointStruct
 
 class CacheManager:
@@ -284,8 +285,6 @@ class HierarchyExtractor:
 class GemmaManager:
     """Classe pour gérer les interactions avec Gemma/Gemini"""
     def __init__(self):
-      genai.configure(api_key=settings.GEMINI_API_KEY)
-      self.model = genai.GenerativeModel(settings.GEMMA_MODEL)
       self.cache_manager = CacheManager()
       self.langchain_llm = ChatGoogleGenerativeAI(
         model=settings.GEMMA_MODEL,

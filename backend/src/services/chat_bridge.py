@@ -4,7 +4,8 @@ from typing import Dict, Optional
 from datetime import datetime
 import logging
 
-from backend.api.models import ChatRequest, ChatResponse
+
+from api.models import ChatRequest, ChatResponse
 
 # Configuration du logging
 logging.basicConfig(level=logging.INFO)
@@ -12,11 +13,12 @@ logger = logging.getLogger(__name__)
 
 # Import sécurisé de votre agent
 try:
-    from backend.src.assistants.legal_chatbot import AdvancedLegalChatbot
+    from assistants.legal_chatbot import AdvancedLegalChatbot
     logger.info("Import de AdvancedLegalChatbot réussi")
 except ImportError as e:
     logger.error(f"Erreur d'import de AdvancedLegalChatbot: {e}")
     AdvancedLegalChatbot = None
+    raise ValueError(f"AdvancedLegalChatbot non disponible, vérifiez votre configuration {e}")
 
 class ChatBridgeService:
     """
@@ -114,7 +116,7 @@ class ChatBridgeService:
                 assistant_response=response_text,
                 user_id=request.user_id
             )
-            
+            print(f"response_text: {response_text}")
             # Création de la réponse
             chat_response = ChatResponse(
                 message=response_text,

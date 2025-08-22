@@ -4,16 +4,16 @@ from typing import Any, Dict, List, Tuple, TypedDict, Annotated, Optional
 import operator
 from datetime import datetime
 
-from langgraph.graph import StateGraph, END
+from langgraph.graph import StateGraph, END, MessagesState
 from langgraph.checkpoint.memory import MemorySaver
 from langchain_core.messages import BaseMessage, HumanMessage, AIMessage
 from langchain_google_genai import ChatGoogleGenerativeAI
 
         
-from backend.src.qdrant.qdrant_client import QdrantClientWrapper
-from backend.src.qdrant.qdrant import DocumentRetriever
-from backend.src.config import settings
-from backend.src.prompts.legal_prompts import (
+from qdrant.qdrant_client import QdrantClientWrapper
+from qdrant.qdrant import DocumentRetriever
+from config import settings
+from prompts.legal_prompts import (
     get_detection_prompt,
     get_simple_response_prompt,
     get_reformulation_prompt,
@@ -23,8 +23,7 @@ from backend.src.prompts.legal_prompts import (
 import json
 from datetime import datetime    
 # === État étendu du graphe ===
-class AdvancedAgentState(TypedDict):
-    messages: Annotated[List[BaseMessage], operator.add]
+class AdvancedAgentState(MessagesState):
     question: str
     search_results: str
     reformulated_queries: List[str]
@@ -674,6 +673,7 @@ class AdvancedLegalChatbot:
             final_state = await self.graph.ainvoke(initial_state, config)
             
             # Récupération de la réponse
+            print(f"messages {final_state}")
             final_answer = final_state.get("final_answer", "Aucune réponse générée")
             
             # Sauvegarde de l'historique avec métriques
