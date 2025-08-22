@@ -33,13 +33,13 @@ def main():
     for dir_path in required_dirs:
         full_path = root_dir / dir_path
         if not full_path.exists():
-            print(f"⚠️  Dossier manquant: {dir_path}")
+            print(f"  Dossier manquant: {dir_path}")
             print(f"   Création du dossier...")
             full_path.mkdir(parents=True, exist_ok=True)
         else:
             print(f" Dossier OK: {dir_path}")
     
-    print("\n📡 Configuration du serveur:")
+    print("\n Configuration du serveur:")
     print("   Host: 127.0.0.1")
     print("   Port: 8000")
     print("   Mode: Development (reload activé)")

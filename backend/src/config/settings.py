@@ -15,7 +15,7 @@ EMBEDDINGS_FILE = os.path.join(EMBEDDINGS_FOLDER, "vectors.json")
 
 # GEMINI / GEMMA API
 GEMINI_API_KEY = "AIzaSyBJ5xLmhvTIDzJo3MPbhLejZjAIHhFD7-E"
-GEMMA_MODEL = "gemma-3n-e2b-it"
+GEMMA_MODEL = "gemini-2.0-flash"
 
 # Modèle embeddings - CHANGEMENT ICI
 EMBEDDING_MODEL_NAME = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"

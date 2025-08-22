@@ -218,7 +218,7 @@ class LegalToolBox:
         
         # Utilisation du prompt externe
         prompt = get_synthesis_prompt(question, context, sources)
-        
+        print(f" prompt used {prompt}")
         response = self.llm.invoke([HumanMessage(content=prompt)])
         answer = response.content.strip()
         
