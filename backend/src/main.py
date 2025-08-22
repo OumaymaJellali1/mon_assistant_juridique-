@@ -3,9 +3,11 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
 import logging
 from datetime import datetime
+from dotenv import load_dotenv
 
+load_dotenv()
 # Import des endpoints
-from backend.api.endpoints import chat, health
+from api.endpoints import chat, health
 
 # Configuration du logging
 logging.basicConfig(

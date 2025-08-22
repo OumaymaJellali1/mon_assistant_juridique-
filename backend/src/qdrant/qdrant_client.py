@@ -1,6 +1,6 @@
 
 from qdrant_client import QdrantClient
-from backend.src.config.settings import QDRANT_HOST, QDRANT_PORT, QDRANT_COLLECTION
+from config.settings import QDRANT_HOST, QDRANT_PORT, QDRANT_COLLECTION
 
 class QdrantClientWrapper:
     def __init__(self):

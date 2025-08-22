@@ -2,8 +2,8 @@ from fastapi import APIRouter
 from datetime import datetime
 from typing import Dict, Any
 
-from backend.api.models import HealthCheck
-from backend.services.chat_bridge import chat_bridge
+from api.models import HealthCheck
+from services.chat_bridge import chat_bridge
 
 router = APIRouter()
 
