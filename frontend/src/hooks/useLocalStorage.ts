@@ -1,5 +1,5 @@
 // src/hooks/useLocalStorage.ts
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useCallback } from 'react';
 
 export function useLocalStorage<T>(key: string, initialValue: T) {
   // État pour stocker la valeur
@@ -18,7 +18,7 @@ export function useLocalStorage<T>(key: string, initialValue: T) {
   });
 
   // Fonction pour sauvegarder dans localStorage
-  const setValue = (value: T | ((val: T) => T)) => {
+  const setValue = useCallback((value: T | ((val: T) => T)) => {
     try {
       const valueToStore = value instanceof Function ? value(storedValue) : value;
       setStoredValue(valueToStore);
@@ -29,7 +29,33 @@ export function useLocalStorage<T>(key: string, initialValue: T) {
     } catch (error) {
       console.error(`Error setting localStorage key "${key}":`, error);
     }
-  };
+  }, [key, storedValue]);
 
-  return [storedValue, setValue] as const;
+  // Fonction pour supprimer de localStorage
+  const removeValue = useCallback(() => {
+    try {
+      setStoredValue(initialValue);
+      if (typeof window !== "undefined") {
+        window.localStorage.removeItem(key);
+      }
+    } catch (error) {
+      console.error(`Error removing localStorage key "${key}":`, error);
+    }
+  }, [key, initialValue]);
+
+  // Vérifier si la valeur existe
+  const hasValue = useCallback((): boolean => {
+    if (typeof window === "undefined") {
+      return false;
+    }
+    
+    try {
+      return window.localStorage.getItem(key) !== null;
+    } catch (error) {
+      console.error(`Error checking localStorage key "${key}":`, error);
+      return false;
+    }
+  }, [key]);
+
+  return [storedValue, setValue, removeValue, hasValue] as const;
 }
