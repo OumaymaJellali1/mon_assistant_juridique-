@@ -1,6 +1,8 @@
-from backend.src.assistants.legal_chatbot import AdvancedLegalChatbot
+from assistants.legal_chatbot import AdvancedLegalChatbot
 import asyncio
+from dotenv import load_dotenv
 
+load_dotenv()
 async def main_async():
     """Point d'entrée principal asynchrone"""
     try:

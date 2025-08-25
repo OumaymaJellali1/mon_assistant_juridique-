@@ -1,0 +1,8 @@
+{
+"css.lint.unknownAtRules": "ignore",
+"tailwindCSS.includeLanguages": {
+  "plaintext": "html",
+  "javascript": "javascript",
+  "typescript": "typescriptreact",
+  "css": "css"
+}}

@@ -1,7 +1,6 @@
 import re
 import asyncio
 from typing import Any, Dict, List, Tuple, TypedDict, Annotated, Optional
-import operator
 from datetime import datetime
 
 from langgraph.graph import StateGraph, END, MessagesState
@@ -671,7 +670,8 @@ class AdvancedLegalChatbot:
             
             # Exécution du graphe
             final_state = await self.graph.ainvoke(initial_state, config)
-            
+            sources = final_state.get("sources", [])
+
             # Récupération de la réponse
             print(f"messages {final_state}")
             final_answer = final_state.get("final_answer", "Aucune réponse générée")
@@ -679,7 +679,13 @@ class AdvancedLegalChatbot:
             # Sauvegarde de l'historique avec métriques
             self._save_to_history(question, final_answer, final_state)
             
-            return final_answer
+            return {
+    "answer": final_answer,
+    "sources": sources,
+    "confidence": final_state.get("confidence_score", 0.0),
+    "processing_time": final_state.get("processing_time", 0.0)
+}
+
             
         except Exception as e:
             error_msg = f"Erreur lors du traitement: {str(e)}"

@@ -58,11 +58,11 @@ def main():
     try:
         # Lancement du serveur
         uvicorn.run(
-            "backend.api.main:app",
+            "src.main:app",
             host="127.0.0.1",
             port=8000,
             reload=True,
-            reload_dirs=[str(root_dir / "backend")],
+            reload_dirs=[str(root_dir / "backend/src")],
             log_level="info",
             access_log=True
         )

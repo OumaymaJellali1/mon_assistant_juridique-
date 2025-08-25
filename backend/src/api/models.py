@@ -2,6 +2,7 @@ from pydantic import BaseModel
 from typing import Optional, List
 from datetime import datetime
 from enum import Enum
+from typing import List, Dict, Any
 
 class MessageRole(str, Enum):
     USER = "user"
@@ -22,7 +23,7 @@ class ChatResponse(BaseModel):
     message: str
     conversation_id: str
     timestamp: datetime
-    
+    sources: List[Dict[str, Any]] = []
 class HealthCheck(BaseModel):
     status: str
     timestamp: datetime

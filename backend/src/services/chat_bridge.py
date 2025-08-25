@@ -104,25 +104,26 @@ class ChatBridgeService:
             logger.info(f"Traitement du message pour conversation {conversation_id}")
             
             # Appel de votre agent existant
-            response_text = await self.agent.process_question_async(
-                question=request.message,
-                config=config
-            )
+            result = await self.agent.process_question_async(
+            question=request.message,
+            config=config
+)
             
             # Mise à jour de l'historique des conversations
             self._update_conversation_history(
-                conversation_id=conversation_id,
-                user_message=request.message,
-                assistant_response=response_text,
-                user_id=request.user_id
-            )
-            print(f"response_text: {response_text}")
+    conversation_id=conversation_id,
+    user_message=request.message,
+    assistant_response=result.get("answer", ""),
+    user_id=request.user_id
+)
+
             # Création de la réponse
             chat_response = ChatResponse(
-                message=response_text,
-                conversation_id=conversation_id,
-                timestamp=datetime.now()
-            )
+    message=result.get("answer", ""),           # la réponse du bot
+    conversation_id=conversation_id,
+    timestamp=datetime.now(),
+    sources=result.get("sources", [])           # les sources du bot
+)
             
             logger.info(f"Réponse générée avec succès pour conversation {conversation_id}")
             return chat_response
