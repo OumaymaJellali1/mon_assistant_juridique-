@@ -15,7 +15,6 @@ export function Header({ isApiHealthy, conversationCount }: HeaderProps) {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
           
-          {/* Logo et titre */}
           <div className="flex items-center gap-3">
             <div className="w-10 h-10 bg-gradient-to-br from-slate-700 to-slate-900 rounded-lg flex items-center justify-center">
               <Scale size={24} className="text-white" />
@@ -27,10 +26,8 @@ export function Header({ isApiHealthy, conversationCount }: HeaderProps) {
             </div>
           </div>
 
-          {/* Indicateurs et métadonnées */}
           <div className="flex items-center gap-4">
             
-            {/* Compteur de consultations */}
             <div className="hidden sm:flex items-center gap-2">
               <Shield size={16} className="text-slate-500" />
               <span className="text-sm text-slate-600">
@@ -38,7 +35,6 @@ export function Header({ isApiHealthy, conversationCount }: HeaderProps) {
               </span>
             </div>
 
-            {/* Statut de l'API */}
             <div className="flex items-center gap-2">
               <div className={cn(
                 "w-2 h-2 rounded-full",
@@ -49,7 +45,6 @@ export function Header({ isApiHealthy, conversationCount }: HeaderProps) {
               </Badge>
             </div>
 
-            {/* Version */}
             <Badge variant="secondary" className="hidden md:inline-flex">
               v1.0.0
             </Badge>

@@ -6,32 +6,29 @@ from datetime import datetime
 from dotenv import load_dotenv
 
 load_dotenv()
-# Import des endpoints
-from api.endpoints import chat, health
 
-# Configuration du logging
+from api.endpoints import chat, health, documents  
+
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
 )
 logger = logging.getLogger(__name__)
 
-# Création de l'application FastAPI
 app = FastAPI(
     title="Smart Legal Interface API",
-    description="API pour l'interface du chatbot juridique intelligent",
+    description="API pour l'interface du chatbot juridique intelligent avec gestion des documents",
     version="1.0.0",
     docs_url="/docs",
     redoc_url="/redoc"
 )
 
-# Configuration CORS pour permettre les requêtes depuis le frontend Next.js
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
-        "http://localhost:3000",  # Next.js dev server
+        "http://localhost:3000",  
         "http://127.0.0.1:3000",
-        "http://localhost:3001",  # Alternative port
+        "http://localhost:3001",  
         "http://127.0.0.1:3001",
     ],
     allow_credentials=True,
@@ -39,9 +36,9 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Inclusion des routers
 app.include_router(health.router, prefix="/api/v1")
 app.include_router(chat.router, prefix="/api/v1")
+app.include_router(documents.router, prefix="/api/v1/documents")
 
 @app.get("/")
 async def root():
@@ -72,12 +69,13 @@ async def api_info():
             "metrics": "/api/v1/metrics",
             "chat": "/api/v1/chat",
             "test": "/api/v1/chat/test",
-            "conversations": "/api/v1/chat/conversations"
+            "conversations": "/api/v1/chat/conversations",
+            "documents": "/api/v1/documents",  
+            "document_health": "/api/v1/documents/health"  
         },
         "timestamp": datetime.now().isoformat()
     }
 
-# Gestionnaire d'erreur global
 @app.exception_handler(Exception)
 async def global_exception_handler(request, exc):
     """
@@ -94,7 +92,6 @@ async def global_exception_handler(request, exc):
         }
     )
 
-# Gestionnaire d'erreur 404
 @app.exception_handler(404)
 async def not_found_handler(request, exc):
     """
@@ -108,38 +105,14 @@ async def not_found_handler(request, exc):
             "available_endpoints": [
                 "/api/v1/health",
                 "/api/v1/chat",
+                "/api/v1/documents",  
                 "/docs"
             ],
             "timestamp": datetime.now().isoformat()
         }
     )
 
-# Event handlers
-@app.on_event("startup")
-async def startup_event():
-    """
-    Actions à effectuer au démarrage de l'API
-    """
-    logger.info(" Démarrage de l'API Smart Legal Interface")
-    logger.info(" Initialisation du service de chat bridge...")
-    
-    # Ici, on peut ajouter d'autres initialisations si nécessaire
-    
-    logger.info(" API prête à recevoir des requêtes")
 
-@app.on_event("shutdown")
-async def shutdown_event():
-    """
-    Actions à effectuer à l'arrêt de l'API
-    """
-    logger.info(" Arrêt de l'API Smart Legal Interface")
-    logger.info(" Sauvegarde des données en cours...")
-    
-    # Ici, on peut ajouter la sauvegarde de l'historique si nécessaire
-    
-    logger.info(" Arrêt terminé proprement")
-
-# Middleware de logging des requêtes
 @app.middleware("http")
 async def log_requests(request, call_next):
     """
@@ -147,17 +120,14 @@ async def log_requests(request, call_next):
     """
     start_time = datetime.now()
     
-    # Log de la requête entrante
     logger.info(f" {request.method} {request.url.path}")
     
-    # Traitement de la requête
     response = await call_next(request)
     
-    # Calcul du temps de traitement
     process_time = (datetime.now() - start_time).total_seconds()
     
-    # Log de la réponse
-    logger.info(f" {request.method} {request.url.path} - {response.status_code} - {process_time:.3f}s")
+    status_emoji = "" if response.status_code < 400 else ""
+    logger.info(f"{status_emoji} {request.method} {request.url.path} - {response.status_code} - {process_time:.3f}s")
     
     return response
 

@@ -24,7 +24,6 @@ export function useApiHealth() {
   useEffect(() => {
     checkHealth();
     
-    // Vérification périodique toutes les 30 secondes
     const interval = setInterval(checkHealth, 30000);
     
     return () => clearInterval(interval);

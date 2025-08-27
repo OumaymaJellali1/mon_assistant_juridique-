@@ -2,7 +2,6 @@
 import { useState, useEffect, useCallback } from 'react';
 
 export function useLocalStorage<T>(key: string, initialValue: T) {
-  // État pour stocker la valeur
   const [storedValue, setStoredValue] = useState<T>(() => {
     if (typeof window === "undefined") {
       return initialValue;
@@ -17,7 +16,6 @@ export function useLocalStorage<T>(key: string, initialValue: T) {
     }
   });
 
-  // Fonction pour sauvegarder dans localStorage
   const setValue = useCallback((value: T | ((val: T) => T)) => {
     try {
       const valueToStore = value instanceof Function ? value(storedValue) : value;
@@ -31,7 +29,6 @@ export function useLocalStorage<T>(key: string, initialValue: T) {
     }
   }, [key, storedValue]);
 
-  // Fonction pour supprimer de localStorage
   const removeValue = useCallback(() => {
     try {
       setStoredValue(initialValue);
@@ -43,7 +40,6 @@ export function useLocalStorage<T>(key: string, initialValue: T) {
     }
   }, [key, initialValue]);
 
-  // Vérifier si la valeur existe
   const hasValue = useCallback((): boolean => {
     if (typeof window === "undefined") {
       return false;

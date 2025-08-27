@@ -12,7 +12,6 @@ class QdrantClientWrapper:
             collection_name=self.collection_name,
             query=vector,
             limit=top_k,
-            # with_payload=True
         )
         return results.points
     

@@ -27,7 +27,6 @@ async def detailed_health_check() -> Dict[str, Any]:
     """
     service_health = chat_bridge.health_check()
     
-    # Informations détaillées
     detailed_info = {
         "api": {
             "status": "healthy",
@@ -37,11 +36,10 @@ async def detailed_health_check() -> Dict[str, Any]:
         "chat_bridge": service_health,
         "system": {
             "python_version": "3.x",
-            "environment": "development"  # À adapter selon votre config
+            "environment": "development" 
         }
     }
     
-    # Status global basé sur les composants
     if service_health.get("status") == "healthy":
         detailed_info["global_status"] = "healthy"
     else:

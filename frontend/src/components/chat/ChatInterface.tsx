@@ -26,7 +26,6 @@ export function ChatInterface({
 }: ChatInterfaceProps) {
   const messagesEndRef = useRef<HTMLDivElement>(null);
 
-  // Auto-scroll vers le bas
   useEffect(() => {
     if (messagesEndRef.current) {
       messagesEndRef.current.scrollIntoView({ 
@@ -41,7 +40,6 @@ export function ChatInterface({
   return (
     <div className="flex flex-col h-full bg-slate-50">
       
-      {/* Header du chat */}
       <div className="bg-white border-b border-slate-200 p-4">
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-3">
@@ -50,13 +48,11 @@ export function ChatInterface({
             </div>
             <div>
               <h1 className="font-semibold text-slate-900">Assistant Juridique</h1>
-              <p className="text-sm text-slate-600">
-                {currentConversationId ? `Consultation #${currentConversationId.slice(-8)}` : 'Nouvelle consultation'}
-              </p>
+              <p className="text-sm text-slate-600">Nouvelle consultation</p>
+
             </div>
           </div>
           
-          {/* Indicateur de statut */}
           <div className="flex items-center gap-2">
             <div className="w-2 h-2 bg-green-500 rounded-full animate-pulse"></div>
             <span className="text-xs text-slate-500">En ligne</span>
@@ -64,10 +60,8 @@ export function ChatInterface({
         </div>
       </div>
 
-      {/* Zone des messages */}
       <div className="flex-1 overflow-y-auto p-4">
         
-        {/* Message d'accueil */}
         {isEmpty && (
           <div className="flex flex-col items-center justify-center h-full text-center">
             <div className="w-16 h-16 bg-slate-100 rounded-full flex items-center justify-center mb-4">
@@ -103,7 +97,6 @@ export function ChatInterface({
           </div>
         )}
 
-        {/* Messages */}
         {messages.map((message) => (
           <MessageBubble
             key={message.id}
@@ -112,14 +105,11 @@ export function ChatInterface({
           />
         ))}
 
-        {/* Indicateur de frappe */}
         {isLoading && <TypingIndicator />}
 
-        {/* Ancre pour l'auto-scroll */}
         <div ref={messagesEndRef} />
       </div>
 
-      {/* Zone d'erreur */}
       {error && (
         <div className="bg-red-50 border-t border-red-200 p-4">
           <div className="flex items-center gap-3">
@@ -140,7 +130,6 @@ export function ChatInterface({
         </div>
       )}
 
-      {/* Zone de saisie */}
       <InputArea
        onSendMessage={onSendMessage}
        isLoading={isLoading}

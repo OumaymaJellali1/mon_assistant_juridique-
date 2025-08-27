@@ -24,6 +24,7 @@ export default function HomePage() {
     sendMessage,
     startNewConversation,
     loadConversation,
+    deleteConversation, // <-- AJOUTÉ
     clearError
   } = useChat();
 
@@ -86,6 +87,10 @@ export default function HomePage() {
           }}
           onNewConversation={() => {
             startNewConversation();
+            closeSidebar();
+          }}
+          onDeleteConversation={(id) => {
+            deleteConversation(id);
             closeSidebar();
           }}
           isOpen={sidebarOpen}

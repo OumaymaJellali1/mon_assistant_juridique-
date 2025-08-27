@@ -1,4 +1,4 @@
-// src/hooks/useChat.ts
+// src/hooks/useChat.ts - Version mise à jour avec gestion des sources
 import { useState, useCallback, useEffect } from 'react';
 import { v4 as uuidv4 } from 'uuid';
 import { ChatService } from '@/services/chatService';
@@ -14,28 +14,31 @@ export function useChat() {
 
   const [conversations, setConversations] = useState<Conversation[]>([]);
 
-  // Fonction utilitaire pour sauvegarder dans localStorage
   const saveToLocalStorage = useCallback((conversationId: string, messages: ChatMessage[]) => {
     try {
       if (typeof window !== 'undefined') {
-        localStorage.setItem(`conversation_${conversationId}`, JSON.stringify(messages));
+        const serializedMessages = messages.map(msg => ({
+          ...msg,
+          timestamp: msg.timestamp.toISOString(), 
+          sources: msg.sources || [] 
+        }));
+        localStorage.setItem(`conversation_${conversationId}`, JSON.stringify(serializedMessages));
       }
     } catch (error) {
       console.error('Error saving to localStorage:', error);
     }
   }, []);
 
-  // Fonction utilitaire pour charger depuis localStorage
   const loadFromLocalStorage = useCallback((conversationId: string): ChatMessage[] => {
     try {
       if (typeof window !== 'undefined') {
         const stored = localStorage.getItem(`conversation_${conversationId}`);
         if (stored) {
           const messages = JSON.parse(stored);
-          // Reconvertir les timestamps depuis les chaînes JSON
           return messages.map((msg: any) => ({
             ...msg,
-            timestamp: new Date(msg.timestamp)
+            timestamp: new Date(msg.timestamp),
+            sources: msg.sources || [] 
           }));
         }
       }
@@ -45,25 +48,27 @@ export function useChat() {
     return [];
   }, []);
 
-  // Sauvegarder les conversations
   const saveConversationsToStorage = useCallback((conversations: Conversation[]) => {
     try {
       if (typeof window !== 'undefined') {
-        localStorage.setItem('conversations_list', JSON.stringify(conversations));
+        const serializedConversations = conversations.map(conv => ({
+          ...conv,
+          createdAt: conv.createdAt.toISOString(),
+          updatedAt: conv.updatedAt.toISOString()
+        }));
+        localStorage.setItem('conversations_list', JSON.stringify(serializedConversations));
       }
     } catch (error) {
       console.error('Error saving conversations:', error);
     }
   }, []);
 
-  // Charger les conversations
   const loadConversationsFromStorage = useCallback((): Conversation[] => {
     try {
       if (typeof window !== 'undefined') {
         const stored = localStorage.getItem('conversations_list');
         if (stored) {
           const conversations = JSON.parse(stored);
-          // Reconvertir les dates depuis les chaînes JSON
           return conversations.map((conv: any) => ({
             ...conv,
             createdAt: new Date(conv.createdAt),
@@ -77,7 +82,6 @@ export function useChat() {
     return [];
   }, []);
 
-  // Créer une nouvelle conversation
   const startNewConversation = useCallback(() => {
     const newConversationId = uuidv4();
     
@@ -88,7 +92,6 @@ export function useChat() {
       error: undefined
     }));
 
-    // Ajouter à la liste des conversations
     const newConversation: Conversation = {
       id: newConversationId,
       title: 'Nouvelle consultation',
@@ -106,17 +109,14 @@ export function useChat() {
     return newConversationId;
   }, [saveConversationsToStorage]);
 
-  // Envoyer un message
   const sendMessage = useCallback(async (message: string) => {
     if (!message.trim()) return;
 
-    // Obtenir ou créer un ID de conversation
     let conversationId = state.currentConversationId;
     if (!conversationId) {
       conversationId = startNewConversation();
     }
 
-    // Commencer le chargement
     setState(prev => ({ 
       ...prev, 
       isLoading: true, 
@@ -124,14 +124,12 @@ export function useChat() {
     }));
 
     try {
-      // Appel du service
       const { messages: newMessages } = await ChatService.sendMessage(
         message, 
         conversationId,
         'user_001'
       );
 
-      // Mise à jour des messages
       const allMessages = [...state.messages, ...newMessages];
       setState(prev => ({
         ...prev,
@@ -140,10 +138,8 @@ export function useChat() {
         currentConversationId: conversationId
       }));
 
-      // Sauvegarder les messages dans localStorage
       saveToLocalStorage(conversationId!, allMessages);
 
-      // Mise à jour de la conversation
       setConversations(prev => {
         const updated = prev.map(conv => 
           conv.id === conversationId 
@@ -170,23 +166,19 @@ export function useChat() {
     }
   }, [state.currentConversationId, state.messages, conversations, startNewConversation, saveToLocalStorage, saveConversationsToStorage]);
 
-  // Charger une conversation existante - CORRECTION PRINCIPALE
   const loadConversation = useCallback((conversationId: string) => {
-    // Charger les messages de cette conversation depuis localStorage
     const conversationMessages = loadFromLocalStorage(conversationId);
     
     setState(prev => ({
       ...prev,
       currentConversationId: conversationId,
-      messages: conversationMessages, // Charger les vrais messages
+      messages: conversationMessages, 
       error: undefined,
       isLoading: false
     }));
   }, [loadFromLocalStorage]);
 
-  // Supprimer une conversation
   const deleteConversation = useCallback((conversationId: string) => {
-    // Supprimer de localStorage
     try {
       if (typeof window !== 'undefined') {
         localStorage.removeItem(`conversation_${conversationId}`);
@@ -195,14 +187,12 @@ export function useChat() {
       console.error('Error deleting conversation from localStorage:', error);
     }
 
-    // Supprimer de la liste
     setConversations(prev => {
       const updated = prev.filter(conv => conv.id !== conversationId);
       saveConversationsToStorage(updated);
       return updated;
     });
 
-    // Si c'était la conversation courante, en créer une nouvelle
     if (state.currentConversationId === conversationId) {
       const newConversationId = uuidv4();
       
@@ -229,19 +219,15 @@ export function useChat() {
     }
   }, [state.currentConversationId, saveConversationsToStorage]);
 
-  // Effacer l'erreur
   const clearError = useCallback(() => {
     setState(prev => ({ ...prev, error: undefined }));
   }, []);
 
-  // Initialisation au chargement du composant
   useEffect(() => {
-    // Charger les conversations existantes
     const savedConversations = loadConversationsFromStorage();
     
     if (savedConversations.length > 0) {
       setConversations(savedConversations);
-      // Charger la conversation la plus récente
       const mostRecent = savedConversations[0];
       const conversationMessages = loadFromLocalStorage(mostRecent.id);
       
@@ -253,7 +239,6 @@ export function useChat() {
         isLoading: false
       }));
     } else {
-      // Créer une nouvelle conversation si aucune n'existe
       const newConversationId = uuidv4();
       
       setState(prev => ({
@@ -274,17 +259,15 @@ export function useChat() {
       setConversations([newConversation]);
       saveConversationsToStorage([newConversation]);
     }
-  }, []); // Dépendances vides pour ne s'exécuter qu'une fois
+  }, []); 
 
   return {
-    // État
     messages: state.messages,
     conversations,
     currentConversationId: state.currentConversationId,
     isLoading: state.isLoading,
     error: state.error,
     
-    // Actions
     sendMessage,
     startNewConversation,
     loadConversation,

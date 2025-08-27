@@ -9,7 +9,6 @@ import sys
 import uvicorn
 from pathlib import Path
 
-# Ajouter le dossier racine au PYTHONPATH pour les imports
 current_dir = Path(__file__).parent
 root_dir = current_dir.parent
 sys.path.insert(0, str(root_dir))
@@ -20,10 +19,8 @@ def main():
     print(" Lancement du serveur Smart Legal Interface")
     print("=" * 50)
     
-    # Vérifications préalables
     print(" Vérification de l'environnement...")
     
-    # Vérifier la structure des dossiers
     required_dirs = [
         "backend/data",
         "backend/cache", 
@@ -56,13 +53,11 @@ def main():
     print("=" * 50)
     
     try:
-        # Lancement du serveur
         uvicorn.run(
-            "src.main:app",
+            "main:app",
             host="127.0.0.1",
             port=8000,
             reload=True,
-            reload_dirs=[str(root_dir / "backend/src")],
             log_level="info",
             access_log=True
         )

@@ -1,4 +1,6 @@
 // src/types/api.ts
+import type { Source } from './chat';
+
 export interface ApiChatRequest {
   message: string;
   conversation_id?: string;
@@ -9,6 +11,7 @@ export interface ApiChatResponse {
   message: string;
   conversation_id: string;
   timestamp: string;
+  sources: Source[]; 
 }
 
 export interface ApiHealthCheck {

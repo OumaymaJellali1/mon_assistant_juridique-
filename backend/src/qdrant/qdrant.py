@@ -3,8 +3,6 @@ import re
 import time
 import json
 import fitz  
-# import google.generativeai as genai
-# from langchain_google_genai import genai
 import uuid
 from tqdm import tqdm
 from typing import List, Dict, Tuple, Optional
@@ -52,55 +50,7 @@ class TextProcessor:
     @staticmethod
     def truncate_text(text: str, max_chars: int = settings.MAX_TITLE_CHARS) -> str:
         return text[:max_chars] + " [...]" if len(text) > max_chars else text
-    #amelioration a tester au lieu de la fct precedente
-    """ @staticmethod
-    def truncate_text(text: str, max_chars: int = settings.MAX_TITLE_CHARS) -> str:
-    """
-    #Tronque intelligemment le texte en préservant:
-    #- Les phrases complètes
-    #- Les éléments juridiques critiques
-    #- La structure des articles
-    """
-    # Cas simple : texte suffisamment court
-    if len(text) <= max_chars:
-        return text
     
-    # Préserver les structures juridiques importantes
-    patterns = [
-        r"(ARTICLE\s[^\n]+)",
-        r"(ALINÉA\s\d+)",
-        r"(https?://\S+)",  # URLs
-        r"(L\.\s?\d+-\d+)",  # Références légales
-    ]
-    
-    preserved_elements = []
-    for pattern in patterns:
-        for match in re.finditer(pattern, text):
-            if match.start() < max_chars:
-                preserved_elements.append(match.group(0))
-    
-    # Trouver une coupure naturelle
-    last_boundary = max(
-        text.rfind('.', 0, max_chars),
-        text.rfind(';', 0, max_chars),
-        text.rfind('\n\n', 0, max_chars),  # Paragraphes
-        text.rfind(' - ', 0, max_chars)     # Tirets juridiques
-    )
-    
-    # Déterminer le point de coupure
-    if last_boundary > 0.7 * max_chars:  # Au moins 70% du texte préservé
-        truncated = text[:last_boundary + 1]
-    else:
-        # Fallback: troncature simple mais avec indicateur clair
-        truncated = text[:max_chars]
-    
-    # Ajouter les éléments préservés
-    if preserved_elements:
-        truncated += "\n\n[ÉLÉMENTS CLÉS CONSERVÉS]:\n- " + "\n- ".join(preserved_elements)
-    
-    return truncated + " [...]" """
-
-
     @staticmethod
     def remove_isolated_numbers(text: str) -> str:
         lines = text.splitlines()

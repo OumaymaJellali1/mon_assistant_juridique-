@@ -18,7 +18,6 @@ export function InputArea({
   const [message, setMessage] = useState('');
   const textareaRef = useRef<HTMLTextAreaElement>(null);
 
-  // Auto-resize du textarea
   useEffect(() => {
     const textarea = textareaRef.current;
     if (textarea) {
@@ -47,7 +46,6 @@ export function InputArea({
     <div className="bg-white border-t border-slate-200 p-4">
       <form onSubmit={handleSubmit} className="flex gap-3">
         
-        {/* Zone de saisie */}
         <div className="flex-1 relative">
           <textarea
             ref={textareaRef}
@@ -67,16 +65,13 @@ export function InputArea({
             rows={1}
           />
           
-          {/* Compteur de caractères */}
           <div className="absolute bottom-1 right-1 text-xs text-slate-400">
             {message.length}/5000
           </div>
         </div>
 
-        {/* Actions */}
         <div className="flex flex-col gap-2">
           
-          {/* Bouton d'envoi */}
           <Button
             type="submit"
             variant="primary"
@@ -91,7 +86,6 @@ export function InputArea({
         </div>
       </form>
       
-      {/* Note juridique */}
       <div className="mt-2 text-xs text-slate-500 text-center">
         ⚖️ Cette consultation est à titre informatif. Pour des conseils juridiques personnalisés, consultez un avocat.
       </div>

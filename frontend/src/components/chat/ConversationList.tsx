@@ -1,9 +1,9 @@
 // src/components/chat/ConversationList.tsx
-import React from 'react';
+import React, { useState } from 'react';
 import { Button } from '@/components/ui/Button';
 import { Badge } from '@/components/ui/Badge';
 import { cn } from '@/utils/cn';
-import { Plus, MessageSquare, Clock } from 'lucide-react';
+import { Plus, MessageSquare, Clock, Trash2, MoreVertical } from 'lucide-react';
 import type { Conversation } from '@/types/chat';
 import { Scale } from 'lucide-react';
 
@@ -12,13 +12,74 @@ interface ConversationListProps {
   currentConversationId?: string;
   onSelectConversation: (id: string) => void;
   onNewConversation: () => void;
+  onDeleteConversation: (id: string) => void;
+}
+
+function ConversationActions({ 
+  conversationId, 
+  onDelete,
+  className 
+}: { 
+  conversationId: string; 
+  onDelete: (id: string) => void;
+  className?: string;
+}) {
+  const [showConfirm, setShowConfirm] = useState(false);
+
+  const handleDelete = (e: React.MouseEvent) => {
+    e.stopPropagation(); 
+    if (showConfirm) {
+      onDelete(conversationId);
+      setShowConfirm(false);
+    } else {
+      setShowConfirm(true);
+    }
+  };
+
+  const handleCancel = (e: React.MouseEvent) => {
+    e.stopPropagation();
+    setShowConfirm(false);
+  };
+
+  if (showConfirm) {
+    return (
+      <div className={cn("flex items-center gap-1", className)}>
+        <button
+          onClick={handleDelete}
+          className="px-2 py-1 text-xs bg-red-100 text-red-700 rounded hover:bg-red-200 transition-colors"
+        >
+          Confirmer
+        </button>
+        <button
+          onClick={handleCancel}
+          className="px-2 py-1 text-xs bg-gray-100 text-gray-700 rounded hover:bg-gray-200 transition-colors"
+        >
+          Annuler
+        </button>
+      </div>
+    );
+  }
+
+  return (
+    <button
+      onClick={handleDelete}
+      className={cn(
+        "p-1 rounded hover:bg-red-100 text-slate-400 hover:text-red-600 transition-colors opacity-0 group-hover:opacity-100",
+        className
+      )}
+      title="Supprimer la consultation"
+    >
+      <Trash2 size={14} />
+    </button>
+  );
 }
 
 export function ConversationList({
   conversations,
   currentConversationId,
   onSelectConversation,
-  onNewConversation
+  onNewConversation,
+  onDeleteConversation
 }: ConversationListProps) {
   
   const formatDate = (date: Date) => {
@@ -40,7 +101,6 @@ export function ConversationList({
   return (
     <div className="h-full bg-slate-50 border-r border-slate-200 flex flex-col">
       
-      {/* Header */}
       <div className="p-4 border-b border-slate-200 bg-white">
         <div className="flex items-center justify-between mb-3">
           <h2 className="font-semibold text-slate-900 flex items-center gap-2">
@@ -63,7 +123,6 @@ export function ConversationList({
         </Button>
       </div>
 
-      {/* Liste des conversations */}
       <div className="flex-1 overflow-y-auto">
         {conversations.length === 0 ? (
           <div className="p-4 text-center text-slate-500">
@@ -73,48 +132,59 @@ export function ConversationList({
         ) : (
           <div className="p-2">
             {conversations.map((conversation) => (
-              <button
+              <div
                 key={conversation.id}
-                onClick={() => onSelectConversation(conversation.id)}
                 className={cn(
-                  "w-full p-3 mb-2 text-left rounded-lg transition-colors",
-                  "hover:bg-white hover:shadow-sm border",
+                  "group relative mb-2 rounded-lg transition-colors border",
                   currentConversationId === conversation.id
                     ? "bg-white border-blue-200 shadow-sm"
                     : "bg-transparent border-transparent hover:border-slate-200"
                 )}
               >
-                
-                {/* Titre */}
-                <div className="font-medium text-slate-900 text-sm mb-1 truncate">
-                  {conversation.title}
-                </div>
-                
-                {/* Dernier message */}
-                {conversation.lastMessage && (
-                  <div className="text-xs text-slate-600 mb-2 truncate">
-                    {conversation.lastMessage}
-                  </div>
-                )}
-                
-                {/* Métadonnées */}
-                <div className="flex items-center justify-between text-xs text-slate-500">
-                  <div className="flex items-center gap-1">
-                    <Clock size={10} />
-                    <span>{formatDate(conversation.updatedAt)}</span>
+                <div
+                  className={cn(
+                    "relative w-full p-3 rounded-lg transition-colors cursor-pointer",
+                    "hover:bg-white hover:shadow-sm",
+                    currentConversationId === conversation.id
+                      ? "bg-white"
+                      : "bg-transparent hover:bg-white"
+                  )}
+                  onClick={() => onSelectConversation(conversation.id)}
+                >
+                  
+                  <div className="flex items-start justify-between mb-1">
+                    <div className="font-medium text-slate-900 text-sm truncate pr-2 flex-1">
+                      {conversation.title}
+                    </div>
+                    <ConversationActions
+                      conversationId={conversation.id}
+                      onDelete={onDeleteConversation}
+                    />
                   </div>
                   
-                  <Badge variant="secondary" className="text-xs">
-                    {conversation.messageCount} msg
-                  </Badge>
+                  {conversation.lastMessage && (
+                    <div className="text-xs text-slate-600 mb-2 truncate">
+                      {conversation.lastMessage}
+                    </div>
+                  )}
+                  
+                  <div className="flex items-center justify-between text-xs text-slate-500">
+                    <div className="flex items-center gap-1">
+                      <Clock size={10} />
+                      <span>{formatDate(conversation.updatedAt)}</span>
+                    </div>
+                    
+                    <Badge variant="secondary" className="text-xs">
+                      {conversation.messageCount} msg
+                    </Badge>
+                  </div>
                 </div>
-              </button>
+              </div>
             ))}
           </div>
         )}
       </div>
       
-      {/* Footer avec informations */}
       <div className="p-4 border-t border-slate-200 bg-white">
         <div className="text-xs text-slate-500 text-center">
           <div className="flex items-center justify-center gap-1 mb-1">

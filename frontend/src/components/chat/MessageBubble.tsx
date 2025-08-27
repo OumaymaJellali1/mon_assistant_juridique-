@@ -1,7 +1,7 @@
 // src/components/chat/MessageBubble.tsx
 import React from 'react';
 import { cn } from '@/utils/cn';
-import { User, Scale, Clock } from 'lucide-react';
+import { User, Scale, Clock, ExternalLink, FileText } from 'lucide-react';
 import type { ChatMessage } from '@/types/chat';
 
 interface MessageBubbleProps {
@@ -11,12 +11,61 @@ interface MessageBubbleProps {
 
 export function MessageBubble({ message, showTimestamp = true }: MessageBubbleProps) {
   const isUser = message.role === 'user';
+  { console.log(message, '55555555') }//fasakhha
   
   const formatTime = (date: Date) => {
-    return date.toLocaleTimeString('fr-FR', { 
-      hour: '2-digit', 
-      minute: '2-digit' 
+    return date.toLocaleTimeString('fr-FR', {
+      hour: '2-digit',
+      minute: '2-digit'
     });
+  };
+  
+  const renderSources = (sources: any[]) => {
+    if (!sources || sources.length === 0) return null;
+
+    return (
+      <div className="mt-3 pt-3 border-t border-slate-100">
+        <div className="text-xs font-medium text-slate-600 mb-2 flex items-center gap-1">
+          <FileText size={12} />
+          Sources utilisées :
+        </div>
+        <div className="space-y-1">
+          {sources.map((source, index) => (
+            <div key={index} className="text-xs">
+              {source.url ? (
+                <a
+                  href={source.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center gap-1 text-blue-600 hover:text-blue-800 hover:underline transition-colors"
+                  title={source.title || source.document_name || 'Ouvrir la source'}
+                >
+                  <ExternalLink size={10} />
+                  <span>
+                    {source.title || source.document_name || `Source ${index + 1}`}
+                  </span>
+                </a>
+              ) : (
+                <div className="inline-flex items-center gap-1 text-slate-600">
+                  <FileText size={10} />
+                  <span>
+                    {source.title || source.document_name || source.source || `Document ${index + 1}`}
+                  </span>
+                  {source.page && (
+                    <span className="text-slate-500">- Page {source.page}</span>
+                  )}
+                </div>
+              )}
+              {source.relevance_score && (
+                <span className="ml-2 text-slate-400">
+                  ({Math.round(source.relevance_score * 100)}% pertinence)
+                </span>
+              )}
+            </div>
+          ))}
+        </div>
+      </div>
+    );
   };
 
   return (
@@ -28,46 +77,41 @@ export function MessageBubble({ message, showTimestamp = true }: MessageBubblePr
         "flex max-w-[80%] gap-3",
         isUser ? "flex-row-reverse" : "flex-row"
       )}>
-        
-        {/* Avatar */}
+
         <div className={cn(
           "flex-shrink-0 w-8 h-8 rounded-full flex items-center justify-center text-white text-sm font-medium",
-          isUser 
-            ? "bg-blue-600" 
+          isUser
+            ? "bg-blue-600"
             : "bg-slate-700"
         )}>
           {isUser ? <User size={16} /> : <Scale size={16} />}
         </div>
 
-        {/* Contenu du message */}
         <div className="flex flex-col">
-          
-          {/* Bubble du message */}
+
           <div className={cn(
             "px-4 py-3 rounded-lg shadow-sm border",
-            isUser 
-              ? "bg-blue-600 text-white border-blue-600" 
+            isUser
+              ? "bg-blue-600 text-white border-blue-600"
               : "bg-white text-slate-900 border-slate-200"
           )}>
-            
-            {/* Role indicator pour l'assistant */}
+
             {!isUser && (
               <div className="flex items-center gap-2 mb-2 text-xs text-slate-500 font-medium">
                 <Scale size={12} />
                 <span>Assistant Juridique</span>
               </div>
             )}
-            
-            {/* Contenu */}
+
             <div className={cn(
               "whitespace-pre-wrap break-words",
               isUser ? "text-white" : "text-slate-900"
             )}>
               {message.content}
             </div>
-          </div>
 
-          {/* Timestamp */}
+            {!isUser && message.sources && renderSources(message.sources)}
+          </div>
           {showTimestamp && (
             <div className={cn(
               "flex items-center gap-1 mt-1 text-xs text-slate-500",

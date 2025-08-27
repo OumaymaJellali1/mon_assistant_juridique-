@@ -9,6 +9,7 @@ interface SidebarProps {
   currentConversationId?: string;
   onSelectConversation: (id: string) => void;
   onNewConversation: () => void;
+  onDeleteConversation: (id: string) => void;
   isOpen: boolean;
 }
 
@@ -17,6 +18,7 @@ export function Sidebar({
   currentConversationId,
   onSelectConversation,
   onNewConversation,
+  onDeleteConversation,
   isOpen
 }: SidebarProps) {
   return (
@@ -29,6 +31,7 @@ export function Sidebar({
         currentConversationId={currentConversationId}
         onSelectConversation={onSelectConversation}
         onNewConversation={onNewConversation}
+        onDeleteConversation={onDeleteConversation}
       />
     </aside>
   );
