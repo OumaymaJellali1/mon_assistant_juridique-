@@ -1,4 +1,3 @@
-// src/components/chat/ConversationList.tsx
 import React, { useState } from 'react';
 import { Button } from '@/components/ui/Button';
 import { Badge } from '@/components/ui/Badge';
@@ -189,9 +188,9 @@ export function ConversationList({
         <div className="text-xs text-slate-500 text-center">
           <div className="flex items-center justify-center gap-1 mb-1">
             <Scale size={12} />
-            <span>SmartBanker Legal AI</span>
+            <span>SmartBanker</span>
           </div>
-          <div>Assistant juridique intelligent</div>
+          <div>Assistant bancaire intelligent</div>
         </div>
       </div>
     </div>

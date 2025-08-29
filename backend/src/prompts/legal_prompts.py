@@ -1,4 +1,3 @@
-# legal_prompts_langchain.py
 from langchain.prompts import PromptTemplate
 
 def get_title_prompt(text_chunk: str) -> str:
@@ -72,7 +71,7 @@ def get_synthesis_prompt(question: str, context: str, sources: list = None) -> s
         for i, source in enumerate(sources, 1):
             sources_info += f"{i}. {source.get('source', 'Inconnu')} (Page {source.get('page', 'N/A')}) - Qualité: {source.get('quality', 0):.2f}\n"
     
-    return f"""Expert legal assistant.
+    return f"""Intelligent banking assistant.
 
 CRITICAL INSTRUCTION - READ FIRST:
 DETECT the user's query language and respond in EXACTLY that same language.
@@ -93,10 +92,10 @@ MESSAGE TYPES:
 • Other → Redirect to legal topics (SAME LANGUAGE AS MESSAGE)
 
 LEGAL RESPONSE STRUCTURE:
-1. **Main Response** (no inline citations)
-2. **Important Clarifications**
-3. **Special Cases** (if applicable)
-**Conclusion:** [Summary + limitations]
+1. Main Response (always included, no inline citations)
+2. Important Clarifications (include only if the main response requires further explanation)
+3. Special Cases (include only if relevant)
+Conclusion: [Summary + limitations]
 **Sources:** [Document.pdf, Page XX]
 
 RULES:

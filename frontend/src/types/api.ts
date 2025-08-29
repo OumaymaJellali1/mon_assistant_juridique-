@@ -1,4 +1,3 @@
-// src/types/api.ts
 import type { Source } from './chat';
 
 export interface ApiChatRequest {

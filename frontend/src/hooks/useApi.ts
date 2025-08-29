@@ -1,4 +1,3 @@
-// src/hooks/useApi.ts
 import { useState, useEffect } from 'react';
 import { ChatService } from '@/services/chatService';
 
@@ -24,7 +23,7 @@ export function useApiHealth() {
   useEffect(() => {
     checkHealth();
     
-    const interval = setInterval(checkHealth, 30000);
+    const interval = setInterval(checkHealth, 300000);
     
     return () => clearInterval(interval);
   }, []);

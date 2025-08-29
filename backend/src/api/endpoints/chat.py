@@ -1,12 +1,10 @@
 from fastapi import APIRouter, HTTPException, BackgroundTasks
-from typing import Dict, List, Optional
+from typing import Dict
 from datetime import datetime
 import logging
-
-from api.models import ChatRequest, ChatResponse, ChatMessage, ErrorResponse
+from api.models import ChatRequest, ChatResponse
 from services.chat_bridge import chat_bridge
 
-# Configuration du logging
 logger = logging.getLogger(__name__)
 
 router = APIRouter()
@@ -19,23 +17,20 @@ async def send_message(request: ChatRequest, background_tasks: BackgroundTasks):
     try:
         logger.info(f"Nouveau message reçu: {request.message[:50]}...")
         
-        # Validation basique
         if not request.message or len(request.message.strip()) == 0:
             raise HTTPException(
                 status_code=400, 
                 detail="Le message ne peut pas être vide"
             )
         
-        if len(request.message) > 5000:  # Limite raisonnable
+        if len(request.message) > 5000: 
             raise HTTPException(
                 status_code=400,
                 detail="Message trop long (maximum 5000 caractères)"
             )
         
-        # Traitement du message via le bridge
         response = await chat_bridge.process_chat_message(request)
         
-        # Log en arrière-plan pour les métriques
         background_tasks.add_task(
             _log_interaction, 
             request.message, 
@@ -46,7 +41,6 @@ async def send_message(request: ChatRequest, background_tasks: BackgroundTasks):
         return response
         
     except HTTPException:
-        # Re-lancer les exceptions HTTP
         raise
         
     except Exception as e:
@@ -172,7 +166,6 @@ async def test_agent() -> Dict:
             "timestamp": datetime.now().isoformat()
         }
 
-# Fonction utilitaire pour logging en arrière-plan
 def _log_interaction(user_message: str, bot_response: str, conversation_id: str):
     """Log les interactions pour analyse future"""
     try:
@@ -183,3 +176,6 @@ def _log_interaction(user_message: str, bot_response: str, conversation_id: str)
         )
     except Exception as e:
         logger.error(f"Erreur lors du logging: {str(e)}")
+
+
+

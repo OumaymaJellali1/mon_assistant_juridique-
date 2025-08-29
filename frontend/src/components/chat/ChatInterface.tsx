@@ -1,4 +1,3 @@
-// src/components/chat/ChatInterface.tsx
 import React, { useEffect, useRef } from 'react';
 import { MessageBubble } from './MessageBubble';
 import { InputArea } from './InputArea';
@@ -47,7 +46,7 @@ export function ChatInterface({
               <Scale size={20} className="text-white" />
             </div>
             <div>
-              <h1 className="font-semibold text-slate-900">Assistant Juridique</h1>
+              <h1 className="font-semibold text-slate-900">Assistant Bancaire</h1>
               <p className="text-sm text-slate-600">Nouvelle consultation</p>
 
             </div>
@@ -69,21 +68,19 @@ export function ChatInterface({
             </div>
             
             <h3 className="text-lg font-semibold text-slate-900 mb-2">
-              Bienvenue dans votre consultation juridique
+              Bienvenue dans votre consultation bancaire
             </h3>
             
             <p className="text-slate-600 max-w-md mb-6">
-              Je suis votre assistant juridique intelligent. Posez-moi vos questions 
-              sur le droit tunisien et je vous fournirai des informations précises 
-              basées sur la législation en vigueur.
+             Je suis SmartBanker, votre agent conversationnel intelligent. Posez-moi vos questions sur les services bancaires ou financiers et je vous fournirai une assistance précise en temps réel. 
             </p>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-3 w-full max-w-2xl">
               {[
-                "Comment la législation tunisienne protège-t-elle les données bancaires personnelles ? ",
+                "Quelles responsabilités la banque a-t-elle en cas de fraude sur un compte ? ",
                 "Quels droits a le client face à sa banque ?",
                 "Quelles règles encadrent le crédit bancaire ?",
-                "Droits du travailleur en cas de Quels recours pour un client en cas de litige bancaire ?"
+                "Quelle est la définition juridique d’une banque selon le Code de commerce tunisien ?"
               ].map((example, index) => (
                 <button
                   key={index}
@@ -133,7 +130,7 @@ export function ChatInterface({
       <InputArea
        onSendMessage={onSendMessage}
        isLoading={isLoading}
-       placeholder="Écrivez votre question juridique ici..."
+       placeholder="Écrivez votre question bancaire ici..."
        />
 
     </div>

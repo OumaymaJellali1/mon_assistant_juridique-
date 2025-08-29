@@ -50,7 +50,6 @@
   }
 }
 
-/* Styles pour le texte juridique */
 .legal-text {
   @apply text-slate-700 leading-relaxed;
 }

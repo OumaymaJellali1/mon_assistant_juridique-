@@ -1,4 +1,3 @@
-// src/components/chat/InputArea.tsx
 import React, { useState, useRef, useEffect } from 'react';
 import { Button } from '@/components/ui/Button';
 import { Send } from 'lucide-react';
@@ -87,7 +86,7 @@ export function InputArea({
       </form>
       
       <div className="mt-2 text-xs text-slate-500 text-center">
-        ⚖️ Cette consultation est à titre informatif. Pour des conseils juridiques personnalisés, consultez un avocat.
+        ⚖️ Cette consultation est à titre informatif. Pour des conseils juridiques personnalisés, consultez un expert.
       </div>
     </div>
   );

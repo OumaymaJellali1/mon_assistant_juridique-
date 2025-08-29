@@ -1,4 +1,3 @@
-// src/types/chat.ts
 export interface Source {
   title?: string;
   document_name?: string;

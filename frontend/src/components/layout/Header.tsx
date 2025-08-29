@@ -1,4 +1,3 @@
-// src/components/layout/Header.tsx
 import React from 'react';
 import { Badge } from '@/components/ui/Badge';
 import { Scale, Shield, Zap } from 'lucide-react';
@@ -21,8 +20,8 @@ export function Header({ isApiHealthy, conversationCount }: HeaderProps) {
             </div>
             
             <div>
-              <h1 className="text-xl font-bold text-slate-900">SmartBanker Legal</h1>
-              <p className="text-sm text-slate-600">Assistant Juridique Intelligent</p>
+              <h1 className="text-xl font-bold text-slate-900">SmartBanker</h1>
+              <p className="text-sm text-slate-600">Assistant Bancaire Intelligent</p>
             </div>
           </div>
 

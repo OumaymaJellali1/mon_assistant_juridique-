@@ -1,4 +1,3 @@
-// src/components/chat/MessageBubble.tsx
 import React from 'react';
 import { cn } from '@/utils/cn';
 import { User, Scale, Clock, ExternalLink, FileText } from 'lucide-react';
@@ -11,7 +10,6 @@ interface MessageBubbleProps {
 
 export function MessageBubble({ message, showTimestamp = true }: MessageBubbleProps) {
   const isUser = message.role === 'user';
-  { console.log(message, '55555555') }//fasakhha
   
   const formatTime = (date: Date) => {
     return date.toLocaleTimeString('fr-FR', {
@@ -99,7 +97,7 @@ export function MessageBubble({ message, showTimestamp = true }: MessageBubblePr
             {!isUser && (
               <div className="flex items-center gap-2 mb-2 text-xs text-slate-500 font-medium">
                 <Scale size={12} />
-                <span>Assistant Juridique</span>
+                <span>Assistant Bancaire</span>
               </div>
             )}
 

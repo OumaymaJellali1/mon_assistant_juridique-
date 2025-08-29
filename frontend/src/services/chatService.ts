@@ -1,4 +1,3 @@
-// src/services/chatService.ts - Version corrigée
 import { v4 as uuidv4 } from 'uuid';
 import { ApiService } from './api';
 import type { ChatMessage, ChatState, Source } from '@/types/chat';

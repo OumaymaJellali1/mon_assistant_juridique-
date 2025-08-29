@@ -1,4 +1,3 @@
-// src/app/page.tsx
 'use client';
 
 import React, { useState } from 'react';
@@ -14,7 +13,6 @@ import { Menu, X, AlertTriangle } from 'lucide-react';
 export default function HomePage() {
   const [sidebarOpen, setSidebarOpen] = useState(false);
   
-  // Hooks personnalisés
   const {
     messages,
     conversations,
@@ -24,26 +22,23 @@ export default function HomePage() {
     sendMessage,
     startNewConversation,
     loadConversation,
-    deleteConversation, // <-- AJOUTÉ
+    deleteConversation, 
     clearError
   } = useChat();
 
   const { isHealthy: isApiHealthy, isChecking } = useApiHealth();
 
-  // Gestion de la sidebar mobile
   const toggleSidebar = () => setSidebarOpen(!sidebarOpen);
   const closeSidebar = () => setSidebarOpen(false);
 
   return (
     <div className="min-h-screen bg-slate-50 flex flex-col">
       
-      {/* Header */}
       <Header 
         isApiHealthy={isApiHealthy}
         conversationCount={conversations.length}
       />
 
-      {/* Alerte si API indisponible */}
       {!isChecking && !isApiHealthy && (
         <div className="bg-yellow-50 border-b border-yellow-200 p-3">
           <div className="max-w-7xl mx-auto flex items-center gap-3">
@@ -56,10 +51,8 @@ export default function HomePage() {
         </div>
       )}
 
-      {/* Contenu principal */}
       <div className="flex-1 flex overflow-hidden">
         
-        {/* Bouton mobile pour ouvrir sidebar */}
         <Button
           variant="ghost"
           size="sm"
@@ -69,7 +62,6 @@ export default function HomePage() {
           {sidebarOpen ? <X size={18} /> : <Menu size={18} />}
         </Button>
 
-        {/* Overlay mobile */}
         {sidebarOpen && (
           <div 
             className="fixed inset-0 bg-black bg-opacity-25 z-40 lg:hidden"
@@ -77,7 +69,6 @@ export default function HomePage() {
           />
         )}
 
-        {/* Sidebar */}
         <Sidebar
           conversations={conversations}
           currentConversationId={currentConversationId}
@@ -96,7 +87,6 @@ export default function HomePage() {
           isOpen={sidebarOpen}
         />
 
-        {/* Zone de chat principale */}
         <main className="flex-1 flex flex-col min-w-0">
           <ChatInterface
             messages={messages}
@@ -109,7 +99,6 @@ export default function HomePage() {
         </main>
       </div>
 
-      {/* Footer */}
       <Footer />
     </div>
   );

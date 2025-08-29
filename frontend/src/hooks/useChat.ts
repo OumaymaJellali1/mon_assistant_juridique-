@@ -1,4 +1,3 @@
-// src/hooks/useChat.ts - Version mise à jour avec gestion des sources
 import { useState, useCallback, useEffect } from 'react';
 import { v4 as uuidv4 } from 'uuid';
 import { ChatService } from '@/services/chatService';

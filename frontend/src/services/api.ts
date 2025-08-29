@@ -1,4 +1,3 @@
-// src/services/api.ts
 import type { ApiChatRequest, ApiChatResponse, ApiHealthCheck } from '@/types/api';
 
 const API_BASE_URL = '/api/backend';

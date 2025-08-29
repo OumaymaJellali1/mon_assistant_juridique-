@@ -9,14 +9,14 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        primary: "#1D4ED8",   // Bleu professionnel
-        secondary: "#374151", // Gris foncé
-        accent: "#10B981",    // Vert (highlights)
-        background: "#F9FAFB", // Fond clair
-        foreground: "#111827", // Texte sombre
+        primary: "#1D4ED8",   
+        secondary: "#374151", 
+        accent: "#10B981",    
+        background: "#F9FAFB", 
+        foreground: "#111827", 
       },
       fontFamily: {
-        sans: ["Inter", "sans-serif"], // Police moderne
+        sans: ["Inter", "sans-serif"], 
         serif: ["Merriweather", "serif"],
       },
       boxShadow: {
@@ -30,9 +30,9 @@ const config: Config = {
     },
   },
   plugins: [
-    require("@tailwindcss/forms"), // Pour les inputs et formulaires
-    require("@tailwindcss/typography"), // Pour un beau rendu des textes
-    require("@tailwindcss/aspect-ratio"), // Pour gérer les images/vidéos
+    require("@tailwindcss/forms"),
+    require("@tailwindcss/typography"), 
+    require("@tailwindcss/aspect-ratio"), 
   ],
 };
 

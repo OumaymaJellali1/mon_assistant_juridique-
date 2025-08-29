@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Script de lancement pour le serveur FastAPI
 Utilisation: python run_server.py

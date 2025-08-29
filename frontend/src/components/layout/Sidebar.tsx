@@ -1,4 +1,3 @@
-// src/components/layout/Sidebar.tsx
 import React from 'react';
 import { ConversationList } from '@/components/chat/ConversationList';
 import type { Conversation } from '@/types/chat';
